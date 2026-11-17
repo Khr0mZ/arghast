@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-023](../capitulos/41.md), [41-028](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La operación junto a la piedra
 

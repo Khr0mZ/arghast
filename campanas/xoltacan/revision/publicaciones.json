@@ -1,0 +1,225 @@
+{
+  "46": {
+    "despliegue": {
+      "commit": "042d031108f693482e8193538b94ca947021ecb4",
+      "pages_run_id": 42505182917,
+      "pages_run_url": "https://github.com/Khr0mZ/arghast/actions/runs/42505182917",
+      "editor": {
+        "project_id": "appgprj_6ad0ce9643308191889a9030e4612225",
+        "version_id": "appgprj_6ad0ce9643308191889a9030e4612225~appgver_a4d957bd15408191815a1f6eae4c2d27",
+        "version_number": 9,
+        "source_commit": "64e2c4fc7fbc68e62ac9ea300cc754a31b0dfc0b",
+        "deployment_id": "appgdep_6af0b0dd6bc88191936d80db64aead7f",
+        "status": "succeeded",
+        "url": "https://arghast-editor.ivan-osorio440384.chatgpt.site"
+      }
+    },
+    "verificacion": {
+      "resultado": "OK",
+      "comprobaciones": 10,
+      "recursos": [
+        "xoltacan/index.html",
+        "xoltacan/transcripciones/046.js",
+        "xoltacan/rol_escrito/escenas/x-1529957197948260414.js",
+        "xoltacan/rol_escrito/adjuntos/1465410267427901470.jpg",
+        "xoltacan: contenido compartido reconciliado",
+        "kuroto/index.html",
+        "kuroto/transcripciones/001.js",
+        "kuroto/rol_escrito/escenas/k-1362072544009523360.js",
+        "kuroto/rol_escrito/adjuntos/1362071807393272009.jpg",
+        "kuroto: contenido compartido reconciliado"
+      ],
+      "editor": {
+        "ok": true
+      }
+    }
+  },
+  "47": {
+    "despliegue": {
+      "commit": "4f3b038d512fb736319b72fa76cb1933b6b34b4b",
+      "editor": {
+        "project_id": "appgprj_6ad0ce9643308191889a9030e4612225",
+        "version_id": "appgprj_6ad0ce9643308191889a9030e4612225~appgver_aa2c7d71756081918f4233648b97460e",
+        "version_number": 10,
+        "source_commit": "b3a717cbd5190a35d8ff96149e576ee272511551",
+        "deployment_id": "appgdep_6af309157d3881918167eadd3ded4547",
+        "status": "succeeded",
+        "url": "https://arghast-editor.ivan-osorio440384.chatgpt.site"
+      },
+      "pages_run_id": 42813290438,
+      "pages_run_url": "https://github.com/Khr0mZ/arghast/actions/runs/42813290438",
+      "pages_status": "success",
+      "url": "https://khr0mz.github.io/arghast/",
+      "verificacion_produccion": {
+        "recursos": 10,
+        "navegador": 10,
+        "editor_revision": 1794312825284731,
+        "historial_versiones": 15,
+        "versiones_previas_conservadas": true,
+        "kuroto_sin_cambios": true
+      }
+    },
+    "verificacion": {
+      "resultado": "OK",
+      "comprobaciones": 10,
+      "recursos": [
+        "xoltacan/index.html",
+        "xoltacan/transcripciones/047.js",
+        "xoltacan/rol_escrito/escenas/x-1530316770995339374.js",
+        "xoltacan/rol_escrito/adjuntos/1465410267427901470.jpg",
+        "xoltacan: documento y todas sus revisiones conservados",
+        "kuroto/index.html",
+        "kuroto/transcripciones/001.js",
+        "kuroto/rol_escrito/escenas/k-1362072544009523360.js",
+        "kuroto/rol_escrito/adjuntos/1362071807393272009.jpg",
+        "kuroto: documento y todas sus revisiones conservados"
+      ],
+      "editor": {
+        "ok": true
+      }
+    }
+  },
+  "48": {
+    "despliegue": {
+      "commit": {
+        "commit": "09110cd3cc9f5214c44f8bb65a16535052f7907d",
+        "contenido_aprobado": "6712d992b4fd2654dea9fd38450a0cccee5a147a",
+        "ajuste": "Prueba de integridad independiente del orden del directorio"
+      },
+      "resultado": {
+        "commit": "09110cd3cc9f5214c44f8bb65a16535052f7907d",
+        "base": {
+          "xoltacan": {
+            "capitulos": 48,
+            "hechos": 1596,
+            "fichas": 218
+          },
+          "kuroto": {
+            "capitulos": 181,
+            "hechos": 2092,
+            "fichas": 1257
+          }
+        },
+        "revision": 1794752036249902,
+        "versiones": 16,
+        "historial_conservado": true,
+        "kuroto_sin_cambios": true
+      },
+      "despliegue-editor": {
+        "commit": "e5db64a679274dd574f782e2776511eff38ad9d8",
+        "version": 11,
+        "version_id": "appgprj_6ad0ce9643308191889a9030e4612225~appgver_2b9b195308008191834b38f546a5e726",
+        "deployment_id": "appgdep_6af9bc1799c48191af7fe9da28f63ecb",
+        "status": "succeeded",
+        "url": "https://arghast-editor.ivan-osorio440384.chatgpt.site"
+      },
+      "pages-estado": [
+        {
+          "id": 43722937821,
+          "status": "completed",
+          "conclusion": "success",
+          "head_sha": "09110cd3cc9f5214c44f8bb65a16535052f7907d",
+          "html_url": "https://github.com/Khr0mZ/arghast/actions/runs/43722937821"
+        }
+      ],
+      "reconciliacion": {
+        "correcciones_remotas_conservadas": true,
+        "historias_anteriores_conservadas": 580,
+        "evidencias_anteriores_conservadas": 1467,
+        "alias_anteriores_conservados": true,
+        "capitulos": 48,
+        "evidencias": 1596,
+        "fichas": 218,
+        "kuroto_sin_cambios": true
+      },
+      "verificacion-final": {
+        "resultado": "OK",
+        "comprobaciones": 10,
+        "recursos": [
+          "xoltacan/index.html",
+          "xoltacan/transcripciones/048.js",
+          "xoltacan/rol_escrito/escenas/x-1532155716633231392.js",
+          "xoltacan/rol_escrito/adjuntos/1465410267427901470.jpg",
+          "xoltacan: documento e historial conservados",
+          "kuroto/index.html",
+          "kuroto/transcripciones/001.js",
+          "kuroto/rol_escrito/escenas/k-1362072544009523360.js",
+          "kuroto/rol_escrito/adjuntos/1362071807393272009.jpg",
+          "kuroto: documento e historial conservados"
+        ],
+        "editor": {
+          "ok": true
+        }
+      },
+      "navegador": {
+        "resultado": "OK",
+        "comprobaciones": 10,
+        "pruebas": [
+          "Capítulo 48 publicado con sus 23 etapas",
+          "Fechas de Twitch y YouTube separadas",
+          "Las 129 evidencias y los 48 capítulos están disponibles",
+          "Nueve escenas y 322 mensajes conservan su lugar entre el 47 y el 48",
+          "La edición sigue desactivada al entrar",
+          "La cita final carga la transcripción y el vídeo del 48",
+          "El seguimiento conserva la nueva atribución histórica",
+          "La recogida de Leo enlaza el rol posterior",
+          "El desenlace escolar conserva su texto completo",
+          "Kuroto conserva sus 181 sesiones"
+        ],
+        "url": "https://khr0mz.github.io/arghast/?version=09110cd3cc9f5214c44f8bb65a16535052f7907d&campana=xoltacan"
+      },
+      "limpieza": {
+        "aplicado": true,
+        "carpetas_retiradas": [
+          ".pruebas/rol_previa",
+          ".pruebas/cap42_rol",
+          ".pruebas/emisiones",
+          ".pruebas/rol-publicacion-20261102",
+          ".pruebas/rol-publicacion-20261103",
+          ".pruebas/capitulo43-publicacion-20261027",
+          ".pruebas/publicacion_rol",
+          ".pruebas/rol_interfaz",
+          ".pruebas/interfaz-pages",
+          ".pruebas/capitulo42-publicacion-20261025",
+          ".pruebas/capitulo44-publicacion-20261102",
+          ".pruebas/capitulo45-publicacion-20261103",
+          ".pruebas/guardado-online-publicacion-20261023",
+          ".pruebas/rol-publicado",
+          ".local/publicacion-guardado-20261023"
+        ],
+        "bytes_retirados": 2039738096,
+        "bytes_respaldo": 196199737,
+        "bytes_liberados_netos": 1843880742,
+        "copias_identicas_verificadas": 1569,
+        "archivos_unicos_archivados": 857,
+        "respaldo": ".local/limpieza/20261115-cap48/archivos-unicos.tar.gz",
+        "sha256_respaldo": "047bc91db7dc68ae334ac11e478ccf3746113fc99925cc016ffbd218df03f509",
+        "fecha": "2026-11-15",
+        "originales_conservados": 2670,
+        "bytes_cache_retirados": 342383,
+        "fuentes_y_rol_conservados": true,
+        "revision_git_conservada": "f1e0f969a5bc1982fea426b27d32675bf6837903",
+        "criterio": "Retirar pruebas antiguas y un worktree limpio cuya revisión está en el historial. Verificar duplicados contra las campañas y archivar los archivos únicos antes de borrar las copias. Conservar las fuentes y los respaldos editoriales."
+      }
+    },
+    "verificacion": {
+      "resultado": "OK",
+      "comprobaciones": 10,
+      "recursos": [
+        "xoltacan/index.html",
+        "xoltacan/transcripciones/048.js",
+        "xoltacan/rol_escrito/escenas/x-1532155716633231392.js",
+        "xoltacan/rol_escrito/adjuntos/1465410267427901470.jpg",
+        "xoltacan: documento e historial conservados",
+        "kuroto/index.html",
+        "kuroto/transcripciones/001.js",
+        "kuroto/rol_escrito/escenas/k-1362072544009523360.js",
+        "kuroto/rol_escrito/adjuntos/1362071807393272009.jpg",
+        "kuroto: documento e historial conservados"
+      ],
+      "editor": {
+        "ok": true
+      }
+    }
+  }
+}

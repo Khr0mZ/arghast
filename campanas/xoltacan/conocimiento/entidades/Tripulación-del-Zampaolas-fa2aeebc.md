@@ -8,11 +8,11 @@ Colectivo de personas, distinto de la embarcación aunque comparta nombre.
 
 Etiquetas agrupadas: Zampaolas (tripulación).
 
-Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitulos/06.md), [42-005](../capitulos/42.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-014](../capitulos/46.md), [46-050](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [47-079](../capitulos/47.md).
+Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitulos/06.md), [42-005](../capitulos/42.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-014](../capitulos/46.md), [46-050](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [47-079](../capitulos/47.md), [49-009](../capitulos/49.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Reunirse alrededor de un barco averiado
 
@@ -61,6 +61,12 @@ Fuentes: [46-050 · Zoltan sostiene a Citlali y Eleanor le proporciona una montu
 Patata reconoce a los piratas de Shiaru en la taberna de Iktan. Le cuentan que los echaron del pueblo y que tuvieron que desplazarse hasta allí. Le ofrecen cerveza y comentan que están agotando el suministro de la encargada, sin describir el nuevo gobierno o un regreso organizado.
 
 Fuentes: [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840.
+
+### La mesa de los piratas en Iktan
+
+Cuando Kilzer entra en la taberna, encuentra a parte de los piratas de Ione reunidos en una mesa. La bebida ha dejado a algunos borrachos o inconscientes. No participan automáticamente en las decisiones que Molly toma con los otros expedicionarios.
+
+Fuentes: [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000.
 
 ## Registros y evidencias
 
@@ -255,4 +261,12 @@ Tipo: `hecho_confirmado`.
 Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al preguntar por la capitana, ellos responden que los echaron del pueblo y tuvieron que venir hasta allí. Le dan cerveza, que prueba y aprecia, y comentan que están agotando las existencias de la encargada.
 
 El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
+
+## [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000
+
+Tipo: `hecho_confirmado`.
+
+En la taberna están Eleanor, una mujer de armadura y cabellera rojiza, y su escudera kender Erandy; Kilzer no las conoce todavía. Sí reconoce a Patata en la barra y ve a los piratas de la tripulación de Ione en otra mesa, parte de ellos borrachos o inconscientes.
+
+No se enumeran todos los piratas ni se confirma que Ione esté sentada en esa mesa. La inconsciencia se presenta en el contexto de la bebida.
 

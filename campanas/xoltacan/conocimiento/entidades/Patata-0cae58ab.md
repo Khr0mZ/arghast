@@ -8,11 +8,11 @@ Patatamán y Patata designan al mismo agricultor; Patata Hammer es su arma.
 
 Etiquetas agrupadas: Patata / Patatamán (grafía provisional).
 
-Base para revisar equivalencia: [01-002](../capitulos/01.md), [16-001](../capitulos/16.md), [47-001](../capitulos/47.md), [47-015](../capitulos/47.md), [47-017](../capitulos/47.md), [47-016](../capitulos/47.md), [47-018](../capitulos/47.md), [47-021](../capitulos/47.md), [47-030](../capitulos/47.md), [47-031](../capitulos/47.md), [47-032](../capitulos/47.md), [47-033](../capitulos/47.md), [47-037](../capitulos/47.md), [47-045](../capitulos/47.md), [47-047](../capitulos/47.md), [47-054](../capitulos/47.md), [47-057](../capitulos/47.md), [47-058](../capitulos/47.md), [47-059](../capitulos/47.md), [47-062](../capitulos/47.md), [47-063](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-090](../capitulos/47.md).
+Base para revisar equivalencia: [01-002](../capitulos/01.md), [16-001](../capitulos/16.md), [47-001](../capitulos/47.md), [47-015](../capitulos/47.md), [47-017](../capitulos/47.md), [47-016](../capitulos/47.md), [47-018](../capitulos/47.md), [47-021](../capitulos/47.md), [47-030](../capitulos/47.md), [47-031](../capitulos/47.md), [47-032](../capitulos/47.md), [47-033](../capitulos/47.md), [47-037](../capitulos/47.md), [47-045](../capitulos/47.md), [47-047](../capitulos/47.md), [47-054](../capitulos/47.md), [47-057](../capitulos/47.md), [47-058](../capitulos/47.md), [47-059](../capitulos/47.md), [47-062](../capitulos/47.md), [47-063](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-090](../capitulos/47.md), [49-003](../capitulos/49.md), [49-005](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-015](../capitulos/49.md), [49-018](../capitulos/49.md), [49-019](../capitulos/49.md), [49-020](../capitulos/49.md), [49-023](../capitulos/49.md), [49-025](../capitulos/49.md), [49-026](../capitulos/49.md), [49-031](../capitulos/49.md), [49-036](../capitulos/49.md), [49-043](../capitulos/49.md), [49-047](../capitulos/49.md), [49-050](../capitulos/49.md), [49-057](../capitulos/49.md), [49-063](../capitulos/49.md), [49-065](../capitulos/49.md), [49-078](../capitulos/49.md), [49-079](../capitulos/49.md), [49-084](../capitulos/49.md), [49-085](../capitulos/49.md), [49-104](../capitulos/49.md), [49-089](../capitulos/49.md), [49-090](../capitulos/49.md), [49-096](../capitulos/49.md), [49-100](../capitulos/49.md), [49-105](../capitulos/49.md), [49-106](../capitulos/49.md), [49-108](../capitulos/49.md), [49-110](../capitulos/49.md), [49-111](../capitulos/49.md), [49-113](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Cultivar una nueva vida
 
@@ -61,6 +61,36 @@ Fuentes: [47-059 · Mictlan busca a los compañeros y no encuentra a Tesara](../
 Patata queda invisible durante la curación del felino por un efecto temporal adjudicado a una carta y luego reaparece. Las raíces lo atrapan mientras el dragón exige a los elfos. Sigue a Tesara hasta Iktan, reconoce a los piratas desplazados desde Shiaru y prueba una cerveza que aprecia. Permanece en la taberna durante la visita a Walulu y corteja a Angelique, que termina describiéndole a Zoltan y promete presentárselo.
 
 Fuentes: [47-063 · Patata desaparece durante la curación y vuelve a ser visible](../capitulos/47.md) · 01:34:05.719 · [47-068 · Las raíces inmovilizan al grupo](../capitulos/47.md) · 01:44:52.920 · [47-069 · El dragón se muestra y exige a los elfos](../capitulos/47.md) · 01:46:39.840 · [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:57:54.960 · [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
+
+### Una amistad entre las pérdidas de Shiaru
+
+Recuerda al dragón que exigía llevar a los elfos al bosque y declara que no quiere verlos morir. Se reencuentra con Kilzer en la taberna y confirma que también su casa y su granja fueron destruidas. Le invita a cerveza e intenta atraerlo al trabajo de Molly, presentando la defensa de Iktan como protección del refugio de ambos. Antes de salir se despide afectuosamente de Angel y promete traerle algo bonito.
+
+Fuentes: [49-003 · Patata recuerda el encargo del dragón](../capitulos/49.md) · 00:01:40.079 · [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839 · [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639 · [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200 · [49-018 · Erandy y Kilzer se reparten las trampas](../capitulos/49.md) · 00:24:51.200 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640.
+
+### Del mapa a la puerta
+
+Cuando Molly se desorienta, Patata usa el cielo y el mapa para corregir el camino y pasa a guiar al grupo. Una fruta le da piel pétrea y resistencia a golpes, cortes y perforaciones. Protege a Kilzer con un conjuro de contacto y ayuda a Eleanor a mover la pesada puerta de piedra. Al avanzar identifica la disposición del veneno y las vasijas del centro del templo.
+
+Fuentes: [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559 · [49-023 · Patata obtiene piel de piedra](../capitulos/49.md) · 00:32:01.519 · [49-025 · La pirámide yuan-ti está cubierta de raíces](../capitulos/49.md) · 00:33:17.480 · [49-026 · Patata protege a Kilzer antes de avanzar](../capitulos/49.md) · 00:34:27.200 · [49-031 · Eleanor y Patata abren paso](../capitulos/49.md) · 00:40:41.079 · [49-036 · El centro reúne veneno y vasijas con cenizas](../capitulos/49.md) · 00:45:39.880.
+
+### Mantener en pie a la paladina
+
+Patata recibe un rayo crítico y alterna sus ataques con la ayuda a Eleanor. Cuando ella cae y apenas recupera un punto de vida, utiliza Preservar vida y le devuelve treinta puntos dentro del límite de esa facultad. Se coloca para cubrirla y, al no disponer ya de Canalizar divinidad, ayuda a los compañeros a golpear. Recuperada la voz después de Silencio, despliega espíritus guardianes y termina la lucha con un último martillazo.
+
+Fuentes: [49-043 · Patata ataca y dirige curación hacia la paladina](../capitulos/49.md) · 00:55:15.880 · [49-047 · Patata recibe un rayo crítico durante el cerco](../capitulos/49.md) · 01:03:21.400 · [49-050 · Patata preserva la vida de Eleanor y se coloca para cubrirla](../capitulos/49.md) · 01:07:20.240 · [49-057 · Patata agota Canalizar divinidad y recurre a ayudar y golpear](../capitulos/49.md) · 01:18:34.440 · [49-063 · Patata despliega espíritus guardianes cuando vuelve la voz](../capitulos/49.md) · 01:25:39.040 · [49-065 · Patata da el último martillazo y termina esta lucha](../capitulos/49.md) · 01:29:02.080.
+
+### Una búsqueda en los cuerpos, otra en los papeles
+
+Patata se acerca al cadáver que los demás prefieren no tocar y comprueba que le faltan órganos y ojos. El trabajo parece una búsqueda en su interior, sin revelar qué se pretendía encontrar. Pregunta por el ojo de Molly y escucha su recuerdo del templo visitado con Bonny. Más arriba salva información de un altar: los papeles se deshacen al tocarlos, pero logra recomponerlos y conserva las hojas, todavía frágiles.
+
+Fuentes: [49-078 · Patata encuentra un cadáver abierto en busca de algo](../capitulos/49.md) · 01:46:24.320 · [49-079 · Molly recuerda el ojo encontrado con Bonny](../capitulos/49.md) · 01:48:18.480 · [49-084 · Papeles de más de dos siglos se deshacen al tocarlos](../capitulos/49.md) · 01:54:33.280 · [49-085 · Patata reconstruye los papeles del altar](../capitulos/49.md) · 01:55:33.880 · [49-104 · Patata conserva los papeles, todavía frágiles](../capitulos/49.md) · 02:22:17.600.
+
+### El martillo y la voz de Chauntea
+
+El levantamiento de los huesos sorprende a Patata en plena restauración. Se enfrenta al esqueleto, golpea con el martillo y ayuda a Kilzer; otra manifestación radiante no acierta en una ronda posterior. Después reconoce la escritura abisal sin conocerla y recibe una ayuda que los otros no ven: siente un abrazo y escucha a Chauntea, su diosa, traducirle la inscripción. El texto queda en su memoria y sale del templo con las hojas en su poder.
+
+Fuentes: [49-089 · Los huesos forman dos serpientes a espaldas del grupo](../capitulos/49.md) · 01:59:19.320 · [49-090 · Las serpientes apresan y muerden durante la sorpresa](../capitulos/49.md) · 02:01:08.840 · [49-096 · Patata golpea y ayuda a Kilzer a contraatacar](../capitulos/49.md) · 02:11:24.400 · [49-100 · El martillo radiante de Patata tampoco consigue acertar](../capitulos/49.md) · 02:16:52.359 · [49-105 · Los papeles están escritos en abisal y ninguno lo conoce](../capitulos/49.md) · 02:23:55.920 · [49-106 · Patata siente un abrazo y ve cambiar la escritura](../capitulos/49.md) · 02:25:17.040 · [49-108 · Chauntea traduce los papeles a Patata](../capitulos/49.md) · 02:26:55.920 · [49-110 · La inscripción enlaza el fuego velado, los ojos y un santuario](../capitulos/49.md) · 02:28:32.560 · [49-111 · La traducción cesa y las palabras quedan en la memoria](../capitulos/49.md) · 02:29:58.439 · [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160.
 
 ## Registros y evidencias
 
@@ -1703,4 +1733,420 @@ Tipo: `declaracion_personaje`.
 Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
 
 No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
+
+## [49-003 · Patata recuerda el encargo del dragón](../capitulos/49.md) · 00:01:40.079
+
+Tipo: `declaracion_personaje`.
+
+Patata recapitula su llegada a Iktan después de encontrarse con muertos controlados por una especie de dragón verde. Recuerda que le pidió llevar a los elfos al bosque. Aunque no le caen bien, no quiere que mueran; dice haber dado vueltas por Iktan sin encontrarlos.
+
+Recapitulación de la amenaza, no un nuevo encuentro con el dragón ni prueba de que los hermanos hayan sido entregados.
+
+## [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720
+
+Tipo: `explicacion_director`.
+
+Al situar el regreso de Kilzer, el director establece que los nuevos piratas destrozaron su casino y que la granja de Patata también estaba totalmente destruida. Kilzer tuvo que abandonar Shiaru y adentrarse en la jungla.
+
+Destrucción expresamente narrada. No acredita una apertura comercial anterior del casino, beneficios, indemnización o ruina de todos los bienes de Shiaru.
+
+## [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000
+
+Tipo: `hecho_confirmado`.
+
+En la taberna están Eleanor, una mujer de armadura y cabellera rojiza, y su escudera kender Erandy; Kilzer no las conoce todavía. Sí reconoce a Patata en la barra y ve a los piratas de la tripulación de Ione en otra mesa, parte de ellos borrachos o inconscientes.
+
+No se enumeran todos los piratas ni se confirma que Ione esté sentada en esa mesa. La inconsciencia se presenta en el contexto de la bebida.
+
+## [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839
+
+Tipo: `hecho_confirmado`.
+
+Kilzer se acerca para comprobar que el agricultor es Patata y lo abraza; se reconocen entre bromas y manoseos mientras Eleanor intenta tapar los ojos de Erandy. Patata cuenta que perdió su casa y su granja, se extravió por la jungla y acabó allí. Pide una cerveza para su amigo.
+
+El diálogo reafirma la amistad y la pérdida de la granja, sin fijar un inventario de bienes, una fecha de destrucción o las personas que la ejecutaron.
+
+## [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639
+
+Tipo: `hecho_confirmado`.
+
+Molly entra buscando a alguien, llama a Patata y se sienta a la mesa de Eleanor y Erandy. Patata invita a Kilzer, que inicialmente rechaza ir a hablar de trabajo con una marine. Molly se alegra de encontrarlos fuera del pueblo del que les había advertido que salieran.
+
+No implica una rehabilitación de Molly en la Marina ni un alistamiento de Kilzer. Su comentario sobre la advertencia no describe por completo la evacuación de Shiaru.
+
+## [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200
+
+Tipo: `hecho_confirmado`.
+
+Molly pide ayuda a los dos sacerdotes y a la caballera divina para adentrarse en el templo. Patata vuelve a llamar a Kilzer y le presenta la seguridad de Iktan como motivo para ayudar. Él, resignado a que acabarían llevándolo, se suma; Patata elogia su capacidad para infiltrarse. Erandy también quiere ayudar y espera recuperar recuerdos.
+
+La broma de Erandy llamando Bonnie a Molly no las convierte en la misma persona. La declaración de amnesia no demuestra que esta aventura vaya a curarla.
+
+## [49-018 · Erandy y Kilzer se reparten las trampas](../capitulos/49.md) · 00:24:51.200
+
+Tipo: `hecho_confirmado`.
+
+Erandy ofrece localizar trampas para proteger la marcha. Patata propone combinar esa capacidad con la habilidad de Kilzer para desactivarlas, y la escudera celebra la cooperación. Molly se levanta dispuesta a salir; Erandy se coloca junto a Eleanor y sube a su hombro.
+
+Es un plan de trabajo. No se garantiza aún que detecten o anulen todos los peligros del templo.
+
+## [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640
+
+Tipo: `hecho_confirmado`.
+
+Antes de partir, Patata promete a Angel traerle algo bonito de la jungla y ella lo despide con ternura. Kilzer quiere cambiar los harapos por ropa normal; durante los preparativos una carta del chat hace que le falte una moneda de oro. También se negocia la venta de dos objetos mediante la tienda de la mesa virtual.
+
+No se atribuye la pérdida de la moneda a un ladrón. Los dos objetos vendidos no se entienden con claridad en los subtítulos; no se inventan su identidad o precio. El cambio de ropa se acepta narrativamente sin coste verbal documentado.
+
+## [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559
+
+Tipo: `hecho_confirmado`.
+
+Los cinco se internan en la jungla siguiendo a Molly, pero la portadora del mapa pide ayuda para orientarse. Patata se guía por el cielo y el dibujo, advierte un pequeño desvío y propone un giro a la derecha. Molly acepta que los guíe. Erandy escucha desde el hombro de Eleanor sin detectar un peligro cercano en ese momento.
+
+La orientación procede de una tirada y no proporciona una ruta georreferenciada; no detectar peligro en ese punto no prueba que toda la jungla sea segura.
+
+## [49-023 · Patata obtiene piel de piedra](../capitulos/49.md) · 00:32:01.519
+
+Tipo: `explicacion_director`.
+
+Patata come una fruta y su piel se vuelve pétrea. El director le concede resistencia al daño contundente, perforante y cortante, y el agricultor bromea con ser ahora una piedra de patata.
+
+Adjudicación de este consumo; no se establece petrificación incapacitante, duración o resistencia universal al resto de daños.
+
+## [49-025 · La pirámide yuan-ti está cubierta de raíces](../capitulos/49.md) · 00:33:17.480
+
+Tipo: `hecho_confirmado`.
+
+El grupo deja los caminos y avanza por vegetación densa, claros estrechos y restos de columnas. Dos enormes cabezas de serpiente preceden al templo: una pirámide de tres pisos que las raíces y la vegetación están engullendo. Su aspecto coincide con el abandono del que les habló Molly.
+
+Aspecto de abandono, no prueba de ausencia de habitantes. No se identifica con templos anteriores por compartir arquitectura serpentina.
+
+## [49-026 · Patata protege a Kilzer antes de avanzar](../capitulos/49.md) · 00:34:27.200
+
+Tipo: `hecho_confirmado`.
+
+Al ver la inquietud de Kilzer ante el templo, Patata se acerca y lo toca para aplicar un conjuro protector. El gesto vuelve a dar pie a una broma sobre tocar más de lo necesario y Kilzer le da las gracias.
+
+El nombre y la explicación del conjuro quedan mal transcritos. No se incorporan por conocimiento de reglas un nombre, duración o inmunidad exactos.
+
+## [49-029 · Erandy quema las raíces con Manos ardientes](../capitulos/49.md) · 00:38:45.119
+
+Tipo: `hecho_confirmado`.
+
+Erandy pide a los compañeros que retrocedan y usa Manos ardientes contra la puerta para quemar las raíces. Las llamas las chamuscan hasta que caen y dejan libre la piedra, que sigue siendo demasiado pesada para que la abra por su cuenta.
+
+Uso declarado del conjuro Burning Hands/Manos ardientes. El fuego despeja las raíces; no desactiva automáticamente las trampas interiores.
+
+## [49-030 · Kilzer comprueba la puerta antes de empujar](../capitulos/49.md) · 00:39:48.640
+
+Tipo: `hecho_confirmado`.
+
+Antes de que el grupo se ponga a hacer fuerza, Kilzer pide comprobar si hay algún mecanismo. Investiga y el director confirma que la puerta no contiene una trampa.
+
+La confirmación se refiere a esta puerta, después de una tirada de investigación. No extiende seguridad al interior del templo.
+
+## [49-031 · Eleanor y Patata abren paso](../capitulos/49.md) · 00:40:41.079
+
+Tipo: `hecho_confirmado`.
+
+Eleanor no logra mover la puerta con un intento normal. Patata la ayuda en una prueba de atletismo con ventaja y consiguen arrastrar la hoja de piedra sobre el suelo hasta dejar una abertura suficiente para que entren todos.
+
+La frase sobre no poder cerrarla después es un comentario del grupo, no la demostración de un bloqueo mágico o permanente.
+
+## [49-032 · Encontrar trampas hace brillar las estatuas](../capitulos/49.md) · 00:41:48.640
+
+Tipo: `hecho_confirmado`.
+
+Una vez dentro, Erandy lanza Encontrar trampas y ve brillar las estatuas de serpiente. Advierte a los demás de que esconden algún mecanismo peligroso, aunque todavía no sabe si es mágico o cómo se activa.
+
+El brillo pertenece a la percepción concedida por el conjuro. No debe describirse como iluminación física observada necesariamente por todos.
+
+## [49-035 · Eleanor envía un corcel fantasma por delante](../capitulos/49.md) · 00:44:17.359
+
+Tipo: `hecho_confirmado`.
+
+Eleanor propone que una criatura invocada camine antes que los viajeros y convoca un corcel fantasma. Quiere que active posibles peligros en lugar de exponer a los compañeros, aun teniendo a Erandy para localizar trampas y a Kilzer para desactivarlas.
+
+El corcel es una invocación usada como explorador y cebo. No es una montura Merlucilla ni un caballo de carne acreditado; el plan no demuestra que pueda detectar trampas por sí mismo.
+
+## [49-036 · El centro reúne veneno y vasijas con cenizas](../capitulos/49.md) · 00:45:39.880
+
+Tipo: `hecho_confirmado`.
+
+Al avanzar, Patata ve una pequeña cascada de veneno que cae desde arriba y rodea una zona central. Allí hay un altar con un gran recipiente también lleno de veneno y, en cuatro esquinas, altares menores con vasijas. Al mirar dos de estas, los viajeros encuentran cenizas.
+
+Solo se inspeccionan verbalmente dos vasijas; las bromas sobre explosiones no describen un daño ocurrido. No se afirma que las cenizas sean veneno o combustible.
+
+## [49-037 · Las vasijas son funerarias y no prueban un ritual activo](../capitulos/49.md) · 00:47:11.839
+
+Tipo: `explicacion_director`.
+
+Los viajeros consideran encender las cenizas, como si fueran velas o antorchas, y hablan de finales y renacimientos. Erandy consulta su conocimiento religioso y el director identifica las vasijas como funerarias: no tiene por qué tratarse de un ritual.
+
+La identificación funeraria está confirmada. El sentido de la ceniza y la idea de encenderla son especulación; no se nombra al difunto ni a una deidad concreta.
+
+## [49-038 · Una criatura serpentina ataca al corcel](../capitulos/49.md) · 00:48:20.559
+
+Tipo: `hecho_confirmado`.
+
+Mientras el grupo examina las vasijas, el corcel relincha. Una criatura extraña de aspecto serpentino y perruno avanza, se yergue sobre dos patas y salta para golpearlo con zarpazos. El director aclara que es una criatura, no una trampa, y pide iniciativa.
+
+Primer ataque observado. Este bloque no resuelve el combate, no determina el número total de enemigos ni identifica una especie de bestiario o la desaparición del corcel.
+
+## [49-041 · Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer](../capitulos/49.md) · 00:52:30.839
+
+Tipo: `hecho_confirmado`.
+
+En los laterales caen partes de las tumbas y empiezan a salir yuan-ti descritos como medio muertos. Uno lanza rayos contra Kilzer, que los esquiva y se tira al suelo. Kilzer protesta por haber dejado la cerveza y por haberse dejado arrastrar a la expedición por Patata.
+
+La apariencia y la narración acreditan adversarios no muertos; no permiten identificar a las personas en vida, su creador ni una jerarquía de la facción Yuan-ti.
+
+## [49-042 · Los ataques se multiplican y el caballo queda deshecho](../capitulos/49.md) · 00:53:23.440
+
+Tipo: `hecho_confirmado`.
+
+Llegan más adversarios: uno dispara rayos contra Patata y falla, mientras otro yuan-ti medio muerto porta un arco. Sus flechas alcanzan el combate y el grupo lamenta la pérdida del caballo. La narración siguiente da al animal por deshecho y continúa con los ataques de las criaturas.
+
+No se fija en este tramo una naturaleza o nombre propio del caballo. La pérdida se narra como resultado del combate, sin reconstruir puntos de vida o anatomía del animal.
+
+## [49-043 · Patata ataca y dirige curación hacia la paladina](../capitulos/49.md) · 00:55:15.880
+
+Tipo: `hecho_confirmado`.
+
+Patata aprovecha la exposición de los enemigos, los ataca y después se recoloca en medio del cerco. En el turno siguiente decide emplear la acción adicional para lanzar curación a la paladina. La mesa recuerda que el grupo cuenta con dos clérigos y un paladín.
+
+La cantidad curada y el nombre exacto del conjuro no quedan inequívocos aquí; no se convierten los comentarios sobre clases en conocimiento de todos los personajes.
+
+## [49-047 · Patata recibe un rayo crítico durante el cerco](../capitulos/49.md) · 01:03:21.400
+
+Tipo: `hecho_confirmado`.
+
+Los yuan-ti continúan repartiendo rayos. Kilzer usa una reacción que reduce un impacto a la mitad; otro adversario vuelve a disparar contra Patata. El primer rayo falla, pero el segundo se resuelve como crítico.
+
+Se conserva la resolución del golpe y la defensa de Kilzer, sin fijar daños numéricos que no se anuncian claramente ni confundir un rayo con un nuevo ataque de otra especie.
+
+## [49-050 · Patata preserva la vida de Eleanor y se coloca para cubrirla](../capitulos/49.md) · 01:07:20.240
+
+Tipo: `hecho_confirmado`.
+
+Patata utiliza Preservar vida, cuyo límite se explica como recuperar hasta la mitad de la vida. La mesa concreta treinta puntos. Después se coloca para cubrir a Eleanor y reducir la presión sobre ella.
+
+Los treinta puntos son la cantidad resuelta en esta intervención. No se generaliza como poder de curar cualquier herida o como garantía de que la paladina queda fuera de peligro.
+
+## [49-056 · Eleanor se levanta y vuelve a abatir enemigos dentro del silencio](../capitulos/49.md) · 01:15:23.719
+
+Tipo: `hecho_confirmado`.
+
+Eleanor se levanta. El silencio impide lanzar conjuros que requieren voz, pero la mesa distingue el uso de Divine Smite en esa edición. Tras una interrupción de conexión se completa su turno: recibe ayuda, aplica el golpe y acaba con un enemigo. Decide permanecer junto a Patata en lugar de exponerse al moverse.
+
+El problema de conexión y la comparación con otra edición son asuntos de mesa, sin significado narrativo. Se registra el golpe y la decisión de posición, no una regla externa de funcionamiento del personaje.
+
+## [49-057 · Patata agota Canalizar divinidad y recurre a ayudar y golpear](../capitulos/49.md) · 01:18:34.440
+
+Tipo: `hecho_confirmado`.
+
+Aunque no puede hablar dentro de Silencio, Patata muestra su símbolo, que el jugador describe tentativamente como una rama de olivo. Comprueba que ya ha gastado sus usos de Canalizar divinidad: la curación hasta media vida y otra intervención anterior. Opta por la acción de ayudar para dar ventaja al siguiente compañero y después golpea con su martillo.
+
+La descripción del símbolo conserva el «creo» del jugador y no fija una deidad. El recuento de recursos no demuestra facultades adicionales del martillo.
+
+## [49-062 · Eleanor aprovecha el apoyo y vuelve a derribar a un enemigo](../capitulos/49.md) · 01:24:48.239
+
+Tipo: `hecho_confirmado`.
+
+Eleanor reanuda sus ataques, mata a uno de los adversarios y aprovecha para el siguiente la ventaja ofrecida por la acción de ayudar. El grupo considera que por el momento la situación mejora.
+
+La mejora es local en la batalla: aún quedan rivales. No se da por limpio todo el templo ni se distribuye el botín antes del final del combate.
+
+## [49-063 · Patata despliega espíritus guardianes cuando vuelve la voz](../capitulos/49.md) · 01:25:39.040
+
+Tipo: `hecho_confirmado`.
+
+Una vez que puede volver a lanzar conjuros, Patata coloca Espíritus guardianes junto a él. La mesa resuelve salvaciones y corrige el manejo del área en el tablero virtual para distinguir a aliados y enemigos.
+
+Las tiradas automáticas y la colocación de las fichas son parte de la herramienta. No prueban que los espíritus hayan atacado realmente a Eleanor ni crean una hostilidad entre los aliados.
+
+## [49-065 · Patata da el último martillazo y termina esta lucha](../capitulos/49.md) · 01:29:02.080
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros siguen acortando la lucha. Eleanor actúa mientras se discuten las posiciones y el empleo de sus golpes. Patata se aproxima con su martillo y propina el último golpe a una criatura. El director da por acabadas esas criaturas y el grupo puede reagruparse.
+
+Acaba el combate con estos rivales, no la amenaza de todo el edificio. Los fallos de indicadores de vida del tablero no representan enemigos supervivientes o resurrecciones nuevas.
+
+## [49-072 · Otra estatua alcanza al grupo con veneno durante el paso](../capitulos/49.md) · 01:39:10.480
+
+Tipo: `hecho_confirmado`.
+
+Al avanzar hacia las escaleras, otra serpiente de piedra situada enfrente expulsa veneno cuando pasan cerca. Su alcance sorprende a los viajeros. El director corrige después un traslado mal configurado entre niveles del tablero y coloca a los personajes en las escaleras.
+
+El error de colocación virtual no es un teletransporte, una trampa nueva o una ruta secreta. La descarga procede de un mecanismo distinto del que acababan de desactivar.
+
+## [49-073 · El piso superior concentra el veneno y se solicita un descanso](../capitulos/49.md) · 01:40:22.080
+
+Tipo: `hecho_confirmado`.
+
+El grupo llega al piso superior y ve una poza central de veneno, desde la que gotea líquido hacia la planta inferior. Sospechan otra emboscada y la posible presencia de alguien que controla a los no muertos. Antes de seguir se pide un descanso corto para recuperar energía divina.
+
+La existencia de un controlador es una sospecha del grupo en este punto. El tramo termina durante la solicitud de descanso: no se confirma aquí que lo completen ni se anticipan los hallazgos posteriores.
+
+## [49-074 · El descanso de una hora se aplaza](../capitulos/49.md) · 01:41:29.560
+
+Tipo: `explicacion_director`.
+
+Se plantea descansar para recuperar recursos y seguir usando magia para detectar peligros. El director recuerda que un descanso corto exige una hora; ante el riesgo de esperar allí, deciden continuar y reconsiderarlo si la situación empeora.
+
+La discusión y la decisión de continuar no representan una hora de descanso ni una recuperación de recursos. La escasez de magia expresada no permite reconstruir todas las reservas individuales.
+
+## [49-078 · Patata encuentra un cadáver abierto en busca de algo](../capitulos/49.md) · 01:46:24.320
+
+Tipo: `explicacion_director`.
+
+Tras las reservas de los compañeros por los muertos encontrados antes, Patata examina el cuerpo de cerca. Está realmente muerto y le faltan muchos órganos, sobre todo los ojos. El director distingue el trabajo observado de una simple conservación funeraria: parece que buscaban algo dentro de la persona.
+
+La inspección sugiere una búsqueda deliberada, pero no identifica qué buscaban, quién abrió el cuerpo, su nombre o la fecha de su muerte.
+
+## [49-079 · Molly recuerda el ojo encontrado con Bonny](../capitulos/49.md) · 01:48:18.480
+
+Tipo: `declaracion_personaje`.
+
+Patata llama a Molly para preguntarle de dónde sacó el ojo; al principio dice Bonnie y corrige el nombre. Molly responde que ella y Bonny lo encontraron al llegar a la isla, en un templo muy parecido al presente y con las mismas inscripciones. Le parece extraño que una esfera de ese tamaño pudiera hallarse dentro de un cuerpo.
+
+La procedencia es testimonio de Molly. La semejanza de templos no los identifica, y este recuerdo no equipara automáticamente su objeto con el ojo llevado por Nox.
+
+## [49-080 · La búsqueda de órganos provoca hipótesis sobre un culto](../capitulos/49.md) · 01:49:23.880
+
+Tipo: `especulacion_jugadores`.
+
+Los compañeros creen que las autopsias pueden acercarlos a lo que buscan los ocupantes del templo. Entre las posibilidades mencionan resucitar a un dios serpiente y reunir órganos para formar un cuerpo; reconocen que pueden existir muchas explicaciones y quieren llevar información de vuelta.
+
+Son conjeturas de los expedicionarios. No queda confirmado un rito de resurrección, la identidad del dios ni la equivalencia con los Profundos, Citlali o Clolgedranx.
+
+## [49-082 · Erandy reconoce un culto sin identificar al dios](../capitulos/49.md) · 01:52:14.440
+
+Tipo: `explicacion_director`.
+
+En la parte superior descubren una capilla derruida, un altar, más vasijas y la gran estatua incompleta de una serpiente. Patata y Erandy observan el conjunto; Erandy percibe que está dedicado a una deidad, pero no puede decir quién es. Ella lo interpreta como el centro de sus ceremonias.
+
+La percepción de culto no proporciona nombre, naturaleza o plan de la deidad. No identifica la estatua con una serpiente de visiones anteriores.
+
+## [49-084 · Papeles de más de dos siglos se deshacen al tocarlos](../capitulos/49.md) · 01:54:33.280
+
+Tipo: `explicacion_director`.
+
+Al acercarse al altar encuentran papeles amarillentos de más de doscientos años. Uno se deshace en la mano al intentar cogerlo. Los huesos crujen bajo sus pies, mientras una llama verdosa continúa encendida como las del resto del templo.
+
+La antigüedad se adjudica a los papeles; no fija la fecha de construcción de todo el templo ni la duración exacta del abandono.
+
+## [49-085 · Patata reconstruye los papeles del altar](../capitulos/49.md) · 01:55:33.880
+
+Tipo: `hecho_confirmado`.
+
+Patata se propone recuperar información sin destruirla. Apoya las manos sobre los papeles y estos empiezan a recomponerse, como si retrocediera su deterioro. Más adelante el director confirma que está terminando la restauración y que añadirá lo recuperado a su inventario.
+
+La restauración representada no identifica verbalmente aquí el nombre exacto del conjuro ni convierte el papel en resistente a todo daño.
+
+## [49-089 · Los huesos forman dos serpientes a espaldas del grupo](../capitulos/49.md) · 01:59:19.320
+
+Tipo: `explicacion_director`.
+
+Mientras Patata termina con los papeles y Erandy mira la llama, los huesos de su alrededor comienzan a moverse y forman una serpiente que no habían visto. A espaldas de Eleanor se levanta otra criatura, mucho mayor: una serpiente esquelética deformada cuya presencia trae presión al ambiente. El grupo queda sorprendido.
+
+Se distinguen una serpiente menor y otra enorme. No se identifica su animador ni se equiparan con la serpiente esquelética derrotada en la cueva del capítulo 48.
+
+## [49-090 · Las serpientes apresan y muerden durante la sorpresa](../capitulos/49.md) · 02:01:08.840
+
+Tipo: `explicacion_director`.
+
+La criatura mayor enrosca la cola en los pies de Eleanor, la deja restringida y trata de morderla. La serpiente menor intenta hacer lo mismo con Patata. El veneno interviene en los ataques mientras la mesa discute la duración de la sorpresa; el director adjudica inicialmente que no pueden reaccionar.
+
+La discusión de reglas se conserva como adjudicación de mesa. No se transforma en una inmunidad, un poder nuevo o una cifra total de daño no enunciada.
+
+## [49-093 · Erandy coloca un guardián de fe y cura al grupo](../capitulos/49.md) · 02:06:38.480
+
+Tipo: `hecho_confirmado`.
+
+Erandy coloca un guardián de fe junto al adversario y usa también una curación para sí y sus compañeros; se adjudican cinco puntos a los destinatarios. El director utiliza una imagen de Chopito para señalar la posición del guardián, sin traer al pulpo a la expedición.
+
+El marcador gráfico de Chopito no es una aparición del personaje. La conversación explica cuándo puede golpear el guardián, sin mostrar todavía una activación por movimiento.
+
+## [49-096 · Patata golpea y ayuda a Kilzer a contraatacar](../capitulos/49.md) · 02:11:24.400
+
+Tipo: `hecho_confirmado`.
+
+El director confirma a Patata que el enemigo parece un no muerto, un esqueleto levantado. Patata le da un golpe de martillo y presta ayuda a Kilzer. Este aprovecha la ventaja, logra otro impacto y añade su ataque furtivo, aunque no obtiene el mismo resultado con el arma secundaria.
+
+Las burlas sobre fuerza, críticos y paladines no fijan daño total ni convierten el esqueleto en una criatura nombrada del bestiario.
+
+## [49-100 · El martillo radiante de Patata tampoco consigue acertar](../capitulos/49.md) · 02:16:52.359
+
+Tipo: `hecho_confirmado`.
+
+Patata hace aparecer otra arma, descrita en la broma de la mesa como una patata radiante, y trata de atacar con ella y con su martillo habitual. Ambos intentos de esa ronda fallan.
+
+La forma del efecto no constituye una segunda Patata Hammer física ni un objeto de botín nuevo. Los golpes fallidos no anulan los aciertos anteriores.
+
+## [49-104 · Patata conserva los papeles, todavía frágiles](../capitulos/49.md) · 02:22:17.600
+
+Tipo: `hecho_confirmado`.
+
+Después de liberarse de los restos y lamentar los peligros de la isla, preguntan a Patata qué encontró. Él confirma que consiguió rescatar unos papeles viejos y propone mirarlos en la taberna. Al insistir los demás en saber qué dicen, los saca con mucho cuidado porque siguen pudiendo romperse pese a haberlos reparado.
+
+La mención inicial a un libro se corrige a hojas. No se transforma este conjunto en un diario o un volumen encuadernado nuevo.
+
+## [49-105 · Los papeles están escritos en abisal y ninguno lo conoce](../capitulos/49.md) · 02:23:55.920
+
+Tipo: `explicacion_director`.
+
+Al observar las hojas se reconoce el abisal, pero ninguno de los presentes dispone de ese idioma. Patata y Erandy deben realizar salvaciones de sabiduría ante su lectura; los resultados mencionados son diecisiete y dieciocho.
+
+La llamada a salvarse de la locura no adjudica una locura consumada a quienes superan la prueba. Reconocer el idioma no equivale a saber leerlo.
+
+## [49-106 · Patata siente un abrazo y ve cambiar la escritura](../capitulos/49.md) · 02:25:17.040
+
+Tipo: `explicacion_director`.
+
+Mientras mira los papeles, Patata percibe un abrazo por detrás. Se vuelve y solo ve quieto al guardián invocado por Erandy; al volver a mirar las hojas, sus signos empiezan a formar letras que él puede entender. Los demás no perciben ese cambio.
+
+Es una percepción particular de Patata. La presencia del guardián en su campo de visión no lo identifica como autor del abrazo o de la traducción.
+
+## [49-108 · Chauntea traduce los papeles a Patata](../capitulos/49.md) · 02:26:55.920
+
+Tipo: `explicacion_director`.
+
+La lectura no suena como la voz propia de Patata: escucha una voz anciana que ha oído antes. El director identifica a la mujer de cabellera blanca como Chauntea, su diosa, y explica que le está traduciendo los papeles en la cabeza.
+
+La escena atribuye la ayuda a la diosa de Patata. No muestra que Molly, Eleanor o Kilzer la vean u oigan ni acredita acceso de Madame Oghma a esa experiencia.
+
+## [49-110 · La inscripción enlaza el fuego velado, los ojos y un santuario](../capitulos/49.md) · 02:28:32.560
+
+Tipo: `explicacion_director`.
+
+La traducción anuncia que, cuando el fuego divino sea devorado por el negro velo y la noche beba el aliento de los pueblos de sangre cálida, los ojos de la serpiente volverán a contemplar a su amo dormido. Su mirada señalará un sendero olvidado; unas escamas fieles caminarán donde la selva oculta la piedra sagrada, hasta el gran santuario donde aguarda la última muda.
+
+Es el contenido profético o ritual de una inscripción, no la representación de acontecimientos ya ocurridos. No identifica al amo, a los ojos, al santuario o al fuego divino con personas y objetos conocidos.
+
+## [49-111 · La traducción cesa y las palabras quedan en la memoria](../capitulos/49.md) · 02:29:58.439
+
+Tipo: `explicacion_director`.
+
+Al terminar la lectura, el contenido queda grabado en la mente de Patata y Erandy. Desaparecen el abrazo y el calor que sentían, y ambos vuelven a ver las hojas en el abisal que no entienden.
+
+La memoria del texto no implica que hayan aprendido el idioma o puedan traducir otros documentos. Los demás siguen sin ver el cambio privado.
+
+## [49-112 · Erandy interpreta la ayuda como una señal del Señor del Amanecer](../capitulos/49.md) · 02:30:30.319
+
+Tipo: `declaracion_personaje`.
+
+Erandy considera que han recibido una señal divina del Señor del Amanecer y afirma que, si ha intervenido para ayudarla, lo que descubrieron debe ser muy importante. En la conversación se reconoce lo extraño de sentir un abrazo de la propia deidad. Deciden marcharse y explicarlo por el camino antes de hablar con Walulu.
+
+Es la interpretación y el propósito de los personajes. No representa todavía una audiencia con Walulu ni el esclarecimiento de todos los símbolos de la inscripción.
+
+## [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros discuten todavía sobre la posibilidad de que se levanten más muertos, pero finalmente abandonan el templo yuan-ti perdido entre la jungla. La inscripción queda en manos de Patata y se dirigen hacia Iktan para descansar.
+
+Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 

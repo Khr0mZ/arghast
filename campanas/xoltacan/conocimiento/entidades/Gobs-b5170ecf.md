@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-006](../capitulos/08.md), [10-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un médico al que se acude con recelo
 

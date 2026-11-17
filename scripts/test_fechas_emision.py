@@ -43,6 +43,19 @@ class EmissionDatesTests(unittest.TestCase):
         self.assertEqual(chapter['youtube']['fecha'], '2026-11-15')
         self.assertEqual(chapter['twitch']['fuentes'], ['1532095200023937216'])
 
+    def test_chapter_49_uses_august_6_and_preserves_the_mislabeled_notice(self):
+        chapter = self.dates[49]
+        self.assertEqual(chapter['twitch']['fecha'], '2026-08-06')
+        self.assertEqual(chapter['youtube']['fecha'], '2026-11-17')
+        self.assertEqual(chapter['twitch']['fuentes'], ['1534992858807926865'])
+        source = read(SOURCES)['anuncios']['1535348824992649227']
+        self.assertEqual(source['episodio_anunciado'], 49)
+        self.assertEqual(source['fecha_tarjeta_local'], '2026-08-07')
+        corrected = self.document['correspondencias_avisos']['1535348824992649227']
+        self.assertEqual(corrected['capitulo'], 50)
+        self.assertEqual(corrected['titulo'], 'Abastecimiento')
+        self.assertTrue(corrected['confirmada_por_usuario'])
+
     def test_late_youtube_notice_does_not_replace_publication(self):
         chapter = self.dates[1]
         self.assertEqual(chapter['youtube']['fecha'], '2026-04-07')

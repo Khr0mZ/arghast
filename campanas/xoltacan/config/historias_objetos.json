@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 48,
+  "revisado_hasta": 49,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -334,6 +334,14 @@
         "texto": "Patata lo saca junto con el escudo cuando las raíces empiezan a moverse alrededor de las ruinas. Esta preparación confirma su uso como equipo actual, sin resolver el inventario de los objetos que perdió en antiguos cautiverios.",
         "referencias": [
           "47-021"
+        ]
+      },
+      {
+        "titulo": "El martillazo que cierra la lucha del templo",
+        "texto": "Cuando Patata ya no dispone de Canalizar divinidad, combina ayuda a sus compañeros con golpes de martillo. Al final se acerca al adversario restante y propina el golpe que permite al grupo reagruparse. La victoria pertenece a este combate, sin demostrar que el arma desactive trampas o elimine todo el veneno del templo.",
+        "referencias": [
+          "49-057",
+          "49-065"
         ]
       }
     ],
@@ -886,6 +894,105 @@
           "48-097",
           "48-121",
           "48-122"
+        ]
+      }
+    ],
+    "Ojo-orbe de Molly y Bonny": [
+      {
+        "titulo": "El objeto que Molly quiere entender",
+        "texto": "Molly saca de su bolsa una esfera del tamaño aproximado de una mano. El director la enlaza con la que había mostrado a Citlali; ella dice que Bonny y ella la encontraron en un templo y que al cogerla pasó algo. Con las explicaciones y los pergaminos de Walulu prepara una investigación en otras ruinas yuan-ti. Kilzer teme que la esfera los observe y propone un dibujo, pero no demuestra esa capacidad y carece de herramientas para realizar una copia exacta. Molly la devuelve a su custodia.",
+        "referencias": [
+          "49-012",
+          "49-013",
+          "49-014",
+          "49-016",
+          "49-017"
+        ]
+      }
+    ],
+    "Mapa del templo entregado por Walulu": [
+      {
+        "titulo": "El dibujo que los saca de Iktan",
+        "texto": "Molly despliega los papeles y enseña el mapa recibido de Walulu. Señala un templo con antecedentes de hace doscientos o trescientos años y calcula medio día de camino. En la jungla no consigue orientarse bien y lo cede a Patata, que combina el dibujo con la observación del cielo para corregir un pequeño desvío. La expedición termina encontrando la pirámide cubierta de raíces.",
+        "referencias": [
+          "49-017",
+          "49-020",
+          "49-025"
+        ]
+      }
+    ],
+    "Urnas funerarias del templo del mapa de Walulu": [
+      {
+        "titulo": "Cenizas que no exigen encender una ceremonia",
+        "texto": "Los viajeros ven vasijas en los cuatro altares de las esquinas y al inspeccionar dos encuentran cenizas. Se plantea que hayan servido de velas o antorchas y que encenderlas produzca algo. El conocimiento religioso de Erandy aporta una identificación concreta: son urnas funerarias, sin necesidad de que formen parte de un ritual. Ningún difunto recibe nombre y no se representa una ignición.",
+        "referencias": [
+          "49-036",
+          "49-037"
+        ]
+      }
+    ],
+    "Estatuas trampa del templo yuan-ti": [
+      {
+        "titulo": "Los primeros mecanismos de la entrada",
+        "texto": "Al entrar, Erandy detecta peligro en las figuras serpentinas y Kilzer anula dos mecanismos con sus herramientas. No son todas las trampas del templo: más adelante otros dispositivos siguen amenazando el paso.",
+        "referencias": [
+          "49-032",
+          "49-033",
+          "49-034"
+        ]
+      },
+      {
+        "titulo": "Un mecanismo trabado y otro desactivado",
+        "texto": "La detección de Erandy confirma que las figuras examinadas brillaban. Kilzer intenta anularlas, pero rompe el primer mecanismo y lo deja activado. En el siguiente acepta ayuda de Erandy y logra desactivarlo. Recomienda pasar cerca de esa estatua desactivada, aunque una serpiente de piedra situada enfrente aún alcanza el paso con veneno.",
+        "referencias": [
+          "49-069",
+          "49-070",
+          "49-071",
+          "49-072"
+        ]
+      }
+    ],
+    "Beso de sirena": [
+      {
+        "titulo": "El remate tras la espada normal",
+        "texto": "Kilzer intenta primero golpear con su espada normal y después recurre a Beso de sirena en su actuación adicional. El segundo ataque impacta y acaba con el adversario sin necesidad de añadir el ataque furtivo. Después vuelve a buscar cobertura. El pasaje documenta el uso del arma, sin explicar un poder especial, su adquisición o su relación con una sirena concreta.",
+        "referencias": [
+          "49-052"
+        ]
+      }
+    ],
+    "Papeles abisales recuperados por Patata": [
+      {
+        "titulo": "Salvar lo que el tiempo deshace",
+        "texto": "Los papeles del altar llevan más de doscientos años y se rompen al tocarlos. Patata logra recomponerlos con magia y los rescata, aunque avisa de que todavía son frágiles. La inspección identifica la escritura como abisal, una lengua que ninguno de los presentes conoce.",
+        "referencias": [
+          "49-084",
+          "49-085",
+          "49-104",
+          "49-105"
+        ]
+      },
+      {
+        "titulo": "La profecía traducida y recordada",
+        "texto": "Patata y Erandy reciben formas distintas de ayuda divina para entender las hojas. La inscripción habla del negro velo que devora el fuego divino, de los ojos de una serpiente, de un amo dormido y de un sendero que conduce al gran santuario de la última muda. Al concluir, ambos recuerdan el texto pero vuelven a ver el abisal incomprensible. Las hojas permanecen en manos de Patata al abandonar el lugar.",
+        "referencias": [
+          "49-106",
+          "49-107",
+          "49-108",
+          "49-109",
+          "49-110",
+          "49-111",
+          "49-113"
+        ]
+      }
+    ],
+    "Antorchas verdes del templo yuan-ti": [
+      {
+        "titulo": "Un fuego que no da calor",
+        "texto": "Entre los restos podridos, el altar y los pasillos conservan llamas verdes. Erandy examina la magia y reconoce un efecto utilizado por magos para mantener luces durante muchos años sin desprender calor. No averigua para qué ceremonias se encendieron ni quién las instaló.",
+        "referencias": [
+          "49-084",
+          "49-086"
         ]
       }
     ]

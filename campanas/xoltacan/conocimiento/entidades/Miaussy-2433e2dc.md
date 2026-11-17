@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-003](../capitulos/45.md), [45-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una permanencia negociada para Leo
 

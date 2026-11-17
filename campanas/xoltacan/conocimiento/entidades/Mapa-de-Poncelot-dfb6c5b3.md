@@ -12,7 +12,7 @@ Base para revisar equivalencia: [20-014](../capitulos/20.md), [25-019](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una X que parece prometer una respuesta
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-070](../capitulos/45.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### El hallazgo de Tentacol
 

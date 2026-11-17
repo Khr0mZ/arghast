@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-005](../capitulos/03.md), [14-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un hada perdida y una libertad recuperada
 

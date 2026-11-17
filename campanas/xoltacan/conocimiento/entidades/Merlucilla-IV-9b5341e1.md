@@ -12,7 +12,7 @@ Base para revisar equivalencia: [26-009](../capitulos/26.md), [33-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un tigre tras la pérdida de la mosca
 

@@ -11,7 +11,11 @@
       "segmentos": 1078,
       "palabras": 6151,
       "primer_segmento": "c000001",
-      "ultimo_segmento": "c002155"
+      "ultimo_segmento": "c002155",
+      "lectura_completa": true,
+      "evidencias_entregadas": 23,
+      "sha256_entrega_integrada": "dd156d49ae137aa684e38872ebb2caf205aa7cdf10089ea4318f40a05cea1ecc",
+      "etapas_entregadas": 3
     },
     {
       "bloque": 2,
@@ -20,7 +24,11 @@
       "segmentos": 1078,
       "palabras": 6260,
       "primer_segmento": "c002157",
-      "ultimo_segmento": "c004311"
+      "ultimo_segmento": "c004311",
+      "lectura_completa": true,
+      "evidencias_entregadas": 25,
+      "sha256_entrega_integrada": "a2232a6643e9e7d12e0f824e255cc5c0e5b8705e849c43da36e98a466ab1b623",
+      "etapas_entregadas": 5
     },
     {
       "bloque": 3,
@@ -29,7 +37,12 @@
       "segmentos": 1078,
       "palabras": 6057,
       "primer_segmento": "c004313",
-      "ultimo_segmento": "c006467"
+      "ultimo_segmento": "c006467",
+      "lectura_completa": true,
+      "evidencias_entregadas": 24,
+      "sha256_entrega_integrada": "add1a7079de5bbe2ae9b2ab3645e71c5ce074e7a6d976ef6695b7b513b1cefdf",
+      "etapas_entregadas": 5
     }
-  ]
+  ],
+  "estado": "lecturas_integradas_en_conocimiento_y_config"
 }

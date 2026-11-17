@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-019](../capitulos/45.md), [45-020](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### El rastro que parte hacia el norte
 

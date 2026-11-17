@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una amenaza antigua que vuelve a salir
 
@@ -245,4 +245,36 @@ Tipo: `hecho_confirmado`.
 Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
 
 Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
+
+## [49-013 · Los documentos de Walulu apuntan a templos yuan-ti](../capitulos/49.md) · 00:16:27.040
+
+Tipo: `declaracion_personaje`.
+
+Molly dice haber hablado con Walulu y haber recibido pergaminos. Los símbolos y las explicaciones que le ha dado la chamana la llevan a buscar más información sobre el ojo en alguno de los templos antiguos de los yuan-ti.
+
+Es una pista y una propuesta de investigación; todavía no se traduce el objeto ni se identifica una relación causal con el dragón o sus muertos.
+
+## [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920
+
+Tipo: `declaracion_personaje`.
+
+Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly dice que quieren averiguar para qué sirve el objeto y que al cogerlo pasó algo. Eleanor explica que Citlali era anciana y ahora es joven; al recordar la batalla alude a que su escudera estaba loca y vuelve a posponer la conversación. Molly transmite que, según Walulu, los yuan-ti intentaron envenenarla y atacar Iktan, pero otros lo evitaron.
+
+La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
+
+## [49-041 · Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer](../capitulos/49.md) · 00:52:30.839
+
+Tipo: `hecho_confirmado`.
+
+En los laterales caen partes de las tumbas y empiezan a salir yuan-ti descritos como medio muertos. Uno lanza rayos contra Kilzer, que los esquiva y se tira al suelo. Kilzer protesta por haber dejado la cerveza y por haberse dejado arrastrar a la expedición por Patata.
+
+La apariencia y la narración acreditan adversarios no muertos; no permiten identificar a las personas en vida, su creador ni una jerarquía de la facción Yuan-ti.
+
+## [49-066 · Erandy recuerda que se trata de un templo yuan-ti abandonado](../capitulos/49.md) · 01:33:29.080
+
+Tipo: `declaracion_personaje`.
+
+Tras la batalla se acercan a Eleanor y se interesan por su estado. Ella critica la exposición sufrida y recuerda por qué quería adelantar al caballo. Erandy precisa que había hablado de un templo abandonado de los yuan-ti. Discuten el estado de los cuerpos y la curación recibida, pero el director mantiene que son no muertos.
+
+Abandonado describe el lugar según lo explicado a los viajeros; no significa que estuviera vacío o sea seguro. La deducción de un personaje sobre las reglas de curación no cambia la naturaleza adjudicada de los rivales.
 

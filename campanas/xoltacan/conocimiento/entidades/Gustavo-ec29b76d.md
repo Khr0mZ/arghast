@@ -12,7 +12,7 @@ Base para revisar equivalencia: [02-004](../capitulos/02.md), [09-009](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un nombre de la vieja tripulación
 

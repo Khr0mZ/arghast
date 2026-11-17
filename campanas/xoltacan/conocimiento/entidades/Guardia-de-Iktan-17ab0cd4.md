@@ -8,17 +8,23 @@ Función colectiva en testimonio de Walulu; sin nombres individuales, número o 
 
 Etiquetas agrupadas: Guardia de Iktan.
 
-Base para revisar equivalencia: [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-086](../capitulos/47.md).
+Base para revisar equivalencia: [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-086](../capitulos/47.md), [49-007](../capitulos/49.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Defensa frente a la hueste y noticias de guaridas
 
 Walulu asegura que la guardia ha mantenido bajo control el problema de los muertos y cree que podrá contener la amenaza. Atribuye a algunos guardias el hallazgo de diferentes guaridas del dragón por la jungla. No se representa esa exploración ni un nuevo combate de la guardia.
 
 Fuentes: [47-083 · La protección dracónica no detiene por sí sola a la hueste](../capitulos/47.md) · 02:10:27.199 · [47-084 · Walulu informa de varias guaridas dispersas](../capitulos/47.md) · 02:12:14.719 · [47-086 · El felino prefiere entregar a los elfos y Walulu los acoge](../capitulos/47.md) · 02:13:42.840.
+
+### Otro refugiado ante las puertas
+
+Kilzer llega cubierto de harapos tras sobrevivir en la jungla. Los guardias, ya cansados de los visitantes extraños, terminan dejándolo entrar. Su paso permite al refugiado reencontrarse con Patata y sumarse a una expedición nacida en la ciudad.
+
+Fuentes: [49-007 · Los guardias dejan entrar a Kilzer en Iktan](../capitulos/49.md) · 00:04:43.840.
 
 ## Registros y evidencias
 
@@ -45,4 +51,12 @@ Tipo: `declaracion_personaje`.
 Invitado a añadir algo, el felino insiste en que sería más fácil entregar a los elfos. Walulu afirma que son bienvenidos y estarán seguros mientras permanezcan en Iktan; sostiene que la guardia podrá hacer frente a las huestes de muertos. La objeción del felino sobre la seguridad del pueblo la deja pensativa.
 
 No se aprueba una entrega o sacrificio. La reacción pensativa de Walulu no revoca explícitamente su acogida ni confirma que vaya a cambiar de bando.
+
+## [49-007 · Los guardias dejan entrar a Kilzer en Iktan](../capitulos/49.md) · 00:04:43.840
+
+Tipo: `explicacion_director`.
+
+El director describe las ropas deterioradas y los campamentos de Kilzer, con el detalle cómico de un poblado próximo que no ha visto. Finalmente llega a Iktan: los guardias, cansados de visitantes extraños, le permiten pasar y él encuentra una vegetación más abundante y colorida que la jungla circundante.
+
+No se fija cuántos días duró el viaje ni se identifica por nombre el poblado de la viñeta anterior.
 

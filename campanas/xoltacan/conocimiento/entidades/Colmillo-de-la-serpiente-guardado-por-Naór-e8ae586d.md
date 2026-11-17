@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-118](../capitulos/48.md), [48-120](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### El recuerdo que debe esperar
 

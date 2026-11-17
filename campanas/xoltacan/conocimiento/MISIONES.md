@@ -246,3 +246,15 @@ Historial de objetivos, resultados y consecuencias por episodio; las fichas post
 - Cap. 48: Recoger a Leo: Naór fija una hora de regreso, rechaza un descanso de una hora y parte antes que los demás. El vídeo termina con el niño esperando; el rol posterior representa la recogida y el acuerdo de ayuda entre las madres (48-023, 48-080, 48-120, 48-129). ([ficha](capitulos/48.md)).
 - Cap. 48: Controlar la ira y atender los cuidados: Naór realiza una clase con la tortuga y Walulu financia su continuación. Los ejercicios no impiden sus nuevas recaídas durante la expedición (48-018–48-022, 48-028, 48-034). ([ficha](capitulos/48.md)).
 - Cap. 48: Equipar la expedición: Eldrath vende un jade, compra armadura y antitoxinas y parte con un tatuaje incompleto. Más tarde el grupo recupera tres botellas y las reparte (48-024–48-030, 48-077–48-079). ([ficha](capitulos/48.md)).
+- Cap. 49: Investigar el Ojo que lleva Molly: se explora el templo señalado por Walulu y se recupera una profecía en papeles abisales, sin resolver todavía la función del objeto (49-012–49-017, 49-110–49-113). ([ficha](capitulos/49.md)).
+- Cap. 49: Abrir el acceso y proteger el avance: raíces quemadas, puerta abierta y dos trampas desactivadas; una criatura interrumpe el examen de las urnas (49-027–49-038). ([ficha](capitulos/49.md)).
+- Cap. 49: Dar a Kilzer un nuevo refugio tras la destrucción del casino: entra en Iktan y coopera en su seguridad, sin reconstrucción del negocio documentada (49-004–49-011, 49-015). ([ficha](capitulos/49.md)).
+- Cap. 49: Aclarar con Eleanor lo que ocurrió durante la pérdida de memoria de Erandy; la conversación vuelve a aplazarse (49-002, 49-014). ([ficha](capitulos/49.md)).
+- Cap. 49: Sobrevivir al cerco de los no muertos: Eleanor cae y vuelve a actuar con el apoyo de Patata; el grupo vence a esos rivales (49-048–49-050,49-056,49-065). ([ficha](capitulos/49.md)).
+- Cap. 49: Recuperar información del templo: Patata restaura los papeles del altar y él y Erandy recuerdan su traducción recibida mediante ayuda divina (49-085, 49-108–49-111). ([ficha](capitulos/49.md)).
+- Cap. 49: Abrir paso entre las estatuas peligrosas: Kilzer deja un mecanismo trabado y activo, pero consigue desactivar otro con Erandy. Otra figura todavía descarga veneno al avanzar (49-069–49-072). ([ficha](capitulos/49.md)).
+- Cap. 49: Investigar las cámaras del templo: se encuentran cuerpos abiertos y una búsqueda sin objeto identificado; las cuatro estatuas superiores son seguras. ([ficha](capitulos/49.md)).
+- Cap. 49: Sobrevivir a la emboscada del altar: los compañeros combaten y Eleanor derriba a la abominación, sin anular la fuente de animación del lugar. ([ficha](capitulos/49.md)).
+- Cap. 49: Recuperar los documentos del altar: Patata repara las hojas y las conserva todavía frágiles; Patata y Erandy recuerdan la traducción recibida. ([ficha](capitulos/49.md)).
+- Cap. 49: Interpretar el mensaje y comunicarlo a Walulu: pendiente. La salida se dirige a Iktan sin una audiencia representada. ([ficha](capitulos/49.md)).
+- Cap. 49: Descansar tras la expedición: intención de regreso, sin descanso completado en este bloque. ([ficha](capitulos/49.md)).

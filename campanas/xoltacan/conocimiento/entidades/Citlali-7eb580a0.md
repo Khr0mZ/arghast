@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Mamá y el huevo de las ruinas
 
@@ -2419,4 +2419,20 @@ Tipo: `declaracion_personaje`.
 En el repaso inicial, la jugadora de Naór recuerda que conoció a Citlali al salir del colegio de Leo y Eztli: hubo un desencuentro, pero comprobaron que los pequeños jugaban juntos. También recuerda haber ido a entrenar con el interlocutor transcrito como Ilicar y Lilicar; dice que lo dejó inconsciente y que después ella acabó inconsciente en un combate con Tortas.
 
 Recapitulación de acontecimientos anteriores, sin volver a representar los encuentros. La identificación del nombre Ilicar/Lilicar con Ilikar es compatible con el catálogo, pero no se utiliza este repaso para fijar una nueva identidad ni las circunstancias de cada pérdida de conocimiento.
+
+## [49-012 · Molly muestra el ojo que atribuye a una expedición con Bonny](../capitulos/49.md) · 00:15:11.360
+
+Tipo: `hecho_confirmado`.
+
+Molly pone papeles sobre la mesa y extrae de su bolsa una esfera del tamaño aproximado de una mano, con aspecto de ojo. El director la identifica como la misma que había mostrado al estar con Citlali. Molly afirma que Bonny y ella la encontraron en un templo donde vieron una cosa extraña.
+
+Conservar como atribución de Molly el hallazgo con Bonny. La continuidad con el ojo mostrado a Citlali no autoriza a fusionarlo con el Ojo-orbe recuperado por Nox; el cotejo de rol distingue dos objetos.
+
+## [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920
+
+Tipo: `declaracion_personaje`.
+
+Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly dice que quieren averiguar para qué sirve el objeto y que al cogerlo pasó algo. Eleanor explica que Citlali era anciana y ahora es joven; al recordar la batalla alude a que su escudera estaba loca y vuelve a posponer la conversación. Molly transmite que, según Walulu, los yuan-ti intentaron envenenarla y atacar Iktan, pero otros lo evitaron.
+
+La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
 

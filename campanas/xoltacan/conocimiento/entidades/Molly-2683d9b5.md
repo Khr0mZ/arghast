@@ -2,17 +2,17 @@
 
 Menciones documentadas por capítulo y minuto. La etiqueta no garantiza grafía oficial; véanse limitaciones y nombres dudosos de cada episodio.
 
-Capitana de la Marina vinculada a las deudas de los piratas y al Fuerte Aurora.
+Antigua capitana de la Marina que organiza la defensa y las investigaciones sobre los Ojos en Iktan.
 
 Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.
 
 Etiquetas agrupadas: Molly (capitana de Marina); Molly (capitana de la Marina); Molly / Moli (capitana de Marina, grafía provisional).
 
-Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md), [48-006](../capitulos/48.md), [48-017](../capitulos/48.md).
+Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md), [48-006](../capitulos/48.md), [48-017](../capitulos/48.md), [49-011](../capitulos/49.md), [49-012](../capitulos/49.md), [49-013](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-016](../capitulos/49.md), [49-017](../capitulos/49.md), [49-018](../capitulos/49.md), [49-020](../capitulos/49.md), [49-024](../capitulos/49.md), [49-025](../capitulos/49.md), [49-044](../capitulos/49.md), [49-051](../capitulos/49.md), [49-058](../capitulos/49.md), [49-064](../capitulos/49.md), [49-079](../capitulos/49.md), [49-080](../capitulos/49.md), [49-088](../capitulos/49.md), [49-089](../capitulos/49.md), [49-091](../capitulos/49.md), [49-095](../capitulos/49.md), [49-099](../capitulos/49.md), [49-103](../capitulos/49.md), [49-113](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una capitana con vínculos en ambos bandos
 
@@ -61,6 +61,36 @@ Fuentes: [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../cap
 Tryel mira a Molly mientras se toca el pelo y la considera una persona amigable con la que acercarse a hablar. Eldrath le advierte que parece juntarse con una mesa de hombres que él toma por piratas de Shiaru. Coyote también comenta su atractivo y provoca que la elfa reclame haberla visto primero. Molly no interviene ni se define una relación entre ella y ninguno de los dos.
 
 Fuentes: [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360 · [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320.
+
+### Una investigación reunida alrededor de una esfera
+
+Molly llega a la taberna y reclama a Patata para reunirlo con Eleanor y Erandy. Ha consultado a Walulu, de quien recibe pergaminos y un mapa. Muestra el ojo que atribuye a una expedición con Bonny, enlazado por el director con el que había enseñado a Citlali. Considera que un templo antiguo yuan-ti puede aportar información sobre su función y pide ayuda a los sacerdotes, la caballera y Kilzer. Conserva el objeto guardado frente a la sospecha de que pueda estar observándolos.
+
+Fuentes: [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639 · [49-012 · Molly muestra el ojo que atribuye a una expedición con Bonny](../capitulos/49.md) · 00:15:11.360 · [49-013 · Los documentos de Walulu apuntan a templos yuan-ti](../capitulos/49.md) · 00:16:27.040 · [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920 · [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200 · [49-016 · La hipótesis de que el ojo observe inspira un dibujo](../capitulos/49.md) · 00:21:52.159 · [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039 · [49-018 · Erandy y Kilzer se reparten las trampas](../capitulos/49.md) · 00:24:51.200.
+
+### La guía cede el mapa
+
+Calcula medio día de camino, pero al internarse en la jungla pide ayuda para orientarse. Patata detecta un desvío y pasa al frente; ella lo sigue, participa en el consumo de frutas y les pide reanudar la marcha. Al llegar, el abandono visible del templo coincide con la información que transmitió de Walulu.
+
+Fuentes: [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039 · [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559 · [49-024 · Kilzer gana saltos largos y Molly recibe otro efecto](../capitulos/49.md) · 00:32:20.080 · [49-025 · La pirámide yuan-ti está cubierta de raíces](../capitulos/49.md) · 00:33:17.480.
+
+### Fuego de apoyo entre las tumbas
+
+Molly aprovecha un brasero y otros puntos de cobertura para disparar contra los no muertos y recargar. Mantiene el apoyo mientras los demás contienen a los atacantes. Dentro de Silencio sus tiros no se oyen; cuando el cerco se va rompiendo, se recoloca y elimina otra amenaza.
+
+Fuentes: [49-044 · Molly utiliza el brasero como cobertura y recarga su arma](../capitulos/49.md) · 00:58:24.039 · [49-051 · Molly mantiene el fuego de apoyo mientras se recuerda la ventaja](../capitulos/49.md) · 01:08:03.317 · [49-058 · Los disparos de Molly no se oyen dentro del área mágica](../capitulos/49.md) · 01:20:03.440 · [49-064 · Molly elimina otro adversario y Kilzer supera al fin Santuario](../capitulos/49.md) · 01:27:07.960.
+
+### El recuerdo de otro templo y el combate del altar
+
+Molly recuerda haber encontrado el ojo con Bonny en un templo semejante al que ahora exploran. Le cuesta creer que una esfera así estuviera dentro de un cuerpo, y la investigación no resuelve qué buscaban en las autopsias. Se burla de la inquietud de Kilzer, pero la emboscada sorprende al grupo. Corre hacia una serpiente, consigue dos ataques críticos y continúa disparando durante la lucha con la mayor.
+
+Fuentes: [49-079 · Molly recuerda el ojo encontrado con Bonny](../capitulos/49.md) · 01:48:18.480 · [49-080 · La búsqueda de órganos provoca hipótesis sobre un culto](../capitulos/49.md) · 01:49:23.880 · [49-088 · Molly responde a la vigilancia inquieta de Kilzer](../capitulos/49.md) · 01:58:09.920 · [49-089 · Los huesos forman dos serpientes a espaldas del grupo](../capitulos/49.md) · 01:59:19.320 · [49-091 · Molly acude a atacar a la serpiente](../capitulos/49.md) · 02:03:44.679 · [49-095 · La abominación se vuelve contra quien la apuñala](../capitulos/49.md) · 02:09:55.119 · [49-099 · El combate deja a Kilzer apresado y sin ataque furtivo](../capitulos/49.md) · 02:15:40.520.
+
+### La pequeña también puede proteger a su señora
+
+Al terminar, Molly detiene a Eleanor y le recuerda que había insistido en que Erandy no era una niña. Observa que la escudera está menos herida y propone que pueda cuidar de su señora. Después sale con el grupo y con la información que Patata conserva.
+
+Fuentes: [49-103 · Molly cuestiona que Eleanor siga tratando a Erandy como una niña](../capitulos/49.md) · 02:20:27.680 · [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160.
 
 ## Registros y evidencias
 
@@ -583,4 +613,244 @@ Tipo: `hecho_confirmado`.
 Coyote se acerca a Tryel y comenta el atractivo de Molly. Tryel se le planta delante, le dice que ella la vio primero e intenta intimidarlo. Coyote responde con bromas, y la elfa le gruñe antes de moverse.
 
 Es interés y rivalidad expresados por Tryel y Coyote. Molly no responde ni consiente una relación en esta escena.
+
+## [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639
+
+Tipo: `hecho_confirmado`.
+
+Molly entra buscando a alguien, llama a Patata y se sienta a la mesa de Eleanor y Erandy. Patata invita a Kilzer, que inicialmente rechaza ir a hablar de trabajo con una marine. Molly se alegra de encontrarlos fuera del pueblo del que les había advertido que salieran.
+
+No implica una rehabilitación de Molly en la Marina ni un alistamiento de Kilzer. Su comentario sobre la advertencia no describe por completo la evacuación de Shiaru.
+
+## [49-012 · Molly muestra el ojo que atribuye a una expedición con Bonny](../capitulos/49.md) · 00:15:11.360
+
+Tipo: `hecho_confirmado`.
+
+Molly pone papeles sobre la mesa y extrae de su bolsa una esfera del tamaño aproximado de una mano, con aspecto de ojo. El director la identifica como la misma que había mostrado al estar con Citlali. Molly afirma que Bonny y ella la encontraron en un templo donde vieron una cosa extraña.
+
+Conservar como atribución de Molly el hallazgo con Bonny. La continuidad con el ojo mostrado a Citlali no autoriza a fusionarlo con el Ojo-orbe recuperado por Nox; el cotejo de rol distingue dos objetos.
+
+## [49-013 · Los documentos de Walulu apuntan a templos yuan-ti](../capitulos/49.md) · 00:16:27.040
+
+Tipo: `declaracion_personaje`.
+
+Molly dice haber hablado con Walulu y haber recibido pergaminos. Los símbolos y las explicaciones que le ha dado la chamana la llevan a buscar más información sobre el ojo en alguno de los templos antiguos de los yuan-ti.
+
+Es una pista y una propuesta de investigación; todavía no se traduce el objeto ni se identifica una relación causal con el dragón o sus muertos.
+
+## [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920
+
+Tipo: `declaracion_personaje`.
+
+Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly dice que quieren averiguar para qué sirve el objeto y que al cogerlo pasó algo. Eleanor explica que Citlali era anciana y ahora es joven; al recordar la batalla alude a que su escudera estaba loca y vuelve a posponer la conversación. Molly transmite que, según Walulu, los yuan-ti intentaron envenenarla y atacar Iktan, pero otros lo evitaron.
+
+La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
+
+## [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200
+
+Tipo: `hecho_confirmado`.
+
+Molly pide ayuda a los dos sacerdotes y a la caballera divina para adentrarse en el templo. Patata vuelve a llamar a Kilzer y le presenta la seguridad de Iktan como motivo para ayudar. Él, resignado a que acabarían llevándolo, se suma; Patata elogia su capacidad para infiltrarse. Erandy también quiere ayudar y espera recuperar recuerdos.
+
+La broma de Erandy llamando Bonnie a Molly no las convierte en la misma persona. La declaración de amnesia no demuestra que esta aventura vaya a curarla.
+
+## [49-016 · La hipótesis de que el ojo observe inspira un dibujo](../capitulos/49.md) · 00:21:52.159
+
+Tipo: `especulacion_jugadores`.
+
+Kilzer plantea que el ojo pudiera devolverles la mirada, revelar dónde están y orientar un ataque. Propone usar un dibujo en vez de sacarlo repetidamente. Molly replica que precisamente lo mantiene guardado y que aún desconocen qué es. Sin herramientas de pintura, Kilzer solo podría improvisar con cerveza un círculo y una raya, sin obtener una reproducción exacta.
+
+No se prueba que el ojo esté vivo, espíe, transmita ubicaciones o haya provocado ataques. Tampoco se representa la compra de un kit ni un retrato exacto terminado.
+
+## [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039
+
+Tipo: `declaracion_personaje`.
+
+Molly despliega un mapa de la zona que le ha dado Walulu. Señala el emplazamiento de un templo con el que hubo problemas hace unos doscientos o trescientos años y estima que podrían tardar medio día en llegar desde Iktan.
+
+Estimaciones orales, sin año exacto, escala o coordenadas transcritas. Es un mapa nuevo procedente de Walulu, no una marca identificada de los antiguos mapas de la Marina.
+
+## [49-018 · Erandy y Kilzer se reparten las trampas](../capitulos/49.md) · 00:24:51.200
+
+Tipo: `hecho_confirmado`.
+
+Erandy ofrece localizar trampas para proteger la marcha. Patata propone combinar esa capacidad con la habilidad de Kilzer para desactivarlas, y la escudera celebra la cooperación. Molly se levanta dispuesta a salir; Erandy se coloca junto a Eleanor y sube a su hombro.
+
+Es un plan de trabajo. No se garantiza aún que detecten o anulen todos los peligros del templo.
+
+## [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559
+
+Tipo: `hecho_confirmado`.
+
+Los cinco se internan en la jungla siguiendo a Molly, pero la portadora del mapa pide ayuda para orientarse. Patata se guía por el cielo y el dibujo, advierte un pequeño desvío y propone un giro a la derecha. Molly acepta que los guíe. Erandy escucha desde el hombro de Eleanor sin detectar un peligro cercano en ese momento.
+
+La orientación procede de una tirada y no proporciona una ruta georreferenciada; no detectar peligro en ese punto no prueba que toda la jungla sea segura.
+
+## [49-024 · Kilzer gana saltos largos y Molly recibe otro efecto](../capitulos/49.md) · 00:32:20.080
+
+Tipo: `explicacion_director`.
+
+La fruta permite a Kilzer saltar tres veces más lejos. Para Molly se obtiene un efecto de bonificación a una tirada aleatoria elegida por el director, que bromea con aplicarlo a todas. Tras comentar la voz de Eleanor, Molly corta las distracciones y pide continuar detrás de Patata.
+
+No se documenta duración ni debe convertirse la broma del director en un bono permanente a todas las pruebas de Molly. El alcance del salto es la comparación verbal, sin distancia en metros.
+
+## [49-025 · La pirámide yuan-ti está cubierta de raíces](../capitulos/49.md) · 00:33:17.480
+
+Tipo: `hecho_confirmado`.
+
+El grupo deja los caminos y avanza por vegetación densa, claros estrechos y restos de columnas. Dos enormes cabezas de serpiente preceden al templo: una pirámide de tres pisos que las raíces y la vegetación están engullendo. Su aspecto coincide con el abandono del que les habló Molly.
+
+Aspecto de abandono, no prueba de ausencia de habitantes. No se identifica con templos anteriores por compartir arquitectura serpentina.
+
+## [49-031 · Eleanor y Patata abren paso](../capitulos/49.md) · 00:40:41.079
+
+Tipo: `hecho_confirmado`.
+
+Eleanor no logra mover la puerta con un intento normal. Patata la ayuda en una prueba de atletismo con ventaja y consiguen arrastrar la hoja de piedra sobre el suelo hasta dejar una abertura suficiente para que entren todos.
+
+La frase sobre no poder cerrarla después es un comentario del grupo, no la demostración de un bloqueo mágico o permanente.
+
+## [49-032 · Encontrar trampas hace brillar las estatuas](../capitulos/49.md) · 00:41:48.640
+
+Tipo: `hecho_confirmado`.
+
+Una vez dentro, Erandy lanza Encontrar trampas y ve brillar las estatuas de serpiente. Advierte a los demás de que esconden algún mecanismo peligroso, aunque todavía no sabe si es mágico o cómo se activa.
+
+El brillo pertenece a la percepción concedida por el conjuro. No debe describirse como iluminación física observada necesariamente por todos.
+
+## [49-036 · El centro reúne veneno y vasijas con cenizas](../capitulos/49.md) · 00:45:39.880
+
+Tipo: `hecho_confirmado`.
+
+Al avanzar, Patata ve una pequeña cascada de veneno que cae desde arriba y rodea una zona central. Allí hay un altar con un gran recipiente también lleno de veneno y, en cuatro esquinas, altares menores con vasijas. Al mirar dos de estas, los viajeros encuentran cenizas.
+
+Solo se inspeccionan verbalmente dos vasijas; las bromas sobre explosiones no describen un daño ocurrido. No se afirma que las cenizas sean veneno o combustible.
+
+## [49-038 · Una criatura serpentina ataca al corcel](../capitulos/49.md) · 00:48:20.559
+
+Tipo: `hecho_confirmado`.
+
+Mientras el grupo examina las vasijas, el corcel relincha. Una criatura extraña de aspecto serpentino y perruno avanza, se yergue sobre dos patas y salta para golpearlo con zarpazos. El director aclara que es una criatura, no una trampa, y pide iniciativa.
+
+Primer ataque observado. Este bloque no resuelve el combate, no determina el número total de enemigos ni identifica una especie de bestiario o la desaparición del corcel.
+
+## [49-044 · Molly utiliza el brasero como cobertura y recarga su arma](../capitulos/49.md) · 00:58:24.039
+
+Tipo: `hecho_confirmado`.
+
+Molly se coloca junto al brasero para disparar protegida por la cobertura. Acierta a un adversario y utiliza la otra parte de su actuación para recargar el arma.
+
+La elección del brasero se presenta en parte como representación narrativa. No se introduce una segunda pistola ni se afirma que cada turno permita idéntica secuencia de disparos.
+
+## [49-051 · Molly mantiene el fuego de apoyo mientras se recuerda la ventaja](../capitulos/49.md) · 01:08:03.317
+
+Tipo: `hecho_confirmado`.
+
+Molly cambia de cobertura y dispara para aliviar a los compañeros. Durante sus ataques se recuerda que uno de los enemigos había usado ataques temerarios y estaba expuesto. La resolución incluye nuevos impactos, mientras los jugadores siguen pendientes de las criaturas próximas.
+
+El VTT entremezcla números y bromas sobre críticos. No se atribuye aquí a Molly un número exacto de muertes o de proyectiles más allá de lo que la narración permite seguir.
+
+## [49-058 · Los disparos de Molly no se oyen dentro del área mágica](../capitulos/49.md) · 01:20:03.440
+
+Tipo: `hecho_confirmado`.
+
+Molly avanza y vuelve a disparar contra los adversarios. Sus tiros no se oyen dentro del área de Silencio, lo que provoca una broma sobre un silenciador.
+
+La broma no incorpora un silenciador como accesorio real del arma: la ausencia de sonido procede de la zona mágica ya activa.
+
+## [49-064 · Molly elimina otro adversario y Kilzer supera al fin Santuario](../capitulos/49.md) · 01:27:07.960
+
+Tipo: `hecho_confirmado`.
+
+Molly se recoloca para atacar y un enemigo muere. Kilzer vuelve a enfrentarse a la protección de Santuario: falla un intento, pero puede repetir la salvación con la actuación adicional, superar la protección y acertar con ataque furtivo. Se aparta otra vez de la mano del no muerto.
+
+La secuencia no identifica por nombre a los no muertos ni establece que el blanco de ambos personajes sea el mismo. Superar una salvación no destruye Santuario de forma permanente.
+
+## [49-073 · El piso superior concentra el veneno y se solicita un descanso](../capitulos/49.md) · 01:40:22.080
+
+Tipo: `hecho_confirmado`.
+
+El grupo llega al piso superior y ve una poza central de veneno, desde la que gotea líquido hacia la planta inferior. Sospechan otra emboscada y la posible presencia de alguien que controla a los no muertos. Antes de seguir se pide un descanso corto para recuperar energía divina.
+
+La existencia de un controlador es una sospecha del grupo en este punto. El tramo termina durante la solicitud de descanso: no se confirma aquí que lo completen ni se anticipan los hallazgos posteriores.
+
+## [49-079 · Molly recuerda el ojo encontrado con Bonny](../capitulos/49.md) · 01:48:18.480
+
+Tipo: `declaracion_personaje`.
+
+Patata llama a Molly para preguntarle de dónde sacó el ojo; al principio dice Bonnie y corrige el nombre. Molly responde que ella y Bonny lo encontraron al llegar a la isla, en un templo muy parecido al presente y con las mismas inscripciones. Le parece extraño que una esfera de ese tamaño pudiera hallarse dentro de un cuerpo.
+
+La procedencia es testimonio de Molly. La semejanza de templos no los identifica, y este recuerdo no equipara automáticamente su objeto con el ojo llevado por Nox.
+
+## [49-080 · La búsqueda de órganos provoca hipótesis sobre un culto](../capitulos/49.md) · 01:49:23.880
+
+Tipo: `especulacion_jugadores`.
+
+Los compañeros creen que las autopsias pueden acercarlos a lo que buscan los ocupantes del templo. Entre las posibilidades mencionan resucitar a un dios serpiente y reunir órganos para formar un cuerpo; reconocen que pueden existir muchas explicaciones y quieren llevar información de vuelta.
+
+Son conjeturas de los expedicionarios. No queda confirmado un rito de resurrección, la identidad del dios ni la equivalencia con los Profundos, Citlali o Clolgedranx.
+
+## [49-088 · Molly responde a la vigilancia inquieta de Kilzer](../capitulos/49.md) · 01:58:09.920
+
+Tipo: `hecho_confirmado`.
+
+Kilzer se pone en guardia convencido de que algo va a atacarlos. Aunque vigila, no detecta lo que va a ocurrir. Molly le pone una mano encima y observa que quizá no debió acompañarlos si tiene tanto miedo.
+
+La preocupación de Kilzer y su tirada de percepción no bastan para advertir la emboscada. El comentario de Molly no representa una orden de abandonar la expedición.
+
+## [49-089 · Los huesos forman dos serpientes a espaldas del grupo](../capitulos/49.md) · 01:59:19.320
+
+Tipo: `explicacion_director`.
+
+Mientras Patata termina con los papeles y Erandy mira la llama, los huesos de su alrededor comienzan a moverse y forman una serpiente que no habían visto. A espaldas de Eleanor se levanta otra criatura, mucho mayor: una serpiente esquelética deformada cuya presencia trae presión al ambiente. El grupo queda sorprendido.
+
+Se distinguen una serpiente menor y otra enorme. No se identifica su animador ni se equiparan con la serpiente esquelética derrotada en la cueva del capítulo 48.
+
+## [49-091 · Molly acude a atacar a la serpiente](../capitulos/49.md) · 02:03:44.679
+
+Tipo: `hecho_confirmado`.
+
+Molly corre hacia la serpiente y realiza dos ataques que la mesa celebra como críticos. Los compañeros empiezan después a responder a la emboscada.
+
+Los comentarios sobre muerte automática por dos críticos pertenecen a ejemplos de otras mesas. No se asigna por ellos una regla de muerte o un reparto de bajas adicional.
+
+## [49-092 · Kilzer responde al peligro con ataques cercanos](../capitulos/49.md) · 02:05:06.400
+
+Tipo: `hecho_confirmado`.
+
+Kilzer se acerca a la criatura y le dice a Molly que esperaba algo así, más que sentir un miedo sin causa. Consigue un golpe con su ataque furtivo y usa su segunda acción de ataque, cuyo impacto solo roza al adversario.
+
+Las correcciones sobre ventaja, movimiento y ataque furtivo son resoluciones de esta ronda, no una ficha completa de capacidades o daños.
+
+## [49-095 · La abominación se vuelve contra quien la apuñala](../capitulos/49.md) · 02:09:55.119
+
+Tipo: `hecho_confirmado`.
+
+La abominación recibe una nueva resolución de daño y después gira hacia Kilzer, que intenta apuñalarla por detrás. Encadena ataques mientras él protesta y trata de esquivarlos. Molly responde disparando.
+
+No se asigna el daño previo a un conjuro concreto cuya adjudicación no queda verbalmente clara, ni se deduce una especie de bestiario del término abominación.
+
+## [49-099 · El combate deja a Kilzer apresado y sin ataque furtivo](../capitulos/49.md) · 02:15:40.520
+
+Tipo: `hecho_confirmado`.
+
+La abominación mantiene la ofensiva y Molly continúa disparando y recargando. Cuando vuelve a intentar golpear, Kilzer está apresado: la desventaja le impide aprovechar el ataque furtivo y sus ataques fallan. Explica a los compañeros que la criatura le retiene los brazos.
+
+El tramo de ataques previos contiene cambios de objetivo y correcciones. Se documenta la restricción explícita de Kilzer sin reconstruir cada punto de daño o atribuirle heridas no visibles.
+
+## [49-103 · Molly cuestiona que Eleanor siga tratando a Erandy como una niña](../capitulos/49.md) · 02:20:27.680
+
+Tipo: `declaracion_personaje`.
+
+Tras la victoria intentan alejarse con prisa porque recuerdan al muerto que se deshizo en veneno abajo. Molly detiene a Eleanor y recuerda que ella misma había dicho que la pequeña no era una niña. Observa que Erandy está menos herida que su señora y sugiere que sea la escudera quien la cuide; Erandy también reprocha la impulsividad de Eleanor.
+
+La advertencia teme una nueva reacción venenosa, pero no la representa. El diálogo sobre cuidados no implica una ruptura del vínculo ni una curación completa.
+
+## [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros discuten todavía sobre la posibilidad de que se levanten más muertos, pero finalmente abandonan el templo yuan-ti perdido entre la jungla. La inscripción queda en manos de Patata y se dirigen hacia Iktan para descansar.
+
+Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 

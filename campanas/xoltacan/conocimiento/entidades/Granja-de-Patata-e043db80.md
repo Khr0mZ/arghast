@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Granja de Patata.
 
-Base para revisar equivalencia: [15-003](../capitulos/15.md), [15-007](../capitulos/15.md), [16-001](../capitulos/16.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md), [47-018](../capitulos/47.md).
+Base para revisar equivalencia: [15-003](../capitulos/15.md), [15-007](../capitulos/15.md), [16-001](../capitulos/16.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md), [47-018](../capitulos/47.md), [49-005](../capitulos/49.md), [49-010](../capitulos/49.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Sembrar junto al camino
 
@@ -31,6 +31,12 @@ Fuentes: [15-003 · Granja de Patata y dos piratas arrastrados](../capitulos/15.
 Patata encuentra el huerto totalmente destrozado durante su regreso a Shiaru. Más tarde cuenta que huyó después de que los nuevos ocupantes destruyeran su casa. Su búsqueda inmediata de agua y descanso expresa la pérdida de su refugio, sin que se acuerde todavía reconstruirlo o recuperarlo.
 
 Fuentes: [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760 · [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520 · [47-018 · Patata lava su armadura en el lago](../capitulos/47.md) · 00:24:06.960.
+
+### Dos refugiados recuerdan la misma pérdida
+
+Al contextualizar la huida de Kilzer, el director añade que la granja de Patata también estaba totalmente destrozada. En el reencuentro de la taberna, el propio agricultor reafirma que destruyeron su casa y su granja y que se perdió en la jungla antes de llegar a Iktan.
+
+Fuentes: [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839.
 
 ## Registros y evidencias
 
@@ -73,4 +79,20 @@ Tipo: `declaracion_personaje`.
 Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.
 
 El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio.
+
+## [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720
+
+Tipo: `explicacion_director`.
+
+Al situar el regreso de Kilzer, el director establece que los nuevos piratas destrozaron su casino y que la granja de Patata también estaba totalmente destruida. Kilzer tuvo que abandonar Shiaru y adentrarse en la jungla.
+
+Destrucción expresamente narrada. No acredita una apertura comercial anterior del casino, beneficios, indemnización o ruina de todos los bienes de Shiaru.
+
+## [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839
+
+Tipo: `hecho_confirmado`.
+
+Kilzer se acerca para comprobar que el agricultor es Patata y lo abraza; se reconocen entre bromas y manoseos mientras Eleanor intenta tapar los ojos de Erandy. Patata cuenta que perdió su casa y su granja, se extravió por la jungla y acabó allí. Pide una cerveza para su amigo.
+
+El diálogo reafirma la amistad y la pérdida de la granja, sin fijar un inventario de bienes, una fecha de destrucción o las personas que la ejecutaron.
 

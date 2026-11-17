@@ -303,3 +303,11 @@ Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta de
 - Cap. 48: ¿Quién anima a los muertos de la cueva y qué relación tiene con la magia que se disipa? (48-104, 48-117, 48-119, 48-124). ([ficha](capitulos/48.md)).
 - Cap. 48: ¿Servirán las muestras de la cueva para preparar una defensa eficaz contra el dragón verde? (48-125–48-127). ([ficha](capitulos/48.md)).
 - Cap. 48: ¿Qué valor, procedencia y destino tendrán los objetos recuperados del tesoro? (48-087, 48-092, 48-097, 48-121). ([ficha](capitulos/48.md)).
+- Cap. 49: ¿Para qué sirve el Ojo-orbe de Molly y Bonny y puede observar a quienes lo transportan? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿Qué hará Kilzer después de que su casino de Shiaru haya sido destruido? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿Qué buscaban dentro de los cuerpos abiertos del templo y quién realizó aquellas autopsias? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿Qué relación guarda el templo actual con el que Molly y Bonny visitaron al llegar a la isla? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿Quién o qué anima a los no muertos del templo y quedan más amenazas después de la salida? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿A quién y a qué hechos se refieren el fuego divino, el negro velo, los ojos de la serpiente, el amo dormido y la última muda? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿Llegarán los papeles y la traducción hasta Walulu y qué podrá aprender de ellos? ([ficha](capitulos/49.md)).
+- Cap. 49: ¿Por qué Chauntea y el dios de Erandy intervienen para hacer comprensible esta inscripción? ([ficha](capitulos/49.md)).

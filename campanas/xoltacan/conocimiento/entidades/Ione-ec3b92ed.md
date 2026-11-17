@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-027](../capitulos/03.md), [38-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una pirata endeudada y un secreto peligroso
 

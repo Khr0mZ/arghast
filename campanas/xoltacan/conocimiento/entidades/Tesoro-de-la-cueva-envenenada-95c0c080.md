@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-087](../capitulos/48.md), [48-092](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un collar entre piezas deterioradas
 

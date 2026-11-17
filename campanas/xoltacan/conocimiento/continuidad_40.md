@@ -1,6 +1,6 @@
 # Continuidad del capítulo 40
 
-El Festival del Anciano de Piedra se incorpora tras leer la transcripción completa en tres bloques sin solapamiento: 00:00–00:58, 00:58–01:56 y 01:56–02:53:08.359. Las fichas de trabajo se conservan en `campanas/xoltacan/revision/borradores/40/`; la integración reúne 42 registros con anclas literales, ocho etapas de relato y el cotejo de las preguntas anteriores. Se conservan las dos pistas VTT, sus TXT y los hashes. El audio no se ha cotejado.
+El Festival del Anciano de Piedra se incorpora tras leer la transcripción completa en tres bloques sin solapamiento: 00:00–00:58, 00:58–01:56 y 01:56–02:53:08.359. Los informes de lectura y reparto se conservan en `campanas/xoltacan/revision/borradores/40/`; las fichas finales reúnen 42 registros con anclas literales, ocho etapas de relato y el cotejo de las preguntas anteriores. Se conservan las dos pistas VTT, sus TXT y los hashes. El audio no se ha cotejado.
 
 ## Eromov, Leona y la advertencia
 

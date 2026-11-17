@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-008](../capitulos/03.md), [11-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un caballero y muchas Merlucillas
 

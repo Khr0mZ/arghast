@@ -2,6 +2,7 @@
 
 - Trabajar y verificar los cambios en local. No publicar, desplegar ni hacer `git push` sin que el usuario confirme expresamente que ha revisado y aprobado esa versión. La autorización de publicaciones anteriores no autoriza una nueva.
 - Presentar una versión local concreta para revisión antes de pedir autorización de publicación.
+- Los scripts de una sola ejecución y los datos intermedios son temporales: trabajar con ellos en `.local/` y eliminarlos al terminar la tarea. `revision/` conserva los informes finales de lectura, cotejo, integración y verificación; las fichas y relatos finales viven en `config/` y `conocimiento/`. No dejar transcripciones troceadas, copias de identidades o preguntas, ni generadores específicos por capítulo una vez integrados.
 - Kuroto debe recibir el mismo tratamiento editorial que Xoltacan: capítulos con relato completo y evidencias; personajes, lugares, facciones y objetos con historia; misiones, relaciones y seguimiento de preguntas entre sesiones.
 - Descargar subtítulos, catalogar vídeos o generar índices no equivale a revisar una campaña. No marcar sesiones como revisadas sin leer su transcripción completa ni fabricar resúmenes a partir de títulos o búsquedas parciales.
 - Mantener separadas las evidencias y las identidades de las dos campañas. Conservar los originales y verificar sus hashes.

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Happy Bonnie y el precio de Shiaru
 
@@ -1041,4 +1041,20 @@ Tipo: `declaracion_personaje`.
 Patata explica a Tesa que Shiaru era un pueblo de piratas gobernado por Bonny, a quien describe como muy peligrosa. Dice que ahora parece muerta, que expulsaron a quienes vivían allí y que hay nuevos piratas. Atribuye su huida a la destrucción de su casa.
 
 El cuerpo visto por Patata está respaldado por el director al inicio. La expulsión general, los ocupantes y la casa son aquí su relato: no se nombra a sus responsables ni se describe el estado de cada habitante o edificio.
+
+## [49-012 · Molly muestra el ojo que atribuye a una expedición con Bonny](../capitulos/49.md) · 00:15:11.360
+
+Tipo: `hecho_confirmado`.
+
+Molly pone papeles sobre la mesa y extrae de su bolsa una esfera del tamaño aproximado de una mano, con aspecto de ojo. El director la identifica como la misma que había mostrado al estar con Citlali. Molly afirma que Bonny y ella la encontraron en un templo donde vieron una cosa extraña.
+
+Conservar como atribución de Molly el hallazgo con Bonny. La continuidad con el ojo mostrado a Citlali no autoriza a fusionarlo con el Ojo-orbe recuperado por Nox; el cotejo de rol distingue dos objetos.
+
+## [49-079 · Molly recuerda el ojo encontrado con Bonny](../capitulos/49.md) · 01:48:18.480
+
+Tipo: `declaracion_personaje`.
+
+Patata llama a Molly para preguntarle de dónde sacó el ojo; al principio dice Bonnie y corrige el nombre. Molly responde que ella y Bonny lo encontraron al llegar a la isla, en un templo muy parecido al presente y con las mismas inscripciones. Le parece extraño que una esfera de ese tamaño pudiera hallarse dentro de un cuerpo.
+
+La procedencia es testimonio de Molly. La semejanza de templos no los identifica, y este recuerdo no equipara automáticamente su objeto con el ojo llevado por Nox.
 

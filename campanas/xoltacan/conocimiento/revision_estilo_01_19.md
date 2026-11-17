@@ -43,6 +43,6 @@ Esta comprobación demuestra la conservación estructural de la evidencia. La co
 
 ## Registro de trabajo
 
-Los cambios revisados y la instantánea se encuentran en `campanas/xoltacan/derivados/revision_estilo_01_19/`. Las sustituciones son literales y se seleccionaron después de leer los registros; no constituyen una normalización automática de la voz de los personajes.
+Las sustituciones fueron literales y se seleccionaron después de leer los registros; no constituyen una normalización automática de la voz de los personajes. Los cambios finales están incorporados a las fichas. Las instantáneas y los auxiliares de aquella pasada se retiraron en la limpieza del 17/11/2026; su versión histórica permanece en Git.
 
-`scripts/revisar_estilo_01_19.py` conserva el primer pase histórico y está deshabilitado para impedir que restaure una instantánea antigua. La receta final compatible con `scripts/aplicar_estilo.py` es `campanas/xoltacan/revision/revision_estilo_01_19_final.json`: recoge metadatos y campos editoriales por ID, sin evidencia, tiempos o entidades. No se volvió a aplicar innecesariamente al exportarla. La incorporación habitual de episodios debe seguir los scripts de mantenimiento del proyecto y las revisiones de los borradores actuales.
+La receta final compatible con `scripts/aplicar_estilo.py` es `campanas/xoltacan/revision/revision_estilo_01_19_final.json`: recoge metadatos y campos editoriales por ID, sin evidencia, tiempos o entidades. No se volvió a aplicar innecesariamente al exportarla. Se conservan las herramientas comunes de mantenimiento; los generadores históricos específicos de esta pasada ya no forman parte del árbol de trabajo.

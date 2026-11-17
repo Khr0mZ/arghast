@@ -4,15 +4,15 @@ Menciones documentadas por capítulo y minuto. La etiqueta no garantiza grafía 
 
 Taberna de Iktan visitada por los viajeros.
 
-Entrada documentada en los registros citados.
+En el capítulo 49 se improvisa el rótulo Los Miaullidos y el director admite no recordar el anterior. Se conserva la continuidad propuesta del establecimiento y la discrepancia nominal.
 
-Etiquetas agrupadas: El Huevo Emplumado.
+Etiquetas agrupadas: El Huevo Emplumado; Los Miaullidos.
 
-Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [48-005](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-017](../capitulos/48.md).
+Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [48-005](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-017](../capitulos/48.md), [49-008](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-012](../capitulos/49.md), [49-019](../capitulos/49.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Descansar después del bosque
 
@@ -37,6 +37,12 @@ Fuentes: [47-077 · Tesara guía el regreso a Iktan](../capitulos/47.md) · 01:5
 Tesara llega desde el templo cargada de libros y pergaminos y encuentra a Eldrath, Tryel y Coyote. El elfo vigila a una mesa de clientes que le recuerdan piratas de Shiaru, mientras Tryel presta atención a Molly y Coyote toma cerveza mirando a la encargada felina. La historiadora deja el material en la barra y reclama una respuesta urgente al dragón. Allí comparte la historia de los archivos y recuerda los seis días de plazo. La salida se organiza entre la propuesta de visitar una cueva y los preparativos; antes de marcharse, Coyote y Tryel rivalizan de palabra por el interés en Molly.
 
 Fuentes: [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-006 · Eldrath sospecha de los clientes y Tryel mira a Molly](../capitulos/48.md) · 00:07:39.360 · [48-007 · Tesara pide adelantarse al golpe del dragón](../capitulos/48.md) · 00:09:05.760 · [48-012 · Tesara transmite los hallazgos y habla de otro dragón al mando](../capitulos/48.md) · 00:13:20.760 · [48-013 · El grupo dispone de seis días para responder al ultimátum](../capitulos/48.md) · 00:15:21.440 · [48-014 · Tryel recuerda una gran cueva donde se envenenó](../capitulos/48.md) · 00:16:30.160 · [48-015 · La falta de tiempo descarta buscar una gran biblioteca](../capitulos/48.md) · 00:17:43.559 · [48-017 · Tryel reclama prioridad ante el interés de Coyote por Molly](../capitulos/48.md) · 00:20:23.320.
+
+### Los Miaullidos en el rótulo de este día
+
+Kilzer llega a un establecimiento con taberna y descanso que el director llama Los Miaullidos después de reconocer que no recuerda si ya le puso nombre. Una encargada tabaxi elegante atiende a nativos y humanos, Eleanor y Erandy se sientan juntas, Patata permanece en la barra y los piratas de Ione beben en otra mesa. Allí se produce el reencuentro de los dos refugiados y Molly expone el ojo y los papeles antes de la salida.
+
+Fuentes: [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120 · [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839 · [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639 · [49-012 · Molly muestra el ojo que atribuye a una expedición con Bonny](../capitulos/49.md) · 00:15:11.360 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640.
 
 ## Registros y evidencias
 
@@ -167,4 +173,36 @@ Tipo: `hecho_confirmado`.
 Coyote se acerca a Tryel y comenta el atractivo de Molly. Tryel se le planta delante, le dice que ella la vio primero e intenta intimidarlo. Coyote responde con bromas, y la elfa le gruñe antes de moverse.
 
 Es interés y rivalidad expresados por Tryel y Coyote. Molly no responde ni consiente una relación en esta escena.
+
+## [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120
+
+Tipo: `explicacion_director`.
+
+Kilzer avanza receloso hasta una taberna con hospedaje cuyo rótulo se presenta como Los Miaullidos. Dentro encuentra un ambiente sin las botellas volando de Shiaru y una encargada tabaxi elegante, con el pelo trenzado. La presencia de alcohol termina de animarlo a entrar.
+
+El director duda del nombre anterior y bromea con cambiarlo según el capítulo. La continuidad de Patata, la encargada Angel y la reunión permite proponer vínculo con El Huevo Emplumado, pero debe conservarse la discrepancia del rótulo; no convertirla en dos locales probados.
+
+## [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000
+
+Tipo: `hecho_confirmado`.
+
+En la taberna están Eleanor, una mujer de armadura y cabellera rojiza, y su escudera kender Erandy; Kilzer no las conoce todavía. Sí reconoce a Patata en la barra y ve a los piratas de la tripulación de Ione en otra mesa, parte de ellos borrachos o inconscientes.
+
+No se enumeran todos los piratas ni se confirma que Ione esté sentada en esa mesa. La inconsciencia se presenta en el contexto de la bebida.
+
+## [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839
+
+Tipo: `hecho_confirmado`.
+
+Kilzer se acerca para comprobar que el agricultor es Patata y lo abraza; se reconocen entre bromas y manoseos mientras Eleanor intenta tapar los ojos de Erandy. Patata cuenta que perdió su casa y su granja, se extravió por la jungla y acabó allí. Pide una cerveza para su amigo.
+
+El diálogo reafirma la amistad y la pérdida de la granja, sin fijar un inventario de bienes, una fecha de destrucción o las personas que la ejecutaron.
+
+## [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639
+
+Tipo: `hecho_confirmado`.
+
+Molly entra buscando a alguien, llama a Patata y se sienta a la mesa de Eleanor y Erandy. Patata invita a Kilzer, que inicialmente rechaza ir a hablar de trabajo con una marine. Molly se alegra de encontrarlos fuera del pueblo del que les había advertido que salieran.
+
+No implica una rehabilitación de Molly en la Marina ni un alistamiento de Kilzer. Su comentario sobre la advertencia no describe por completo la evacuación de Shiaru.
 

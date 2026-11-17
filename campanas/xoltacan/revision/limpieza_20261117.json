@@ -1,0 +1,39 @@
+{
+  "fecha": "2026-11-17",
+  "estado": "limpieza_local_verificada_sin_publicar",
+  "archivos_retirados": 404,
+  "scripts_auxiliares_retirados": 97,
+  "bytes_retirados": 456850082,
+  "bytes_respaldos_consolidados": 29222623,
+  "bytes_liberados_netos": 427627459,
+  "archivos_funcionales_identicos": 6007,
+  "sha256_inventario_funcional": "a67553fc00d0683d8d22b376d73d64b6e1aac7945da5fc4de8e349ab0c354d88",
+  "reconstruccion_correcta": true,
+  "pruebas_unitarias_superadas": 102,
+  "enlaces_a_archivos_retirados": 0,
+  "lecturas_conservadas": {
+    "capitulos": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49
+    ],
+    "bloques": 30,
+    "informe": "reparto.json de cada capítulo; conserva cobertura y hashes de las entregas integradas"
+  },
+  "respaldos_online": {
+    "revisiones_distintas": 23,
+    "copias_comprimidas": 24,
+    "ubicacion": "campanas/<campaña>/fuentes/correcciones_online/",
+    "fuera_de_git": true
+  },
+  "fuentes_datos_fichas_y_rol_sin_cambios": true,
+  "capitulo49_conservado": true,
+  "criterio": "Retirar los generadores específicos ya ejecutados, transcripciones troceadas, entregas intermedias, copias de identidades y preguntas, instantáneas de estilo y preparaciones de publicaciones antiguas. Mantener herramientas comunes, fuentes originales, datos canónicos, informes finales y respaldos editoriales únicos."
+}

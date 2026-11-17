@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-045](../capitulos/43.md), [43-046](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La orden de matar y el altar encendido
 

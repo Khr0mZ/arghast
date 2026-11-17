@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Shiaru.
 
-Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [46-060](../capitulos/46.md), [46-063](../capitulos/46.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md).
+Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [46-060](../capitulos/46.md), [46-063](../capitulos/46.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md), [49-004](../capitulos/49.md), [49-005](../capitulos/49.md), [49-006](../capitulos/49.md), [49-010](../capitulos/49.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### El primer puerto y sus deudas
 
@@ -61,6 +61,12 @@ Fuentes: [46-060 · Ione propone recaudar recursos y reunir apoyos para recupera
 La vuelta de Patata muestra el huerto destrozado y a Bonny colgada en la entrada. Él cuenta después que nuevos piratas expulsaron a quienes vivían allí y que destruyeron su casa, motivo de su marcha a la jungla. El pasaje no establece quién gobierna ahora, cómo se repartió el poder ni qué edificios continúan en pie.
 
 Fuentes: [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto](../capitulos/47.md) · 00:00:21.760 · [47-017 · Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa](../capitulos/47.md) · 00:23:00.520.
+
+### Lo que Kilzer tuvo que abandonar
+
+En el contexto que le da el director, Kilzer permaneció cuidando su casino mientras se preparaba la guerra. Tras la explosión en el mar llegaron piratas de grandes galeones que echaron a la población para ocupar su sitio. El casino y la granja de Patata quedaron destruidos y Kilzer se internó en la jungla, convencido de que regresar ya no sería sencillo.
+
+Fuentes: [49-004 · Kilzer presenció la guerra y la llegada de otros piratas](../capitulos/49.md) · 00:02:18.879 · [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720 · [49-006 · Kilzer sobrevive buscando otro refugio](../capitulos/49.md) · 00:03:48.360 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839.
 
 ## Registros y evidencias
 
@@ -735,4 +741,28 @@ Tipo: `hecho_confirmado`.
 Eldrath vigila de reojo a una mesa de clientes que le parecen piratas de Shiaru y llama la atención de Tryel sobre ellos. Su hermana está distraída, tocándose el pelo y mirando a Molly. Tryel la considera amigable y propone acercarse; Eldrath le advierte que parece juntarse con los hombres de aquella mesa.
 
 La procedencia, afiliación y participación de estos clientes en la ocupación de Shiaru son sospechas de Eldrath. La escena no identifica a la mesa con los ocupantes referidos por Patata ni convierte a Molly en miembro de esa facción.
+
+## [49-004 · Kilzer presenció la guerra y la llegada de otros piratas](../capitulos/49.md) · 00:02:18.879
+
+Tipo: `explicacion_director`.
+
+El director sitúa el último tramo de Kilzer en Shiaru, cuidando de su casino mientras otros preparaban barcos para la guerra. Le relata la gran explosión en el mar y la llegada posterior de galeones con piratas que expulsaban a la población para ocupar su lugar.
+
+Contexto retrospectivo dado por el director. La explosión no se nombra aquí como Invictus; no se identifican capitán, pabellón o alianza de los ocupantes.
+
+## [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720
+
+Tipo: `explicacion_director`.
+
+Al situar el regreso de Kilzer, el director establece que los nuevos piratas destrozaron su casino y que la granja de Patata también estaba totalmente destruida. Kilzer tuvo que abandonar Shiaru y adentrarse en la jungla.
+
+Destrucción expresamente narrada. No acredita una apertura comercial anterior del casino, beneficios, indemnización o ruina de todos los bienes de Shiaru.
+
+## [49-006 · Kilzer sobrevive buscando otro refugio](../capitulos/49.md) · 00:03:48.360
+
+Tipo: `declaracion_personaje`.
+
+Kilzer explica que ha vagado por la jungla evitando bestias, levantando campamentos y alimentándose de frutas y animales pequeños. Da por poco viable volver a Shiaru y desea encontrar una cama cómoda y una hoguera donde calentarse.
+
+Relato del personaje. Su impresión de que no podrá volver a Shiaru no establece un impedimento permanente o una decisión de todos los refugiados.
 

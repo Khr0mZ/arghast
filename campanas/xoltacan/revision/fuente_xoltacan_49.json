@@ -1,0 +1,45 @@
+{
+  "id": "2ouV6qjHGD0",
+  "title": "D&D Aventuras en Xoltacan - Capítulo 49 - Buscando la Verdad",
+  "duration": 9167,
+  "upload_date": "20261117",
+  "channel": "Lichpol",
+  "channel_id": "UCWJ11LdxIuDJpbknXpSPgeg",
+  "webpage_url": "https://www.youtube.com/watch?v=2ouV6qjHGD0",
+  "capitulo": 49,
+  "recuperado_el": "2026-11-17",
+  "herramienta": "yt-dlp",
+  "version": "2026.08.19",
+  "estado_revision": "revisado",
+  "lectura": "Tres bloques completos sin solapamiento; 113 evidencias, 21 etapas y cotejo de las 301 preguntas anteriores. Audio no cotejado.",
+  "originales": {
+    "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.es-orig.txt": {
+      "sha256": "21e8ae2c2e30359b736550ec34d0d8ece13963c5dcfdeb16bbe27bb8980a5a2f",
+      "bytes": 150580
+    },
+    "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.es-orig.vtt": {
+      "sha256": "c5025e6fc101116f15695674212bfd77adc4c9d2750554279124ca6b9699fa68",
+      "bytes": 987145
+    },
+    "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.es.txt": {
+      "sha256": "21e8ae2c2e30359b736550ec34d0d8ece13963c5dcfdeb16bbe27bb8980a5a2f",
+      "bytes": 150580
+    },
+    "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.es.vtt": {
+      "sha256": "c5025e6fc101116f15695674212bfd77adc4c9d2750554279124ca6b9699fa68",
+      "bytes": 987145
+    },
+    "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.info.json": {
+      "sha256": "9afc88e77677404433f5257c803c746673597aad837833163a5727b837093b56",
+      "bytes": 549324
+    }
+  },
+  "reparto": "borradores/49/reparto.json",
+  "integracion": "borradores/49/integracion.json",
+  "cotejo_rol": "borradores/49/cotejo_rol.json",
+  "lectura_rol": {
+    "escenas": 4,
+    "mensajes": 144
+  },
+  "audio_cotejado": false
+}

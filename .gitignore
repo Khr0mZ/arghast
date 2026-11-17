@@ -18,5 +18,6 @@ campanas/*/publico/
 !.env.example
 .aws/
 .local/
+campanas/*/fuentes/correcciones_online/
 *.pem
 *.key

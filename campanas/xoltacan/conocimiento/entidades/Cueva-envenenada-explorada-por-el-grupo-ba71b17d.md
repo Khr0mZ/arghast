@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-014](../capitulos/48.md), [48-015](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Las pistas conducen a una entrada oculta
 

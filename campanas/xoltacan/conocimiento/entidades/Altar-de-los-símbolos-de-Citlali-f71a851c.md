@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-062](../capitulos/43.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Los símbolos de Citlali
 

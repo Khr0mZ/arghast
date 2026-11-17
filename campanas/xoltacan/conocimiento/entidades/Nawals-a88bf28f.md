@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-009](../capitulos/08.md), [08-020](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La tradición que recuerda Tlachka
 

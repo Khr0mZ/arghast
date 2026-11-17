@@ -12,7 +12,7 @@ Base para revisar equivalencia: [19-014](../capitulos/19.md), [25-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una presencia que cabe dentro de una fruta
 

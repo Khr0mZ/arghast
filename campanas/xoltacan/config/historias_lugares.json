@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 48,
+  "revisado_hasta": 49,
   "entidades": {
     "Atlan": [
       {
@@ -68,6 +68,15 @@
           "17-002",
           "21-002",
           "29-001"
+        ]
+      },
+      {
+        "titulo": "La destrucción del proyecto",
+        "texto": "El director sitúa a Kilzer en Shiaru cuidando el casino durante la movilización bélica. Después de la explosión y de la llegada de otros piratas, el local es destrozado. Kilzer pierde así el lugar desde el que intentaba rehacer su vida y debe buscar refugio por la jungla hasta llegar a Iktan.",
+        "referencias": [
+          "49-004",
+          "49-005",
+          "49-006"
         ]
       }
     ],
@@ -295,6 +304,18 @@
           "48-015",
           "48-017"
         ]
+      },
+      {
+        "titulo": "Los Miaullidos en el rótulo de este día",
+        "texto": "Kilzer llega a un establecimiento con taberna y descanso que el director llama Los Miaullidos después de reconocer que no recuerda si ya le puso nombre. Una encargada tabaxi elegante atiende a nativos y humanos, Eleanor y Erandy se sientan juntas, Patata permanece en la barra y los piratas de Ione beben en otra mesa. Allí se produce el reencuentro de los dos refugiados y Molly expone el ojo y los papeles antes de la salida.",
+        "referencias": [
+          "49-008",
+          "49-009",
+          "49-010",
+          "49-011",
+          "49-012",
+          "49-019"
+        ]
       }
     ],
     "Forja del Águila de Sangre": [
@@ -372,6 +393,14 @@
           "47-001",
           "47-017",
           "47-018"
+        ]
+      },
+      {
+        "titulo": "Dos refugiados recuerdan la misma pérdida",
+        "texto": "Al contextualizar la huida de Kilzer, el director añade que la granja de Patata también estaba totalmente destrozada. En el reencuentro de la taberna, el propio agricultor reafirma que destruyeron su casa y su granja y que se perdió en la jungla antes de llegar a Iktan.",
+        "referencias": [
+          "49-005",
+          "49-010"
         ]
       }
     ],
@@ -577,6 +606,23 @@
           "48-120",
           "48-128",
           "48-129"
+        ]
+      },
+      {
+        "titulo": "Refugio y punto de partida",
+        "texto": "Kilzer llega tras sobrevivir en la jungla y es admitido por una guardia cansada de ver visitantes extraños. La vegetación de la ciudad es especialmente abundante y colorida. Allí se reencuentra con Patata, Eleanor y Erandy, y Molly los reúne para buscar información sobre el ojo. La necesidad de proteger este posible refugio ayuda a convencer a Kilzer de participar.",
+        "referencias": [
+          "49-001",
+          "49-002",
+          "49-007",
+          "49-008",
+          "49-009",
+          "49-010",
+          "49-011",
+          "49-014",
+          "49-015",
+          "49-019",
+          "49-020"
         ]
       }
     ],
@@ -814,6 +860,16 @@
         "referencias": [
           "47-001",
           "47-017"
+        ]
+      },
+      {
+        "titulo": "Lo que Kilzer tuvo que abandonar",
+        "texto": "En el contexto que le da el director, Kilzer permaneció cuidando su casino mientras se preparaba la guerra. Tras la explosión en el mar llegaron piratas de grandes galeones que echaron a la población para ocupar su sitio. El casino y la granja de Patata quedaron destruidos y Kilzer se internó en la jungla, convencido de que regresar ya no sería sencillo.",
+        "referencias": [
+          "49-004",
+          "49-005",
+          "49-006",
+          "49-010"
         ]
       }
     ],
@@ -1255,6 +1311,83 @@
           "48-126",
           "48-127",
           "48-128"
+        ]
+      }
+    ],
+    "Templo yuan-ti del mapa de Walulu": [
+      {
+        "titulo": "Una entrada ganada al abandono",
+        "texto": "La expedición llega por una pista de Walulu sobre un templo antiguo. Encuentra columnas rotas, dos cabezas de serpiente enormes y una pirámide de tres pisos casi engullida por raíces. Erandy quema las que cruzan la puerta, Kilzer comprueba que la hoja no es una trampa y Eleanor y Patata la mueven hasta abrir paso.",
+        "referencias": [
+          "49-017",
+          "49-020",
+          "49-025",
+          "49-027",
+          "49-028",
+          "49-029",
+          "49-030",
+          "49-031"
+        ]
+      },
+      {
+        "titulo": "Veneno bajo las estatuas",
+        "texto": "Erandy localiza trampas en las figuras serpentinas y Kilzer desactiva dos mecanismos con herramientas de ladrón. Las piscinas burbujeantes contienen veneno y a veces una calavera. El centro reúne un altar con un recipiente venenoso, una pequeña cascada del mismo líquido y cuatro altares menores con urnas. Al examinarlas, una criatura serpentina ataca al corcel que Eleanor ha enviado como explorador y comienza la iniciativa.",
+        "referencias": [
+          "49-032",
+          "49-033",
+          "49-034",
+          "49-035",
+          "49-036",
+          "49-037"
+        ]
+      },
+      {
+        "titulo": "Las tumbas no están vacías",
+        "texto": "Puertas y tumbas laterales dejan salir criaturas que el director presenta como yuan-ti medio muertos. El grupo queda rodeado por rivales que muerden, disparan rayos y flechas y emplean defensas y curación. Una zona de Silencio limita a los viajeros hasta que una bola de fuego rompe el efecto. Acabar con esos enemigos permite reagruparse, pero no limpia el edificio de veneno.",
+        "referencias": [
+          "49-040",
+          "49-041",
+          "49-042",
+          "49-055",
+          "49-061",
+          "49-065",
+          "49-066",
+          "49-067"
+        ]
+      },
+      {
+        "titulo": "El veneno comunica las plantas",
+        "texto": "Las estatuas de una sala contienen mecanismos peligrosos. Un intento de desactivación deja uno roto y activado; otro sale bien con ayuda, sin detener la descarga de una figura enfrente. Al subir, los viajeros encuentran una poza central de veneno de la que gotea líquido hacia abajo. Sospechan nuevas emboscadas y un posible controlador de los muertos, todavía sin identificar.",
+        "referencias": [
+          "49-069",
+          "49-070",
+          "49-071",
+          "49-072",
+          "49-073"
+        ]
+      },
+      {
+        "titulo": "Autopsias bajo una capilla derruida",
+        "texto": "El piso superior a las primeras trampas conserva una poza y estatuas sin mecanismos. En las cámaras laterales yacen órganos, herramientas y cuerpos que parecen abiertos para buscar algo en su interior. La capilla reúne una estatua de serpiente incompleta, vasijas y un altar con papeles muy antiguos, iluminados todavía por llamas verdes sin calor. No se identifica la deidad o la causa de la búsqueda.",
+        "referencias": [
+          "49-075",
+          "49-077",
+          "49-078",
+          "49-081",
+          "49-082",
+          "49-084",
+          "49-086",
+          "49-087"
+        ]
+      },
+      {
+        "titulo": "La inscripción sale, el templo permanece",
+        "texto": "Los huesos forman dos serpientes que sorprenden a los investigadores. Tras derrotar a la abominación, los viajeros conservan una inscripción que Patata ha reparado y que él y Erandy comprenden mediante ayuda divina. Sus palabras apuntan a ojos, un sendero olvidado y un gran santuario. El grupo se marcha hacia Iktan, sin desactivar o destruir el lugar ni certificar que todos sus muertos hayan quedado eliminados.",
+        "referencias": [
+          "49-089",
+          "49-102",
+          "49-110",
+          "49-113"
         ]
       }
     ]

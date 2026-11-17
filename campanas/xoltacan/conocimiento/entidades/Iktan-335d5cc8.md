@@ -8,11 +8,11 @@ Ictan e Iktan corresponden al topónimo normalizado en las fichas.
 
 Etiquetas agrupadas: Iktan; Iktan (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-030](../capitulos/48.md), [48-120](../capitulos/48.md), [48-128](../capitulos/48.md), [48-129](../capitulos/48.md).
+Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-030](../capitulos/48.md), [48-120](../capitulos/48.md), [48-128](../capitulos/48.md), [48-129](../capitulos/48.md), [49-001](../capitulos/49.md), [49-002](../capitulos/49.md), [49-007](../capitulos/49.md), [49-008](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-019](../capitulos/49.md), [49-020](../capitulos/49.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -97,6 +97,12 @@ Fuentes: [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capi
 Naór emprende el regreso antes que sus compañeros para recoger a Leo, mientras los otros viajeros terminan de tomar muestras y acuerdan salir de la cueva. La narración vuelve al colegio de Iktan, donde una mujer felina y el niño esperan impacientes. Naór todavía corre por la jungla al acabar la sesión; no se representa una llegada general, una nueva audiencia con Walulu o el desenlace del ultimátum.
 
 Fuentes: [48-120 · Naór deja la investigación para recoger a Leo](../capitulos/48.md) · 03:08:22.880 · [48-128 · Los compañeros abandonan la cueva heridos](../capitulos/48.md) · 03:21:47.680 · [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840.
+
+### Refugio y punto de partida
+
+Kilzer llega tras sobrevivir en la jungla y es admitido por una guardia cansada de ver visitantes extraños. La vegetación de la ciudad es especialmente abundante y colorida. Allí se reencuentra con Patata, Eleanor y Erandy, y Molly los reúne para buscar información sobre el ojo. La necesidad de proteger este posible refugio ayuda a convencer a Kilzer de participar.
+
+Fuentes: [49-001 · Eleanor recuerda sus pesquisas en Iktan](../capitulos/49.md) · 00:00:21.080 · [49-002 · Erandy sigue esperando una conversación con Eleanor](../capitulos/49.md) · 00:00:56.480 · [49-007 · Los guardias dejan entrar a Kilzer en Iktan](../capitulos/49.md) · 00:04:43.840 · [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120 · [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839 · [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639 · [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920 · [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640 · [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559.
 
 ## Registros y evidencias
 
@@ -963,4 +969,84 @@ Tipo: `explicacion_director`.
 En la puerta del colegio de Iktan una mujer felina espera impaciente con libros y carpetas, acompañada por Leo. Dice que su madre volverá a llegar tarde. Al mismo tiempo Naór corre a toda prisa por la jungla, apartando ramas de su cara e insistiendo en que ya llega. La sesión termina antes del encuentro.
 
 La mujer no recibe nombre en este epílogo; no se la identifica automáticamente con Miaussy o Miausi. No se representa la entrega del colmillo, la recogida de Leo o una reunión de madres.
+
+## [49-001 · Eleanor recuerda sus pesquisas en Iktan](../capitulos/49.md) · 00:00:21.080
+
+Tipo: `declaracion_personaje`.
+
+En el repaso inicial, Eleanor dice haber explorado el pueblo desde su llegada, escuchando y preguntando a sus habitantes. Recuerda haber ido a ver a Erandy porque estaba preocupada y haber dado las gracias al calvo y al goliat.
+
+Recapitulación, no nueva representación de esas visitas. Los apelativos calvo y goliat no identifican por sí solos a cada persona agradecida.
+
+## [49-002 · Erandy sigue esperando una conversación con Eleanor](../capitulos/49.md) · 00:00:56.480
+
+Tipo: `declaracion_personaje`.
+
+Erandy cuenta que no se separa de su señora por miedo a perderse. Ha recorrido la ciudad junto a Eleanor e intentado hablar de lo que ocurrió, pero la caballera ha ido aplazando la conversación con otros asuntos.
+
+Se constata el reproche y la conversación pendiente; el repaso no reconstruye por sí mismo el suceso del que quiere hablar.
+
+## [49-003 · Patata recuerda el encargo del dragón](../capitulos/49.md) · 00:01:40.079
+
+Tipo: `declaracion_personaje`.
+
+Patata recapitula su llegada a Iktan después de encontrarse con muertos controlados por una especie de dragón verde. Recuerda que le pidió llevar a los elfos al bosque. Aunque no le caen bien, no quiere que mueran; dice haber dado vueltas por Iktan sin encontrarlos.
+
+Recapitulación de la amenaza, no un nuevo encuentro con el dragón ni prueba de que los hermanos hayan sido entregados.
+
+## [49-007 · Los guardias dejan entrar a Kilzer en Iktan](../capitulos/49.md) · 00:04:43.840
+
+Tipo: `explicacion_director`.
+
+El director describe las ropas deterioradas y los campamentos de Kilzer, con el detalle cómico de un poblado próximo que no ha visto. Finalmente llega a Iktan: los guardias, cansados de visitantes extraños, le permiten pasar y él encuentra una vegetación más abundante y colorida que la jungla circundante.
+
+No se fija cuántos días duró el viaje ni se identifica por nombre el poblado de la viñeta anterior.
+
+## [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120
+
+Tipo: `explicacion_director`.
+
+Kilzer avanza receloso hasta una taberna con hospedaje cuyo rótulo se presenta como Los Miaullidos. Dentro encuentra un ambiente sin las botellas volando de Shiaru y una encargada tabaxi elegante, con el pelo trenzado. La presencia de alcohol termina de animarlo a entrar.
+
+El director duda del nombre anterior y bromea con cambiarlo según el capítulo. La continuidad de Patata, la encargada Angel y la reunión permite proponer vínculo con El Huevo Emplumado, pero debe conservarse la discrepancia del rótulo; no convertirla en dos locales probados.
+
+## [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920
+
+Tipo: `declaracion_personaje`.
+
+Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly dice que quieren averiguar para qué sirve el objeto y que al cogerlo pasó algo. Eleanor explica que Citlali era anciana y ahora es joven; al recordar la batalla alude a que su escudera estaba loca y vuelve a posponer la conversación. Molly transmite que, según Walulu, los yuan-ti intentaron envenenarla y atacar Iktan, pero otros lo evitaron.
+
+La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
+
+## [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200
+
+Tipo: `hecho_confirmado`.
+
+Molly pide ayuda a los dos sacerdotes y a la caballera divina para adentrarse en el templo. Patata vuelve a llamar a Kilzer y le presenta la seguridad de Iktan como motivo para ayudar. Él, resignado a que acabarían llevándolo, se suma; Patata elogia su capacidad para infiltrarse. Erandy también quiere ayudar y espera recuperar recuerdos.
+
+La broma de Erandy llamando Bonnie a Molly no las convierte en la misma persona. La declaración de amnesia no demuestra que esta aventura vaya a curarla.
+
+## [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039
+
+Tipo: `declaracion_personaje`.
+
+Molly despliega un mapa de la zona que le ha dado Walulu. Señala el emplazamiento de un templo con el que hubo problemas hace unos doscientos o trescientos años y estima que podrían tardar medio día en llegar desde Iktan.
+
+Estimaciones orales, sin año exacto, escala o coordenadas transcritas. Es un mapa nuevo procedente de Walulu, no una marca identificada de los antiguos mapas de la Marina.
+
+## [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640
+
+Tipo: `hecho_confirmado`.
+
+Antes de partir, Patata promete a Angel traerle algo bonito de la jungla y ella lo despide con ternura. Kilzer quiere cambiar los harapos por ropa normal; durante los preparativos una carta del chat hace que le falte una moneda de oro. También se negocia la venta de dos objetos mediante la tienda de la mesa virtual.
+
+No se atribuye la pérdida de la moneda a un ladrón. Los dos objetos vendidos no se entienden con claridad en los subtítulos; no se inventan su identidad o precio. El cambio de ropa se acepta narrativamente sin coste verbal documentado.
+
+## [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros discuten todavía sobre la posibilidad de que se levanten más muertos, pero finalmente abandonan el templo yuan-ti perdido entre la jungla. La inscripción queda en manos de Patata y se dirigen hacia Iktan para descansar.
+
+Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 

@@ -8,11 +8,11 @@ Continuidad con la persona cortejada antes por Coyote, conservando grafía provi
 
 Etiquetas agrupadas: Angelique (persona de taberna Iktan, grafía provisional).
 
-Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md), [47-007](../capitulos/47.md), [47-008](../capitulos/47.md), [47-009](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md).
+Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md), [47-007](../capitulos/47.md), [47-008](../capitulos/47.md), [47-009](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [49-008](../capitulos/49.md), [49-019](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Los intentos de Coyote
 
@@ -37,6 +37,12 @@ Fuentes: [47-007 · Angelique tolera a unos clientes nuevos porque pagan bien](.
 Angelique atiende a los visitantes mientras los piratas consumen sus reservas. No cree al principio la excusa de Tesara sobre el dragón y le reprocha no traer los objetos que esperaba. Informa de la salida de la elfa y el entrenamiento del hermano, sin darles un paradero actual comprobado. Tras escuchar el ultimátum sugiere avisar a Walulu. Más tarde describe a Patata el encuentro anterior con Zoltan y promete presentarlos.
 
 Fuentes: [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../capitulos/47.md) · 02:00:10.840 · [47-080 · Angelique informa de la salida de la elfa y del entrenamiento de su hermano](../capitulos/47.md) · 02:02:28.400 · [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47.md) · 02:04:06.960 · [47-090 · Angelique cuenta a Patata su encuentro con Zoltan](../capitulos/47.md) · 02:17:15.880.
+
+### Un saludo para el regreso de Patata
+
+La encargada de pelo trenzado atiende una taberna mucho más tranquila que los locales que Kilzer recuerda de Shiaru. Al prepararse la expedición, Patata la llama Angel, promete traerle algo bonito y recibe una despedida tierna. No se presenta aquí un compromiso amoroso o un nombre nuevo completo.
+
+Fuentes: [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640.
 
 ## Registros y evidencias
 
@@ -151,4 +157,20 @@ Tipo: `hecho_confirmado`.
 Tesara saluda con sarcasmo a Naór como madre del año y pregunta por Leo. Naór dice que el niño está en el colegio y que hablará con él si se comporta mal. Tesara le reprocha sus malas palabras con ella, la camarera y otros vecinos y afirma que lo ha cuidado tres días. Naór le pone la mano en el hombro y aprieta hasta que le piden que afloje, mientras conserva un trato exageradamente amable.
 
 Los tres días son declaración expresa de Tesara. Sus preguntas sobre fugas, puñaladas o arrancar pelo son provocaciones, no nuevos incidentes escolares comprobados. La caída de palmeras narrada durante el intercambio no identifica expresamente a su causante.
+
+## [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120
+
+Tipo: `explicacion_director`.
+
+Kilzer avanza receloso hasta una taberna con hospedaje cuyo rótulo se presenta como Los Miaullidos. Dentro encuentra un ambiente sin las botellas volando de Shiaru y una encargada tabaxi elegante, con el pelo trenzado. La presencia de alcohol termina de animarlo a entrar.
+
+El director duda del nombre anterior y bromea con cambiarlo según el capítulo. La continuidad de Patata, la encargada Angel y la reunión permite proponer vínculo con El Huevo Emplumado, pero debe conservarse la discrepancia del rótulo; no convertirla en dos locales probados.
+
+## [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640
+
+Tipo: `hecho_confirmado`.
+
+Antes de partir, Patata promete a Angel traerle algo bonito de la jungla y ella lo despide con ternura. Kilzer quiere cambiar los harapos por ropa normal; durante los preparativos una carta del chat hace que le falte una moneda de oro. También se negocia la venta de dos objetos mediante la tienda de la mesa virtual.
+
+No se atribuye la pérdida de la moneda a un ladrón. Los dos objetos vendidos no se entienden con claridad en los subtítulos; no se inventan su identidad o precio. El cambio de ropa se acepta narrativamente sin coste verbal documentado.
 

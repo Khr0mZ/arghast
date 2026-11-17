@@ -127,6 +127,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
 - Cap. 47, 00:00:21.760: Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto ([47-001](capitulos/47.md)).
 - Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 49, 00:15:11.360: Molly muestra el ojo que atribuye a una expedición con Bonny ([49-012](capitulos/49.md)).
+- Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
 
 ## Abominación de la roca norte
 
@@ -308,6 +310,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 - Cap. 48, 00:05:53.080: Tesara llega cargada de libros a El Huevo Emplumado ([48-005](capitulos/48.md)).
 - Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
+- Cap. 49, 00:06:24.120: Los Miaullidos y su encargada tabaxi ([49-008](capitulos/49.md)).
+- Cap. 49, 00:25:53.640: Preparativos de ropa y una moneda perdida ([49-019](capitulos/49.md)).
 
 ## Angélica Thunder
 
@@ -319,6 +323,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 05, 00:29:00.000: Anillo del elfo y discusión sobre el imperio ([05-010](capitulos/05.md)).
 - Cap. 12, 00:24:15.000: Jack debe ir a Puerto de Espadas y volver con ganancias ([12-007](capitulos/12.md)).
 - Cap. 28, 01:43:00.000: Orbe entregado y visiones enviadas a Bonnie ([28-019](capitulos/28.md)).
+
+## Antorchas verdes del templo yuan-ti
+
+- Cap. 49, 01:54:33.280: Papeles de más de dos siglos se deshacen al tocarlos ([49-084](capitulos/49.md)).
+- Cap. 49, 01:56:02.480: Las llamas verdes iluminan sin desprender calor ([49-086](capitulos/49.md)).
 
 ## Arcan
 
@@ -747,6 +756,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
 
+## Beso de sirena
+
+- Cap. 49, 01:08:53.600: Kilzer remata a un adversario con Beso de sirena y se retira ([49-052](capitulos/49.md)).
+
 ## Bling
 
 - Cap. 03, 00:08:00.000: Hada cautiva de dos piratas ([03-002](capitulos/03.md)).
@@ -1069,6 +1082,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 21, 00:06:00.000: Venta y robo del casino ([21-002](capitulos/21.md)).
 - Cap. 23, 00:00:00.000: La carta de Nox impulsa el rescate ([23-001](capitulos/23.md)).
 - Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
+- Cap. 49, 00:02:18.879: Kilzer presenció la guerra y la llegada de otros piratas ([49-004](capitulos/49.md)).
+- Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
 
 ## Cañón tomado por Lunaria
 
@@ -1078,6 +1093,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Chalta
 
 - Cap. 19, 00:15:00.000: Investigar muertes de dinosaurios ([19-003](capitulos/19.md)).
+
+## Chauntea
+
+- Cap. 49, 02:26:55.920: Chauntea traduce los papeles a Patata ([49-108](capitulos/49.md)).
 
 ## Chimy
 
@@ -1472,6 +1491,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:19:39.960: Citlali intenta enseñar buenos modales a Etley ([46-064](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
 - Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
+- Cap. 49, 00:15:11.360: Molly muestra el ojo que atribuye a una expedición con Bonny ([49-012](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
 
 ## Claro de los restos envenenados
 
@@ -1566,6 +1587,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:14:10.600: El director separa el rastro mágico de las pozas ([48-124](capitulos/48.md)).
 - Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
 - Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
+- Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
 
 ## Colegio de Iktan
 
@@ -1641,6 +1663,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Copa dorada de la choza del jefe
 
 - Cap. 46, 00:52:32.520: Eleanor encuentra una copa dorada distinta de la que ya llevaba ([46-027](capitulos/46.md)).
+
+## Corcel fantasma de Eleanor
+
+- Cap. 49, 00:44:17.359: Eleanor envía un corcel fantasma por delante ([49-035](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
 
 ## Coyote
 
@@ -1790,6 +1817,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
 - Cap. 48, 03:20:48.760: Coyote obtiene veneno del colmillo restante ([48-127](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
+
+## Criatura serpentina que ataca al corcel
+
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
 
 ## Criatura tentacular del altar
 
@@ -2082,6 +2113,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
 - Cap. 48, 00:09:05.760: Tesara pide adelantarse al golpe del dragón ([48-007](capitulos/48.md)).
 - Cap. 48, 00:20:23.320: Tryel reclama prioridad ante el interés de Coyote por Molly ([48-017](capitulos/48.md)).
+- Cap. 49, 00:06:24.120: Los Miaullidos y su encargada tabaxi ([49-008](capitulos/49.md)).
+- Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
+- Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
+- Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
 
 ## Eldrath
 
@@ -2264,6 +2299,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
 - Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
+- Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
 
 ## Eleanor
 
@@ -2374,6 +2410,58 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:50:32.080: Citlali reconoce el camino y el grupo llega a Iktan ([46-052](capitulos/46.md)).
 - Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
 - Cap. 46, 02:20:18.479: Eleanor vende los objetos que llevaba ([46-065](capitulos/46.md)).
+- Cap. 49, 00:00:21.080: Eleanor recuerda sus pesquisas en Iktan ([49-001](capitulos/49.md)).
+- Cap. 49, 00:00:56.480: Erandy sigue esperando una conversación con Eleanor ([49-002](capitulos/49.md)).
+- Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
+- Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
+- Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:24:51.200: Erandy y Kilzer se reparten las trampas ([49-018](capitulos/49.md)).
+- Cap. 49, 00:28:22.559: Patata corrige el rumbo de Molly ([49-020](capitulos/49.md)).
+- Cap. 49, 00:30:30.960: Una fruta cambia el aspecto y la voz de Erandy ([49-021](capitulos/49.md)).
+- Cap. 49, 00:31:40.799: La fruta de Eleanor vuelve grave su voz ([49-022](capitulos/49.md)).
+- Cap. 49, 00:32:20.080: Kilzer gana saltos largos y Molly recibe otro efecto ([49-024](capitulos/49.md)).
+- Cap. 49, 00:33:17.480: La pirámide yuan-ti está cubierta de raíces ([49-025](capitulos/49.md)).
+- Cap. 49, 00:35:31.320: Una brocheta acompaña los preparativos de Erandy ([49-027](capitulos/49.md)).
+- Cap. 49, 00:37:36.520: La puerta pesada está atravesada por raíces ([49-028](capitulos/49.md)).
+- Cap. 49, 00:38:45.119: Erandy quema las raíces con Manos ardientes ([49-029](capitulos/49.md)).
+- Cap. 49, 00:39:48.640: Kilzer comprueba la puerta antes de empujar ([49-030](capitulos/49.md)).
+- Cap. 49, 00:40:41.079: Eleanor y Patata abren paso ([49-031](capitulos/49.md)).
+- Cap. 49, 00:41:48.640: Encontrar trampas hace brillar las estatuas ([49-032](capitulos/49.md)).
+- Cap. 49, 00:44:17.359: Eleanor envía un corcel fantasma por delante ([49-035](capitulos/49.md)).
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
+- Cap. 49, 00:49:53.960: Erandy responde al ataque al caballo con rayos de fuego ([49-039](capitulos/49.md)).
+- Cap. 49, 00:53:23.440: Los ataques se multiplican y el caballo queda deshecho ([49-042](capitulos/49.md)).
+- Cap. 49, 00:55:15.880: Patata ataca y dirige curación hacia la paladina ([49-043](capitulos/49.md)).
+- Cap. 49, 01:01:00.559: Erandy lanza una bola de fuego y comprueba cómo está Eleanor ([49-046](capitulos/49.md)).
+- Cap. 49, 01:04:53.359: Eleanor cae bajo los ataques y pierde la concentración ([49-048](capitulos/49.md)).
+- Cap. 49, 01:06:21.400: La salvación de muerte devuelve a Eleanor un punto de vida ([49-049](capitulos/49.md)).
+- Cap. 49, 01:07:20.240: Patata preserva la vida de Eleanor y se coloca para cubrirla ([49-050](capitulos/49.md)).
+- Cap. 49, 01:10:14.520: Erandy presenta su símbolo y formula una plegaria ([49-053](capitulos/49.md)).
+- Cap. 49, 01:13:52.440: Otra yuan-ti impone un área de silencio ([49-055](capitulos/49.md)).
+- Cap. 49, 01:15:23.719: Eleanor se levanta y vuelve a abatir enemigos dentro del silencio ([49-056](capitulos/49.md)).
+- Cap. 49, 01:24:48.239: Eleanor aprovecha el apoyo y vuelve a derribar a un enemigo ([49-062](capitulos/49.md)).
+- Cap. 49, 01:29:02.080: Patata da el último martillazo y termina esta lucha ([49-065](capitulos/49.md)).
+- Cap. 49, 01:33:29.080: Erandy recuerda que se trata de un templo yuan-ti abandonado ([49-066](capitulos/49.md)).
+- Cap. 49, 01:36:02.360: La búsqueda de información continúa entre los reproches de Eleanor ([49-068](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:44:49.280: Kilzer desconfía de la bendición solar y consulta la ruta ([49-076](capitulos/49.md)).
+- Cap. 49, 01:49:23.880: La búsqueda de órganos provoca hipótesis sobre un culto ([49-080](capitulos/49.md)).
+- Cap. 49, 01:50:19.599: Las demás salas repiten la búsqueda entre cuerpos secos ([49-081](capitulos/49.md)).
+- Cap. 49, 01:57:21.000: Eleanor revisa vasijas con órganos descompuestos ([49-087](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:01:08.840: Las serpientes apresan y muerden durante la sorpresa ([49-090](capitulos/49.md)).
+- Cap. 49, 02:06:38.480: Erandy coloca un guardián de fe y cura al grupo ([49-093](capitulos/49.md)).
+- Cap. 49, 02:08:41.000: Eleanor se libera de la cola y prepara una defensa ([49-094](capitulos/49.md)).
+- Cap. 49, 02:13:11.159: Erandy evita un coletazo y atiende a Eleanor ([49-097](capitulos/49.md)).
+- Cap. 49, 02:14:20.440: Eleanor sigue luchando con su castigo divino ([49-098](capitulos/49.md)).
+- Cap. 49, 02:19:45.240: Eleanor derriba a la abominación ([49-102](capitulos/49.md)).
+- Cap. 49, 02:20:27.680: Molly cuestiona que Eleanor siga tratando a Erandy como una niña ([49-103](capitulos/49.md)).
+- Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
+- Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Elger Banana
 
@@ -2460,6 +2548,58 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
+- Cap. 49, 00:00:21.080: Eleanor recuerda sus pesquisas en Iktan ([49-001](capitulos/49.md)).
+- Cap. 49, 00:00:56.480: Erandy sigue esperando una conversación con Eleanor ([49-002](capitulos/49.md)).
+- Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
+- Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
+- Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:24:51.200: Erandy y Kilzer se reparten las trampas ([49-018](capitulos/49.md)).
+- Cap. 49, 00:28:22.559: Patata corrige el rumbo de Molly ([49-020](capitulos/49.md)).
+- Cap. 49, 00:30:30.960: Una fruta cambia el aspecto y la voz de Erandy ([49-021](capitulos/49.md)).
+- Cap. 49, 00:31:40.799: La fruta de Eleanor vuelve grave su voz ([49-022](capitulos/49.md)).
+- Cap. 49, 00:33:17.480: La pirámide yuan-ti está cubierta de raíces ([49-025](capitulos/49.md)).
+- Cap. 49, 00:35:31.320: Una brocheta acompaña los preparativos de Erandy ([49-027](capitulos/49.md)).
+- Cap. 49, 00:37:36.520: La puerta pesada está atravesada por raíces ([49-028](capitulos/49.md)).
+- Cap. 49, 00:38:45.119: Erandy quema las raíces con Manos ardientes ([49-029](capitulos/49.md)).
+- Cap. 49, 00:40:41.079: Eleanor y Patata abren paso ([49-031](capitulos/49.md)).
+- Cap. 49, 00:41:48.640: Encontrar trampas hace brillar las estatuas ([49-032](capitulos/49.md)).
+- Cap. 49, 00:43:04.200: Kilzer desactiva dos trampas con sus herramientas ([49-034](capitulos/49.md)).
+- Cap. 49, 00:44:17.359: Eleanor envía un corcel fantasma por delante ([49-035](capitulos/49.md)).
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:47:11.839: Las vasijas son funerarias y no prueban un ritual activo ([49-037](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
+- Cap. 49, 00:49:53.960: Erandy responde al ataque al caballo con rayos de fuego ([49-039](capitulos/49.md)).
+- Cap. 49, 00:51:34.520: Una nueva criatura sale por una puerta y muerde a Erandy ([49-040](capitulos/49.md)).
+- Cap. 49, 00:58:52.319: Kilzer salta para aliviar el cerco de Erandy ([49-045](capitulos/49.md)).
+- Cap. 49, 01:01:00.559: Erandy lanza una bola de fuego y comprueba cómo está Eleanor ([49-046](capitulos/49.md)).
+- Cap. 49, 01:10:14.520: Erandy presenta su símbolo y formula una plegaria ([49-053](capitulos/49.md)).
+- Cap. 49, 01:12:24.560: Un no muerto intenta tocar a Kilzer y se protege con Santuario ([49-054](capitulos/49.md)).
+- Cap. 49, 01:22:26.719: Una nueva bola de fuego rompe el silencio ([49-060](capitulos/49.md)).
+- Cap. 49, 01:33:29.080: Erandy recuerda que se trata de un templo yuan-ti abandonado ([49-066](capitulos/49.md)).
+- Cap. 49, 01:36:02.360: La búsqueda de información continúa entre los reproches de Eleanor ([49-068](capitulos/49.md)).
+- Cap. 49, 01:37:06.600: La detección de Erandy permite advertir las estatuas peligrosas ([49-069](capitulos/49.md)).
+- Cap. 49, 01:38:16.400: La ayuda de Erandy permite desactivar solo una estatua ([49-071](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:41:29.560: El descanso de una hora se aplaza ([49-074](capitulos/49.md)).
+- Cap. 49, 01:44:49.280: Kilzer desconfía de la bendición solar y consulta la ruta ([49-076](capitulos/49.md)).
+- Cap. 49, 01:52:14.440: Erandy reconoce un culto sin identificar al dios ([49-082](capitulos/49.md)).
+- Cap. 49, 01:53:39.280: La comprobación de trampas no descubre a los enemigos ([49-083](capitulos/49.md)).
+- Cap. 49, 01:54:33.280: Papeles de más de dos siglos se deshacen al tocarlos ([49-084](capitulos/49.md)).
+- Cap. 49, 01:56:02.480: Las llamas verdes iluminan sin desprender calor ([49-086](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:06:38.480: Erandy coloca un guardián de fe y cura al grupo ([49-093](capitulos/49.md)).
+- Cap. 49, 02:13:11.159: Erandy evita un coletazo y atiende a Eleanor ([49-097](capitulos/49.md)).
+- Cap. 49, 02:18:57.280: Erandy consume su último hechizo en manos ardientes ([49-101](capitulos/49.md)).
+- Cap. 49, 02:20:27.680: Molly cuestiona que Eleanor siga tratando a Erandy como una niña ([49-103](capitulos/49.md)).
+- Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
+- Cap. 49, 02:26:04.319: Erandy recibe calma y una comprensión solo suya ([49-107](capitulos/49.md)).
+- Cap. 49, 02:27:58.920: La ayuda a Erandy llega como una sensación en el corazón ([49-109](capitulos/49.md)).
+- Cap. 49, 02:28:32.560: La inscripción enlaza el fuego velado, los ojos y un santuario ([49-110](capitulos/49.md)).
+- Cap. 49, 02:29:58.439: La traducción cesa y las palabras quedan en la memoria ([49-111](capitulos/49.md)).
+- Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Eromov
 
@@ -2543,6 +2683,15 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Estandarte de Eleanor
 
 - Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
+
+## Estatuas trampa del templo yuan-ti
+
+- Cap. 49, 01:37:06.600: La detección de Erandy permite advertir las estatuas peligrosas ([49-069](capitulos/49.md)).
+- Cap. 49, 01:37:26.239: El primer mecanismo queda roto y activado ([49-070](capitulos/49.md)).
+- Cap. 49, 01:38:16.400: La ayuda de Erandy permite desactivar solo una estatua ([49-071](capitulos/49.md)).
+- Cap. 49, 01:39:10.480: Otra estatua alcanza al grupo con veneno durante el paso ([49-072](capitulos/49.md)).
+- Cap. 49, 01:42:52.440: Las cuatro estatuas superiores no contienen trampas ([49-075](capitulos/49.md)).
+- Cap. 49, 01:53:39.280: La comprobación de trampas no descubre a los enemigos ([49-083](capitulos/49.md)).
 
 ## Eztli
 
@@ -2666,12 +2815,15 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
 - Cap. 47, 00:00:21.760: Patata encuentra su huerto destruido y el cuerpo de Bonny expuesto ([47-001](capitulos/47.md)).
 - Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
+- Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
 
 ## Guardia de Iktan
 
 - Cap. 47, 02:10:27.199: La protección dracónica no detiene por sí sola a la hueste ([47-083](capitulos/47.md)).
 - Cap. 47, 02:12:14.719: Walulu informa de varias guaridas dispersas ([47-084](capitulos/47.md)).
 - Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
+- Cap. 49, 00:04:43.840: Los guardias dejan entrar a Kilzer en Iktan ([49-007](capitulos/49.md)).
 
 ## Guayacán
 
@@ -2914,6 +3066,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 00:43:38.200: Los cinco salen de Iktan con Tryel como guía ([48-030](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 - Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
+- Cap. 49, 00:00:21.080: Eleanor recuerda sus pesquisas en Iktan ([49-001](capitulos/49.md)).
+- Cap. 49, 00:00:56.480: Erandy sigue esperando una conversación con Eleanor ([49-002](capitulos/49.md)).
+- Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
+- Cap. 49, 00:04:43.840: Los guardias dejan entrar a Kilzer en Iktan ([49-007](capitulos/49.md)).
+- Cap. 49, 00:06:24.120: Los Miaullidos y su encargada tabaxi ([49-008](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
+- Cap. 49, 00:25:53.640: Preparativos de ropa y una moneda perdida ([49-019](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Ilikar
 
@@ -3679,6 +3841,63 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 02:20:00.000: Secuestros y kraken que crece por rituales ([29-022](capitulos/29.md)).
 - Cap. 29, 02:32:00.000: Habitación pagada y descanso local ([29-024](capitulos/29.md)).
 - Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
+- Cap. 49, 00:02:18.879: Kilzer presenció la guerra y la llegada de otros piratas ([49-004](capitulos/49.md)).
+- Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
+- Cap. 49, 00:03:48.360: Kilzer sobrevive buscando otro refugio ([49-006](capitulos/49.md)).
+- Cap. 49, 00:04:43.840: Los guardias dejan entrar a Kilzer en Iktan ([49-007](capitulos/49.md)).
+- Cap. 49, 00:06:24.120: Los Miaullidos y su encargada tabaxi ([49-008](capitulos/49.md)).
+- Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
+- Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
+- Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:21:52.159: La hipótesis de que el ojo observe inspira un dibujo ([49-016](capitulos/49.md)).
+- Cap. 49, 00:24:51.200: Erandy y Kilzer se reparten las trampas ([49-018](capitulos/49.md)).
+- Cap. 49, 00:25:53.640: Preparativos de ropa y una moneda perdida ([49-019](capitulos/49.md)).
+- Cap. 49, 00:28:22.559: Patata corrige el rumbo de Molly ([49-020](capitulos/49.md)).
+- Cap. 49, 00:32:20.080: Kilzer gana saltos largos y Molly recibe otro efecto ([49-024](capitulos/49.md)).
+- Cap. 49, 00:33:17.480: La pirámide yuan-ti está cubierta de raíces ([49-025](capitulos/49.md)).
+- Cap. 49, 00:34:27.200: Patata protege a Kilzer antes de avanzar ([49-026](capitulos/49.md)).
+- Cap. 49, 00:35:31.320: Una brocheta acompaña los preparativos de Erandy ([49-027](capitulos/49.md)).
+- Cap. 49, 00:37:36.520: La puerta pesada está atravesada por raíces ([49-028](capitulos/49.md)).
+- Cap. 49, 00:39:48.640: Kilzer comprueba la puerta antes de empujar ([49-030](capitulos/49.md)).
+- Cap. 49, 00:40:41.079: Eleanor y Patata abren paso ([49-031](capitulos/49.md)).
+- Cap. 49, 00:41:48.640: Encontrar trampas hace brillar las estatuas ([49-032](capitulos/49.md)).
+- Cap. 49, 00:42:24.480: Las piscinas contienen veneno ([49-033](capitulos/49.md)).
+- Cap. 49, 00:43:04.200: Kilzer desactiva dos trampas con sus herramientas ([49-034](capitulos/49.md)).
+- Cap. 49, 00:44:17.359: Eleanor envía un corcel fantasma por delante ([49-035](capitulos/49.md)).
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
+- Cap. 49, 00:49:53.960: Erandy responde al ataque al caballo con rayos de fuego ([49-039](capitulos/49.md)).
+- Cap. 49, 00:52:30.839: Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer ([49-041](capitulos/49.md)).
+- Cap. 49, 00:58:52.319: Kilzer salta para aliviar el cerco de Erandy ([49-045](capitulos/49.md)).
+- Cap. 49, 01:03:21.400: Patata recibe un rayo crítico durante el cerco ([49-047](capitulos/49.md)).
+- Cap. 49, 01:08:53.600: Kilzer remata a un adversario con Beso de sirena y se retira ([49-052](capitulos/49.md)).
+- Cap. 49, 01:12:24.560: Un no muerto intenta tocar a Kilzer y se protege con Santuario ([49-054](capitulos/49.md)).
+- Cap. 49, 01:20:36.159: Santuario impide a Kilzer efectuar dos ataques ([49-059](capitulos/49.md)).
+- Cap. 49, 01:23:25.280: Los adversarios también se protegen y curan entre sí ([49-061](capitulos/49.md)).
+- Cap. 49, 01:27:07.960: Molly elimina otro adversario y Kilzer supera al fin Santuario ([49-064](capitulos/49.md)).
+- Cap. 49, 01:34:11.080: El veneno funde la piel de los cadáveres y frustra el registro ([49-067](capitulos/49.md)).
+- Cap. 49, 01:36:02.360: La búsqueda de información continúa entre los reproches de Eleanor ([49-068](capitulos/49.md)).
+- Cap. 49, 01:37:06.600: La detección de Erandy permite advertir las estatuas peligrosas ([49-069](capitulos/49.md)).
+- Cap. 49, 01:37:26.239: El primer mecanismo queda roto y activado ([49-070](capitulos/49.md)).
+- Cap. 49, 01:38:16.400: La ayuda de Erandy permite desactivar solo una estatua ([49-071](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:41:29.560: El descanso de una hora se aplaza ([49-074](capitulos/49.md)).
+- Cap. 49, 01:42:52.440: Las cuatro estatuas superiores no contienen trampas ([49-075](capitulos/49.md)).
+- Cap. 49, 01:44:49.280: Kilzer desconfía de la bendición solar y consulta la ruta ([49-076](capitulos/49.md)).
+- Cap. 49, 01:45:30.880: Las cámaras laterales contienen órganos y mesas de autopsia ([49-077](capitulos/49.md)).
+- Cap. 49, 01:50:19.599: Las demás salas repiten la búsqueda entre cuerpos secos ([49-081](capitulos/49.md)).
+- Cap. 49, 01:53:39.280: La comprobación de trampas no descubre a los enemigos ([49-083](capitulos/49.md)).
+- Cap. 49, 01:58:09.920: Molly responde a la vigilancia inquieta de Kilzer ([49-088](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:05:06.400: Kilzer responde al peligro con ataques cercanos ([49-092](capitulos/49.md)).
+- Cap. 49, 02:06:38.480: Erandy coloca un guardián de fe y cura al grupo ([49-093](capitulos/49.md)).
+- Cap. 49, 02:09:55.119: La abominación se vuelve contra quien la apuñala ([49-095](capitulos/49.md)).
+- Cap. 49, 02:11:24.400: Patata golpea y ayuda a Kilzer a contraatacar ([49-096](capitulos/49.md)).
+- Cap. 49, 02:15:40.520: El combate deja a Kilzer apresado y sin ataque furtivo ([49-099](capitulos/49.md)).
+- Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
+- Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## La Madriguera
 
@@ -4106,6 +4325,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 25, 02:24:00.000: Las órdenes buscan el mapa y el collar de Blink ([25-021](capitulos/25.md)).
 - Cap. 26, 00:28:20.000: Expedición hacia el sur pese a que el mapa indica otra dirección ([26-008](capitulos/26.md)).
 - Cap. 26, 01:15:00.000: Historia del mapa y collar oculto en mango ([26-015](capitulos/26.md)).
+
+## Mapa del templo entregado por Walulu
+
+- Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
+- Cap. 49, 00:28:22.559: Patata corrige el rumbo de Molly ([49-020](capitulos/49.md)).
 
 ## Marga
 
@@ -4551,6 +4775,36 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
 - Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
 - Cap. 48, 00:20:23.320: Tryel reclama prioridad ante el interés de Coyote por Molly ([48-017](capitulos/48.md)).
+- Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
+- Cap. 49, 00:15:11.360: Molly muestra el ojo que atribuye a una expedición con Bonny ([49-012](capitulos/49.md)).
+- Cap. 49, 00:16:27.040: Los documentos de Walulu apuntan a templos yuan-ti ([49-013](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:21:52.159: La hipótesis de que el ojo observe inspira un dibujo ([49-016](capitulos/49.md)).
+- Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
+- Cap. 49, 00:24:51.200: Erandy y Kilzer se reparten las trampas ([49-018](capitulos/49.md)).
+- Cap. 49, 00:28:22.559: Patata corrige el rumbo de Molly ([49-020](capitulos/49.md)).
+- Cap. 49, 00:32:20.080: Kilzer gana saltos largos y Molly recibe otro efecto ([49-024](capitulos/49.md)).
+- Cap. 49, 00:33:17.480: La pirámide yuan-ti está cubierta de raíces ([49-025](capitulos/49.md)).
+- Cap. 49, 00:40:41.079: Eleanor y Patata abren paso ([49-031](capitulos/49.md)).
+- Cap. 49, 00:41:48.640: Encontrar trampas hace brillar las estatuas ([49-032](capitulos/49.md)).
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
+- Cap. 49, 00:58:24.039: Molly utiliza el brasero como cobertura y recarga su arma ([49-044](capitulos/49.md)).
+- Cap. 49, 01:08:03.317: Molly mantiene el fuego de apoyo mientras se recuerda la ventaja ([49-051](capitulos/49.md)).
+- Cap. 49, 01:20:03.440: Los disparos de Molly no se oyen dentro del área mágica ([49-058](capitulos/49.md)).
+- Cap. 49, 01:27:07.960: Molly elimina otro adversario y Kilzer supera al fin Santuario ([49-064](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
+- Cap. 49, 01:49:23.880: La búsqueda de órganos provoca hipótesis sobre un culto ([49-080](capitulos/49.md)).
+- Cap. 49, 01:58:09.920: Molly responde a la vigilancia inquieta de Kilzer ([49-088](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:03:44.679: Molly acude a atacar a la serpiente ([49-091](capitulos/49.md)).
+- Cap. 49, 02:05:06.400: Kilzer responde al peligro con ataques cercanos ([49-092](capitulos/49.md)).
+- Cap. 49, 02:09:55.119: La abominación se vuelve contra quien la apuñala ([49-095](capitulos/49.md)).
+- Cap. 49, 02:15:40.520: El combate deja a Kilzer apresado y sin ataque furtivo ([49-099](capitulos/49.md)).
+- Cap. 49, 02:20:27.680: Molly cuestiona que Eleanor siga tratando a Erandy como una niña ([49-103](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Moneda negra del mercante
 
@@ -4886,6 +5140,52 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 02:53:33.359: Tryel levanta a Naór ([48-110](capitulos/48.md)).
 - Cap. 48, 02:59:42.479: Naór encadena ataques contra los esqueletos ([48-114](capitulos/48.md)).
 - Cap. 48, 03:01:42.279: Eldrath arrebata a Tryel el último remate ([48-115](capitulos/48.md)).
+
+## No muertos del templo yuan-ti
+
+- Cap. 49, 00:49:53.960: Erandy responde al ataque al caballo con rayos de fuego ([49-039](capitulos/49.md)).
+- Cap. 49, 00:51:34.520: Una nueva criatura sale por una puerta y muerde a Erandy ([49-040](capitulos/49.md)).
+- Cap. 49, 00:52:30.839: Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer ([49-041](capitulos/49.md)).
+- Cap. 49, 00:53:23.440: Los ataques se multiplican y el caballo queda deshecho ([49-042](capitulos/49.md)).
+- Cap. 49, 00:55:15.880: Patata ataca y dirige curación hacia la paladina ([49-043](capitulos/49.md)).
+- Cap. 49, 00:58:24.039: Molly utiliza el brasero como cobertura y recarga su arma ([49-044](capitulos/49.md)).
+- Cap. 49, 00:58:52.319: Kilzer salta para aliviar el cerco de Erandy ([49-045](capitulos/49.md)).
+- Cap. 49, 01:01:00.559: Erandy lanza una bola de fuego y comprueba cómo está Eleanor ([49-046](capitulos/49.md)).
+- Cap. 49, 01:03:21.400: Patata recibe un rayo crítico durante el cerco ([49-047](capitulos/49.md)).
+- Cap. 49, 01:04:53.359: Eleanor cae bajo los ataques y pierde la concentración ([49-048](capitulos/49.md)).
+- Cap. 49, 01:06:21.400: La salvación de muerte devuelve a Eleanor un punto de vida ([49-049](capitulos/49.md)).
+- Cap. 49, 01:08:03.317: Molly mantiene el fuego de apoyo mientras se recuerda la ventaja ([49-051](capitulos/49.md)).
+- Cap. 49, 01:08:53.600: Kilzer remata a un adversario con Beso de sirena y se retira ([49-052](capitulos/49.md)).
+- Cap. 49, 01:10:14.520: Erandy presenta su símbolo y formula una plegaria ([49-053](capitulos/49.md)).
+- Cap. 49, 01:12:24.560: Un no muerto intenta tocar a Kilzer y se protege con Santuario ([49-054](capitulos/49.md)).
+- Cap. 49, 01:13:52.440: Otra yuan-ti impone un área de silencio ([49-055](capitulos/49.md)).
+- Cap. 49, 01:15:23.719: Eleanor se levanta y vuelve a abatir enemigos dentro del silencio ([49-056](capitulos/49.md)).
+- Cap. 49, 01:18:34.440: Patata agota Canalizar divinidad y recurre a ayudar y golpear ([49-057](capitulos/49.md)).
+- Cap. 49, 01:20:03.440: Los disparos de Molly no se oyen dentro del área mágica ([49-058](capitulos/49.md)).
+- Cap. 49, 01:20:36.159: Santuario impide a Kilzer efectuar dos ataques ([49-059](capitulos/49.md)).
+- Cap. 49, 01:22:26.719: Una nueva bola de fuego rompe el silencio ([49-060](capitulos/49.md)).
+- Cap. 49, 01:23:25.280: Los adversarios también se protegen y curan entre sí ([49-061](capitulos/49.md)).
+- Cap. 49, 01:24:48.239: Eleanor aprovecha el apoyo y vuelve a derribar a un enemigo ([49-062](capitulos/49.md)).
+- Cap. 49, 01:25:39.040: Patata despliega espíritus guardianes cuando vuelve la voz ([49-063](capitulos/49.md)).
+- Cap. 49, 01:27:07.960: Molly elimina otro adversario y Kilzer supera al fin Santuario ([49-064](capitulos/49.md)).
+- Cap. 49, 01:29:02.080: Patata da el último martillazo y termina esta lucha ([49-065](capitulos/49.md)).
+- Cap. 49, 01:33:29.080: Erandy recuerda que se trata de un templo yuan-ti abandonado ([49-066](capitulos/49.md)).
+- Cap. 49, 01:34:11.080: El veneno funde la piel de los cadáveres y frustra el registro ([49-067](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:01:08.840: Las serpientes apresan y muerden durante la sorpresa ([49-090](capitulos/49.md)).
+- Cap. 49, 02:03:44.679: Molly acude a atacar a la serpiente ([49-091](capitulos/49.md)).
+- Cap. 49, 02:05:06.400: Kilzer responde al peligro con ataques cercanos ([49-092](capitulos/49.md)).
+- Cap. 49, 02:06:38.480: Erandy coloca un guardián de fe y cura al grupo ([49-093](capitulos/49.md)).
+- Cap. 49, 02:08:41.000: Eleanor se libera de la cola y prepara una defensa ([49-094](capitulos/49.md)).
+- Cap. 49, 02:09:55.119: La abominación se vuelve contra quien la apuñala ([49-095](capitulos/49.md)).
+- Cap. 49, 02:11:24.400: Patata golpea y ayuda a Kilzer a contraatacar ([49-096](capitulos/49.md)).
+- Cap. 49, 02:13:11.159: Erandy evita un coletazo y atiende a Eleanor ([49-097](capitulos/49.md)).
+- Cap. 49, 02:14:20.440: Eleanor sigue luchando con su castigo divino ([49-098](capitulos/49.md)).
+- Cap. 49, 02:15:40.520: El combate deja a Kilzer apresado y sin ataque furtivo ([49-099](capitulos/49.md)).
+- Cap. 49, 02:16:52.359: El martillo radiante de Patata tampoco consigue acertar ([49-100](capitulos/49.md)).
+- Cap. 49, 02:18:57.280: Erandy consume su último hechizo en manos ardientes ([49-101](capitulos/49.md)).
+- Cap. 49, 02:19:45.240: Eleanor derriba a la abominación ([49-102](capitulos/49.md)).
 
 ## Novato ausente de Ione
 
@@ -5282,6 +5582,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 00:23:12.440: Los defensores embarcan y ocupan sus puestos ([42-013](capitulos/42.md)).
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 
+## Ojo-orbe de Molly y Bonny
+
+- Cap. 49, 00:15:11.360: Molly muestra el ojo que atribuye a una expedición con Bonny ([49-012](capitulos/49.md)).
+- Cap. 49, 00:16:27.040: Los documentos de Walulu apuntan a templos yuan-ti ([49-013](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:21:52.159: La hipótesis de que el ojo observe inspira un dibujo ([49-016](capitulos/49.md)).
+- Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
+
 ## Ojo-orbe recuperado por Nox
 
 - Cap. 28, 01:10:00.000: Ojo-orbe arrancado de una estatua ([28-013](capitulos/28.md)).
@@ -5296,6 +5604,21 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Oliver
 
 - Cap. 47, 01:52:00.000: El dragón nombra a Oliver, hermano de Tesara ([47-074](capitulos/47.md)).
+
+## Papeles abisales recuperados por Patata
+
+- Cap. 49, 01:54:33.280: Papeles de más de dos siglos se deshacen al tocarlos ([49-084](capitulos/49.md)).
+- Cap. 49, 01:55:33.880: Patata reconstruye los papeles del altar ([49-085](capitulos/49.md)).
+- Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
+- Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
+- Cap. 49, 02:25:17.040: Patata siente un abrazo y ve cambiar la escritura ([49-106](capitulos/49.md)).
+- Cap. 49, 02:26:04.319: Erandy recibe calma y una comprensión solo suya ([49-107](capitulos/49.md)).
+- Cap. 49, 02:26:55.920: Chauntea traduce los papeles a Patata ([49-108](capitulos/49.md)).
+- Cap. 49, 02:27:58.920: La ayuda a Erandy llega como una sensación en el corazón ([49-109](capitulos/49.md)).
+- Cap. 49, 02:28:32.560: La inscripción enlaza el fuego velado, los ojos y un santuario ([49-110](capitulos/49.md)).
+- Cap. 49, 02:29:58.439: La traducción cesa y las palabras quedan en la memoria ([49-111](capitulos/49.md)).
+- Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Parroter
 
@@ -5522,12 +5845,67 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 - Cap. 47, 02:04:06.960: Tesara y el felino llevan el aviso a Walulu ([47-081](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
+- Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
+- Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
+- Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
+- Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:24:51.200: Erandy y Kilzer se reparten las trampas ([49-018](capitulos/49.md)).
+- Cap. 49, 00:25:53.640: Preparativos de ropa y una moneda perdida ([49-019](capitulos/49.md)).
+- Cap. 49, 00:28:22.559: Patata corrige el rumbo de Molly ([49-020](capitulos/49.md)).
+- Cap. 49, 00:32:01.519: Patata obtiene piel de piedra ([49-023](capitulos/49.md)).
+- Cap. 49, 00:33:17.480: La pirámide yuan-ti está cubierta de raíces ([49-025](capitulos/49.md)).
+- Cap. 49, 00:34:27.200: Patata protege a Kilzer antes de avanzar ([49-026](capitulos/49.md)).
+- Cap. 49, 00:38:45.119: Erandy quema las raíces con Manos ardientes ([49-029](capitulos/49.md)).
+- Cap. 49, 00:39:48.640: Kilzer comprueba la puerta antes de empujar ([49-030](capitulos/49.md)).
+- Cap. 49, 00:40:41.079: Eleanor y Patata abren paso ([49-031](capitulos/49.md)).
+- Cap. 49, 00:41:48.640: Encontrar trampas hace brillar las estatuas ([49-032](capitulos/49.md)).
+- Cap. 49, 00:44:17.359: Eleanor envía un corcel fantasma por delante ([49-035](capitulos/49.md)).
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:47:11.839: Las vasijas son funerarias y no prueban un ritual activo ([49-037](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
+- Cap. 49, 00:52:30.839: Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer ([49-041](capitulos/49.md)).
+- Cap. 49, 00:53:23.440: Los ataques se multiplican y el caballo queda deshecho ([49-042](capitulos/49.md)).
+- Cap. 49, 00:55:15.880: Patata ataca y dirige curación hacia la paladina ([49-043](capitulos/49.md)).
+- Cap. 49, 01:03:21.400: Patata recibe un rayo crítico durante el cerco ([49-047](capitulos/49.md)).
+- Cap. 49, 01:07:20.240: Patata preserva la vida de Eleanor y se coloca para cubrirla ([49-050](capitulos/49.md)).
+- Cap. 49, 01:15:23.719: Eleanor se levanta y vuelve a abatir enemigos dentro del silencio ([49-056](capitulos/49.md)).
+- Cap. 49, 01:18:34.440: Patata agota Canalizar divinidad y recurre a ayudar y golpear ([49-057](capitulos/49.md)).
+- Cap. 49, 01:24:48.239: Eleanor aprovecha el apoyo y vuelve a derribar a un enemigo ([49-062](capitulos/49.md)).
+- Cap. 49, 01:25:39.040: Patata despliega espíritus guardianes cuando vuelve la voz ([49-063](capitulos/49.md)).
+- Cap. 49, 01:29:02.080: Patata da el último martillazo y termina esta lucha ([49-065](capitulos/49.md)).
+- Cap. 49, 01:39:10.480: Otra estatua alcanza al grupo con veneno durante el paso ([49-072](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:41:29.560: El descanso de una hora se aplaza ([49-074](capitulos/49.md)).
+- Cap. 49, 01:46:24.320: Patata encuentra un cadáver abierto en busca de algo ([49-078](capitulos/49.md)).
+- Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
+- Cap. 49, 01:49:23.880: La búsqueda de órganos provoca hipótesis sobre un culto ([49-080](capitulos/49.md)).
+- Cap. 49, 01:52:14.440: Erandy reconoce un culto sin identificar al dios ([49-082](capitulos/49.md)).
+- Cap. 49, 01:54:33.280: Papeles de más de dos siglos se deshacen al tocarlos ([49-084](capitulos/49.md)).
+- Cap. 49, 01:55:33.880: Patata reconstruye los papeles del altar ([49-085](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:01:08.840: Las serpientes apresan y muerden durante la sorpresa ([49-090](capitulos/49.md)).
+- Cap. 49, 02:06:38.480: Erandy coloca un guardián de fe y cura al grupo ([49-093](capitulos/49.md)).
+- Cap. 49, 02:11:24.400: Patata golpea y ayuda a Kilzer a contraatacar ([49-096](capitulos/49.md)).
+- Cap. 49, 02:16:52.359: El martillo radiante de Patata tampoco consigue acertar ([49-100](capitulos/49.md)).
+- Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
+- Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
+- Cap. 49, 02:25:17.040: Patata siente un abrazo y ve cambiar la escritura ([49-106](capitulos/49.md)).
+- Cap. 49, 02:26:55.920: Chauntea traduce los papeles a Patata ([49-108](capitulos/49.md)).
+- Cap. 49, 02:28:32.560: La inscripción enlaza el fuego velado, los ojos y un santuario ([49-110](capitulos/49.md)).
+- Cap. 49, 02:29:58.439: La traducción cesa y las palabras quedan en la memoria ([49-111](capitulos/49.md)).
+- Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Patata Hammer
 
 - Cap. 16, 00:00:00.000: Mapa de la Marina perdido y Patata Hammer ([16-001](capitulos/16.md)).
 - Cap. 16, 00:45:15.000: Serpientes derrotadas y Naór libera a Patata ([16-009](capitulos/16.md)).
 - Cap. 47, 00:30:15.720: El suelo de las ruinas empieza a moverse ([47-021](capitulos/47.md)).
+- Cap. 49, 01:18:34.440: Patata agota Canalizar divinidad y recurre a ayudar y golpear ([49-057](capitulos/49.md)).
+- Cap. 49, 01:29:02.080: Patata da el último martillazo y termina esta lucha ([49-065](capitulos/49.md)).
+- Cap. 49, 02:16:52.359: El martillo radiante de Patata tampoco consigue acertar ([49-100](capitulos/49.md)).
 
 ## Perla de comunicación de Coyote
 
@@ -5672,6 +6050,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 ## Piratas ocupantes de Shiaru
 
 - Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
+- Cap. 49, 00:02:18.879: Kilzer presenció la guerra y la llegada de otros piratas ([49-004](capitulos/49.md)).
+- Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
 
 ## Pix
 
@@ -5981,6 +6361,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 - Cap. 48, 00:07:39.360: Eldrath sospecha de los clientes y Tryel mira a Molly ([48-006](capitulos/48.md)).
+- Cap. 49, 00:02:18.879: Kilzer presenció la guerra y la llegada de otros piratas ([49-004](capitulos/49.md)).
+- Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
+- Cap. 49, 00:03:48.360: Kilzer sobrevive buscando otro refugio ([49-006](capitulos/49.md)).
 
 ## Sir Poncelot
 
@@ -6307,6 +6690,76 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 08, 01:40:20.000: Interior con diario en Terran y muerto colgado ([08-021](capitulos/08.md)).
 - Cap. 08, 01:46:20.000: Una figura se transforma en pantera bípeda y ataca ([08-022](capitulos/08.md)).
 - Cap. 08, 02:12:40.000: Descanso de ocho horas y vuelta nocturna ([08-025](capitulos/08.md)).
+
+## Templo yuan-ti del mapa de Walulu
+
+- Cap. 49, 00:16:27.040: Los documentos de Walulu apuntan a templos yuan-ti ([49-013](capitulos/49.md)).
+- Cap. 49, 00:18:41.200: Kilzer acepta acompañar la investigación ([49-015](capitulos/49.md)).
+- Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
+- Cap. 49, 00:24:51.200: Erandy y Kilzer se reparten las trampas ([49-018](capitulos/49.md)).
+- Cap. 49, 00:33:17.480: La pirámide yuan-ti está cubierta de raíces ([49-025](capitulos/49.md)).
+- Cap. 49, 00:34:27.200: Patata protege a Kilzer antes de avanzar ([49-026](capitulos/49.md)).
+- Cap. 49, 00:35:31.320: Una brocheta acompaña los preparativos de Erandy ([49-027](capitulos/49.md)).
+- Cap. 49, 00:37:36.520: La puerta pesada está atravesada por raíces ([49-028](capitulos/49.md)).
+- Cap. 49, 00:38:45.119: Erandy quema las raíces con Manos ardientes ([49-029](capitulos/49.md)).
+- Cap. 49, 00:39:48.640: Kilzer comprueba la puerta antes de empujar ([49-030](capitulos/49.md)).
+- Cap. 49, 00:40:41.079: Eleanor y Patata abren paso ([49-031](capitulos/49.md)).
+- Cap. 49, 00:41:48.640: Encontrar trampas hace brillar las estatuas ([49-032](capitulos/49.md)).
+- Cap. 49, 00:42:24.480: Las piscinas contienen veneno ([49-033](capitulos/49.md)).
+- Cap. 49, 00:43:04.200: Kilzer desactiva dos trampas con sus herramientas ([49-034](capitulos/49.md)).
+- Cap. 49, 00:44:17.359: Eleanor envía un corcel fantasma por delante ([49-035](capitulos/49.md)).
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:47:11.839: Las vasijas son funerarias y no prueban un ritual activo ([49-037](capitulos/49.md)).
+- Cap. 49, 00:48:20.559: Una criatura serpentina ataca al corcel ([49-038](capitulos/49.md)).
+- Cap. 49, 00:49:53.960: Erandy responde al ataque al caballo con rayos de fuego ([49-039](capitulos/49.md)).
+- Cap. 49, 00:51:34.520: Una nueva criatura sale por una puerta y muerde a Erandy ([49-040](capitulos/49.md)).
+- Cap. 49, 00:52:30.839: Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer ([49-041](capitulos/49.md)).
+- Cap. 49, 00:53:23.440: Los ataques se multiplican y el caballo queda deshecho ([49-042](capitulos/49.md)).
+- Cap. 49, 00:58:24.039: Molly utiliza el brasero como cobertura y recarga su arma ([49-044](capitulos/49.md)).
+- Cap. 49, 01:13:52.440: Otra yuan-ti impone un área de silencio ([49-055](capitulos/49.md)).
+- Cap. 49, 01:29:02.080: Patata da el último martillazo y termina esta lucha ([49-065](capitulos/49.md)).
+- Cap. 49, 01:33:29.080: Erandy recuerda que se trata de un templo yuan-ti abandonado ([49-066](capitulos/49.md)).
+- Cap. 49, 01:34:11.080: El veneno funde la piel de los cadáveres y frustra el registro ([49-067](capitulos/49.md)).
+- Cap. 49, 01:36:02.360: La búsqueda de información continúa entre los reproches de Eleanor ([49-068](capitulos/49.md)).
+- Cap. 49, 01:37:06.600: La detección de Erandy permite advertir las estatuas peligrosas ([49-069](capitulos/49.md)).
+- Cap. 49, 01:37:26.239: El primer mecanismo queda roto y activado ([49-070](capitulos/49.md)).
+- Cap. 49, 01:38:16.400: La ayuda de Erandy permite desactivar solo una estatua ([49-071](capitulos/49.md)).
+- Cap. 49, 01:39:10.480: Otra estatua alcanza al grupo con veneno durante el paso ([49-072](capitulos/49.md)).
+- Cap. 49, 01:40:22.080: El piso superior concentra el veneno y se solicita un descanso ([49-073](capitulos/49.md)).
+- Cap. 49, 01:41:29.560: El descanso de una hora se aplaza ([49-074](capitulos/49.md)).
+- Cap. 49, 01:42:52.440: Las cuatro estatuas superiores no contienen trampas ([49-075](capitulos/49.md)).
+- Cap. 49, 01:44:49.280: Kilzer desconfía de la bendición solar y consulta la ruta ([49-076](capitulos/49.md)).
+- Cap. 49, 01:45:30.880: Las cámaras laterales contienen órganos y mesas de autopsia ([49-077](capitulos/49.md)).
+- Cap. 49, 01:46:24.320: Patata encuentra un cadáver abierto en busca de algo ([49-078](capitulos/49.md)).
+- Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
+- Cap. 49, 01:49:23.880: La búsqueda de órganos provoca hipótesis sobre un culto ([49-080](capitulos/49.md)).
+- Cap. 49, 01:50:19.599: Las demás salas repiten la búsqueda entre cuerpos secos ([49-081](capitulos/49.md)).
+- Cap. 49, 01:52:14.440: Erandy reconoce un culto sin identificar al dios ([49-082](capitulos/49.md)).
+- Cap. 49, 01:53:39.280: La comprobación de trampas no descubre a los enemigos ([49-083](capitulos/49.md)).
+- Cap. 49, 01:54:33.280: Papeles de más de dos siglos se deshacen al tocarlos ([49-084](capitulos/49.md)).
+- Cap. 49, 01:55:33.880: Patata reconstruye los papeles del altar ([49-085](capitulos/49.md)).
+- Cap. 49, 01:56:02.480: Las llamas verdes iluminan sin desprender calor ([49-086](capitulos/49.md)).
+- Cap. 49, 01:57:21.000: Eleanor revisa vasijas con órganos descompuestos ([49-087](capitulos/49.md)).
+- Cap. 49, 01:58:09.920: Molly responde a la vigilancia inquieta de Kilzer ([49-088](capitulos/49.md)).
+- Cap. 49, 01:59:19.320: Los huesos forman dos serpientes a espaldas del grupo ([49-089](capitulos/49.md)).
+- Cap. 49, 02:01:08.840: Las serpientes apresan y muerden durante la sorpresa ([49-090](capitulos/49.md)).
+- Cap. 49, 02:03:44.679: Molly acude a atacar a la serpiente ([49-091](capitulos/49.md)).
+- Cap. 49, 02:05:06.400: Kilzer responde al peligro con ataques cercanos ([49-092](capitulos/49.md)).
+- Cap. 49, 02:06:38.480: Erandy coloca un guardián de fe y cura al grupo ([49-093](capitulos/49.md)).
+- Cap. 49, 02:08:41.000: Eleanor se libera de la cola y prepara una defensa ([49-094](capitulos/49.md)).
+- Cap. 49, 02:09:55.119: La abominación se vuelve contra quien la apuñala ([49-095](capitulos/49.md)).
+- Cap. 49, 02:11:24.400: Patata golpea y ayuda a Kilzer a contraatacar ([49-096](capitulos/49.md)).
+- Cap. 49, 02:13:11.159: Erandy evita un coletazo y atiende a Eleanor ([49-097](capitulos/49.md)).
+- Cap. 49, 02:14:20.440: Eleanor sigue luchando con su castigo divino ([49-098](capitulos/49.md)).
+- Cap. 49, 02:15:40.520: El combate deja a Kilzer apresado y sin ataque furtivo ([49-099](capitulos/49.md)).
+- Cap. 49, 02:16:52.359: El martillo radiante de Patata tampoco consigue acertar ([49-100](capitulos/49.md)).
+- Cap. 49, 02:18:57.280: Erandy consume su último hechizo en manos ardientes ([49-101](capitulos/49.md)).
+- Cap. 49, 02:19:45.240: Eleanor derriba a la abominación ([49-102](capitulos/49.md)).
+- Cap. 49, 02:20:27.680: Molly cuestiona que Eleanor siga tratando a Erandy como una niña ([49-103](capitulos/49.md)).
+- Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
+- Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
+- Cap. 49, 02:28:32.560: La inscripción enlaza el fuego velado, los ojos y un santuario ([49-110](capitulos/49.md)).
+- Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
 
 ## Tentacol
 
@@ -6861,6 +7314,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
 - Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+- Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
 
 ## Tryel
 
@@ -7073,6 +7527,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:03:04.000: Tryel paraliza y golpea a Eldrath ([48-116](capitulos/48.md)).
 - Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
+- Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
 
 ## Tutucan
 
@@ -7111,6 +7566,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
 - Cap. 42, 01:57:16.599: Tórtola sobrevive a la caída e intenta llegar al timón ([42-060](capitulos/42.md)).
 - Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
+
+## Urnas funerarias del templo del mapa de Walulu
+
+- Cap. 49, 00:45:39.880: El centro reúne veneno y vasijas con cenizas ([49-036](capitulos/49.md)).
+- Cap. 49, 00:47:11.839: Las vasijas son funerarias y no prueban un ritual activo ([49-037](capitulos/49.md)).
 
 ## Valle Blanco
 
@@ -7170,6 +7630,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 00:22:40.159: Naór recibe una clase de calma de una tortuga con gafas ([48-018](capitulos/48.md)).
 - Cap. 48, 00:24:23.279: Walulu insiste en los motivos para que Naór se calme ([48-019](capitulos/48.md)).
 - Cap. 48, 00:25:44.640: La tortuga enseña a respirar y Walulu paga la donación ([48-020](capitulos/48.md)).
+- Cap. 49, 00:16:27.040: Los documentos de Walulu apuntan a templos yuan-ti ([49-013](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
+- Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
 
 ## Winscore
 
@@ -7284,6 +7748,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 00:00:47.039: Leona busca rastros tras su misión de aviso ([44-001](capitulos/44.md)).
 - Cap. 44, 00:01:35.200: Tlachka recuerda Iktan y prepara fruta y mazorcas ([44-002](capitulos/44.md)).
 - Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
+- Cap. 49, 00:16:27.040: Los documentos de Walulu apuntan a templos yuan-ti ([49-013](capitulos/49.md)).
+- Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 49, 00:52:30.839: Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer ([49-041](capitulos/49.md)).
+- Cap. 49, 01:33:29.080: Erandy recuerda que se trata de un templo yuan-ti abandonado ([49-066](capitulos/49.md)).
 
 ## Zampaolas
 

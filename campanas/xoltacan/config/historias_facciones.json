@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 48,
+  "revisado_hasta": 49,
   "entidades": {
     "Cinco reyes piratas": [
       {
@@ -328,6 +328,13 @@
         "referencias": [
           "47-079"
         ]
+      },
+      {
+        "titulo": "La mesa de los piratas en Iktan",
+        "texto": "Cuando Kilzer entra en la taberna, encuentra a parte de los piratas de Ione reunidos en una mesa. La bebida ha dejado a algunos borrachos o inconscientes. No participan automáticamente en las decisiones que Molly toma con los otros expedicionarios.",
+        "referencias": [
+          "49-009"
+        ]
       }
     ],
     "Yuan-ti": [
@@ -399,6 +406,14 @@
         "referencias": [
           "47-017"
         ]
+      },
+      {
+        "titulo": "La ocupación que expulsa a Kilzer",
+        "texto": "El director describe la llegada de grandes galeones tras la explosión en el mar. Los piratas desembarcados sacan a la gente a patadas para establecerse y destrozan el casino de Kilzer. Su presencia convierte la permanencia de este en Shiaru en una huida hacia la jungla; la granja de Patata también aparece destruida en ese contexto.",
+        "referencias": [
+          "49-004",
+          "49-005"
+        ]
       }
     ],
     "Guardia de Iktan": [
@@ -409,6 +424,13 @@
           "47-083",
           "47-084",
           "47-086"
+        ]
+      },
+      {
+        "titulo": "Otro refugiado ante las puertas",
+        "texto": "Kilzer llega cubierto de harapos tras sobrevivir en la jungla. Los guardias, ya cansados de los visitantes extraños, terminan dejándolo entrar. Su paso permite al refugiado reencontrarse con Patata y sumarse a una expedición nacida en la ciudad.",
+        "referencias": [
+          "49-007"
         ]
       }
     ]

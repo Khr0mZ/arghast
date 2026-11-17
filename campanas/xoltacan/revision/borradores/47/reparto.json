@@ -107,7 +107,12 @@
         "P12-003",
         "P12-004",
         "P12-005"
-      ]
+      ],
+      "lectura_completa": true,
+      "evidencias_entregadas": 32,
+      "sha256_entrega_integrada": "1abd9f29da8b2c3023b6b9dca5e98c7475a75fe86a51255164dc638128e32cd6",
+      "etapas_entregadas": 8,
+      "informe_lectura": "lectura_bloque_1.md"
     },
     {
       "bloque": 2,
@@ -213,7 +218,12 @@
         "P30-003",
         "P30-004",
         "P30-005"
-      ]
+      ],
+      "lectura_completa": true,
+      "evidencias_entregadas": 30,
+      "sha256_entrega_integrada": "c65087a86f33f81424e6f3ad31ce7aaa16729343941ce7646c4b2edd707dd579",
+      "etapas_entregadas": 5,
+      "informe_lectura": "lectura_bloque_2.md"
     },
     {
       "bloque": 3,
@@ -319,7 +329,13 @@
         "P46-006",
         "P46-007",
         "P46-008"
-      ]
+      ],
+      "lectura_completa": true,
+      "evidencias_entregadas": 28,
+      "sha256_entrega_integrada": "bc3c9246dbdefd9ffd7059b5c38300be5e0d2d34658819ad9fbd8e13918d94f6",
+      "etapas_entregadas": 6,
+      "informe_lectura": "lectura_bloque_3.md"
     }
-  ]
+  ],
+  "estado": "lecturas_integradas_en_conocimiento_y_config"
 }

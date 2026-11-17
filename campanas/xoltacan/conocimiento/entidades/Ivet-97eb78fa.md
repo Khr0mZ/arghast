@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-020](../capitulos/29.md), [45-074](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La desconfianza de Perlasal
 

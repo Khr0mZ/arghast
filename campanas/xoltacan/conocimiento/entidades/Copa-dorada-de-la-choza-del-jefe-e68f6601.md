@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-027](../capitulos/46.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un tesoro distinto del anterior
 

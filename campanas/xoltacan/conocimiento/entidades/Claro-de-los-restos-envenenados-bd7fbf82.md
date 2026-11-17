@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-013](../capitulos/40.md), [40-015](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La vegetación anuncia el peligro
 

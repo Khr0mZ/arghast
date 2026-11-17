@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-019](../capitulos/46.md), [46-020](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### El cautivo entre los cadáveres
 

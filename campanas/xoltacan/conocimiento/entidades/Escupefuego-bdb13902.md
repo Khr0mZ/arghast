@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-026](../capitulos/47.md), [47-027](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Una prueba de fuego sin ventaja
 

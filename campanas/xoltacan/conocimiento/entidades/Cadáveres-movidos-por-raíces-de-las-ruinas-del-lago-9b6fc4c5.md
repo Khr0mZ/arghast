@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-022](../capitulos/47.md), [47-026](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Raíces, salpicaduras y un aura de veneno
 

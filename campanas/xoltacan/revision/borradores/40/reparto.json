@@ -1,0 +1,39 @@
+{
+  "capitulo": 40,
+  "fuente": "campanas/xoltacan/fuentes/40 - LBuXKKhfGlY.es-orig.vtt",
+  "sha256": "9542066b29cbf484d5b01c4ab1c3171066e80b2e681c13a8073d0458ebc609c2",
+  "total_segmentos": 4119,
+  "bloques": [
+    {
+      "bloque": 1,
+      "intervalo_declarado": "00:00:00.000–00:57:58.599",
+      "lectura_completa": true,
+      "evidencias_entregadas": 14,
+      "sha256_entrega_integrada": "7e66408021a9ddce761b134f40c2c7002d16eb9c9380de53cf5ae8f23566d531",
+      "informe_lectura": "lectura_bloque_1.md"
+    },
+    {
+      "bloque": 2,
+      "intervalo_declarado": [
+        "00:58:00.520",
+        "01:55:59.840"
+      ],
+      "lectura_completa": true,
+      "evidencias_entregadas": 14,
+      "sha256_entrega_integrada": "cd0b9adc49ada72be40864203d34f844264e8102cada0abd2c0cfab7f334f707",
+      "informe_lectura": "lectura_bloque_2.md"
+    },
+    {
+      "bloque": 3,
+      "intervalo_declarado": [
+        "01:56:02.360",
+        "02:53:06.000"
+      ],
+      "lectura_completa": true,
+      "evidencias_entregadas": 14,
+      "sha256_entrega_integrada": "28e185a640a037e696c88e91d1fc42d0654aa883b45d30d42a892f4b322c6c14",
+      "informe_lectura": "lectura_bloque_3.md"
+    }
+  ],
+  "estado": "lecturas_integradas_en_conocimiento_y_config"
+}

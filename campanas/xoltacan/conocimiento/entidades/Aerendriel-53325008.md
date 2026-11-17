@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-005](../capitulos/01.md), [08-007](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un explorador con un huevo de dragón
 

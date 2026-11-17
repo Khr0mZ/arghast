@@ -12,7 +12,7 @@ Base para revisar equivalencia: [39-016](../capitulos/39.md), [47-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un trato en el bosque
 
@@ -761,4 +761,12 @@ Tipo: `hecho_confirmado`.
 Tesara pregunta por la utilidad del veneno. Eldrath explica que quiere disponer del propio veneno del dragón para preparar pociones con las que combatirlo. Ella considera buena la idea, vacía su propia cantimplora y recoge más, prefiriendo que sobre material al enfrentarse a un dragón.
 
 La atribución del líquido al dragón y su utilidad futura se expresan como explicación del personaje; no existe análisis, receta o ensayo de eficacia en este tramo.
+
+## [49-003 · Patata recuerda el encargo del dragón](../capitulos/49.md) · 00:01:40.079
+
+Tipo: `declaracion_personaje`.
+
+Patata recapitula su llegada a Iktan después de encontrarse con muertos controlados por una especie de dragón verde. Recuerda que le pidió llevar a los elfos al bosque. Aunque no le caen bien, no quiere que mueran; dice haber dado vueltas por Iktan sin encontrarlos.
+
+Recapitulación de la amenaza, no un nuevo encuentro con el dragón ni prueba de que los hermanos hayan sido entregados.
 

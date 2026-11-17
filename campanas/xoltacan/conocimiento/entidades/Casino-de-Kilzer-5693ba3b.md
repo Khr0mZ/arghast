@@ -2,17 +2,17 @@
 
 Menciones documentadas por capítulo y minuto. La etiqueta no garantiza grafía oficial; véanse limitaciones y nombres dudosos de cada episodio.
 
-Negocio de Kilzer en Shiaru, preparado tras negociar con Nox la licencia y el reparto.
+Local de Kilzer en Shiaru, preparado como negocio y después destruido durante la ocupación pirata.
 
 Proyecto y negocio posterior son fases de la misma iniciativa de Kilzer y Nox. La fusión no implica que estuviera abierto desde el capítulo 11.
 
 Etiquetas agrupadas: Casino de Kilzer; Casino propuesto de Shiaru.
 
-Base para revisar equivalencia: [11-031](../capitulos/11.md), [13-011](../capitulos/13.md), [17-001](../capitulos/17.md), [17-002](../capitulos/17.md), [29-002](../capitulos/29.md).
+Base para revisar equivalencia: [11-031](../capitulos/11.md), [13-011](../capitulos/13.md), [17-001](../capitulos/17.md), [17-002](../capitulos/17.md), [29-002](../capitulos/29.md), [49-004](../capitulos/49.md), [49-005](../capitulos/49.md), [49-006](../capitulos/49.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un proyecto que necesita permiso pirata
 
@@ -25,6 +25,12 @@ Fuentes: [01-003 · Proyecto de casino del visitante](../capitulos/01.md) · 00:
 Las obras avanzan mientras los futuros socios siguen saliendo de expedición. Kilzer contrata a Axi para descubrir tramposos y el lugar empieza a acumular suministros, incluido el licor que Triel roba. Sin embargo, las menciones posteriores aún lo describen en preparación. Al final de su recorrido documentado continúa cerrado: no se puede dar por inaugurado ni atribuirle beneficios regulares.
 
 Fuentes: [15-001 · Casino en construcción y los hermanos exploran el pueblo](../capitulos/15.md) · 00:00:00.000 · [17-001 · Descanso, copa perdida y casino preparado](../capitulos/17.md) · 00:00:00.000 · [17-002 · Axi contratado para detectar tramposos](../capitulos/17.md) · 00:04:35.000 · [21-002 · Venta y robo del casino](../capitulos/21.md) · 00:06:00.000 · [29-001 · Trampas reforzadas y casino aún cerrado](../capitulos/29.md) · 00:00:00.000.
+
+### La destrucción del proyecto
+
+El director sitúa a Kilzer en Shiaru cuidando el casino durante la movilización bélica. Después de la explosión y de la llegada de otros piratas, el local es destrozado. Kilzer pierde así el lugar desde el que intentaba rehacer su vida y debe buscar refugio por la jungla hasta llegar a Iktan.
+
+Fuentes: [49-004 · Kilzer presenció la guerra y la llegada de otros piratas](../capitulos/49.md) · 00:02:18.879 · [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720 · [49-006 · Kilzer sobrevive buscando otro refugio](../capitulos/49.md) · 00:03:48.360.
 
 ## Registros y evidencias
 
@@ -91,4 +97,20 @@ Tipo: `declaracion_personaje`.
 Tlachka revisó las trampas de Cuicapalli después de la defensa y vuelve a Shiaru con carne de cocodrilo. Ayoto planeó mejoras con los guardias y lo acompaña. Coyote engaña y roba mientras busca ayuda para la sirena a la que pretende conquistar; pierde cuatro monedas durante el descanso. Kilzer se oculta por temor a represalias, repara el casino para abrir pronto y empieza cansado.
 
 Las reparaciones o la llave no confirman que el casino esté abierto al público. Tampoco se identifica el origen de las represalias.
+
+## [49-004 · Kilzer presenció la guerra y la llegada de otros piratas](../capitulos/49.md) · 00:02:18.879
+
+Tipo: `explicacion_director`.
+
+El director sitúa el último tramo de Kilzer en Shiaru, cuidando de su casino mientras otros preparaban barcos para la guerra. Le relata la gran explosión en el mar y la llegada posterior de galeones con piratas que expulsaban a la población para ocupar su lugar.
+
+Contexto retrospectivo dado por el director. La explosión no se nombra aquí como Invictus; no se identifican capitán, pabellón o alianza de los ocupantes.
+
+## [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720
+
+Tipo: `explicacion_director`.
+
+Al situar el regreso de Kilzer, el director establece que los nuevos piratas destrozaron su casino y que la granja de Patata también estaba totalmente destruida. Kilzer tuvo que abandonar Shiaru y adentrarse en la jungla.
+
+Destrucción expresamente narrada. No acredita una apertura comercial anterior del casino, beneficios, indemnización o ruina de todos los bienes de Shiaru.
 

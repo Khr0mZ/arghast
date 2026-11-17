@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-017](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### El alquimista de Cuicapalli
 

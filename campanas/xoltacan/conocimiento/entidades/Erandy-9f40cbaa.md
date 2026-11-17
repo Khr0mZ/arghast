@@ -8,11 +8,11 @@ Misma escudera de Eleanor por presentación y continuidad. Grafía del nombre no
 
 Etiquetas agrupadas: Erandy / Eri / Maya (escudera kender, grafía provisional); Eri / Maya (escudera kender, grafía provisional).
 
-Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitulos/36.md), [38-003](../capitulos/38.md), [43-002](../capitulos/43.md), [43-009](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-029](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-038](../capitulos/43.md), [43-047](../capitulos/43.md), [43-052](../capitulos/43.md), [43-060](../capitulos/43.md), [46-001](../capitulos/46.md), [46-004](../capitulos/46.md), [46-053](../capitulos/46.md), [46-058](../capitulos/46.md).
+Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitulos/36.md), [38-003](../capitulos/38.md), [43-002](../capitulos/43.md), [43-009](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-029](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-038](../capitulos/43.md), [43-047](../capitulos/43.md), [43-052](../capitulos/43.md), [43-060](../capitulos/43.md), [46-001](../capitulos/46.md), [46-004](../capitulos/46.md), [46-053](../capitulos/46.md), [46-058](../capitulos/46.md), [49-002](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-018](../capitulos/49.md), [49-020](../capitulos/49.md), [49-021](../capitulos/49.md), [49-027](../capitulos/49.md), [49-028](../capitulos/49.md), [49-029](../capitulos/49.md), [49-032](../capitulos/49.md), [49-034](../capitulos/49.md), [49-037](../capitulos/49.md), [49-039](../capitulos/49.md), [49-040](../capitulos/49.md), [49-046](../capitulos/49.md), [49-053](../capitulos/49.md), [49-060](../capitulos/49.md), [49-066](../capitulos/49.md), [49-069](../capitulos/49.md), [49-070](../capitulos/49.md), [49-071](../capitulos/49.md), [49-072](../capitulos/49.md), [49-082](../capitulos/49.md), [49-083](../capitulos/49.md), [49-086](../capitulos/49.md), [49-089](../capitulos/49.md), [49-093](../capitulos/49.md), [49-097](../capitulos/49.md), [49-101](../capitulos/49.md), [49-103](../capitulos/49.md), [49-105](../capitulos/49.md), [49-107](../capitulos/49.md), [49-109](../capitulos/49.md), [49-110](../capitulos/49.md), [49-111](../capitulos/49.md), [49-112](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La escudera de Eleanor
 
@@ -55,6 +55,48 @@ Fuentes: [46-001 · Eleanor recuerda la discusión en la playa después de la ba
 Erandy está en la barra de Iktan con los otros compañeros cuando llega Eleanor. Esta se concentra en comprobar cómo está y se reúne con ella. El tramo no representa una curación del agotamiento anterior ni reproduce una conversación extensa de la escudera.
 
 Fuentes: [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../capitulos/46.md) · 01:56:01.320 · [46-058 · Eleanor comprueba que Erandy está en la taberna](../capitulos/46.md) · 02:05:47.159.
+
+### Preguntas que su señora deja para después
+
+Erandy dice que no se aparta de Eleanor para no perderse y lamenta que aún no quieran conversar de lo ocurrido. En la reunión pregunta por el ojo, Citlali y los yuan-ti; expresa que no recuerda nada y espera que ayudar en el templo pueda aclararle la memoria. Se ofrece a localizar trampas y viaja al principio sobre el hombro de su señora.
+
+Fuentes: [49-002 · Erandy sigue esperando una conversación con Eleanor](../capitulos/49.md) · 00:00:56.480 · [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839 · [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920 · [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200 · [49-018 · Erandy y Kilzer se reparten las trampas](../capitulos/49.md) · 00:24:51.200 · [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559.
+
+### La escudera abre y examina el camino
+
+Una fruta le produce un cambio corporal y de voz masculino. Baja para investigar el acceso, recibe una brocheta de setas y reconoce que su conjuro no atraviesa paredes. Usa primero investigación ordinaria y después Manos ardientes para eliminar las raíces de la puerta. Dentro, Encontrar trampas le permite señalar las estatuas peligrosas y su conocimiento religioso identifica las vasijas como funerarias, sin que sean necesariamente un ritual.
+
+Fuentes: [49-021 · Una fruta cambia el aspecto y la voz de Erandy](../capitulos/49.md) · 00:30:30.960 · [49-027 · Una brocheta acompaña los preparativos de Erandy](../capitulos/49.md) · 00:35:31.320 · [49-028 · La puerta pesada está atravesada por raíces](../capitulos/49.md) · 00:37:36.520 · [49-029 · Erandy quema las raíces con Manos ardientes](../capitulos/49.md) · 00:38:45.119 · [49-032 · Encontrar trampas hace brillar las estatuas](../capitulos/49.md) · 00:41:48.640 · [49-034 · Kilzer desactiva dos trampas con sus herramientas](../capitulos/49.md) · 00:43:04.200 · [49-037 · Las vasijas son funerarias y no prueban un ritual activo](../capitulos/49.md) · 00:47:11.839.
+
+### Fuego y cuidados en el cerco
+
+Erandy responde al ataque al caballo con rayos de fuego y recibe el asalto de otra criatura que la muerde. Utiliza bolas de fuego para presionar a los adversarios y pregunta a Eleanor por su estado. La plegaria que presenta ante los no muertos no termina la batalla; más adelante, una nueva bola de fuego rompe el área que los había dejado sin voz.
+
+Fuentes: [49-039 · Erandy responde al ataque al caballo con rayos de fuego](../capitulos/49.md) · 00:49:53.960 · [49-040 · Una nueva criatura sale por una puerta y muerde a Erandy](../capitulos/49.md) · 00:51:34.520 · [49-046 · Erandy lanza una bola de fuego y comprueba cómo está Eleanor](../capitulos/49.md) · 01:01:00.559 · [49-053 · Erandy presenta su símbolo y formula una plegaria](../capitulos/49.md) · 01:10:14.520 · [49-060 · Una nueva bola de fuego rompe el silencio](../capitulos/49.md) · 01:22:26.719.
+
+### La ayuda que abre un paso
+
+Después del combate recuerda que el templo estaba abandonado, sin haber prometido que fuese seguro. La detección permite confirmar que las estatuas de la sala habían brillado. Cuando Kilzer rompe el primer mecanismo, lo ayuda en el siguiente intento: juntos consiguen desactivar una sola estatua. La colaboración deja un paso menos peligroso, aunque otra figura todavía expulsa veneno.
+
+Fuentes: [49-066 · Erandy recuerda que se trata de un templo yuan-ti abandonado](../capitulos/49.md) · 01:33:29.080 · [49-069 · La detección de Erandy permite advertir las estatuas peligrosas](../capitulos/49.md) · 01:37:06.600 · [49-070 · El primer mecanismo queda roto y activado](../capitulos/49.md) · 01:37:26.239 · [49-071 · La ayuda de Erandy permite desactivar solo una estatua](../capitulos/49.md) · 01:38:16.400 · [49-072 · Otra estatua alcanza al grupo con veneno durante el paso](../capitulos/49.md) · 01:39:10.480.
+
+### La capilla no revela el nombre de su dios
+
+Erandy reconoce que la capilla rinde culto a una deidad, pero no logra identificarla. Examina la iluminación y descubre llamas mágicas que no dan calor y pueden durar años. La ausencia de trampas no permite advertir las criaturas escondidas entre los huesos.
+
+Fuentes: [49-082 · Erandy reconoce un culto sin identificar al dios](../capitulos/49.md) · 01:52:14.440 · [49-083 · La comprobación de trampas no descubre a los enemigos](../capitulos/49.md) · 01:53:39.280 · [49-086 · Las llamas verdes iluminan sin desprender calor](../capitulos/49.md) · 01:56:02.480 · [49-089 · Los huesos forman dos serpientes a espaldas del grupo](../capitulos/49.md) · 01:59:19.320.
+
+### Curar a quien siempre intenta protegerla
+
+Durante la emboscada Erandy coloca un guardián de fe, cura a sus compañeros, esquiva un coletazo al cambiar de posición y atiende a Eleanor. Agota el último hechizo declarado en unas manos ardientes. Tras la victoria comparte el reproche de Molly a la impulsividad de su señora: la escudera también puede cuidar de la caballera.
+
+Fuentes: [49-093 · Erandy coloca un guardián de fe y cura al grupo](../capitulos/49.md) · 02:06:38.480 · [49-097 · Erandy evita un coletazo y atiende a Eleanor](../capitulos/49.md) · 02:13:11.159 · [49-101 · Erandy consume su último hechizo en manos ardientes](../capitulos/49.md) · 02:18:57.280 · [49-103 · Molly cuestiona que Eleanor siga tratando a Erandy como una niña](../capitulos/49.md) · 02:20:27.680.
+
+### Una luz interior para la inscripción
+
+Las hojas abisales no son legibles para Erandy hasta que siente un calor agradable en el corazón. El director describe la ayuda de su dios y solo ella ve cambiar la escritura; Eleanor y Kilzer no perciben nada semejante. Guarda el significado de la inscripción en la mente y la comprensión temporal desaparece. Erandy interpreta lo vivido como una señal del Señor del Amanecer y quiere comunicar su importancia.
+
+Fuentes: [49-105 · Los papeles están escritos en abisal y ninguno lo conoce](../capitulos/49.md) · 02:23:55.920 · [49-107 · Erandy recibe calma y una comprensión solo suya](../capitulos/49.md) · 02:26:04.319 · [49-109 · La ayuda a Erandy llega como una sensación en el corazón](../capitulos/49.md) · 02:27:58.920 · [49-110 · La inscripción enlaza el fuego velado, los ojos y un santuario](../capitulos/49.md) · 02:28:32.560 · [49-111 · La traducción cesa y las palabras quedan en la memoria](../capitulos/49.md) · 02:29:58.439 · [49-112 · Erandy interpreta la ayuda como una señal del Señor del Amanecer](../capitulos/49.md) · 02:30:30.319.
 
 ## Registros y evidencias
 
@@ -617,4 +659,420 @@ Tipo: `hecho_confirmado`.
 Eleanor se concentra en comprobar que Erandy se encuentra bien y se reúne con ella. Cerca están Ilikar jugando con Cipo y Lunaria, a quien el director imagina intentando quemar algún trozo de madera. Eleanor expresa que también quiere coger a Lunaria en brazos; el director advierte que esta no se dejaría.
 
 La llegada y la preocupación de Eleanor no demuestran una curación completa del agotamiento anterior de Erandy. El intento incendiario de Lunaria se expresa de forma conjetural y no acredita otro incendio consumado; tampoco se ejecuta un abrazo forzado a Lunaria.
+
+## [49-001 · Eleanor recuerda sus pesquisas en Iktan](../capitulos/49.md) · 00:00:21.080
+
+Tipo: `declaracion_personaje`.
+
+En el repaso inicial, Eleanor dice haber explorado el pueblo desde su llegada, escuchando y preguntando a sus habitantes. Recuerda haber ido a ver a Erandy porque estaba preocupada y haber dado las gracias al calvo y al goliat.
+
+Recapitulación, no nueva representación de esas visitas. Los apelativos calvo y goliat no identifican por sí solos a cada persona agradecida.
+
+## [49-002 · Erandy sigue esperando una conversación con Eleanor](../capitulos/49.md) · 00:00:56.480
+
+Tipo: `declaracion_personaje`.
+
+Erandy cuenta que no se separa de su señora por miedo a perderse. Ha recorrido la ciudad junto a Eleanor e intentado hablar de lo que ocurrió, pero la caballera ha ido aplazando la conversación con otros asuntos.
+
+Se constata el reproche y la conversación pendiente; el repaso no reconstruye por sí mismo el suceso del que quiere hablar.
+
+## [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000
+
+Tipo: `hecho_confirmado`.
+
+En la taberna están Eleanor, una mujer de armadura y cabellera rojiza, y su escudera kender Erandy; Kilzer no las conoce todavía. Sí reconoce a Patata en la barra y ve a los piratas de la tripulación de Ione en otra mesa, parte de ellos borrachos o inconscientes.
+
+No se enumeran todos los piratas ni se confirma que Ione esté sentada en esa mesa. La inconsciencia se presenta en el contexto de la bebida.
+
+## [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839
+
+Tipo: `hecho_confirmado`.
+
+Kilzer se acerca para comprobar que el agricultor es Patata y lo abraza; se reconocen entre bromas y manoseos mientras Eleanor intenta tapar los ojos de Erandy. Patata cuenta que perdió su casa y su granja, se extravió por la jungla y acabó allí. Pide una cerveza para su amigo.
+
+El diálogo reafirma la amistad y la pérdida de la granja, sin fijar un inventario de bienes, una fecha de destrucción o las personas que la ejecutaron.
+
+## [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639
+
+Tipo: `hecho_confirmado`.
+
+Molly entra buscando a alguien, llama a Patata y se sienta a la mesa de Eleanor y Erandy. Patata invita a Kilzer, que inicialmente rechaza ir a hablar de trabajo con una marine. Molly se alegra de encontrarlos fuera del pueblo del que les había advertido que salieran.
+
+No implica una rehabilitación de Molly en la Marina ni un alistamiento de Kilzer. Su comentario sobre la advertencia no describe por completo la evacuación de Shiaru.
+
+## [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920
+
+Tipo: `declaracion_personaje`.
+
+Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly dice que quieren averiguar para qué sirve el objeto y que al cogerlo pasó algo. Eleanor explica que Citlali era anciana y ahora es joven; al recordar la batalla alude a que su escudera estaba loca y vuelve a posponer la conversación. Molly transmite que, según Walulu, los yuan-ti intentaron envenenarla y atacar Iktan, pero otros lo evitaron.
+
+La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
+
+## [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200
+
+Tipo: `hecho_confirmado`.
+
+Molly pide ayuda a los dos sacerdotes y a la caballera divina para adentrarse en el templo. Patata vuelve a llamar a Kilzer y le presenta la seguridad de Iktan como motivo para ayudar. Él, resignado a que acabarían llevándolo, se suma; Patata elogia su capacidad para infiltrarse. Erandy también quiere ayudar y espera recuperar recuerdos.
+
+La broma de Erandy llamando Bonnie a Molly no las convierte en la misma persona. La declaración de amnesia no demuestra que esta aventura vaya a curarla.
+
+## [49-018 · Erandy y Kilzer se reparten las trampas](../capitulos/49.md) · 00:24:51.200
+
+Tipo: `hecho_confirmado`.
+
+Erandy ofrece localizar trampas para proteger la marcha. Patata propone combinar esa capacidad con la habilidad de Kilzer para desactivarlas, y la escudera celebra la cooperación. Molly se levanta dispuesta a salir; Erandy se coloca junto a Eleanor y sube a su hombro.
+
+Es un plan de trabajo. No se garantiza aún que detecten o anulen todos los peligros del templo.
+
+## [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559
+
+Tipo: `hecho_confirmado`.
+
+Los cinco se internan en la jungla siguiendo a Molly, pero la portadora del mapa pide ayuda para orientarse. Patata se guía por el cielo y el dibujo, advierte un pequeño desvío y propone un giro a la derecha. Molly acepta que los guíe. Erandy escucha desde el hombro de Eleanor sin detectar un peligro cercano en ese momento.
+
+La orientación procede de una tirada y no proporciona una ruta georreferenciada; no detectar peligro en ese punto no prueba que toda la jungla sea segura.
+
+## [49-021 · Una fruta cambia el aspecto y la voz de Erandy](../capitulos/49.md) · 00:30:30.960
+
+Tipo: `hecho_confirmado`.
+
+La expedición se detiene a tomar fruta. Al comer una, Erandy recibe un cambio corporal masculino, bromean llamándola Erando y su voz suena más masculina. Continúa siendo la escudera que viaja con Eleanor.
+
+Efecto de una fruta y cambio representado en esta sesión. No se fija duración ni se crea una identidad nueva llamada Erando; no se equipara este efecto con frutas antiguas.
+
+## [49-022 · La fruta de Eleanor vuelve grave su voz](../capitulos/49.md) · 00:31:40.799
+
+Tipo: `explicacion_director`.
+
+Eleanor prueba otra fruta y el director adjudica una voz grave y gutural, desventaja en persuasión y ventaja en intimidación. Erandy observa su ronquera y se pregunta si se debe al clima o a una molestia de garganta.
+
+La causa adjudicada es la fruta. Las preguntas de Erandy sobre gripe o irritación son conjeturas, no una enfermedad confirmada.
+
+## [49-025 · La pirámide yuan-ti está cubierta de raíces](../capitulos/49.md) · 00:33:17.480
+
+Tipo: `hecho_confirmado`.
+
+El grupo deja los caminos y avanza por vegetación densa, claros estrechos y restos de columnas. Dos enormes cabezas de serpiente preceden al templo: una pirámide de tres pisos que las raíces y la vegetación están engullendo. Su aspecto coincide con el abandono del que les habló Molly.
+
+Aspecto de abandono, no prueba de ausencia de habitantes. No se identifica con templos anteriores por compartir arquitectura serpentina.
+
+## [49-027 · Una brocheta acompaña los preparativos de Erandy](../capitulos/49.md) · 00:35:31.320
+
+Tipo: `hecho_confirmado`.
+
+Erandy baja del hombro de Eleanor para hacerse cargo de la búsqueda de trampas. Recibe una brocheta de setas, con la sugerencia de que puede ayudar cuando no hay luz. Al consultar Encontrar trampas, el director aclara que no permite ver a través de un muro: solo se localizan peligros dentro de lo visible.
+
+Se representa la entrega de comida y la recomendación, sin identificación inequívoca del donante en el VTT ni comprobación de un alcance concreto de visión en la oscuridad. La limitación del conjuro se explica antes de gastarlo dentro.
+
+## [49-028 · La puerta pesada está atravesada por raíces](../capitulos/49.md) · 00:37:36.520
+
+Tipo: `hecho_confirmado`.
+
+Erandy examina el suelo y las inmediaciones por medios ordinarios y no encuentra una trampa. La puerta de piedra, muy pesada y cruzada por raíces, resulta incómoda de abrir; el grupo se prepara para despejarla antes de forzarla.
+
+Resultado de la búsqueda visible, no inspección del interior aún inaccesible ni garantía sobre el resto del templo.
+
+## [49-029 · Erandy quema las raíces con Manos ardientes](../capitulos/49.md) · 00:38:45.119
+
+Tipo: `hecho_confirmado`.
+
+Erandy pide a los compañeros que retrocedan y usa Manos ardientes contra la puerta para quemar las raíces. Las llamas las chamuscan hasta que caen y dejan libre la piedra, que sigue siendo demasiado pesada para que la abra por su cuenta.
+
+Uso declarado del conjuro Burning Hands/Manos ardientes. El fuego despeja las raíces; no desactiva automáticamente las trampas interiores.
+
+## [49-031 · Eleanor y Patata abren paso](../capitulos/49.md) · 00:40:41.079
+
+Tipo: `hecho_confirmado`.
+
+Eleanor no logra mover la puerta con un intento normal. Patata la ayuda en una prueba de atletismo con ventaja y consiguen arrastrar la hoja de piedra sobre el suelo hasta dejar una abertura suficiente para que entren todos.
+
+La frase sobre no poder cerrarla después es un comentario del grupo, no la demostración de un bloqueo mágico o permanente.
+
+## [49-032 · Encontrar trampas hace brillar las estatuas](../capitulos/49.md) · 00:41:48.640
+
+Tipo: `hecho_confirmado`.
+
+Una vez dentro, Erandy lanza Encontrar trampas y ve brillar las estatuas de serpiente. Advierte a los demás de que esconden algún mecanismo peligroso, aunque todavía no sabe si es mágico o cómo se activa.
+
+El brillo pertenece a la percepción concedida por el conjuro. No debe describirse como iluminación física observada necesariamente por todos.
+
+## [49-034 · Kilzer desactiva dos trampas con sus herramientas](../capitulos/49.md) · 00:43:04.200
+
+Tipo: `hecho_confirmado`.
+
+Kilzer utiliza herramientas de ladrón para anular un primer mecanismo junto a una estatua y luego hace lo mismo con otra. El director confirma ambos éxitos. Erandy no señala otro peligro distinto en esa observación, aunque continúan hablando de más estatuas.
+
+Solo se confirman dos desactivaciones. No se asegura que todas las estatuas o todos los pisos del templo estén libres de trampas.
+
+## [49-035 · Eleanor envía un corcel fantasma por delante](../capitulos/49.md) · 00:44:17.359
+
+Tipo: `hecho_confirmado`.
+
+Eleanor propone que una criatura invocada camine antes que los viajeros y convoca un corcel fantasma. Quiere que active posibles peligros en lugar de exponer a los compañeros, aun teniendo a Erandy para localizar trampas y a Kilzer para desactivarlas.
+
+El corcel es una invocación usada como explorador y cebo. No es una montura Merlucilla ni un caballo de carne acreditado; el plan no demuestra que pueda detectar trampas por sí mismo.
+
+## [49-036 · El centro reúne veneno y vasijas con cenizas](../capitulos/49.md) · 00:45:39.880
+
+Tipo: `hecho_confirmado`.
+
+Al avanzar, Patata ve una pequeña cascada de veneno que cae desde arriba y rodea una zona central. Allí hay un altar con un gran recipiente también lleno de veneno y, en cuatro esquinas, altares menores con vasijas. Al mirar dos de estas, los viajeros encuentran cenizas.
+
+Solo se inspeccionan verbalmente dos vasijas; las bromas sobre explosiones no describen un daño ocurrido. No se afirma que las cenizas sean veneno o combustible.
+
+## [49-037 · Las vasijas son funerarias y no prueban un ritual activo](../capitulos/49.md) · 00:47:11.839
+
+Tipo: `explicacion_director`.
+
+Los viajeros consideran encender las cenizas, como si fueran velas o antorchas, y hablan de finales y renacimientos. Erandy consulta su conocimiento religioso y el director identifica las vasijas como funerarias: no tiene por qué tratarse de un ritual.
+
+La identificación funeraria está confirmada. El sentido de la ceniza y la idea de encenderla son especulación; no se nombra al difunto ni a una deidad concreta.
+
+## [49-038 · Una criatura serpentina ataca al corcel](../capitulos/49.md) · 00:48:20.559
+
+Tipo: `hecho_confirmado`.
+
+Mientras el grupo examina las vasijas, el corcel relincha. Una criatura extraña de aspecto serpentino y perruno avanza, se yergue sobre dos patas y salta para golpearlo con zarpazos. El director aclara que es una criatura, no una trampa, y pide iniciativa.
+
+Primer ataque observado. Este bloque no resuelve el combate, no determina el número total de enemigos ni identifica una especie de bestiario o la desaparición del corcel.
+
+## [49-039 · Erandy responde al ataque al caballo con rayos de fuego](../capitulos/49.md) · 00:49:53.960
+
+Tipo: `hecho_confirmado`.
+
+Erandy estaba con Kilzer ante una vasija cuando oye relinchar al caballo de Eleanor y ve una criatura atacándolo entre las patas. Advierte a su señora y se coloca para lanzar Scorching Ray contra el atacante. La mesa resuelve tres rayos, con impactos y un último fallo.
+
+El ataque al caballo ya había comenzado antes del tramo. No se atribuye la muerte del enemigo a estos rayos ni se identifica una especie por el nombre de una ficha de reglas.
+
+## [49-040 · Una nueva criatura sale por una puerta y muerde a Erandy](../capitulos/49.md) · 00:51:34.520
+
+Tipo: `hecho_confirmado`.
+
+Otra criatura sale por una puerta, avanza y se lanza contra Erandy. Se propone utilizar Warding Flare y la mesa resuelve la secuencia de ataques; acaba recibiendo un pequeño mordisco.
+
+Warding Flare y la gestión de reacción forman parte del procedimiento de combate. No se añaden consecuencias de veneno o enfermedad al mordisco si no se adjudican.
+
+## [49-045 · Kilzer salta para aliviar el cerco de Erandy](../capitulos/49.md) · 00:58:52.319
+
+Tipo: `hecho_confirmado`.
+
+Kilzer pregunta si puede saltar hasta otro punto; el director recuerda que ahora salta tres veces más. Se acerca para rodear al enemigo que presiona a la niña y lo ataca con su arma y su ataque furtivo. Después de la segunda actuación se recuerda que puede moverse tras golpear y se retira ligeramente.
+
+El origen y duración de la mejora del salto no se explican en este tramo. Las reglas de arquetipo, ventaja y acciones son adjudicaciones de mesa; no se atribuyen a un objeto nuevo.
+
+## [49-046 · Erandy lanza una bola de fuego y comprueba cómo está Eleanor](../capitulos/49.md) · 01:01:00.559
+
+Tipo: `hecho_confirmado`.
+
+Erandy lanza una bola de fuego contra los adversarios. Después intenta saber cómo se encuentran los compañeros; el director pide que se pregunte dentro de la escena, no consultando puntos de vida entre jugadores. Erandy pregunta a su señora si está bien y Eleanor responde que puede seguir, aunque se preocupa por el enemigo a la espalda de su escudera.
+
+La pregunta de mesa sobre quién ha recibido daño no supone percepción exacta de heridas de todos. La respuesta tranquilizadora de Eleanor no significa que esté ilesa.
+
+## [49-053 · Erandy presenta su símbolo y formula una plegaria](../capitulos/49.md) · 01:10:14.520
+
+Tipo: `hecho_confirmado`.
+
+Erandy utiliza Canalizar divinidad para presentar su símbolo y hacer una plegaria ante los seres del más allá. Pregunta por el daño radiante y el director aclara que no implica por sí mismo una vulnerabilidad especial de todo no muerto. Al ver a Eleanor en el suelo vuelve a actuar con precaución respecto a su señora.
+
+No se identifica aquí una deidad ni un símbolo concreto de Erandy. La explicación de reglas no acredita un efecto universal contra todos los muertos ni una curación de cantidad indeterminada.
+
+## [49-054 · Un no muerto intenta tocar a Kilzer y se protege con Santuario](../capitulos/49.md) · 01:12:24.560
+
+Tipo: `hecho_confirmado`.
+
+Un adversario se acerca a Kilzer, levanta una mano huesuda y apestosa e intenta apoyársela en el pecho. Kilzer cruza las espadas y evita el contacto. La criatura se lanza Santuario sobre sí misma. La discusión posterior precisa que Warding Flare debe anunciarse antes del ataque.
+
+El intento de contacto no prueba una enfermedad o un drenaje que no llegan a adjudicarse. Las instrucciones sobre cuándo declarar una reacción no son diálogo del mundo narrado.
+
+## [49-060 · Una nueva bola de fuego rompe el silencio](../capitulos/49.md) · 01:22:26.719
+
+Tipo: `hecho_confirmado`.
+
+Erandy lanza otra bola de fuego hacia los enemigos y la resolución rompe Silencio. Los compañeros recuperan la posibilidad de hablar y la escudera se desplaza para preparar una actuación posterior.
+
+Se registra la ruptura de este efecto concreto, sin atribuir a la bola de fuego una propiedad universal de disipar magia.
+
+## [49-066 · Erandy recuerda que se trata de un templo yuan-ti abandonado](../capitulos/49.md) · 01:33:29.080
+
+Tipo: `declaracion_personaje`.
+
+Tras la batalla se acercan a Eleanor y se interesan por su estado. Ella critica la exposición sufrida y recuerda por qué quería adelantar al caballo. Erandy precisa que había hablado de un templo abandonado de los yuan-ti. Discuten el estado de los cuerpos y la curación recibida, pero el director mantiene que son no muertos.
+
+Abandonado describe el lugar según lo explicado a los viajeros; no significa que estuviera vacío o sea seguro. La deducción de un personaje sobre las reglas de curación no cambia la naturaleza adjudicada de los rivales.
+
+## [49-068 · La búsqueda de información continúa entre los reproches de Eleanor](../capitulos/49.md) · 01:36:02.360
+
+Tipo: `declaracion_personaje`.
+
+El grupo decide centrarse en la información que había venido a buscar y ve escaleras hacia arriba. Antes de continuar, Eleanor reprocha a Kilzer haberse alejado en vez de ayudar a su escudera. Kilzer recuerda que tiene nombre y responde que mató precisamente a la criatura que la amenazaba por la espalda.
+
+Se conservan las valoraciones enfrentadas: el reproche de Eleanor no demuestra falta absoluta de ayuda. La mención «piel azul» describe al interlocutor, sin añadir otra especie ni dos cabezas anatómicas.
+
+## [49-069 · La detección de Erandy permite advertir las estatuas peligrosas](../capitulos/49.md) · 01:37:06.600
+
+Tipo: `hecho_confirmado`.
+
+Se pide a Erandy comprobar si lo que tienen delante es una trampa o solo una estatua. Ella recuerda el alcance de su detección y el director confirma que aquellas estatuas habían brillado. Kilzer se dispone a desactivarlas con herramientas.
+
+La confirmación se limita a las estatuas examinadas de esa sala. No convierte en trampas todas las estatuas del templo ni describe el funcionamiento de un mecanismo distinto de los que se manipulan después.
+
+## [49-071 · La ayuda de Erandy permite desactivar solo una estatua](../capitulos/49.md) · 01:38:16.400
+
+Tipo: `hecho_confirmado`.
+
+Erandy se acerca a Kilzer para ayudarlo. La tirada de herramientas recibe un dado adicional y consigue desactivar la siguiente estatua gracias a esa ayuda. Kilzer da las gracias y recomienda pasar cerca de ella, la única que considera desactivada, para disminuir el peligro de recibir veneno.
+
+Se acredita una sola desactivación, no la anulación de todos los mecanismos. El dado de ayuda no identifica por sí mismo un nuevo objeto o una mejora permanente de las herramientas.
+
+## [49-073 · El piso superior concentra el veneno y se solicita un descanso](../capitulos/49.md) · 01:40:22.080
+
+Tipo: `hecho_confirmado`.
+
+El grupo llega al piso superior y ve una poza central de veneno, desde la que gotea líquido hacia la planta inferior. Sospechan otra emboscada y la posible presencia de alguien que controla a los no muertos. Antes de seguir se pide un descanso corto para recuperar energía divina.
+
+La existencia de un controlador es una sospecha del grupo en este punto. El tramo termina durante la solicitud de descanso: no se confirma aquí que lo completen ni se anticipan los hallazgos posteriores.
+
+## [49-074 · El descanso de una hora se aplaza](../capitulos/49.md) · 01:41:29.560
+
+Tipo: `explicacion_director`.
+
+Se plantea descansar para recuperar recursos y seguir usando magia para detectar peligros. El director recuerda que un descanso corto exige una hora; ante el riesgo de esperar allí, deciden continuar y reconsiderarlo si la situación empeora.
+
+La discusión y la decisión de continuar no representan una hora de descanso ni una recuperación de recursos. La escasez de magia expresada no permite reconstruir todas las reservas individuales.
+
+## [49-076 · Kilzer desconfía de la bendición solar y consulta la ruta](../capitulos/49.md) · 01:44:49.280
+
+Tipo: `declaracion_personaje`.
+
+Ante la propuesta de continuar con una bendición del señor del Sol, Kilzer recuerda que quisieron sacrificarlo a un sol y expresa su rechazo. Luego pregunta a la capitana si inspeccionan los pasillos; ella quiere reunir toda la información posible.
+
+Es un recuerdo y una reacción del personaje, no una identificación del culto anterior con el dios de Erandy ni prueba de una hostilidad objetiva entre ellos.
+
+## [49-082 · Erandy reconoce un culto sin identificar al dios](../capitulos/49.md) · 01:52:14.440
+
+Tipo: `explicacion_director`.
+
+En la parte superior descubren una capilla derruida, un altar, más vasijas y la gran estatua incompleta de una serpiente. Patata y Erandy observan el conjunto; Erandy percibe que está dedicado a una deidad, pero no puede decir quién es. Ella lo interpreta como el centro de sus ceremonias.
+
+La percepción de culto no proporciona nombre, naturaleza o plan de la deidad. No identifica la estatua con una serpiente de visiones anteriores.
+
+## [49-083 · La comprobación de trampas no descubre a los enemigos](../capitulos/49.md) · 01:53:39.280
+
+Tipo: `explicacion_director`.
+
+La nueva revisión de la capilla no revela trampas y el director sitúa las trampas halladas en el primer piso. Ante la pregunta por huecos del techo, aclara que un hueco o un enemigo oculto no equivale a una trampa detectada por el efecto que estaban usando.
+
+El resultado de detectar o investigar trampas no certifica que la sala esté libre de criaturas; esa diferencia será relevante para la emboscada.
+
+## [49-084 · Papeles de más de dos siglos se deshacen al tocarlos](../capitulos/49.md) · 01:54:33.280
+
+Tipo: `explicacion_director`.
+
+Al acercarse al altar encuentran papeles amarillentos de más de doscientos años. Uno se deshace en la mano al intentar cogerlo. Los huesos crujen bajo sus pies, mientras una llama verdosa continúa encendida como las del resto del templo.
+
+La antigüedad se adjudica a los papeles; no fija la fecha de construcción de todo el templo ni la duración exacta del abandono.
+
+## [49-086 · Las llamas verdes iluminan sin desprender calor](../capitulos/49.md) · 01:56:02.480
+
+Tipo: `explicacion_director`.
+
+Erandy intenta comprender la llama y el director le propone examinar su magia. Con la ayuda de su guía, reconoce un efecto empleado por magos para mantener llamas encendidas durante muchos años sin calor. Esa magia se ha utilizado repetidamente en el templo.
+
+La identificación concierne a la iluminación. No revela qué ceremonia requería ese color, quién la instaló o el nombre de un conjuro concreto.
+
+## [49-089 · Los huesos forman dos serpientes a espaldas del grupo](../capitulos/49.md) · 01:59:19.320
+
+Tipo: `explicacion_director`.
+
+Mientras Patata termina con los papeles y Erandy mira la llama, los huesos de su alrededor comienzan a moverse y forman una serpiente que no habían visto. A espaldas de Eleanor se levanta otra criatura, mucho mayor: una serpiente esquelética deformada cuya presencia trae presión al ambiente. El grupo queda sorprendido.
+
+Se distinguen una serpiente menor y otra enorme. No se identifica su animador ni se equiparan con la serpiente esquelética derrotada en la cueva del capítulo 48.
+
+## [49-093 · Erandy coloca un guardián de fe y cura al grupo](../capitulos/49.md) · 02:06:38.480
+
+Tipo: `hecho_confirmado`.
+
+Erandy coloca un guardián de fe junto al adversario y usa también una curación para sí y sus compañeros; se adjudican cinco puntos a los destinatarios. El director utiliza una imagen de Chopito para señalar la posición del guardián, sin traer al pulpo a la expedición.
+
+El marcador gráfico de Chopito no es una aparición del personaje. La conversación explica cuándo puede golpear el guardián, sin mostrar todavía una activación por movimiento.
+
+## [49-097 · Erandy evita un coletazo y atiende a Eleanor](../capitulos/49.md) · 02:13:11.159
+
+Tipo: `hecho_confirmado`.
+
+Erandy cambia de posición pese al ataque de oportunidad de la criatura; la cola falla y ella sigue avanzando. Desde allí cura un poco a Eleanor. El guardián de fe permanece colocado, a la espera de que se cumpla su condición de ataque.
+
+La curación parcial no demuestra recuperación completa de Eleanor ni del agotamiento previo de Erandy.
+
+## [49-101 · Erandy consume su último hechizo en manos ardientes](../capitulos/49.md) · 02:18:57.280
+
+Tipo: `hecho_confirmado`.
+
+Erandy declara que gastará el último hechizo que le queda para lanzar Burning Hands a la criatura, procurando no alcanzar a sus compañeros. Se resuelve la salvación y termina su intervención.
+
+Se conserva su declaración sobre los recursos de este combate; no fija su capacidad mágica permanente ni un daño total no verbalizado.
+
+## [49-103 · Molly cuestiona que Eleanor siga tratando a Erandy como una niña](../capitulos/49.md) · 02:20:27.680
+
+Tipo: `declaracion_personaje`.
+
+Tras la victoria intentan alejarse con prisa porque recuerdan al muerto que se deshizo en veneno abajo. Molly detiene a Eleanor y recuerda que ella misma había dicho que la pequeña no era una niña. Observa que Erandy está menos herida que su señora y sugiere que sea la escudera quien la cuide; Erandy también reprocha la impulsividad de Eleanor.
+
+La advertencia teme una nueva reacción venenosa, pero no la representa. El diálogo sobre cuidados no implica una ruptura del vínculo ni una curación completa.
+
+## [49-105 · Los papeles están escritos en abisal y ninguno lo conoce](../capitulos/49.md) · 02:23:55.920
+
+Tipo: `explicacion_director`.
+
+Al observar las hojas se reconoce el abisal, pero ninguno de los presentes dispone de ese idioma. Patata y Erandy deben realizar salvaciones de sabiduría ante su lectura; los resultados mencionados son diecisiete y dieciocho.
+
+La llamada a salvarse de la locura no adjudica una locura consumada a quienes superan la prueba. Reconocer el idioma no equivale a saber leerlo.
+
+## [49-107 · Erandy recibe calma y una comprensión solo suya](../capitulos/49.md) · 02:26:04.319
+
+Tipo: `explicacion_director`.
+
+Erandy siente desde el corazón un calor agradable que calma su respiración tras la lucha. Las letras también cambian para ella hasta volverse comprensibles. Kilzer y Eleanor no ven transformarse la escritura.
+
+La calma y la comprensión momentáneas no diagnostican el trance anterior ni otorgan a todos un conocimiento permanente del abisal.
+
+## [49-109 · La ayuda a Erandy llega como una sensación en el corazón](../capitulos/49.md) · 02:27:58.920
+
+Tipo: `explicacion_director`.
+
+Erandy no recibe directamente una voz en la cabeza como Patata. El director describe una sensación cálida transmitida por el corazón, la presencia de su dios ayudándola a ver la luz tras aquellas palabras.
+
+En este tramo no se pronuncia con claridad un nombre propio para esa deidad. Se preserva la diferencia entre las dos experiencias sin completar la identificación con conocimientos externos.
+
+## [49-110 · La inscripción enlaza el fuego velado, los ojos y un santuario](../capitulos/49.md) · 02:28:32.560
+
+Tipo: `explicacion_director`.
+
+La traducción anuncia que, cuando el fuego divino sea devorado por el negro velo y la noche beba el aliento de los pueblos de sangre cálida, los ojos de la serpiente volverán a contemplar a su amo dormido. Su mirada señalará un sendero olvidado; unas escamas fieles caminarán donde la selva oculta la piedra sagrada, hasta el gran santuario donde aguarda la última muda.
+
+Es el contenido profético o ritual de una inscripción, no la representación de acontecimientos ya ocurridos. No identifica al amo, a los ojos, al santuario o al fuego divino con personas y objetos conocidos.
+
+## [49-111 · La traducción cesa y las palabras quedan en la memoria](../capitulos/49.md) · 02:29:58.439
+
+Tipo: `explicacion_director`.
+
+Al terminar la lectura, el contenido queda grabado en la mente de Patata y Erandy. Desaparecen el abrazo y el calor que sentían, y ambos vuelven a ver las hojas en el abisal que no entienden.
+
+La memoria del texto no implica que hayan aprendido el idioma o puedan traducir otros documentos. Los demás siguen sin ver el cambio privado.
+
+## [49-112 · Erandy interpreta la ayuda como una señal del Señor del Amanecer](../capitulos/49.md) · 02:30:30.319
+
+Tipo: `declaracion_personaje`.
+
+Erandy considera que han recibido una señal divina del Señor del Amanecer y afirma que, si ha intervenido para ayudarla, lo que descubrieron debe ser muy importante. En la conversación se reconoce lo extraño de sentir un abrazo de la propia deidad. Deciden marcharse y explicarlo por el camino antes de hablar con Walulu.
+
+Es la interpretación y el propósito de los personajes. No representa todavía una audiencia con Walulu ni el esclarecimiento de todos los símbolos de la inscripción.
+
+## [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160
+
+Tipo: `hecho_confirmado`.
+
+Los compañeros discuten todavía sobre la posibilidad de que se levanten más muertos, pero finalmente abandonan el templo yuan-ti perdido entre la jungla. La inscripción queda en manos de Patata y se dirigen hacia Iktan para descansar.
+
+Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 

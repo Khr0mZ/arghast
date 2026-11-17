@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 48,
+  "revisado_hasta": 49,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -889,6 +889,75 @@
           "46-058",
           "46-065"
         ]
+      },
+      {
+        "titulo": "La conversación que nunca llega",
+        "texto": "Eleanor investiga Iktan escuchando y preguntando, mientras Erandy intenta que hable de lo ocurrido. En la taberna vuelve a aplazar las explicaciones: describe a Citlali como la anciana que ahora es joven y alude al estado de su escudera durante la batalla, sin ofrecerle aún la historia completa. Se suma a la expedición de Molly; durante los preparativos Erandy recibe una brocheta de setas para ayudar en la oscuridad, sin donante inequívoco en los subtítulos.",
+        "referencias": [
+          "49-001",
+          "49-002",
+          "49-010",
+          "49-014",
+          "49-015",
+          "49-018",
+          "49-027"
+        ]
+      },
+      {
+        "titulo": "Voz grave, fuerza y un explorador invocado",
+        "texto": "Una fruta vuelve su voz grave y gutural, con efectos adjudicados en persuasión e intimidación. Trabaja con Patata para abrir la puerta tras la quema de las raíces. Dentro invoca un corcel fantasma para que se adelante y reciba posibles peligros antes que ellos. La precaución hace que una criatura serpentina ataque primero al animal invocado mientras los viajeros examinan las urnas.",
+        "referencias": [
+          "49-022",
+          "49-025",
+          "49-031",
+          "49-035",
+          "49-036",
+          "49-037"
+        ]
+      },
+      {
+        "titulo": "Resistir el cerco y volver a levantarse",
+        "texto": "Eleanor pierde el caballo durante el ataque y procura que Erandy atienda a los enemigos que tiene cerca. A pesar de su respuesta tranquilizadora, los rivales la cercan: un mordisco crítico rompe su concentración y cae hasta necesitar una salvación de muerte. Recupera un punto de vida, y Patata la sostiene con Preservar vida. Se levanta en la zona de Silencio, vuelve a matar adversarios y permanece junto al agricultor para evitar otra exposición.",
+        "referencias": [
+          "49-042",
+          "49-046",
+          "49-048",
+          "49-049",
+          "49-050",
+          "49-056",
+          "49-062"
+        ]
+      },
+      {
+        "titulo": "La exigencia de proteger a la escudera",
+        "texto": "Una vez acabada esa lucha, Eleanor vuelve sobre el motivo por el que había adelantado al caballo y critica que el templo no resultara seguro. Antes de seguir reprocha a Kilzer haberse apartado de Erandy. El aludido le responde que mató al enemigo situado a la espalda de la niña, de modo que el desacuerdo conserva las dos valoraciones y no convierte el reproche en ausencia demostrada de ayuda.",
+        "referencias": [
+          "49-066",
+          "49-068"
+        ]
+      },
+      {
+        "titulo": "La capitana quiere información y encuentra una emboscada",
+        "texto": "Eleanor ordena revisar el máximo posible antes de volver. Examina las vasijas de la capilla y halla órganos ennegrecidos que se deshacen. La serpiente mayor se levanta a su espalda y la enrosca; logra liberarse y sigue atacándola con sus recursos divinos. Erandy consigue acercarse para curarla.",
+        "referencias": [
+          "49-076",
+          "49-087",
+          "49-089",
+          "49-090",
+          "49-094",
+          "49-097",
+          "49-098"
+        ]
+      },
+      {
+        "titulo": "Aceptar que también pueden cuidarla",
+        "texto": "Eleanor asegura el golpe que quiebra la cabeza de la abominación. Después quiere apartarse deprisa con Erandy por temor al veneno, pero Molly le recuerda que su escudera no es una niña y ahora está menos herida que ella. El consejo de aceptar sus cuidados interrumpe la marcha. Eleanor no comparte el cambio de letras que reciben Patata y Erandy, aunque presencia la lectura y sale con ellos hacia Iktan.",
+        "referencias": [
+          "49-102",
+          "49-103",
+          "49-107",
+          "49-113"
+        ]
       }
     ],
     "Elger Banana": [
@@ -984,6 +1053,86 @@
         "referencias": [
           "46-053",
           "46-058"
+        ]
+      },
+      {
+        "titulo": "Preguntas que su señora deja para después",
+        "texto": "Erandy dice que no se aparta de Eleanor para no perderse y lamenta que aún no quieran conversar de lo ocurrido. En la reunión pregunta por el ojo, Citlali y los yuan-ti; expresa que no recuerda nada y espera que ayudar en el templo pueda aclararle la memoria. Se ofrece a localizar trampas y viaja al principio sobre el hombro de su señora.",
+        "referencias": [
+          "49-002",
+          "49-009",
+          "49-010",
+          "49-014",
+          "49-015",
+          "49-018",
+          "49-020"
+        ]
+      },
+      {
+        "titulo": "La escudera abre y examina el camino",
+        "texto": "Una fruta le produce un cambio corporal y de voz masculino. Baja para investigar el acceso, recibe una brocheta de setas y reconoce que su conjuro no atraviesa paredes. Usa primero investigación ordinaria y después Manos ardientes para eliminar las raíces de la puerta. Dentro, Encontrar trampas le permite señalar las estatuas peligrosas y su conocimiento religioso identifica las vasijas como funerarias, sin que sean necesariamente un ritual.",
+        "referencias": [
+          "49-021",
+          "49-027",
+          "49-028",
+          "49-029",
+          "49-032",
+          "49-034",
+          "49-037"
+        ]
+      },
+      {
+        "titulo": "Fuego y cuidados en el cerco",
+        "texto": "Erandy responde al ataque al caballo con rayos de fuego y recibe el asalto de otra criatura que la muerde. Utiliza bolas de fuego para presionar a los adversarios y pregunta a Eleanor por su estado. La plegaria que presenta ante los no muertos no termina la batalla; más adelante, una nueva bola de fuego rompe el área que los había dejado sin voz.",
+        "referencias": [
+          "49-039",
+          "49-040",
+          "49-046",
+          "49-053",
+          "49-060"
+        ]
+      },
+      {
+        "titulo": "La ayuda que abre un paso",
+        "texto": "Después del combate recuerda que el templo estaba abandonado, sin haber prometido que fuese seguro. La detección permite confirmar que las estatuas de la sala habían brillado. Cuando Kilzer rompe el primer mecanismo, lo ayuda en el siguiente intento: juntos consiguen desactivar una sola estatua. La colaboración deja un paso menos peligroso, aunque otra figura todavía expulsa veneno.",
+        "referencias": [
+          "49-066",
+          "49-069",
+          "49-070",
+          "49-071",
+          "49-072"
+        ]
+      },
+      {
+        "titulo": "La capilla no revela el nombre de su dios",
+        "texto": "Erandy reconoce que la capilla rinde culto a una deidad, pero no logra identificarla. Examina la iluminación y descubre llamas mágicas que no dan calor y pueden durar años. La ausencia de trampas no permite advertir las criaturas escondidas entre los huesos.",
+        "referencias": [
+          "49-082",
+          "49-083",
+          "49-086",
+          "49-089"
+        ]
+      },
+      {
+        "titulo": "Curar a quien siempre intenta protegerla",
+        "texto": "Durante la emboscada Erandy coloca un guardián de fe, cura a sus compañeros, esquiva un coletazo al cambiar de posición y atiende a Eleanor. Agota el último hechizo declarado en unas manos ardientes. Tras la victoria comparte el reproche de Molly a la impulsividad de su señora: la escudera también puede cuidar de la caballera.",
+        "referencias": [
+          "49-093",
+          "49-097",
+          "49-101",
+          "49-103"
+        ]
+      },
+      {
+        "titulo": "Una luz interior para la inscripción",
+        "texto": "Las hojas abisales no son legibles para Erandy hasta que siente un calor agradable en el corazón. El director describe la ayuda de su dios y solo ella ve cambiar la escritura; Eleanor y Kilzer no perciben nada semejante. Guarda el significado de la inscripción en la mente y la comprensión temporal desaparece. Erandy interpreta lo vivido como una señal del Señor del Amanecer y quiere comunicar su importancia.",
+        "referencias": [
+          "49-105",
+          "49-107",
+          "49-109",
+          "49-110",
+          "49-111",
+          "49-112"
         ]
       }
     ],
@@ -1942,6 +2091,61 @@
         "referencias": [
           "48-006",
           "48-017"
+        ]
+      },
+      {
+        "titulo": "Una investigación reunida alrededor de una esfera",
+        "texto": "Molly llega a la taberna y reclama a Patata para reunirlo con Eleanor y Erandy. Ha consultado a Walulu, de quien recibe pergaminos y un mapa. Muestra el ojo que atribuye a una expedición con Bonny, enlazado por el director con el que había enseñado a Citlali. Considera que un templo antiguo yuan-ti puede aportar información sobre su función y pide ayuda a los sacerdotes, la caballera y Kilzer. Conserva el objeto guardado frente a la sospecha de que pueda estar observándolos.",
+        "referencias": [
+          "49-011",
+          "49-012",
+          "49-013",
+          "49-014",
+          "49-015",
+          "49-016",
+          "49-017",
+          "49-018"
+        ]
+      },
+      {
+        "titulo": "La guía cede el mapa",
+        "texto": "Calcula medio día de camino, pero al internarse en la jungla pide ayuda para orientarse. Patata detecta un desvío y pasa al frente; ella lo sigue, participa en el consumo de frutas y les pide reanudar la marcha. Al llegar, el abandono visible del templo coincide con la información que transmitió de Walulu.",
+        "referencias": [
+          "49-017",
+          "49-020",
+          "49-024",
+          "49-025"
+        ]
+      },
+      {
+        "titulo": "Fuego de apoyo entre las tumbas",
+        "texto": "Molly aprovecha un brasero y otros puntos de cobertura para disparar contra los no muertos y recargar. Mantiene el apoyo mientras los demás contienen a los atacantes. Dentro de Silencio sus tiros no se oyen; cuando el cerco se va rompiendo, se recoloca y elimina otra amenaza.",
+        "referencias": [
+          "49-044",
+          "49-051",
+          "49-058",
+          "49-064"
+        ]
+      },
+      {
+        "titulo": "El recuerdo de otro templo y el combate del altar",
+        "texto": "Molly recuerda haber encontrado el ojo con Bonny en un templo semejante al que ahora exploran. Le cuesta creer que una esfera así estuviera dentro de un cuerpo, y la investigación no resuelve qué buscaban en las autopsias. Se burla de la inquietud de Kilzer, pero la emboscada sorprende al grupo. Corre hacia una serpiente, consigue dos ataques críticos y continúa disparando durante la lucha con la mayor.",
+        "referencias": [
+          "49-079",
+          "49-080",
+          "49-088",
+          "49-089",
+          "49-091",
+          "49-095",
+          "49-099"
+        ]
+      },
+      {
+        "titulo": "La pequeña también puede proteger a su señora",
+        "texto": "Al terminar, Molly detiene a Eleanor y le recuerda que había insistido en que Erandy no era una niña. Observa que la escudera está menos herida y propone que pueda cuidar de su señora. Después sale con el grupo y con la información que Patata conserva.",
+        "referencias": [
+          "49-103",
+          "49-113"
         ]
       }
     ],
@@ -2974,6 +3178,15 @@
           "48-019",
           "48-020"
         ]
+      },
+      {
+        "titulo": "Una pista para comprender el ojo",
+        "texto": "Según Molly, Walulu ha explicado símbolos y entregado pergaminos que orientan hacia antiguos templos yuan-ti. También le ha dado un mapa con un templo relacionado con problemas de hace doscientos o trescientos años. Esa información sostiene la salida; el interior, su antigüedad exacta y la función del ojo aún requieren investigación.",
+        "referencias": [
+          "49-013",
+          "49-014",
+          "49-017"
+        ]
       }
     ],
     "Winscore": [
@@ -3872,6 +4085,14 @@
           "47-081",
           "47-090"
         ]
+      },
+      {
+        "titulo": "Un saludo para el regreso de Patata",
+        "texto": "La encargada de pelo trenzado atiende una taberna mucho más tranquila que los locales que Kilzer recuerda de Shiaru. Al prepararse la expedición, Patata la llama Angel, promete traerle algo bonito y recibe una despedida tierna. No se presenta aquí un compromiso amoroso o un nombre nuevo completo.",
+        "referencias": [
+          "49-008",
+          "49-019"
+        ]
       }
     ],
     "Miausi": [
@@ -4093,6 +4314,84 @@
           "48-117",
           "48-118",
           "48-127"
+        ]
+      }
+    ],
+    "Corcel fantasma de Eleanor": [
+      {
+        "titulo": "Un explorador que recibe el primer ataque",
+        "texto": "Eleanor lo invoca después de que Kilzer haya desactivado dos mecanismos y le encomienda ir por delante para que los peligros lo alcancen a él antes que al grupo. Mientras los demás examinan las urnas del centro, relincha: una criatura serpentina y perruna se abalanza sobre él y lo golpea con zarpazos, provocando la iniciativa.",
+        "referencias": [
+          "49-035",
+          "49-038"
+        ]
+      },
+      {
+        "titulo": "La pérdida durante el cerco",
+        "texto": "El ataque al explorador se convierte en un cerco de criaturas y yuan-ti no muertos. Entre los golpes, el corcel queda deshecho. La precaución de Eleanor ha expuesto la invocación antes que a sus compañeros, pero no ha evitado la batalla ni la caída posterior de la caballera.",
+        "referencias": [
+          "49-039",
+          "49-042",
+          "49-048"
+        ]
+      }
+    ],
+    "Criatura serpentina que ataca al corcel": [
+      {
+        "titulo": "El habitante que interrumpe las pesquisas",
+        "texto": "Surge cuando el grupo está ocupado con las vasijas funerarias. Se aproxima con una apariencia que combina serpiente y perro, se levanta sobre dos patas y golpea al corcel invocado. El director rechaza que sea una trampa y pide iniciativa. La primera agresión alcanza al explorador de Eleanor en lugar de a los viajeros.",
+        "referencias": [
+          "49-038"
+        ]
+      }
+    ],
+    "No muertos del templo yuan-ti": [
+      {
+        "titulo": "Ataques, protección y curación",
+        "texto": "Salen de puertas y tumbas para rodear al grupo. Algunos muerden o combaten de cerca; otros portan arco o lanzan rayos. No dependen solo del daño directo: recurren a Santuario, a Silencio y a curar compañeros. Eleanor cae bajo su presión, pero vuelve a la lucha con apoyo. El grupo acaba con estas criaturas; sus cadáveres continúan siendo peligrosos cuando el veneno funde la piel al tocarlos. No se localiza aquí a quien pudiera animarlos o controlarlos.",
+        "referencias": [
+          "49-040",
+          "49-041",
+          "49-042",
+          "49-048",
+          "49-054",
+          "49-055",
+          "49-061",
+          "49-065",
+          "49-067",
+          "49-073"
+        ]
+      },
+      {
+        "titulo": "Dos serpientes entre huesos del altar",
+        "texto": "Los restos cercanos al altar se mueven sin ser detectados y forman una serpiente menor y una mucho mayor, esquelética y deformada. La grande retiene a Eleanor y después amenaza y apresa a otros compañeros, mientras la menor intenta hacer con Patata lo que su compañera hizo con la caballera. Molly, Kilzer, Patata y Erandy responden al ataque. Eleanor termina rompiendo la cabeza de la abominación, que cae inerte. La fuente que animó los huesos no queda identificada o anulada.",
+        "referencias": [
+          "49-089",
+          "49-090",
+          "49-091",
+          "49-092",
+          "49-093",
+          "49-094",
+          "49-095",
+          "49-096",
+          "49-097",
+          "49-098",
+          "49-099",
+          "49-100",
+          "49-101",
+          "49-102"
+        ]
+      }
+    ],
+    "Chauntea": [
+      {
+        "titulo": "La voz que vuelve legible el abisal",
+        "texto": "Mientras Patata observa las hojas restauradas, siente un abrazo y escucha la voz de una anciana de cabellera blanca. El director identifica a Chauntea como su diosa y explica que le está traduciendo la inscripción en la cabeza. La ayuda termina después de fijar las palabras en su memoria y no le enseña permanentemente el abisal.",
+        "referencias": [
+          "49-106",
+          "49-108",
+          "49-110",
+          "49-111"
         ]
       }
     ]

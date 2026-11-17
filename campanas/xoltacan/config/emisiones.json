@@ -1260,6 +1260,46 @@
         "sha256_metadatos": "2cbf3c02ffb74c723e57ed133feac0f785b00e4d4d4353cc763409a846d4d70a",
         "publicacion_reportada_utc": "2026-11-15T10:00:37+00:00"
       }
+    },
+    "49": {
+      "video_id": "2ouV6qjHGD0",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-08-06",
+        "fuentes": [
+          "1534992858807926865"
+        ],
+        "criterio": "campana_numero_titulo_y_confirmacion_usuario",
+        "nota": "El usuario confirma el 17/11/2026 que Buscando la Verdad se jugó el 6 de agosto y Abastecimiento el 7. Se conserva el aviso del día 7 con su rotulación original discrepante. La profecía escrita el día 6 y el regreso narrado el día 7 por la mañana apoyan la correspondencia; la tarjeta no fija el inicio exacto del juego.",
+        "variantes": [
+          "1535348824992649227"
+        ],
+        "fechas_candidatas": [
+          "2026-08-06"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-11-17",
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": "metadatos_youtube",
+        "archivo_metadatos": "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.info.json",
+        "sha256_metadatos": "9afc88e77677404433f5257c803c746673597aad837833163a5727b837093b56",
+        "publicacion_reportada_utc": "2026-11-17T10:00:21+00:00"
+      }
+    }
+  },
+  "correspondencias_avisos": {
+    "1535348824992649227": {
+      "campana": "xoltacan",
+      "episodio_rotulado": 49,
+      "capitulo": 50,
+      "titulo": "Abastecimiento",
+      "fecha": "2026-08-07",
+      "confirmada_por_usuario": true,
+      "confirmada_el": "2026-11-17",
+      "motivo": "El usuario confirma que el día 6 se jugó Buscando la Verdad y el 7 Abastecimiento. La tarjeta del 7 conserva número y título anteriores; no se modifica el anuncio original ni se marca revisado el capítulo 50."
     }
   }
 }

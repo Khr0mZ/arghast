@@ -8,11 +8,11 @@ La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesi
 
 Etiquetas agrupadas: Gualulu / Walulu (líder de Iktan, grafía provisional); Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional).
 
-Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md).
+Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [49-013](../capitulos/49.md), [49-014](../capitulos/49.md), [49-017](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### La heredera que protege los caminos ocultos
 
@@ -61,6 +61,12 @@ Fuentes: [47-081 · Tesara y el felino llevan el aviso a Walulu](../capitulos/47
 Tesara ha pasado tiempo con Walulu consultando los libros, documentos y profecías de su biblioteca para comprender al dragón y la protección de Iktan. En el templo, Walulu acompaña a Naór durante una clase dirigida por una tortuga pequeña con gafas. Defiende que necesita calmarse y le recuerda las palmeras y el goliat llevado con graves heridas. Cuando la profesora de calma pide una donación, la dirigente entrega monedas y dice que irá pagando las clases.
 
 Fuentes: [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitulos/48.md) · 00:02:31.000 · [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capitulos/48.md) · 00:05:53.080 · [48-018 · Naór recibe una clase de calma de una tortuga con gafas](../capitulos/48.md) · 00:22:40.159 · [48-019 · Walulu insiste en los motivos para que Naór se calme](../capitulos/48.md) · 00:24:23.279 · [48-020 · La tortuga enseña a respirar y Walulu paga la donación](../capitulos/48.md) · 00:25:44.640.
+
+### Una pista para comprender el ojo
+
+Según Molly, Walulu ha explicado símbolos y entregado pergaminos que orientan hacia antiguos templos yuan-ti. También le ha dado un mapa con un templo relacionado con problemas de hace doscientos o trescientos años. Esa información sostiene la salida; el interior, su antigüedad exacta y la función del ojo aún requieren investigación.
+
+Fuentes: [49-013 · Los documentos de Walulu apuntan a templos yuan-ti](../capitulos/49.md) · 00:16:27.040 · [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920 · [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039.
 
 ## Registros y evidencias
 
@@ -439,4 +445,36 @@ Tipo: `hecho_confirmado`.
 La tortuga hace callar a Walulu y guía las últimas respiraciones de Naór: inspirar, espirar y repetir que no tiene rabia ni se enfada. La llama una leona sin uñas. Al concluir acerca un recipiente y pide una donación para seguir dando las clases; Walulu deposita monedas y dice que irá pagando. Naór agradece la sesión y sale.
 
 No se fija importe ni se acredita una curación definitiva, una pérdida física de uñas o un cambio mágico. La práctica respiratoria reaparece cuando Naór intenta dominar el enfado.
+
+## [49-013 · Los documentos de Walulu apuntan a templos yuan-ti](../capitulos/49.md) · 00:16:27.040
+
+Tipo: `declaracion_personaje`.
+
+Molly dice haber hablado con Walulu y haber recibido pergaminos. Los símbolos y las explicaciones que le ha dado la chamana la llevan a buscar más información sobre el ojo en alguno de los templos antiguos de los yuan-ti.
+
+Es una pista y una propuesta de investigación; todavía no se traduce el objeto ni se identifica una relación causal con el dragón o sus muertos.
+
+## [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920
+
+Tipo: `declaracion_personaje`.
+
+Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly dice que quieren averiguar para qué sirve el objeto y que al cogerlo pasó algo. Eleanor explica que Citlali era anciana y ahora es joven; al recordar la batalla alude a que su escudera estaba loca y vuelve a posponer la conversación. Molly transmite que, según Walulu, los yuan-ti intentaron envenenarla y atacar Iktan, pero otros lo evitaron.
+
+La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
+
+## [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039
+
+Tipo: `declaracion_personaje`.
+
+Molly despliega un mapa de la zona que le ha dado Walulu. Señala el emplazamiento de un templo con el que hubo problemas hace unos doscientos o trescientos años y estima que podrían tardar medio día en llegar desde Iktan.
+
+Estimaciones orales, sin año exacto, escala o coordenadas transcritas. Es un mapa nuevo procedente de Walulu, no una marca identificada de los antiguos mapas de la Marina.
+
+## [49-112 · Erandy interpreta la ayuda como una señal del Señor del Amanecer](../capitulos/49.md) · 02:30:30.319
+
+Tipo: `declaracion_personaje`.
+
+Erandy considera que han recibido una señal divina del Señor del Amanecer y afirma que, si ha intervenido para ayudarla, lo que descubrieron debe ser muy importante. En la conversación se reconoce lo extraño de sentir un abrazo de la propia deidad. Deciden marcharse y explicarlo por el camino antes de hablar con Walulu.
+
+Es la interpretación y el propósito de los personajes. No representa todavía una audiencia con Walulu ni el esclarecimiento de todos los símbolos de la inscripción.
 

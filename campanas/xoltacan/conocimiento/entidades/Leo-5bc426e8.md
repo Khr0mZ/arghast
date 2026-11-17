@@ -12,7 +12,7 @@ Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Un niño que esperaba a sus padres
 

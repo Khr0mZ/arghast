@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-018](../capitulos/48.md), [48-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 48.
+Relato revisado hasta el capítulo 49.
 
 ### Respirar antes de salir
 
