@@ -19,7 +19,9 @@ window.createArchiveEditor=function({data,campaignId,content,refresh,lettering})
     if(!response.ok){if(response.status===401){token='';toggle.hidden=true;if(!active)refresh();}throw new Error(result.error||'No se ha podido guardar.');}return result;
   }
   function apply(result){
-    if(result.original)result={...result,content:clone(original)};
+    if(result.original || (data.integratedEditorRevision!=null && result.revision===data.integratedEditorRevision)){
+      result={...result,content:clone(original)};
+    }
     for(const c of data.chapters){const rows=data.transcripts[String(c.capitulo)];if(rows?.length)sourceRows[c._source??String(c.capitulo)]=rows;}
     revision=result.revision;versions=result.history;for(const k of keys)data[k]=result.content[k];
     data.transcripts={};data.transcriptFiles={};

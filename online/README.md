@@ -49,3 +49,10 @@ a estos últimos, reconciliar primero los cambios con las campañas editadas, ig
 que con el servicio local. Para una copia de seguridad se puede descargar cada
 versión mediante `/api/editor/document/CAMPANA?revision=REVISION`; la respuesta
 incluye el contenido completo y el historial hasta esa versión.
+
+Tras cotejar e integrar una revisión online en la edición publicada, se puede
+registrar su número en `campanas/<campaña>/config/edicion_publicada.json`, en el
+campo `revision_integrada`. Cuando el servicio devuelve esa revisión exacta, el
+visor usa el contenido de la publicación y conserva el número para el siguiente
+guardado. Una revisión posterior se muestra normalmente y el historial sigue
+disponible.

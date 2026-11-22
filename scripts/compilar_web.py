@@ -38,6 +38,9 @@ def compile_world(world):
     files = {}
     for campaign, dataset in datasets.items():
         paths = CAMPAIGNS[campaign]
+        edition = paths.config / 'edicion_publicada.json'
+        if edition.is_file():
+            dataset['integratedEditorRevision'] = json.loads(edition.read_text(encoding='utf-8'))['revision_integrada']
         dataset['transcriptFiles'] = {}
         for number, rows in dataset['transcripts'].items():
             if not rows:

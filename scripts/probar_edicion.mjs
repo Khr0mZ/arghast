@@ -51,6 +51,15 @@ try {
     window.fetch=async(input,init)=>{
       if(String(input).includes('/api/editor/document/xoltacan')){
         if(window.__editorTestMode==='unreadable')return new Response('documento comprimido ilegible',{headers:{'Content-Type':'application/json'}});
+        if(['integrated','newer'].includes(window.__editorTestMode)){
+          const data=globalThis.arghastCampaigns.xoltacan;
+          const current=await (await realFetch('/api/editor/document/xoltacan',init)).json();
+          const newer=window.__editorTestMode==='newer';
+          current.revision=data.integratedEditorRevision+(newer?1:0);
+          if(newer)current.content.chapters.at(-1).titulo='Corrección posterior de prueba';
+          else current.content.chapters.pop();
+          return Response.json(current);
+        }
         if(window.__editorTestMode==='delayed'){const url=new URL(input,location.href);url.searchParams.delete('since');const response=await realFetch(url,init);return new Promise(resolve=>window.__editorTestRelease=()=>resolve(response));}
       }
       return realFetch(input,init);
@@ -65,6 +74,16 @@ try {
   await check('Una revisión ilegible impide editar con una revisión inicial incorrecta','!document.querySelector(".editor-inline,.editor-session")');
   await evaluate('window.__editorTestMode="normal";window.__editorTestSync()');await waitFor('!!document.querySelector(".editor-inline")');
   await check('La edición vuelve a estar disponible al recuperar la revisión','document.querySelector(".editor-status").textContent===""');
+  const lastChapter=await evaluate('globalThis.arghastCampaigns.xoltacan.chapters.at(-1).capitulo');
+  const lastTitle=await evaluate('globalThis.arghastCampaigns.xoltacan.chapters.at(-1).titulo');
+  await route('#capitulo/'+lastChapter);
+  await evaluate('window.__editorTestMode="newer";window.__editorTestSync()');
+  await waitFor('document.querySelector("#content h1")?.textContent==="Corrección posterior de prueba"');
+  checks.push('La corrección posterior a la publicación se muestra en la ficha');
+  await evaluate('window.__editorTestMode="integrated";window.__editorTestSync()');
+  await waitFor('document.querySelector("#content h1")?.textContent==='+JSON.stringify(lastTitle));
+  checks.push('Una revisión integrada que termina un capítulo antes conserva la nueva ficha publicada');
+  await evaluate('window.__editorTestMode="normal";window.__editorTestSync()');
   await call('Page.removeScriptToEvaluateOnNewDocument',{identifier:syncTestScript});
   for(const section of ['personajes','atlas','facciones','objetos']){
     await route('#'+section);await waitFor('!!document.querySelector("a.entity-card")');
