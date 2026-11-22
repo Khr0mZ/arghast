@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-020](../capitulos/45.md), [45-024](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un nombre en la búsqueda del escuadrón
 

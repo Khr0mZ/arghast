@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-039](../capitulos/40.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La tierra fría recordada por Ilikar
 

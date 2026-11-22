@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-052](../capitulos/49.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El remate tras la espada normal
 

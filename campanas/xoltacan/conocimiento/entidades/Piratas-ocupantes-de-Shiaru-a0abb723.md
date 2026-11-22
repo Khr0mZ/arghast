@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-017](../capitulos/47.md), [49-004](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Los ocupantes vistos a través de la huida de Patata
 

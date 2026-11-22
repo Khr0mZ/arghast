@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-106](../capitulos/49.md), [49-108](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La voz que vuelve legible el abisal
 

@@ -8,11 +8,11 @@ Su aspecto pétreo no es una petrificación. Se conservan en tensión la edad de
 
 Etiquetas agrupadas: Tortas (anciano tortuga, grafía provisional).
 
-Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitulos/40.md), [40-029](../capitulos/40.md), [40-035](../capitulos/40.md), [45-006](../capitulos/45.md), [45-011](../capitulos/45.md), [45-016](../capitulos/45.md), [45-018](../capitulos/45.md), [45-020](../capitulos/45.md), [45-024](../capitulos/45.md), [45-025](../capitulos/45.md), [45-026](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-031](../capitulos/45.md), [45-032](../capitulos/45.md), [45-036](../capitulos/45.md), [45-041](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-049](../capitulos/45.md), [45-050](../capitulos/45.md), [45-054](../capitulos/45.md), [45-055](../capitulos/45.md), [45-059](../capitulos/45.md), [45-064](../capitulos/45.md), [45-067](../capitulos/45.md), [45-075](../capitulos/45.md), [45-078](../capitulos/45.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md).
+Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitulos/40.md), [40-029](../capitulos/40.md), [40-035](../capitulos/40.md), [45-006](../capitulos/45.md), [45-011](../capitulos/45.md), [45-016](../capitulos/45.md), [45-018](../capitulos/45.md), [45-020](../capitulos/45.md), [45-024](../capitulos/45.md), [45-025](../capitulos/45.md), [45-026](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-031](../capitulos/45.md), [45-032](../capitulos/45.md), [45-036](../capitulos/45.md), [45-041](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-049](../capitulos/45.md), [45-050](../capitulos/45.md), [45-054](../capitulos/45.md), [45-055](../capitulos/45.md), [45-059](../capitulos/45.md), [45-064](../capitulos/45.md), [45-067](../capitulos/45.md), [45-075](../capitulos/45.md), [45-078](../capitulos/45.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md), [50-001](../capitulos/50.md), [50-002](../capitulos/50.md), [50-007](../capitulos/50.md), [50-008](../capitulos/50.md), [50-009](../capitulos/50.md), [50-010](../capitulos/50.md), [50-012](../capitulos/50.md), [50-014](../capitulos/50.md), [50-015](../capitulos/50.md), [50-016](../capitulos/50.md), [50-017](../capitulos/50.md), [50-020](../capitulos/50.md), [50-021](../capitulos/50.md), [50-022](../capitulos/50.md), [50-025](../capitulos/50.md), [50-027](../capitulos/50.md), [50-028](../capitulos/50.md), [50-029](../capitulos/50.md), [50-030](../capitulos/50.md), [50-032](../capitulos/50.md), [50-033](../capitulos/50.md), [50-034](../capitulos/50.md), [50-037](../capitulos/50.md), [50-038](../capitulos/50.md), [50-041](../capitulos/50.md), [50-043](../capitulos/50.md), [50-044](../capitulos/50.md), [50-048](../capitulos/50.md), [50-053](../capitulos/50.md), [50-056](../capitulos/50.md), [50-057](../capitulos/50.md), [50-058](../capitulos/50.md), [50-060](../capitulos/50.md), [50-061](../capitulos/50.md), [50-062](../capitulos/50.md), [50-065](../capitulos/50.md), [50-066](../capitulos/50.md), [50-067](../capitulos/50.md), [50-070](../capitulos/50.md), [50-071](../capitulos/50.md), [50-072](../capitulos/50.md), [50-073](../capitulos/50.md), [50-075](../capitulos/50.md), [50-076](../capitulos/50.md), [50-077](../capitulos/50.md), [50-078](../capitulos/50.md), [50-079](../capitulos/50.md), [50-080](../capitulos/50.md), [50-081](../capitulos/50.md), [50-083](../capitulos/50.md), [50-084](../capitulos/50.md), [50-086](../capitulos/50.md), [50-087](../capitulos/50.md), [50-088](../capitulos/50.md), [50-089](../capitulos/50.md), [50-094](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El protector abandona la piedra
 
@@ -49,6 +49,12 @@ Fuentes: [45-006 · Tortas acepta acompañarlos sin rendir culto a Chopito](../c
 Tortas permanece en su sitio de Iktan meditando. Tentacol y Chopito se colocan junto a él para imitarlo, hasta componer la apariencia de un anciano sobre una roca. No se representa que Tortas enseñe una técnica nueva o se incorpore a la audiencia con Walulu.
 
 Fuentes: [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079 · [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119.
+
+### La rama que aún vive
+
+Tortas recuerda haber visto plantar el árbol en su infancia. Lo encuentra infestado y combate con sus brazos astrales. Cuando ya solo parece quedar putrefacción, trepa hasta una rama que sigue viva. Salva un poco de savia y se queda a solas con Walulu para escuchar lo que se sabe de las amenazas a la aldea. Termina la jornada meditando en su roca.
+
+Fuentes: [50-015 · Tortas recuerda la plantación del árbol](../capitulos/50.md) · 00:20:07.559 · [50-043 · Tortas se arroja con los brazos astrales](../capitulos/50.md) · 01:02:44.000 · [50-062 · Los brazos astrales rompen la presa de Tortas](../capitulos/50.md) · 01:39:55.719 · [50-075 · Una rama alta conserva una porción viva](../capitulos/50.md) · 02:00:39.520 · [50-076 · Tortas recoge un poco de savia en una cantimplora](../capitulos/50.md) · 02:01:55.679 · [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000 · [50-089 · Walulu no puede identificar una tercera amenaza](../capitulos/50.md) · 02:19:08.080 · [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760.
 
 ## Registros y evidencias
 
@@ -763,4 +769,452 @@ Tipo: `declaracion_personaje`.
 En el repaso inicial, la jugadora de Naór recuerda que conoció a Citlali al salir del colegio de Leo y Eztli: hubo un desencuentro, pero comprobaron que los pequeños jugaban juntos. También recuerda haber ido a entrenar con el interlocutor transcrito como Ilicar y Lilicar; dice que lo dejó inconsciente y que después ella acabó inconsciente en un combate con Tortas.
 
 Recapitulación de acontecimientos anteriores, sin volver a representar los encuentros. La identificación del nombre Ilicar/Lilicar con Ilikar es compatible con el catálogo, pero no se utiliza este repaso para fijar una nueva identidad ni las circunstancias de cada pérdida de conocimiento.
+
+## [50-001 · Tenta recuerda la espera con Chopito](../capitulos/50.md) · 00:00:23.800
+
+Tipo: `declaracion_personaje`.
+
+Tentacol recuerda que él y Chopito se quedaron junto a una figura con forma de tortuga. En su relato, Chopito llegó a dejarse barba y después se afeitó.
+
+Lo del resfriado se cuenta en broma y con dudas.
+
+## [50-002 · Tortas se suma al entrenamiento de la orilla](../capitulos/50.md) · 00:00:40.120
+
+Tipo: `declaracion_personaje`.
+
+Tortas cuenta que encontró a Naór e Ilikar entrenando junto al agua y se unió a ellos. Cuando los dos acabaron inconscientes en la orilla, el anciano volvió a meditar en su piedra.
+
+Recuerdo de Tortas, sin reconstrucción de las causas ni de la duración de la inconsciencia.
+
+## [50-007 · Tryel conduce a Oghma hasta la roca de Tortas](../capitulos/50.md) · 00:06:46.080
+
+Tipo: `hecho_confirmado`.
+
+La elfa atraviesa con su acompañante una zona donde el suelo parece muerto y algunas construcciones parecen derretidas. Al fondo está Tortas sobre su gran roca. Lo acompañan Tentacol y el pequeño pulpo que lleva en su frasco.
+
+La descripción del barrio no establece la causa de los daños.
+
+## [50-008 · Chopito prueba el camino de la paciencia](../capitulos/50.md) · 00:08:00.520
+
+Tipo: `hecho_confirmado`.
+
+Con una barba hecha mediante prestidigitación, Chopito se dispone a meditar. Tentacol duda de la lección, pero su maestro insiste en que un villano también necesita aprender. Tortas entiende el aquan de Chopito y le dice que la paciencia no es para villanos. El pulpo se justifica diciendo que viene de una villa.
+
+La escena muestra que Tortas entiende aquan, sin extender esa capacidad a Oghma.
+
+## [50-009 · Tryel explica por qué su hermano lleva el dinero](../capitulos/50.md) · 00:09:15.040
+
+Tipo: `declaracion_personaje`.
+
+Presentada a los dos compañeros y a Tortas, Oghma pregunta por un conde y admite que necesita dinero para cerveza. Tryel explica que pierde o regala sus monedas y que por eso su hermano las lleva por ella. El grupo se ofrece a ayudar a la recién llegada a buscar a sus supuestos primos.
+
+Lo que se sabe de la administración del dinero procede de Tryel. El conde no aparece.
+
+## [50-010 · Oghma se presenta y le hace una reverencia a Chopito](../capitulos/50.md) · 00:11:13.240
+
+Tipo: `hecho_confirmado`.
+
+Tryel presenta al anciano como un maestro y, al oído de la visitante, describe a Tentacol y Chopito como grandes villanos. Oghma da su nombre con una reverencia. Tentacol le traduce el agrado de su maestro y Tortas devuelve el saludo a su ritmo.
+
+«Villanos» es la presentación que hace Tryel.
+
+## [50-012 · Walulu solicita la ayuda del Gran Anciano](../capitulos/50.md) · 00:15:49.480
+
+Tipo: `hecho_confirmado`.
+
+Walulu se acerca por el sur desde la zona del templo. Saluda a Tortas con una profunda reverencia; buscaba a Naór y otros, pero no los encuentra y el tiempo apremia. Tortas se ofrece a ayudar a la aldea que ha visto crecer. Le presentan a la recién llegada.
+
+Walulu dice que no encuentra a Naór, sin situarla ni demostrar que esté ausente de la ciudad.
+
+## [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159
+
+Tipo: `hecho_confirmado`.
+
+Walulu encarga al grupo un poco de resina del Gran Árbol Anciano. Cree que les permitirá ayudar a Cuicapalli frente al veneno de los yuan-ti. Oghma pregunta por la recompensa y acepta cuando Walulu promete pagarles el trabajo. Tentacol comunica la conformidad de Chopito. Walulu los esperará en el templo.
+
+En el encargo no se acuerdan importe, dosis o receta ni se prueba la eficacia del ingrediente.
+
+## [50-015 · Tortas recuerda la plantación del árbol](../capitulos/50.md) · 00:20:07.559
+
+Tipo: `explicacion_director`.
+
+Al concentrarse, Tortas recuerda que siendo una tortuguita vio plantar el árbol cerca del lugar donde lo dejaron para meditar. Árbol y tortuga han crecido casi al mismo tiempo. El camino puede recorrerse en media hora o tres cuartos. Tortas dice al grupo que cree haberlo visto hace unos setecientos años.
+
+La cifra de setecientos años es su estimación y no resuelve su edad exacta.
+
+## [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880
+
+Tipo: `hecho_confirmado`.
+
+De camino al templo, Tortas abre la puerta del colegio. La profesora Miausi le hace una reverencia y los niños la imitan. Leo es la excepción: le saluda con la mano y Tortas le devuelve el saludo antes de cerrar.
+
+La profesora no se identifica aquí como directora. La escena tampoco representa una reunión de madres.
+
+## [50-017 · Walulu confirma que el árbol está al noroeste](../capitulos/50.md) · 00:22:50.480
+
+Tipo: `hecho_confirmado`.
+
+Tortas encuentra a Walulu en el templo y le pide confirmar la dirección. Ella le responde que debe ir hacia el noroeste. Cuando vuelve a quedarse sola interpreta la consulta como una prueba del Gran Maestro y espera haberla pasado.
+
+El pensamiento de Walulu queda reservado al público.
+
+## [50-020 · Tryel sabe por Tesara que el dragón busca a los hermanos](../capitulos/50.md) · 00:26:25.440
+
+Tipo: `declaracion_personaje`.
+
+Tryel tranquiliza a Oghma asegurándole que el dragón del bosque busca únicamente a su hermano y a ella. Cuando Tortas vuelve y le pregunta de dónde sale la advertencia, responde que se lo dijo Tesara, a quien describe por su pelo azul y por el disparo que hizo a Eldrath.
+
+Información transmitida por Tryel: el dragón no se presenta en este encuentro.
+
+## [50-021 · Chopito propone disfrazar a Tryel para salir al bosque](../capitulos/50.md) · 00:28:13.880
+
+Tipo: `hecho_confirmado`.
+
+Tortas considera que no podrían vencer al dragón y pide a Tryel que permanezca en la ciudad. Ella quiere ir y propone esconderse. Chopito le hace aparecer mediante prestidigitación unas gafas con nariz y bigote.
+
+Disfraz para acompañar a la expedición, sin prueba de su eficacia frente al dragón.
+
+## [50-022 · Oghma, Tryel y Chopito completan el disfraz](../capitulos/50.md) · 00:29:29.760
+
+Tipo: `hecho_confirmado`.
+
+Oghma recoge el cabello de Tryel y le acomoda la ropa para taparle mejor la cara. Tortas señala que su piel aún la delata. La muchacha se embadurna de barro y pide a Chopito que además la cubra de tinta. Su acompañante explica que el pulpo necesita una hora de descanso entre descargas.
+
+No se demuestra cuánto dura el disfraz ni cómo reaccionaría Clolgedranx al verlo.
+
+## [50-025 · Tortas guía al grupo y Tryel cambia la piedra por fruta](../capitulos/50.md) · 00:34:45.440
+
+Tipo: `hecho_confirmado`.
+
+Tortas examina el camino y los viajeros avanzan sin contratiempos serios, sorteando incluso un río con pirañas. Cuando se agota el sabor a fresa, Tryel escupe la piedrecita, coge una fruta y se la ofrece a Oghma.
+
+No hay combate con las pirañas.
+
+## [50-027 · Tortas adquiere una cola prensil y Tentacol, savia curativa](../capitulos/50.md) · 00:37:02.480
+
+Tipo: `explicacion_director`.
+
+Tortas come despacio una fruta que cuelga de un árbol y su cola se alarga hasta poder sujetar objetos. A Tentacol le rezuma de los dedos una savia con la que puede curar por contacto. El director recuerda a los jugadores que los efectos duran toda la partida.
+
+La curación de un dado de seis es una capacidad concedida; en esta escena todavía no se aplica a una herida.
+
+## [50-028 · El Gran Árbol Anciano ocupa un islote rodeado de agua](../capitulos/50.md) · 00:37:57.880
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros llegan a un riachuelo que rodea un montículo circular. Encima crece el árbol antiguo, con flores de los colores vivos de Iktan y ramas casi secas. Un pequeño puente de madera facilita el paso de quienes acuden a recoger su savia.
+
+La apariencia del árbol se describe antes de tomar ninguna muestra.
+
+## [50-029 · Tortas encuentra rastros de algo que se arrastraba](../capitulos/50.md) · 00:39:18.160
+
+Tipo: `hecho_confirmado`.
+
+Tortas examina el suelo en busca de visitantes anteriores. Distingue varios rastros de tamaño mediano, sin huellas de pies, y advierte que quizá no estén solos. Oghma se dirige al puente con la intención de recoger la resina y Tryel va tras ella.
+
+En ese momento los rastros no tienen autor identificado.
+
+## [50-030 · La isla hace inclinarse a Tortas, Tentacol y Chopito](../capitulos/50.md) · 00:41:01.280
+
+Tipo: `explicacion_director`.
+
+Una vez en el islote, los compañeros ven ramas que entran y vuelven a salir del tronco. En presencia del árbol, Tortas, Tentacol y Chopito sienten que algo los obliga a bajar la cabeza. La maldición procedente de la encuesta se traduce en desventaja al atacar a las cosas de la isla. Tentacol lo interpreta como una chepa y Tortas como dolor de rodilla.
+
+El director distingue a Tryel de los objetivos afectados por la desventaja. Oghma no figura entre quienes reciben la maldición.
+
+## [50-032 · Tortas reconoce el olor de cadáveres en descomposición](../capitulos/50.md) · 00:44:55.359
+
+Tipo: `hecho_confirmado`.
+
+Tortas aspira para distinguir entre madera podrida y otra clase de corrupción. Reconoce un olor a cadáveres en descomposición procedente del árbol y advierte que no es el olor normal de la resina.
+
+En ese momento se reconoce el olor, pero aún no se han inspeccionado cadáveres ni averiguado su origen.
+
+## [50-033 · Una rama se retrae y la madera cruje bajo las raíces](../capitulos/50.md) · 00:46:14.240
+
+Tipo: `hecho_confirmado`.
+
+Tortas da un toque con el nudillo a una raíz saliente para comprobar si sigue sólida. La madera se resquebraja un poco y algo que parecía una rama se recoge dentro de un hueco. Se oyen crujidos por debajo de las raíces. Alguien pide un objeto afilado y se ofrece una espada descrita como «la espada de mi hijo».
+
+La primera inspección muestra movimiento, todavía sin identificar lo que hay dentro del árbol. La oferta no constituye por sí sola una entrega.
+
+## [50-034 · La herida del tronco exuda un líquido negro](../capitulos/50.md) · 00:47:50.240
+
+Tipo: `hecho_confirmado`.
+
+Tortas toma la espada que le ofrecen. La rama se ha retirado al interior, así que abre una hendidura en el tronco. El árbol cruje y del corte brota un moco negro cuyo olor a cadáver alcanza a los presentes. El grupo duda que eso sea la resina que busca y Tortas devuelve el arma.
+
+El tajo abre el árbol sin partirlo por entero. La comparación con la resina es una pregunta.
+
+## [50-037 · Varias raíces rodean el árbol y cada cual busca una salida](../capitulos/50.md) · 00:51:48.040
+
+Tipo: `hecho_confirmado`.
+
+Los presentes ven asomar las ramas por varios puntos bajo el tronco. Oghma aparta su eco treinta pies y lo deja preparado por si necesita cambiarse. Tortas trepa hasta la primera parte de la copa, a unos diez pies según la posición fijada en la mesa.
+
+Preparar la posición del eco y cambiarse con él suceden en turnos distintos.
+
+## [50-038 · Del hueco sale una planta repleta de cuerpos](../capitulos/50.md) · 00:53:45.480
+
+Tipo: `hecho_confirmado`.
+
+Tentacol toma distancia. Tryel todavía observa las ramas cuando estas se alzan, resquebrajan el tronco y dejan salir una bolsa vegetal con calaveras y cuerpos en descomposición. A los viajeros les llegan gemidos guturales desde esos restos.
+
+Los sonidos se atribuyen a los cuerpos que asoman de la planta. No se identifica a las víctimas.
+
+## [50-041 · Las raíces alcanzan el caparazón de Tortas](../capitulos/50.md) · 00:58:42.720
+
+Tipo: `hecho_confirmado`.
+
+La siguiente raíz trepa hacia Tortas, lo envuelve y le da un latigazo. El veneno que supura acaba sobre su piel y su caparazón. El ataque siguiente, dirigido contra Tryel, falla.
+
+Se describe contacto con veneno. No se establece aquí un envenenamiento permanente.
+
+## [50-043 · Tortas se arroja con los brazos astrales](../capitulos/50.md) · 01:02:44.000
+
+Tipo: `hecho_confirmado`.
+
+Desde la copa, Tortas pisa con fuerza y proyecta sus brazos astrales. La planta resiste la primera descarga. El monje se deja caer y aprovecha el impulso para acertarle un puñetazo pese a la desventaja de su maldición. Él también se lleva dos puntos de daño por la caída. Falla el segundo golpe y se aparta.
+
+Caída lenta y el daño adicional por la caída se consideran alternativas. Tortas escoge asumir la caída.
+
+## [50-044 · Tryel combate con las espadas y se preocupa por Tortas](../capitulos/50.md) · 01:06:38.240
+
+Tipo: `hecho_confirmado`.
+
+Tryel hiere a la planta con la espada corta y recurre a una inspiración bárdica durante sus ataques. Cuando Tortas se aleja, lo llama «tortuguita», le pide que tenga cuidado e intenta curarlo.
+
+No se anuncia la cantidad de salud restituida a Tortas.
+
+## [50-048 · Tortas aturde al zombi que tiene al flanco](../capitulos/50.md) · 01:12:27.840
+
+Tipo: `hecho_confirmado`.
+
+Tortas descarta su idea de tomar carrerilla, vuelve a entrar en el combate y golpea con los brazos astrales desde el flanco. Consigue conectar los puños, aplica un golpe aturdidor y regresa a su posición.
+
+La identificación del objetivo con el zombi queda reforzada por la comprobación de su aturdimiento al llegar su turno.
+
+## [50-053 · Tortas recibe a un zombi con un saludo](../capitulos/50.md) · 01:22:59.480
+
+Tipo: `hecho_confirmado`.
+
+Un zombi se arrastra hasta Tortas, que lo saluda con un «buenas tardes» antes de golpearlo. Consigue impactos, falla también golpes de su ráfaga y, tras despedirse de él, busca espacio para retirarse. La maleza vuelve más lento ese desplazamiento.
+
+El movimiento de este turno se resuelve sin la acción de correr.
+
+## [50-056 · Tortas resiste el olor que desprenden los zombis](../capitulos/50.md) · 01:29:18.760
+
+Tipo: `hecho_confirmado`.
+
+Tentacol adelanta su tentáculo para atacar y se repliega rodeado de oscuridad. Un zombi se aproxima a Tortas e intenta golpearlo sin éxito. El olor resulta nauseabundo, pero el monje supera la prueba y permanece en pie.
+
+El éxito de Tortas en esta prueba no establece inmunidad al olor.
+
+## [50-057 · Un zombi cae de cabeza dentro de otra planta](../capitulos/50.md) · 01:31:31.280
+
+Tipo: `hecho_confirmado`.
+
+Tortas propone desestabilizar al zombi con una patada y empujarlo con un gancho. Los dos ataques aciertan y lo dejan de cabeza en la planta, con las piernas fuera y todavía moviéndose. El director relaciona esa maniobra con el aprendizaje de la dote Crusher durante el combate.
+
+El director matiza la identificación de la planta como carnívora. Todavía no mata ni digiere al zombi al recibirlo.
+
+## [50-058 · Los puños de Tortas abaten a dos zombis](../capitulos/50.md) · 01:33:02.159
+
+Tipo: `hecho_confirmado`.
+
+Tortas encadena una ráfaga. Un primer impacto derriba muerto a otro zombi. Luego dirige el puño astral al que ha encajado en la planta, lo empuja aún más hacia dentro y acaba con él. Antes de apartarse llena los pulmones de aire y aguanta la respiración.
+
+El director atribuye la muerte del segundo zombi al golpe. No se demuestra que la planta lo haya devorado ni que contener el aliento otorgue protección.
+
+## [50-060 · El golpe despierta a Oghma y el tentáculo amortigua el daño](../capitulos/50.md) · 01:36:03.360
+
+Tipo: `hecho_confirmado`.
+
+Un zombi alcanza a Oghma mientras yace indefensa. El golpe la devuelve en sí y encuentra al atacante encima de ella. Tentacol interviene con una reacción de su tentáculo. El director resta seis puntos al daño. A continuación las raíces vuelven a buscar a Tortas.
+
+La corrección de seis puntos representa daño evitado. El resultado del intento de las raíces corresponde al tramo siguiente.
+
+## [50-061 · Los disparos abren distancia entre las plantas y sus presas](../capitulos/50.md) · 01:37:35.280
+
+Tipo: `hecho_confirmado`.
+
+Una planta sujeta a Tortas mientras un zombi intenta golpear sin éxito a Oghma en el suelo. El tentáculo de Tentacol alcanza a un zombi con frío y sus disparos empujan a un adversario que apenas consigue avanzar.
+
+No se atribuye daño de frío a todos los disparos.
+
+## [50-062 · Los brazos astrales rompen la presa de Tortas](../capitulos/50.md) · 01:39:55.719
+
+Tipo: `hecho_confirmado`.
+
+Tortas saca una poción del caparazón y se cura mientras sigue atrapada. Con sus brazos astrales rompe las raíces. Querría alejar a Tryel por un pie con la cola que le ha dado la fruta, pero liberarse ya le ha consumido la acción.
+
+El traslado con la cola se propone y se descarta.
+
+## [50-065 · Tryel interviene cuando una raíz vuelve a buscar a Tortas](../capitulos/50.md) · 01:45:44.599
+
+Tipo: `hecho_confirmado`.
+
+Una planta intenta apresar otra vez a Tortas. Tryel interviene y el intento falla. Un zombi sí consigue golpear a Oghma en la rodilla. Tentacol sigue empujando a su blanco con disparos y reserva el frío del tentáculo para otro zombi.
+
+Hay acciones simultáneas sobre enemigos distintos.
+
+## [50-066 · Tortas carga contra la planta y esta resiste](../capitulos/50.md) · 01:48:09.199
+
+Tipo: `hecho_confirmado`.
+
+Tortas vuelve a acercarse, reprocha a la planta lo poco divertida que ha resultado y le asesta varios golpes. Intenta aprovechar un punto vulnerable; el enemigo soporta ese ataque y Tortas vuelve a moverse.
+
+No se adjudica a esta carga el final del combate.
+
+## [50-067 · Tryel deja a Oghma defenderse y enseña sus patadas](../capitulos/50.md) · 01:49:36.719
+
+Tipo: `hecho_confirmado`.
+
+Oghma tranquiliza a Tryel por segunda vez y la elfa va a ayudar a Tortas. Tras atacar a la planta, encadena dos patadas para mostrarle a la tortuga cómo se hace. La jugadora gasta su última inspiración bárdica en la maniobra.
+
+La cuenta de inspiraciones pertenece a la mesa.
+
+## [50-070 · Una lección de sentadillas en plena pelea](../capitulos/50.md) · 01:54:15.000
+
+Tipo: `hecho_confirmado`.
+
+Tortas pide a Tryel que le enseñe esas patadas mientras vuelve a golpear a la planta. La elfa pone en duda que sus patas cortas sirvan para ellas y le aconseja hacer sentadillas. Tortas reconoce que la rodilla todavía le molesta.
+
+Las bromas y el consejo no acreditan que Tortas aprenda una técnica nueva.
+
+## [50-071 · Tryel acaba con la resistencia junto al árbol](../capitulos/50.md) · 01:55:52.719
+
+Tipo: `hecho_confirmado`.
+
+Tryel confiesa que suele hacer solo dos sentadillas porque se aburre, mientras que Eldrath se pasa el día entrenando. Sigue pinchando la planta hasta que termina el combate. Los compañeros quedan frente al árbol que han venido a buscar, aparentemente podrido del todo.
+
+El entrenamiento de Eldrath procede de su hermana. El aspecto exterior todavía no descarta que quede una rama viva.
+
+## [50-072 · Tryel le pregunta al eco qué es la savia](../capitulos/50.md) · 01:56:46.520
+
+Tipo: `hecho_confirmado`.
+
+Tortas pide a Tryel que le ayude a buscar savia. La elfa se acerca al eco de Oghma sin reconocerlo y le pide una explicación. La copia ocupa espacio; Oghma intercambia su posición con ella para contestar. Juega con «savia», «sabia» y «tonta», y Tryel interpreta literalmente el encargo.
+
+El juego de palabras explica la búsqueda posterior junto al agua.
+
+## [50-073 · Entre los huesos del árbol solo asoma líquido negro](../capitulos/50.md) · 01:58:11.520
+
+Tipo: `hecho_confirmado`.
+
+Tortas encuentra calaveras, huesos, carne descompuesta y charcos de veneno verdoso en la parte baja del árbol. Golpea los restos del adversario medio partido por si allí hubiera savia. Se abren más y despiden un líquido negro tan maloliente que el grupo casi tiene arcadas.
+
+Se distinguen los charcos verdosos y lo que sale del cuerpo. La escena no identifica su química o su procedencia.
+
+## [50-075 · Una rama alta conserva una porción viva](../capitulos/50.md) · 02:00:39.520
+
+Tipo: `hecho_confirmado`.
+
+Cuando Oghma pregunta por otro ejemplar, Tortas contesta que solo conoce ese árbol histórico y que viene a tener su edad. Vuelve a trepar para revisar la copa y encuentra allí una rama mucho menos afectada. De ella todavía podría obtener algo.
+
+La edad es una comparación de Tortas, sin cifra ni datación del árbol. La observación de la rama se dirige a Tortas.
+
+## [50-076 · Tortas recoge un poco de savia en una cantimplora](../capitulos/50.md) · 02:01:55.679
+
+Tipo: `hecho_confirmado`.
+
+Desde abajo le hacen llegar una cantimplora vacía con una mano de mago. Las otras opciones son frascos que aún contienen pociones. Tortas conserva el recipiente que ya ha subido, practica una pequeña incisión con el dedo en la parte sana y apenas llena una parte de la cantimplora.
+
+El donante no se identifica de forma inequívoca en estas líneas. El volumen no se mide.
+
+## [50-077 · La expedición decide llevar a Walulu la escasa muestra](../capitulos/50.md) · 02:03:02.040
+
+Tipo: `hecho_confirmado`.
+
+Oghma invita a mirar otras hojas y no aparece ninguna fuente mejor. La broma es que media heroína también quiere una recompensa entera. Al preguntar por otro árbol al que trata de deidad, la respuesta recuerda que Walulu pidió precisamente el árbol antiguo. El grupo prefiere consultar en la aldea.
+
+El tratamiento de deidad suprema y el de lacayo pertenecen al diálogo y no demuestran divinidad. No descubren un segundo árbol.
+
+## [50-078 · Una búsqueda de «tontos» y un disfraz que incomoda](../capitulos/50.md) · 02:04:52.880
+
+Tipo: `hecho_confirmado`.
+
+Encuentran a Tryel a la orilla, preguntándole a un animal si es tonto. Tortas le enseña el recipiente y le recuerda el encargo de Walulu. Oghma propone atarse un lazo al dedo cuando falle la memoria. Tryel protesta por tener que llevar ropa negra para esconderse del dragón sin haberlo visto siquiera.
+
+El director duda entre varios animales. El aspecto de elfa de la Infraoscuridad es una comparación de Tryel sobre su ropa, no una revelación de ascendencia.
+
+## [50-079 · Tryel vuelve a Iktan sin que el grupo perciba al dragón](../capitulos/50.md) · 02:06:29.760
+
+Tipo: `explicacion_director`.
+
+En la vuelta a Iktan no perciben que el dragón verde los aceche, aunque Tryel los acompaña. El director recuerda que en encuentros previos demostró sigilo y la capacidad de hacerse invisible. El grupo llega a la ciudad sin sufrir un ataque. Tryel explica que Eldrath guarda su dinero porque suele perderlo.
+
+No sentir al dragón no demuestra su ausencia ni el fin del ultimátum. Lo que hace con el dinero depende del testimonio de Tryel.
+
+## [50-080 · Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu](../capitulos/50.md) · 02:08:24.800
+
+Tipo: `hecho_confirmado`.
+
+Al llegar, una pequeña capilla de piedra contrasta con las casas de madera. Tortas vuelve a equivocarse de puerta y abre la del colegio. Esta vez los niños la reconocen y se agachan sin esperar a la maestra. Ya ante Walulu, la expedición anuncia que trae savia y también malas noticias.
+
+Se conservan como destinos distintos la clase y la capilla.
+
+## [50-081 · La expedición cuenta a Walulu lo que encontró bajo el árbol](../capitulos/50.md) · 02:09:38.280
+
+Tipo: `hecho_confirmado`.
+
+Explican que el árbol ancestral ha sucumbido a la infestación y al veneno. Hablan de muertos enterrados bajo sus raíces y de una planta que los atacó y de la que salían más cadáveres. Ante la pregunta de Walulu por alguna pista, sugieren que podría tratarse de un ritual.
+
+La hipótesis ritual pertenece a la conversación. No se identifica al responsable ni se ve enterrar los cuerpos.
+
+## [50-083 · Walulu guarda la muestra bajo el altar](../capitulos/50.md) · 02:11:32.280
+
+Tipo: `hecho_confirmado`.
+
+Entregan el recipiente de savia a Walulu. Constata que es muy poca, dice que tendrá que hablar con los otros líderes, guarda el frasquito bajo el altar y busca algo con lo que agradecer la ayuda.
+
+Se cumple la entrega. El volumen no se cuantifica ni se demuestra que baste para una dosis eficaz.
+
+## [50-084 · Walulu reparte donaciones del templo](../capitulos/50.md) · 02:12:13.159
+
+Tipo: `hecho_confirmado`.
+
+La recompensa sale de pequeñas donaciones de los ciudadanos. Tortas recibe una aguamarina, Oghma un jade y a Tryel le cuentan veintiuna monedas. A Tentacol le anuncian veintidós monedas de oro. La mesa resuelve por separado una tirada correspondiente a un cofre abierto otro día, con un resultado de treinta y siete monedas.
+
+La asignación nominal de las dos gemas y las monedas de Tryel es explícita. Las treinta y siete no se suman al pago de Walulu ni se atribuyen aquí a un destinatario inequívoco.
+
+## [50-086 · Walulu recomienda la taberna de Angelique](../capitulos/50.md) · 02:15:45.719
+
+Tipo: `hecho_confirmado`.
+
+Oghma pide un lugar donde dormir mientras espera que llegue el supuesto conde con su riqueza y se ofrece a usar los bancos. Walulu prefiere mandarla a la taberna, donde confía en que Angelique le encuentre una cama. Pide a Tortas que la acompañe. Tryel acaba llevándose a Oghma hacia allí y ofrece monedas para una cerveza.
+
+La acogida de la tabernera todavía no está acordada en el templo. El viaje del conde es la versión de Oghma.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
+
+## [50-089 · Walulu no puede identificar una tercera amenaza](../capitulos/50.md) · 02:19:08.080
+
+Tipo: `declaracion_personaje`.
+
+Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón y de los yuan-ti. Walulu baja la cabeza y admite que no lo sabe. Tortas se pone a su disposición desde su roca. Walulu espera que la paz le permita prescindir de esa ayuda, pero teme que los acontecimientos indiquen lo contrario.
+
+La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
+
+## [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760
+
+Tipo: `hecho_confirmado`.
+
+La última escena abandona la mesa de Angelique. En el lago cercano a Iktan, Chopito y Tentacol vuelven a meterse en el agua. En la zona que había destrozado un antiguo dragón, Tortas sube a su roca y medita sobre su próximo entrenamiento. Con esas dos imágenes se despide la sesión.
+
+La imagen no bautiza el lago, no identifica al dragón antiguo ni atribuye un nuevo poder a la roca.
 

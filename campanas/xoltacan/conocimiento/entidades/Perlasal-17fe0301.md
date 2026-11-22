@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Perlasal.
 
-Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitulos/29.md), [29-023](../capitulos/29.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-013](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [45-022](../capitulos/45.md), [45-072](../capitulos/45.md), [45-073](../capitulos/45.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [45-078](../capitulos/45.md).
+Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitulos/29.md), [29-023](../capitulos/29.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-013](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [45-022](../capitulos/45.md), [45-072](../capitulos/45.md), [45-073](../capitulos/45.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [45-078](../capitulos/45.md), [50-011](../capitulos/50.md), [50-088](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una ciudad bajo el agua que teme a la superficie
 
@@ -239,4 +239,20 @@ Tipo: `declaracion_personaje`.
 Chopito anima mentalmente a Tentacol a negociar. Tentacol pregunta qué puede ofrecer una criatura cuyos dominios parecen limitarse al bosque. El dragón observa al pulpo, le brillan los ojos y dice tener magia poderosa y poder ofrecerle Perlasal. Chopito rechaza que le vendan lo que considera suyo; el dragón replica que entonces sus súbditos no lo respetan.
 
 Ni la oferta ni la reivindicación del pulpo prueban soberanía efectiva, posesión o control del dragón sobre Perlasal. Los ojos brillantes no explican por sí solos qué magia realiza.
+
+## [50-011 · Los «primos» podrían estar en la taberna](../capitulos/50.md) · 00:13:07.959
+
+Tipo: `declaracion_personaje`.
+
+Oghma describe a sus presuntos familiares como gente con mucho dinero que lo pierde fácilmente. Surgen la reina de Perlasal y el tiefling que tenía un casino. Oghma dice que prepara la estancia de un duque, se corrige a conde y encamina al grupo hacia la taberna.
+
+El antiguo propietario se reconoce por el casino. Nadie comprueba su fortuna ni la de la reina.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
 

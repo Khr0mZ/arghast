@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-038](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El habitante que interrumpe las pesquisas
 

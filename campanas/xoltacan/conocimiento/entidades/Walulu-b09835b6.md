@@ -8,11 +8,11 @@ La misma chamana enmascarada y dirigente de Iktan, vinculada a Coyote; la sucesi
 
 Etiquetas agrupadas: Gualulu / Walulu (líder de Iktan, grafía provisional); Walulu / Waluro / Gualulo (chamana enmascarada, grafía provisional).
 
-Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [49-013](../capitulos/49.md), [49-014](../capitulos/49.md), [49-017](../capitulos/49.md).
+Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitulos/31.md), [39-017](../capitulos/39.md), [39-018](../capitulos/39.md), [45-008](../capitulos/45.md), [45-009](../capitulos/45.md), [45-010](../capitulos/45.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [47-087](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [49-013](../capitulos/49.md), [49-014](../capitulos/49.md), [49-017](../capitulos/49.md), [50-012](../capitulos/50.md), [50-013](../capitulos/50.md), [50-014](../capitulos/50.md), [50-017](../capitulos/50.md), [50-077](../capitulos/50.md), [50-078](../capitulos/50.md), [50-080](../capitulos/50.md), [50-081](../capitulos/50.md), [50-082](../capitulos/50.md), [50-083](../capitulos/50.md), [50-084](../capitulos/50.md), [50-085](../capitulos/50.md), [50-086](../capitulos/50.md), [50-087](../capitulos/50.md), [50-088](../capitulos/50.md), [50-089](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La heredera que protege los caminos ocultos
 
@@ -67,6 +67,12 @@ Fuentes: [48-003 · Tesara dedica su tiempo a los archivos de Walulu](../capitul
 Según Molly, Walulu ha explicado símbolos y entregado pergaminos que orientan hacia antiguos templos yuan-ti. También le ha dado un mapa con un templo relacionado con problemas de hace doscientos o trescientos años. Esa información sostiene la salida; el interior, su antigüedad exacta y la función del ojo aún requieren investigación.
 
 Fuentes: [49-013 · Los documentos de Walulu apuntan a templos yuan-ti](../capitulos/49.md) · 00:16:27.040 · [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920 · [49-017 · Walulu proporciona el mapa de un templo antiguo](../capitulos/49.md) · 00:23:55.039.
+
+### Una muestra bajo el altar
+
+El peligro en torno a Iktan ha obligado a traer de vuelta a los guardias de los alrededores. Walulu confía a Tortas y sus compañeros la recolección de resina para ayudar a Cuicapalli. Recibe apenas una cantimplora con algo de savia, la guarda bajo el altar y paga al grupo con donaciones. Quiere consultar a Naór y a los dirigentes. A solas con Tortas reconoce que todavía ignora qué ha pasado en el árbol.
+
+Fuentes: [50-012 · Walulu solicita la ayuda del Gran Anciano](../capitulos/50.md) · 00:15:49.480 · [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919 · [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159 · [50-081 · La expedición cuenta a Walulu lo que encontró bajo el árbol](../capitulos/50.md) · 02:09:38.280 · [50-082 · El olor a muerte del árbol difiere de los venenos conocidos](../capitulos/50.md) · 02:10:55.840 · [50-083 · Walulu guarda la muestra bajo el altar](../capitulos/50.md) · 02:11:32.280 · [50-084 · Walulu reparte donaciones del templo](../capitulos/50.md) · 02:12:13.159 · [50-085 · Walulu quiere consultar a Naór y a los dirigentes](../capitulos/50.md) · 02:14:15.000 · [50-089 · Walulu no puede identificar una tercera amenaza](../capitulos/50.md) · 02:19:08.080.
 
 ## Registros y evidencias
 
@@ -477,4 +483,132 @@ Tipo: `declaracion_personaje`.
 Erandy considera que han recibido una señal divina del Señor del Amanecer y afirma que, si ha intervenido para ayudarla, lo que descubrieron debe ser muy importante. En la conversación se reconoce lo extraño de sentir un abrazo de la propia deidad. Deciden marcharse y explicarlo por el camino antes de hablar con Walulu.
 
 Es la interpretación y el propósito de los personajes. No representa todavía una audiencia con Walulu ni el esclarecimiento de todos los símbolos de la inscripción.
+
+## [50-012 · Walulu solicita la ayuda del Gran Anciano](../capitulos/50.md) · 00:15:49.480
+
+Tipo: `hecho_confirmado`.
+
+Walulu se acerca por el sur desde la zona del templo. Saluda a Tortas con una profunda reverencia; buscaba a Naór y otros, pero no los encuentra y el tiempo apremia. Tortas se ofrece a ayudar a la aldea que ha visto crecer. Le presentan a la recién llegada.
+
+Walulu dice que no encuentra a Naór, sin situarla ni demostrar que esté ausente de la ciudad.
+
+## [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919
+
+Tipo: `declaracion_personaje`.
+
+Tras el intento de los yuan-ti de envenenar a la población durante las festividades, Walulu ha reforzado las defensas de Iktan. Para ello ha tenido que hacer volver a muchos guardias que patrullaban los alrededores. Ahora necesita ingredientes de fuera.
+
+Se trata del informe de Walulu; no se atribuye el repliegue a otro ataque ni se establece que todo el contorno esté desguarnecido.
+
+## [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159
+
+Tipo: `hecho_confirmado`.
+
+Walulu encarga al grupo un poco de resina del Gran Árbol Anciano. Cree que les permitirá ayudar a Cuicapalli frente al veneno de los yuan-ti. Oghma pregunta por la recompensa y acepta cuando Walulu promete pagarles el trabajo. Tentacol comunica la conformidad de Chopito. Walulu los esperará en el templo.
+
+En el encargo no se acuerdan importe, dosis o receta ni se prueba la eficacia del ingrediente.
+
+## [50-017 · Walulu confirma que el árbol está al noroeste](../capitulos/50.md) · 00:22:50.480
+
+Tipo: `hecho_confirmado`.
+
+Tortas encuentra a Walulu en el templo y le pide confirmar la dirección. Ella le responde que debe ir hacia el noroeste. Cuando vuelve a quedarse sola interpreta la consulta como una prueba del Gran Maestro y espera haberla pasado.
+
+El pensamiento de Walulu queda reservado al público.
+
+## [50-077 · La expedición decide llevar a Walulu la escasa muestra](../capitulos/50.md) · 02:03:02.040
+
+Tipo: `hecho_confirmado`.
+
+Oghma invita a mirar otras hojas y no aparece ninguna fuente mejor. La broma es que media heroína también quiere una recompensa entera. Al preguntar por otro árbol al que trata de deidad, la respuesta recuerda que Walulu pidió precisamente el árbol antiguo. El grupo prefiere consultar en la aldea.
+
+El tratamiento de deidad suprema y el de lacayo pertenecen al diálogo y no demuestran divinidad. No descubren un segundo árbol.
+
+## [50-078 · Una búsqueda de «tontos» y un disfraz que incomoda](../capitulos/50.md) · 02:04:52.880
+
+Tipo: `hecho_confirmado`.
+
+Encuentran a Tryel a la orilla, preguntándole a un animal si es tonto. Tortas le enseña el recipiente y le recuerda el encargo de Walulu. Oghma propone atarse un lazo al dedo cuando falle la memoria. Tryel protesta por tener que llevar ropa negra para esconderse del dragón sin haberlo visto siquiera.
+
+El director duda entre varios animales. El aspecto de elfa de la Infraoscuridad es una comparación de Tryel sobre su ropa, no una revelación de ascendencia.
+
+## [50-080 · Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu](../capitulos/50.md) · 02:08:24.800
+
+Tipo: `hecho_confirmado`.
+
+Al llegar, una pequeña capilla de piedra contrasta con las casas de madera. Tortas vuelve a equivocarse de puerta y abre la del colegio. Esta vez los niños la reconocen y se agachan sin esperar a la maestra. Ya ante Walulu, la expedición anuncia que trae savia y también malas noticias.
+
+Se conservan como destinos distintos la clase y la capilla.
+
+## [50-081 · La expedición cuenta a Walulu lo que encontró bajo el árbol](../capitulos/50.md) · 02:09:38.280
+
+Tipo: `hecho_confirmado`.
+
+Explican que el árbol ancestral ha sucumbido a la infestación y al veneno. Hablan de muertos enterrados bajo sus raíces y de una planta que los atacó y de la que salían más cadáveres. Ante la pregunta de Walulu por alguna pista, sugieren que podría tratarse de un ritual.
+
+La hipótesis ritual pertenece a la conversación. No se identifica al responsable ni se ve enterrar los cuerpos.
+
+## [50-082 · El olor a muerte del árbol difiere de los venenos conocidos](../capitulos/50.md) · 02:10:55.840
+
+Tipo: `explicacion_director`.
+
+Walulu advierte que perder la resina dificultará contrarrestar el veneno de los hombres serpiente. Se pregunta si el olor que encontraron permite reconocer el de los yuan-ti. El director responde que era peste a muerte, totalmente diferente, y descarta que fuera el olor del dragón.
+
+La distinción de olores no prueba quién dañó el árbol ni equivale a un análisis de los charcos o a la preparación de un antídoto.
+
+## [50-083 · Walulu guarda la muestra bajo el altar](../capitulos/50.md) · 02:11:32.280
+
+Tipo: `hecho_confirmado`.
+
+Entregan el recipiente de savia a Walulu. Constata que es muy poca, dice que tendrá que hablar con los otros líderes, guarda el frasquito bajo el altar y busca algo con lo que agradecer la ayuda.
+
+Se cumple la entrega. El volumen no se cuantifica ni se demuestra que baste para una dosis eficaz.
+
+## [50-084 · Walulu reparte donaciones del templo](../capitulos/50.md) · 02:12:13.159
+
+Tipo: `hecho_confirmado`.
+
+La recompensa sale de pequeñas donaciones de los ciudadanos. Tortas recibe una aguamarina, Oghma un jade y a Tryel le cuentan veintiuna monedas. A Tentacol le anuncian veintidós monedas de oro. La mesa resuelve por separado una tirada correspondiente a un cofre abierto otro día, con un resultado de treinta y siete monedas.
+
+La asignación nominal de las dos gemas y las monedas de Tryel es explícita. Las treinta y siete no se suman al pago de Walulu ni se atribuyen aquí a un destinatario inequívoco.
+
+## [50-085 · Walulu quiere consultar a Naór y a los dirigentes](../capitulos/50.md) · 02:14:15.000
+
+Tipo: `declaracion_personaje`.
+
+Walulu explica que en ese momento no necesita otro servicio. Hablará con los líderes, quizá vuelva a avisar a los viajeros y debe consultar también a Naór, la enviada encargada de hablar con los clanes. Ante el interés de Oghma por la princesa de Atlan, levanta un poco la máscara y se ve que es humana. Menciona en voz baja el temperamento bastante bárbaro de Naór.
+
+El episodio no muestra esa consulta ni una reunión acordada. «Bigotitos» se refiere aquí a Naór.
+
+## [50-086 · Walulu recomienda la taberna de Angelique](../capitulos/50.md) · 02:15:45.719
+
+Tipo: `hecho_confirmado`.
+
+Oghma pide un lugar donde dormir mientras espera que llegue el supuesto conde con su riqueza y se ofrece a usar los bancos. Walulu prefiere mandarla a la taberna, donde confía en que Angelique le encuentre una cama. Pide a Tortas que la acompañe. Tryel acaba llevándose a Oghma hacia allí y ofrece monedas para una cerveza.
+
+La acogida de la tabernera todavía no está acordada en el templo. El viaje del conde es la versión de Oghma.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
+
+## [50-089 · Walulu no puede identificar una tercera amenaza](../capitulos/50.md) · 02:19:08.080
+
+Tipo: `declaracion_personaje`.
+
+Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón y de los yuan-ti. Walulu baja la cabeza y admite que no lo sabe. Tortas se pone a su disposición desde su roca. Walulu espera que la paz le permita prescindir de esa ayuda, pero teme que los acontecimientos indiquen lo contrario.
+
+La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
 

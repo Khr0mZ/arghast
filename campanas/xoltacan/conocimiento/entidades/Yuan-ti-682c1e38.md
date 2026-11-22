@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Yuan-ti.
 
-Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitulos/22.md), [22-020](../capitulos/22.md).
+Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitulos/22.md), [22-020](../capitulos/22.md), [50-013](../capitulos/50.md), [50-014](../capitulos/50.md), [50-082](../capitulos/50.md), [50-087](../capitulos/50.md), [50-089](../capitulos/50.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una amenaza antigua que vuelve a salir
 
@@ -277,4 +277,44 @@ Tipo: `declaracion_personaje`.
 Tras la batalla se acercan a Eleanor y se interesan por su estado. Ella critica la exposición sufrida y recuerda por qué quería adelantar al caballo. Erandy precisa que había hablado de un templo abandonado de los yuan-ti. Discuten el estado de los cuerpos y la curación recibida, pero el director mantiene que son no muertos.
 
 Abandonado describe el lugar según lo explicado a los viajeros; no significa que estuviera vacío o sea seguro. La deducción de un personaje sobre las reglas de curación no cambia la naturaleza adjudicada de los rivales.
+
+## [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919
+
+Tipo: `declaracion_personaje`.
+
+Tras el intento de los yuan-ti de envenenar a la población durante las festividades, Walulu ha reforzado las defensas de Iktan. Para ello ha tenido que hacer volver a muchos guardias que patrullaban los alrededores. Ahora necesita ingredientes de fuera.
+
+Se trata del informe de Walulu; no se atribuye el repliegue a otro ataque ni se establece que todo el contorno esté desguarnecido.
+
+## [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159
+
+Tipo: `hecho_confirmado`.
+
+Walulu encarga al grupo un poco de resina del Gran Árbol Anciano. Cree que les permitirá ayudar a Cuicapalli frente al veneno de los yuan-ti. Oghma pregunta por la recompensa y acepta cuando Walulu promete pagarles el trabajo. Tentacol comunica la conformidad de Chopito. Walulu los esperará en el templo.
+
+En el encargo no se acuerdan importe, dosis o receta ni se prueba la eficacia del ingrediente.
+
+## [50-082 · El olor a muerte del árbol difiere de los venenos conocidos](../capitulos/50.md) · 02:10:55.840
+
+Tipo: `explicacion_director`.
+
+Walulu advierte que perder la resina dificultará contrarrestar el veneno de los hombres serpiente. Se pregunta si el olor que encontraron permite reconocer el de los yuan-ti. El director responde que era peste a muerte, totalmente diferente, y descarta que fuera el olor del dragón.
+
+La distinción de olores no prueba quién dañó el árbol ni equivale a un análisis de los charcos o a la preparación de un antídoto.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-089 · Walulu no puede identificar una tercera amenaza](../capitulos/50.md) · 02:19:08.080
+
+Tipo: `declaracion_personaje`.
+
+Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón y de los yuan-ti. Walulu baja la cabeza y admite que no lo sabe. Tortas se pone a su disposición desde su roca. Walulu espera que la paz le permita prescindir de esa ayuda, pero teme que los acontecimientos indiquen lo contrario.
+
+La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
 

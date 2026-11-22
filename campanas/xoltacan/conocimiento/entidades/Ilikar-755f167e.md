@@ -8,11 +8,11 @@ Goliat recién presentado en el capítulo 38, distinto de Ayoto.
 
 Etiquetas agrupadas: Ilikar / Ilicar (goliat, grafía provisional).
 
-Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitulos/38.md), [42-004](../capitulos/42.md), [42-007](../capitulos/42.md), [42-013](../capitulos/42.md), [42-026](../capitulos/42.md), [42-028](../capitulos/42.md), [42-037](../capitulos/42.md), [42-038](../capitulos/42.md), [42-045](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-053](../capitulos/46.md), [46-058](../capitulos/46.md).
+Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitulos/38.md), [42-004](../capitulos/42.md), [42-007](../capitulos/42.md), [42-013](../capitulos/42.md), [42-026](../capitulos/42.md), [42-028](../capitulos/42.md), [42-037](../capitulos/42.md), [42-038](../capitulos/42.md), [42-045](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-053](../capitulos/46.md), [46-058](../capitulos/46.md), [50-002](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un náufrago que encuentra una tripulación
 
@@ -583,4 +583,12 @@ Tipo: `hecho_confirmado`.
 Eleanor se concentra en comprobar que Erandy se encuentra bien y se reúne con ella. Cerca están Ilikar jugando con Cipo y Lunaria, a quien el director imagina intentando quemar algún trozo de madera. Eleanor expresa que también quiere coger a Lunaria en brazos; el director advierte que esta no se dejaría.
 
 La llegada y la preocupación de Eleanor no demuestran una curación completa del agotamiento anterior de Erandy. El intento incendiario de Lunaria se expresa de forma conjetural y no acredita otro incendio consumado; tampoco se ejecuta un abrazo forzado a Lunaria.
+
+## [50-002 · Tortas se suma al entrenamiento de la orilla](../capitulos/50.md) · 00:00:40.120
+
+Tipo: `declaracion_personaje`.
+
+Tortas cuenta que encontró a Naór e Ilikar entrenando junto al agua y se unió a ellos. Cuando los dos acabaron inconscientes en la orilla, el anciano volvió a meditar en su piedra.
+
+Recuerdo de Tortas, sin reconstrucción de las causas ni de la duración de la inconsciencia.
 

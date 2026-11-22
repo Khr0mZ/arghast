@@ -8,11 +8,11 @@ Continuidad con la persona cortejada antes por Coyote, conservando grafía provi
 
 Etiquetas agrupadas: Angelique (persona de taberna Iktan, grafía provisional).
 
-Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md), [47-007](../capitulos/47.md), [47-008](../capitulos/47.md), [47-009](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [49-008](../capitulos/49.md), [49-019](../capitulos/49.md).
+Base para revisar equivalencia: [39-020](../capitulos/39.md), [45-007](../capitulos/45.md), [45-011](../capitulos/45.md), [46-057](../capitulos/46.md), [46-066](../capitulos/46.md), [47-007](../capitulos/47.md), [47-008](../capitulos/47.md), [47-009](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [49-008](../capitulos/49.md), [49-019](../capitulos/49.md), [50-005](../capitulos/50.md), [50-086](../capitulos/50.md), [50-090](../capitulos/50.md), [50-091](../capitulos/50.md), [50-092](../capitulos/50.md), [50-093](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Los intentos de Coyote
 
@@ -43,6 +43,12 @@ Fuentes: [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../ca
 La encargada de pelo trenzado atiende una taberna mucho más tranquila que los locales que Kilzer recuerda de Shiaru. Al prepararse la expedición, Patata la llama Angel, promete traerle algo bonito y recibe una despedida tierna. No se presenta aquí un compromiso amoroso o un nombre nuevo completo.
 
 Fuentes: [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640.
+
+### Hospedaje para una emisaria
+
+Tryel llega con una anciana a la que primero apenas dedica atención. La noticia de que prepara la llegada de un conde basta para que Angelique le reserve una habitación y le sirva buen vino. Espera que Oghma la recomiende y la presente al noble. Los papeles sellados quedan como garantía aparente de los gastos.
+
+Fuentes: [50-090 · Tryel presenta a Oghma en Los Miaullidos de Angelique](../capitulos/50.md) · 02:19:59.040 · [50-091 · Oghma se anuncia como emisaria de un conde](../capitulos/50.md) · 02:21:15.800 · [50-092 · Una habitación reservada y vino por una futura presentación](../capitulos/50.md) · 02:22:05.000 · [50-093 · El sello de Oghma da apariencia oficial a los gastos](../capitulos/50.md) · 02:23:30.240.
 
 ## Registros y evidencias
 
@@ -173,4 +179,52 @@ Tipo: `hecho_confirmado`.
 Antes de partir, Patata promete a Angel traerle algo bonito de la jungla y ella lo despide con ternura. Kilzer quiere cambiar los harapos por ropa normal; durante los preparativos una carta del chat hace que le falte una moneda de oro. También se negocia la venta de dos objetos mediante la tienda de la mesa virtual.
 
 No se atribuye la pérdida de la moneda a un ladrón. Los dos objetos vendidos no se entienden con claridad en los subtítulos; no se inventan su identidad o precio. El cambio de ropa se acepta narrativamente sin coste verbal documentado.
+
+## [50-005 · Oghma encuentra a una elfa en la puerta de la taberna](../capitulos/50.md) · 00:04:24.840
+
+Tipo: `hecho_confirmado`.
+
+Sobre la entrada de la taberna, Oghma lee Los Miaullidos de Angelique. Cuando abre, tropieza con una elfa de piel muy pálida y pelo negro que enseguida se preocupa por ella. Oghma cree haber encontrado a quien buscaba.
+
+La encargada figura en el rótulo. La elfa de la puerta es identificada después como Tryel.
+
+## [50-086 · Walulu recomienda la taberna de Angelique](../capitulos/50.md) · 02:15:45.719
+
+Tipo: `hecho_confirmado`.
+
+Oghma pide un lugar donde dormir mientras espera que llegue el supuesto conde con su riqueza y se ofrece a usar los bancos. Walulu prefiere mandarla a la taberna, donde confía en que Angelique le encuentre una cama. Pide a Tortas que la acompañe. Tryel acaba llevándose a Oghma hacia allí y ofrece monedas para una cerveza.
+
+La acogida de la tabernera todavía no está acordada en el templo. El viaje del conde es la versión de Oghma.
+
+## [50-090 · Tryel presenta a Oghma en Los Miaullidos de Angelique](../capitulos/50.md) · 02:19:59.040
+
+Tipo: `hecho_confirmado`.
+
+En la taberna reconocen a Angelique, la dueña tabaxi bien vestida y con una trenza. Sonríe al ver a Tryel; el director revela al público que espera sacarle dinero. La elfa presenta a Oghma y la anciana propone que Tryel pague las bebidas. Angelique pregunta a la elfa si tiene con qué hacerlo.
+
+El rótulo oído aquí continúa el de Los Miaullidos del capítulo 49. El pensamiento sobre el dinero pertenece a la narración, no a la conversación.
+
+## [50-091 · Oghma se anuncia como emisaria de un conde](../capitulos/50.md) · 02:21:15.800
+
+Tipo: `declaracion_personaje`.
+
+Cuando Tryel dice que la anciana trabaja para un conde o un duque, el trato de Angelique cambia. Oghma afirma que es su anunciadora, que sufrió un robo en el camino y que su señor sigue de viaje. Su llegada, dice, podría demorarse una semana o unos meses. Promete que pagará los gastos después.
+
+Es la historia que cuenta Oghma para conseguir crédito y alojamiento. No llegan un dignatario, su dinero ni una factura pagada.
+
+## [50-092 · Una habitación reservada y vino por una futura presentación](../capitulos/50.md) · 02:22:05.000
+
+Tipo: `hecho_confirmado`.
+
+Angelique toma la mano de Oghma y le reserva una habitación. Quiere una buena recomendación para su taberna y que la presente al conde cuando llegue. Ante la anciana señala con desdén una mesa en la que beben un hombre perro, un hombre con un ojo perdido y el otro rasgado, otros clientes y tres hipopótamos. Parecen piratas. Hace callar a Tryel y sirve a Oghma vino del bueno por cuenta de la casa.
+
+Los rasgos físicos no bastan para asignar nombres a cada cliente o una afiliación concreta. Aquí se reserva la cama; no se muestra a Oghma durmiendo en ella.
+
+## [50-093 · El sello de Oghma da apariencia oficial a los gastos](../capitulos/50.md) · 02:23:30.240
+
+Tipo: `hecho_confirmado`.
+
+Oghma promete recomendar a Angelique y propone sellar los gastos. Saca el sello que llama del duque de Condemol y estampa varios papeles. Angelique admira el sello y sigue atendiendo a la visitante mientras impide que Tryel entre en la conversación.
+
+Conde y duque alternan en el diálogo y el subtítulo deforma el nombre. Sellar papeles no prueba un título, deuda exigible o pago posterior. El vídeo no describe un anillo ni una letra grabada.
 

@@ -8,11 +8,11 @@ Ictan e Iktan corresponden al topónimo normalizado en las fichas.
 
 Etiquetas agrupadas: Iktan; Iktan (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-030](../capitulos/48.md), [48-120](../capitulos/48.md), [48-128](../capitulos/48.md), [48-129](../capitulos/48.md), [49-001](../capitulos/49.md), [49-002](../capitulos/49.md), [49-007](../capitulos/49.md), [49-008](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-019](../capitulos/49.md), [49-020](../capitulos/49.md).
+Base para revisar equivalencia: [01-007](../capitulos/01.md), [31-023](../capitulos/31.md), [43-003](../capitulos/43.md), [43-004](../capitulos/43.md), [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-008](../capitulos/45.md), [45-012](../capitulos/45.md), [45-015](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [46-004](../capitulos/46.md), [46-009](../capitulos/46.md), [46-011](../capitulos/46.md), [46-012](../capitulos/46.md), [46-015](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-061](../capitulos/46.md), [46-063](../capitulos/46.md), [46-065](../capitulos/46.md), [47-073](../capitulos/47.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-085](../capitulos/47.md), [47-086](../capitulos/47.md), [48-003](../capitulos/48.md), [48-005](../capitulos/48.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-018](../capitulos/48.md), [48-019](../capitulos/48.md), [48-020](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-030](../capitulos/48.md), [48-120](../capitulos/48.md), [48-128](../capitulos/48.md), [48-129](../capitulos/48.md), [49-001](../capitulos/49.md), [49-002](../capitulos/49.md), [49-007](../capitulos/49.md), [49-008](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-019](../capitulos/49.md), [49-020](../capitulos/49.md), [50-003](../capitulos/50.md), [50-004](../capitulos/50.md), [50-007](../capitulos/50.md), [50-012](../capitulos/50.md), [50-013](../capitulos/50.md), [50-015](../capitulos/50.md), [50-017](../capitulos/50.md), [50-018](../capitulos/50.md), [50-024](../capitulos/50.md), [50-028](../capitulos/50.md), [50-079](../capitulos/50.md), [50-080](../capitulos/50.md), [50-083](../capitulos/50.md), [50-084](../capitulos/50.md), [50-085](../capitulos/50.md), [50-087](../capitulos/50.md), [50-090](../capitulos/50.md), [50-094](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La ciudad que no se deja encontrar fácilmente
 
@@ -103,6 +103,12 @@ Fuentes: [48-120 · Naór deja la investigación para recoger a Leo](../capitulo
 Kilzer llega tras sobrevivir en la jungla y es admitido por una guardia cansada de ver visitantes extraños. La vegetación de la ciudad es especialmente abundante y colorida. Allí se reencuentra con Patata, Eleanor y Erandy, y Molly los reúne para buscar información sobre el ojo. La necesidad de proteger este posible refugio ayuda a convencer a Kilzer de participar.
 
 Fuentes: [49-001 · Eleanor recuerda sus pesquisas en Iktan](../capitulos/49.md) · 00:00:21.080 · [49-002 · Erandy sigue esperando una conversación con Eleanor](../capitulos/49.md) · 00:00:56.480 · [49-007 · Los guardias dejan entrar a Kilzer en Iktan](../capitulos/49.md) · 00:04:43.840 · [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120 · [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839 · [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639 · [49-014 · La amnesia de Erandy deja explicaciones pendientes](../capitulos/49.md) · 00:16:46.920 · [49-015 · Kilzer acepta acompañar la investigación](../capitulos/49.md) · 00:18:41.200 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640 · [49-020 · Patata corrige el rumbo de Molly](../capitulos/49.md) · 00:28:22.559.
+
+### Guardias en la aldea, recolectores fuera
+
+Walulu explica que ha llamado de vuelta a guardias del contorno desde el incidente del festival. Los recolectores salen al noroeste para ayudar a Cuicapalli y regresan con una muestra pequeña. En el templo se reparten las donaciones, y en la taberna Angelique prepara una habitación para su nueva huésped.
+
+Fuentes: [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919 · [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159 · [50-017 · Walulu confirma que el árbol está al noroeste](../capitulos/50.md) · 00:22:50.480 · [50-080 · Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu](../capitulos/50.md) · 02:08:24.800 · [50-083 · Walulu guarda la muestra bajo el altar](../capitulos/50.md) · 02:11:32.280 · [50-084 · Walulu reparte donaciones del templo](../capitulos/50.md) · 02:12:13.159 · [50-092 · Una habitación reservada y vino por una futura presentación](../capitulos/50.md) · 02:22:05.000.
 
 ## Registros y evidencias
 
@@ -1049,4 +1055,148 @@ Tipo: `hecho_confirmado`.
 Los compañeros discuten todavía sobre la posibilidad de que se levanten más muertos, pero finalmente abandonan el templo yuan-ti perdido entre la jungla. La inscripción queda en manos de Patata y se dirigen hacia Iktan para descansar.
 
 Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
+
+## [50-003 · Una viajera llega a Iktan en busca de dinero y cerveza](../capitulos/50.md) · 00:01:28.079
+
+Tipo: `hecho_confirmado`.
+
+Una mujer mayor, de trenzas blancas y vestida de harapos, se acerca a la población escondida junto al lago. Madame Oghma observa las caras y las bolsas de los vecinos para encontrar a alguien fácil de engañar. Viene huyendo de un problema y tiene ganas de beber.
+
+En la llegada no se identifica el problema del que huye.
+
+## [50-004 · Los guardias dejan entrar a Oghma](../capitulos/50.md) · 00:03:15.680
+
+Tipo: `hecho_confirmado`.
+
+Un guardia lagarto y otro tabaxi intercambian un gesto resignado y dejan que Oghma pase. En las calles predominan los nativos, entre ellos numerosos tabaxis; también se ven humanos y elfos. La gente la saluda al pasar.
+
+El nombre ASR de otro grupo de habitantes es incierto.
+
+## [50-007 · Tryel conduce a Oghma hasta la roca de Tortas](../capitulos/50.md) · 00:06:46.080
+
+Tipo: `hecho_confirmado`.
+
+La elfa atraviesa con su acompañante una zona donde el suelo parece muerto y algunas construcciones parecen derretidas. Al fondo está Tortas sobre su gran roca. Lo acompañan Tentacol y el pequeño pulpo que lleva en su frasco.
+
+La descripción del barrio no establece la causa de los daños.
+
+## [50-012 · Walulu solicita la ayuda del Gran Anciano](../capitulos/50.md) · 00:15:49.480
+
+Tipo: `hecho_confirmado`.
+
+Walulu se acerca por el sur desde la zona del templo. Saluda a Tortas con una profunda reverencia; buscaba a Naór y otros, pero no los encuentra y el tiempo apremia. Tortas se ofrece a ayudar a la aldea que ha visto crecer. Le presentan a la recién llegada.
+
+Walulu dice que no encuentra a Naór, sin situarla ni demostrar que esté ausente de la ciudad.
+
+## [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919
+
+Tipo: `declaracion_personaje`.
+
+Tras el intento de los yuan-ti de envenenar a la población durante las festividades, Walulu ha reforzado las defensas de Iktan. Para ello ha tenido que hacer volver a muchos guardias que patrullaban los alrededores. Ahora necesita ingredientes de fuera.
+
+Se trata del informe de Walulu; no se atribuye el repliegue a otro ataque ni se establece que todo el contorno esté desguarnecido.
+
+## [50-015 · Tortas recuerda la plantación del árbol](../capitulos/50.md) · 00:20:07.559
+
+Tipo: `explicacion_director`.
+
+Al concentrarse, Tortas recuerda que siendo una tortuguita vio plantar el árbol cerca del lugar donde lo dejaron para meditar. Árbol y tortuga han crecido casi al mismo tiempo. El camino puede recorrerse en media hora o tres cuartos. Tortas dice al grupo que cree haberlo visto hace unos setecientos años.
+
+La cifra de setecientos años es su estimación y no resuelve su edad exacta.
+
+## [50-017 · Walulu confirma que el árbol está al noroeste](../capitulos/50.md) · 00:22:50.480
+
+Tipo: `hecho_confirmado`.
+
+Tortas encuentra a Walulu en el templo y le pide confirmar la dirección. Ella le responde que debe ir hacia el noroeste. Cuando vuelve a quedarse sola interpreta la consulta como una prueba del Gran Maestro y espera haberla pasado.
+
+El pensamiento de Walulu queda reservado al público.
+
+## [50-018 · Tryel enseña a Oghma el tatuaje de su brazo](../capitulos/50.md) · 00:23:43.000
+
+Tipo: `declaracion_personaje`.
+
+Mientras esperan a Tortas, Tryel señala a Oghma el herrero, el alquimista, el colegio y la taberna. Le muestra una camisa hecha en la ciudad y un tatuaje del brazo; dice que con el tatuaje intimida más y ensaya una cara furiosa.
+
+Se documentan la función que Tryel le atribuye y el gesto. No se realiza una tirada de intimidación ni se cifra una mejora.
+
+## [50-024 · Oghma manifiesta un eco al salir de Iktan](../capitulos/50.md) · 00:33:19.440
+
+Tipo: `hecho_confirmado`.
+
+Al dejar las calles de Iktan, Oghma distingue dónde termina la vegetación de colores vivos y comienza la jungla ordinaria. El paso se aprecia por el cambio de color, sin tropezar con una barrera física. Aprovecha la diferencia de tonos para que su eco siga discretamente al grupo.
+
+Se confirma la presencia del eco. La incidencia técnica del tablero no impide que acompañe al grupo.
+
+## [50-028 · El Gran Árbol Anciano ocupa un islote rodeado de agua](../capitulos/50.md) · 00:37:57.880
+
+Tipo: `hecho_confirmado`.
+
+Los viajeros llegan a un riachuelo que rodea un montículo circular. Encima crece el árbol antiguo, con flores de los colores vivos de Iktan y ramas casi secas. Un pequeño puente de madera facilita el paso de quienes acuden a recoger su savia.
+
+La apariencia del árbol se describe antes de tomar ninguna muestra.
+
+## [50-079 · Tryel vuelve a Iktan sin que el grupo perciba al dragón](../capitulos/50.md) · 02:06:29.760
+
+Tipo: `explicacion_director`.
+
+En la vuelta a Iktan no perciben que el dragón verde los aceche, aunque Tryel los acompaña. El director recuerda que en encuentros previos demostró sigilo y la capacidad de hacerse invisible. El grupo llega a la ciudad sin sufrir un ataque. Tryel explica que Eldrath guarda su dinero porque suele perderlo.
+
+No sentir al dragón no demuestra su ausencia ni el fin del ultimátum. Lo que hace con el dinero depende del testimonio de Tryel.
+
+## [50-080 · Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu](../capitulos/50.md) · 02:08:24.800
+
+Tipo: `hecho_confirmado`.
+
+Al llegar, una pequeña capilla de piedra contrasta con las casas de madera. Tortas vuelve a equivocarse de puerta y abre la del colegio. Esta vez los niños la reconocen y se agachan sin esperar a la maestra. Ya ante Walulu, la expedición anuncia que trae savia y también malas noticias.
+
+Se conservan como destinos distintos la clase y la capilla.
+
+## [50-083 · Walulu guarda la muestra bajo el altar](../capitulos/50.md) · 02:11:32.280
+
+Tipo: `hecho_confirmado`.
+
+Entregan el recipiente de savia a Walulu. Constata que es muy poca, dice que tendrá que hablar con los otros líderes, guarda el frasquito bajo el altar y busca algo con lo que agradecer la ayuda.
+
+Se cumple la entrega. El volumen no se cuantifica ni se demuestra que baste para una dosis eficaz.
+
+## [50-084 · Walulu reparte donaciones del templo](../capitulos/50.md) · 02:12:13.159
+
+Tipo: `hecho_confirmado`.
+
+La recompensa sale de pequeñas donaciones de los ciudadanos. Tortas recibe una aguamarina, Oghma un jade y a Tryel le cuentan veintiuna monedas. A Tentacol le anuncian veintidós monedas de oro. La mesa resuelve por separado una tirada correspondiente a un cofre abierto otro día, con un resultado de treinta y siete monedas.
+
+La asignación nominal de las dos gemas y las monedas de Tryel es explícita. Las treinta y siete no se suman al pago de Walulu ni se atribuyen aquí a un destinatario inequívoco.
+
+## [50-085 · Walulu quiere consultar a Naór y a los dirigentes](../capitulos/50.md) · 02:14:15.000
+
+Tipo: `declaracion_personaje`.
+
+Walulu explica que en ese momento no necesita otro servicio. Hablará con los líderes, quizá vuelva a avisar a los viajeros y debe consultar también a Naór, la enviada encargada de hablar con los clanes. Ante el interés de Oghma por la princesa de Atlan, levanta un poco la máscara y se ve que es humana. Menciona en voz baja el temperamento bastante bárbaro de Naór.
+
+El episodio no muestra esa consulta ni una reunión acordada. «Bigotitos» se refiere aquí a Naór.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-090 · Tryel presenta a Oghma en Los Miaullidos de Angelique](../capitulos/50.md) · 02:19:59.040
+
+Tipo: `hecho_confirmado`.
+
+En la taberna reconocen a Angelique, la dueña tabaxi bien vestida y con una trenza. Sonríe al ver a Tryel; el director revela al público que espera sacarle dinero. La elfa presenta a Oghma y la anciana propone que Tryel pague las bebidas. Angelique pregunta a la elfa si tiene con qué hacerlo.
+
+El rótulo oído aquí continúa el de Los Miaullidos del capítulo 49. El pensamiento sobre el dinero pertenece a la narración, no a la conversación.
+
+## [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760
+
+Tipo: `hecho_confirmado`.
+
+La última escena abandona la mesa de Angelique. En el lago cercano a Iktan, Chopito y Tentacol vuelven a meterse en el agua. En la zona que había destrozado un antiguo dragón, Tortas sube a su roca y medita sobre su próximo entrenamiento. Con esas dos imágenes se despide la sesión.
+
+La imagen no bautiza el lago, no identifica al dragón antiguo ni atribuye un nuevo poder a la roca.
 

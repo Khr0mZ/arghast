@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 49,
+  "revisado_hasta": 50,
   "preguntas": [
     {
       "id": "P42-001",
@@ -8,7 +8,7 @@
       "indice": 1,
       "pregunta": "¿Qué destino tienen Nox, Pinky y Tórtola tras la explosión del Invictus? El director despide a Nox y Pinky, pero la búsqueda no recupera el cuerpo de Nox ni se representa el destino del aviar (42-060–42-064, 42-072).",
       "estado": "parcial",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "La explosión se contempla desde tierra. Citlali ve a Nox cayendo al agua en una visión y después declara que se ha ido; el director presenta su mirada ante Molly como la de quien ha perdido a su hijo. Se desarrolla así la pérdida de Nox que enmarcaba la despedida del capítulo 42, sin narrar una recuperación de su cuerpo. Pinky y Tórtola no reciben una escena posterior al estallido.",
       "referencias": [
         "42-060",
@@ -28,7 +28,7 @@
       "indice": 2,
       "pregunta": "¿Qué función tienen los tatuajes y el ojo-orbe en la última decisión de Nox y dónde queda el objeto? Su presencia en la chaqueta no acredita dominación, protección o una vía de escape (42-061).",
       "estado": "parcial",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "El ojo queda con Nox antes del estallido y no se recupera en el capítulo 43. El dolor y el altar de símbolos que se muestran ahora pertenecen a Citlali: no se identifican sus marcas con las de Nox ni se atribuye al ojo una orden, protección o fuga. La continuación escrita del 49 aporta una pista: al pedirle Molly que localice otra esfera semejante a la suya, Erandi ve el punto del mar donde estalló el Invictus. Después transmite lo visto a los compañeros. No se recupera el Ojo ni se demuestra una función de los tatuajes, una dominación o una vía de escape de Nox.",
       "referencias": [
         "42-061",
@@ -42,21 +42,21 @@
       "pendiente": "La función de los tatuajes y el ojo en la decisión de Nox y el paradero posterior del objeto.",
       "fuentes_rol": [
         {
-          "escena": "x-1535034920198607038",
+          "escena": "x-1535388630367867000",
           "mensaje_id": "1535419715227222148",
           "descripcion": "Molly muestra su Ojo y pide localizar otro parecido.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535419715227222148",
           "texto_sha256": "36aecee172a1b166d86efeaceb0f457b4b2252eb7f4b8b4ddfc0c0cd9b4aabf4"
         },
         {
-          "escena": "x-1535034920198607038",
+          "escena": "x-1535388630367867000",
           "mensaje_id": "1535425167864496178",
           "descripcion": "La luz de Lathander muestra a Erandi el punto de la explosión del Invictus.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535425167864496178",
           "texto_sha256": "ff5e9f3d9aed1ddb298ebad865169b3eff1944d48d78a8b70416875bed96d2ab"
         },
         {
-          "escena": "x-1535034920198607038",
+          "escena": "x-1535388630367867000",
           "mensaje_id": "1535426405205020735",
           "descripcion": "Erandi transmite a los presentes la pista del mar del Calor Sofocante.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535426405205020735",
@@ -70,7 +70,7 @@
       "indice": 3,
       "pregunta": "¿Qué consecuencias tiene el disparo de Taylor contra Bonnie y quién controlará Shiaru? La sesión cierra con el disparo a la frente y la despedida del director, sin mostrar el nuevo gobierno (42-068–42-072).",
       "estado": "parcial",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "El director confirma que Patata encontró el huerto destrozado y el cuerpo de «Happy» Bonny colgado a la entrada de Shiaru. Patata atribuye la expulsión de habitantes y la pérdida de su casa a nuevos piratas. Los antiguos tripulantes se encuentran refugiados en Iktan y corroboran que los echaron. No se representa quién colgó el cuerpo ni se identifica al gobernante actual o a todos los ocupantes.",
       "referencias": [
         "42-068",
@@ -90,7 +90,7 @@
       "indice": 4,
       "pregunta": "¿Cuáles eran las cláusulas del pacto entre los cinco reyes y qué harán en Xoltacan? Taylor acusa a Bonnie de ocultar la isla y faltar a reuniones, pero no expone todo el acuerdo (42-069–42-072).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Taylor relaciona el pacto con las reuniones y con no ocultar una isla de grandes tesoros. Bonnie reconoce haber leído su carta. No se leen todas las cláusulas ni se expone un plan común posterior.",
       "referencias": [
         "42-069",
@@ -106,7 +106,7 @@
       "indice": 5,
       "pregunta": "¿Quién es el joven Jackie que Taylor dice haber capturado rumbo a Puerto de Espadas y cuál es su destino? No se demuestra su identidad con Jack, presente en el Zampaolas (42-008, 42-029, 42-070).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "La captura del joven rumbo a Puerto de Espadas sigue procediendo del relato de Taylor. En Iktan aparece otra mención sin resolver: los hombres de Ione no encuentran al novato que llaman Jacki y dicen que faltaba desde la playa. Ese testimonio no establece su identidad con el exmarine Jack ni con el cautivo de Taylor, ni demuestra una segunda captura, muerte o regreso.",
       "referencias": [
         "42-008",
@@ -123,7 +123,7 @@
       "indice": 6,
       "pregunta": "¿Dónde continuará Ione la búsqueda de Nox y cómo utilizará la moneda recibida? Acepta salir de la batalla, pero se niega a abandonar Shiaru (42-066–42-067).",
       "estado": "parcial",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Ione viaja por tierra hacia Iktan con los supervivientes, se separa de ellos y termina reuniéndose con sus hombres en la taberna. Quiere conseguir dinero y apoyos para recuperar Shiaru y averiguar si el novato ausente ha vuelto por allí. No representa una nueva búsqueda de Nox o su cuerpo ni una activación de la moneda pirata. Las monedas usadas para elegir una dirección al azar no se identifican como el objeto recibido de Bonnie. Después del 49, la pista del segundo Ojo reactiva el proyecto de volver al lugar de la explosión. Ione ofrece el Zampaolas y Molly propone adquirir medios para respirar bajo el agua. Son preparativos: no se narra aún el viaje, la recuperación de Nox o la activación de la moneda.",
       "referencias": [
         "42-066",
@@ -141,21 +141,21 @@
       "pendiente": "La continuación de la búsqueda de Ione y la activación o uso de la moneda por ella.",
       "fuentes_rol": [
         {
-          "escena": "x-1535034920198607038",
+          "escena": "x-1535388630367867000",
           "mensaje_id": "1535426405205020735",
           "descripcion": "Erandi transmite a los presentes la pista del mar del Calor Sofocante.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535426405205020735",
           "texto_sha256": "b2fab3cdd5a3a285bc039120f418487dee70e3e56dacffc813da1b9b5cefd1e6"
         },
         {
-          "escena": "x-1535034920198607038",
+          "escena": "x-1535388630367867000",
           "mensaje_id": "1535428422732353646",
           "descripcion": "Ione ofrece el Zampaolas para buscar la esfera.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535428422732353646",
           "texto_sha256": "0015a6d65a5b895c35da882af311de1e62606fa4fde12356f1a7e82a52d902c7"
         },
         {
-          "escena": "x-1535034920198607038",
+          "escena": "x-1535388630367867000",
           "mensaje_id": "1535430626210091128",
           "descripcion": "Molly propone preparar la expedición y conseguir medios para respirar bajo el agua.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535430626210091128",
@@ -169,7 +169,7 @@
       "indice": 7,
       "pregunta": "¿A qué reyes y monedas corresponden los ataques de hielo y fuego y cuáles son sus límites? La llegada de las cuatro banderas no distribuye individualmente esos poderes (42-065–42-069).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "El hielo y el fuego destruyen los refuerzos justo antes de aparecer las cuatro banderas y los reyes. La narración los presenta como su llegada, sin identificar cuál ejecuta cada fenómeno ni describir una activación individual de sus monedas.",
       "referencias": [
         "42-065",

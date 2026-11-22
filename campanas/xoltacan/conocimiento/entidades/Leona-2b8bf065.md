@@ -8,11 +8,11 @@ Coneja y harengon bárbara son descripciones del mismo personaje; no Naór leoni
 
 Etiquetas agrupadas: Leona (coneja, grafía provisional); Leona (harengon bárbara).
 
-Base para revisar equivalencia: [19-002](../capitulos/19.md), [21-004](../capitulos/21.md), [30-001](../capitulos/30.md), [44-001](../capitulos/44.md), [44-004](../capitulos/44.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-016](../capitulos/44.md), [44-017](../capitulos/44.md), [44-018](../capitulos/44.md), [44-020](../capitulos/44.md), [44-023](../capitulos/44.md), [44-027](../capitulos/44.md), [44-029](../capitulos/44.md), [44-032](../capitulos/44.md), [44-035](../capitulos/44.md), [44-037](../capitulos/44.md), [44-040](../capitulos/44.md), [44-042](../capitulos/44.md), [44-045](../capitulos/44.md), [44-046](../capitulos/44.md), [44-048](../capitulos/44.md), [44-054](../capitulos/44.md), [44-056](../capitulos/44.md).
+Base para revisar equivalencia: [19-002](../capitulos/19.md), [21-004](../capitulos/21.md), [30-001](../capitulos/30.md), [44-001](../capitulos/44.md), [44-004](../capitulos/44.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-016](../capitulos/44.md), [44-017](../capitulos/44.md), [44-018](../capitulos/44.md), [44-020](../capitulos/44.md), [44-023](../capitulos/44.md), [44-027](../capitulos/44.md), [44-029](../capitulos/44.md), [44-032](../capitulos/44.md), [44-035](../capitulos/44.md), [44-037](../capitulos/44.md), [44-040](../capitulos/44.md), [44-042](../capitulos/44.md), [44-045](../capitulos/44.md), [44-046](../capitulos/44.md), [44-048](../capitulos/44.md), [44-054](../capitulos/44.md), [44-056](../capitulos/44.md), [50-087](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Aprender a no resolverlo todo con el hacha
 
@@ -961,4 +961,12 @@ Tipo: `hecho_confirmado`.
 El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
 
 Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
 

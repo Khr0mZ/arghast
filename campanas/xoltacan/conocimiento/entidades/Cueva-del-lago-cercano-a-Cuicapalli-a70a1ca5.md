@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-013](../capitulos/44.md), [44-016](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Dos amenazas en una cueva de la infancia
 

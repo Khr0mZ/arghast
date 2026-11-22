@@ -8,11 +8,11 @@ Su pretensión de recibir adoración o poseer súbditos es testimonio suyo, sin 
 
 Etiquetas agrupadas: Chopito (pulpo, grafía provisional); Chopito.
 
-Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-010](../capitulos/41.md), [41-020](../capitulos/41.md), [41-029](../capitulos/41.md), [41-030](../capitulos/41.md), [41-050](../capitulos/41.md), [45-005](../capitulos/45.md), [45-006](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [45-020](../capitulos/45.md), [45-021](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-034](../capitulos/45.md), [45-037](../capitulos/45.md), [45-040](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-045](../capitulos/45.md), [45-046](../capitulos/45.md), [45-048](../capitulos/45.md), [45-052](../capitulos/45.md), [45-057](../capitulos/45.md), [45-062](../capitulos/45.md), [45-066](../capitulos/45.md), [45-069](../capitulos/45.md), [45-072](../capitulos/45.md), [47-012](../capitulos/47.md), [47-014](../capitulos/47.md), [47-016](../capitulos/47.md), [47-023](../capitulos/47.md), [47-026](../capitulos/47.md), [47-029](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-043](../capitulos/47.md), [47-061](../capitulos/47.md), [47-066](../capitulos/47.md), [47-071](../capitulos/47.md), [47-075](../capitulos/47.md), [47-076](../capitulos/47.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md).
+Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-010](../capitulos/41.md), [41-020](../capitulos/41.md), [41-029](../capitulos/41.md), [41-030](../capitulos/41.md), [41-050](../capitulos/41.md), [45-005](../capitulos/45.md), [45-006](../capitulos/45.md), [45-018](../capitulos/45.md), [45-019](../capitulos/45.md), [45-020](../capitulos/45.md), [45-021](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-034](../capitulos/45.md), [45-037](../capitulos/45.md), [45-040](../capitulos/45.md), [45-043](../capitulos/45.md), [45-044](../capitulos/45.md), [45-045](../capitulos/45.md), [45-046](../capitulos/45.md), [45-048](../capitulos/45.md), [45-052](../capitulos/45.md), [45-057](../capitulos/45.md), [45-062](../capitulos/45.md), [45-066](../capitulos/45.md), [45-069](../capitulos/45.md), [45-072](../capitulos/45.md), [47-012](../capitulos/47.md), [47-014](../capitulos/47.md), [47-016](../capitulos/47.md), [47-023](../capitulos/47.md), [47-026](../capitulos/47.md), [47-029](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-043](../capitulos/47.md), [47-061](../capitulos/47.md), [47-066](../capitulos/47.md), [47-071](../capitulos/47.md), [47-075](../capitulos/47.md), [47-076](../capitulos/47.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md), [50-001](../capitulos/50.md), [50-007](../capitulos/50.md), [50-008](../capitulos/50.md), [50-009](../capitulos/50.md), [50-010](../capitulos/50.md), [50-014](../capitulos/50.md), [50-021](../capitulos/50.md), [50-022](../capitulos/50.md), [50-030](../capitulos/50.md), [50-035](../capitulos/50.md), [50-036](../capitulos/50.md), [50-077](../capitulos/50.md), [50-094](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El pulpo al que se pide consejo
 
@@ -49,6 +49,12 @@ Fuentes: [47-038 · Una voz implanta la necesidad de atraer a dos elfos](../capi
 Chopito abofetea a Tesara para que reaccione y cuestiona su relato sobre el dragón. Anima mentalmente a Tentacol a negociar; rechaza Perlasal como recompensa porque lo considera suyo. Tras la retirada de la criatura consuela a Tesara y la acusa de marcarse un farol. Ya en Iktan imita a Tortas desde encima de Tentacol con apariencia de piedra.
 
 Fuentes: [47-066 · Chopito abofetea a Tesara y cuestiona su alarma](../capitulos/47.md) · 01:40:45.000 · [47-071 · Chopito rechaza que le ofrezcan Perlasal](../capitulos/47.md) · 01:49:04.280 · [47-075 · La criatura se retira invisible y los viajeros deciden volver](../capitulos/47.md) · 01:53:03.400 · [47-076 · Tesara sostiene la confianza en sus compañeros elfos](../capitulos/47.md) · 01:54:52.360 · [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079 · [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119.
+
+### La paciencia y el disfraz
+
+Chopito ensaya la paciencia de Tortas y ayuda a que Tryel pueda salir de Iktan pese al dragón. Su habla requiere traducción para parte del grupo. Junto al árbol distingue con Tentacol los líquidos de los muertos. Al terminar vuelve al agua con su compañero.
+
+Fuentes: [50-008 · Chopito prueba el camino de la paciencia](../capitulos/50.md) · 00:08:00.520 · [50-010 · Oghma se presenta y le hace una reverencia a Chopito](../capitulos/50.md) · 00:11:13.240 · [50-021 · Chopito propone disfrazar a Tryel para salir al bosque](../capitulos/50.md) · 00:28:13.880 · [50-022 · Oghma, Tryel y Chopito completan el disfraz](../capitulos/50.md) · 00:29:29.760 · [50-035 · Oghma mete la mano en la secreción](../capitulos/50.md) · 00:49:30.680 · [50-036 · La explicación de Chopito depende de quién pueda entenderlo](../capitulos/50.md) · 00:51:04.559 · [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760.
 
 ## Registros y evidencias
 
@@ -683,4 +689,108 @@ Tipo: `declaracion_personaje`.
 Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
 
 No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
+
+## [50-001 · Tenta recuerda la espera con Chopito](../capitulos/50.md) · 00:00:23.800
+
+Tipo: `declaracion_personaje`.
+
+Tentacol recuerda que él y Chopito se quedaron junto a una figura con forma de tortuga. En su relato, Chopito llegó a dejarse barba y después se afeitó.
+
+Lo del resfriado se cuenta en broma y con dudas.
+
+## [50-007 · Tryel conduce a Oghma hasta la roca de Tortas](../capitulos/50.md) · 00:06:46.080
+
+Tipo: `hecho_confirmado`.
+
+La elfa atraviesa con su acompañante una zona donde el suelo parece muerto y algunas construcciones parecen derretidas. Al fondo está Tortas sobre su gran roca. Lo acompañan Tentacol y el pequeño pulpo que lleva en su frasco.
+
+La descripción del barrio no establece la causa de los daños.
+
+## [50-008 · Chopito prueba el camino de la paciencia](../capitulos/50.md) · 00:08:00.520
+
+Tipo: `hecho_confirmado`.
+
+Con una barba hecha mediante prestidigitación, Chopito se dispone a meditar. Tentacol duda de la lección, pero su maestro insiste en que un villano también necesita aprender. Tortas entiende el aquan de Chopito y le dice que la paciencia no es para villanos. El pulpo se justifica diciendo que viene de una villa.
+
+La escena muestra que Tortas entiende aquan, sin extender esa capacidad a Oghma.
+
+## [50-009 · Tryel explica por qué su hermano lleva el dinero](../capitulos/50.md) · 00:09:15.040
+
+Tipo: `declaracion_personaje`.
+
+Presentada a los dos compañeros y a Tortas, Oghma pregunta por un conde y admite que necesita dinero para cerveza. Tryel explica que pierde o regala sus monedas y que por eso su hermano las lleva por ella. El grupo se ofrece a ayudar a la recién llegada a buscar a sus supuestos primos.
+
+Lo que se sabe de la administración del dinero procede de Tryel. El conde no aparece.
+
+## [50-010 · Oghma se presenta y le hace una reverencia a Chopito](../capitulos/50.md) · 00:11:13.240
+
+Tipo: `hecho_confirmado`.
+
+Tryel presenta al anciano como un maestro y, al oído de la visitante, describe a Tentacol y Chopito como grandes villanos. Oghma da su nombre con una reverencia. Tentacol le traduce el agrado de su maestro y Tortas devuelve el saludo a su ritmo.
+
+«Villanos» es la presentación que hace Tryel.
+
+## [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159
+
+Tipo: `hecho_confirmado`.
+
+Walulu encarga al grupo un poco de resina del Gran Árbol Anciano. Cree que les permitirá ayudar a Cuicapalli frente al veneno de los yuan-ti. Oghma pregunta por la recompensa y acepta cuando Walulu promete pagarles el trabajo. Tentacol comunica la conformidad de Chopito. Walulu los esperará en el templo.
+
+En el encargo no se acuerdan importe, dosis o receta ni se prueba la eficacia del ingrediente.
+
+## [50-021 · Chopito propone disfrazar a Tryel para salir al bosque](../capitulos/50.md) · 00:28:13.880
+
+Tipo: `hecho_confirmado`.
+
+Tortas considera que no podrían vencer al dragón y pide a Tryel que permanezca en la ciudad. Ella quiere ir y propone esconderse. Chopito le hace aparecer mediante prestidigitación unas gafas con nariz y bigote.
+
+Disfraz para acompañar a la expedición, sin prueba de su eficacia frente al dragón.
+
+## [50-022 · Oghma, Tryel y Chopito completan el disfraz](../capitulos/50.md) · 00:29:29.760
+
+Tipo: `hecho_confirmado`.
+
+Oghma recoge el cabello de Tryel y le acomoda la ropa para taparle mejor la cara. Tortas señala que su piel aún la delata. La muchacha se embadurna de barro y pide a Chopito que además la cubra de tinta. Su acompañante explica que el pulpo necesita una hora de descanso entre descargas.
+
+No se demuestra cuánto dura el disfraz ni cómo reaccionaría Clolgedranx al verlo.
+
+## [50-030 · La isla hace inclinarse a Tortas, Tentacol y Chopito](../capitulos/50.md) · 00:41:01.280
+
+Tipo: `explicacion_director`.
+
+Una vez en el islote, los compañeros ven ramas que entran y vuelven a salir del tronco. En presencia del árbol, Tortas, Tentacol y Chopito sienten que algo los obliga a bajar la cabeza. La maldición procedente de la encuesta se traduce en desventaja al atacar a las cosas de la isla. Tentacol lo interpreta como una chepa y Tortas como dolor de rodilla.
+
+El director distingue a Tryel de los objetivos afectados por la desventaja. Oghma no figura entre quienes reciben la maldición.
+
+## [50-035 · Oghma mete la mano en la secreción](../capitulos/50.md) · 00:49:30.680
+
+Tipo: `hecho_confirmado`.
+
+Oghma ayuda a investigar introduciendo la mano en el líquido maloliente. Tentacol y Chopito la observan. La mezcla contiene materia de cuerpos en descomposición, barro y hojas. Gotea de la mano y por el momento no produce un efecto visible en la piel.
+
+Solo comprueban el efecto inmediato visible. La ocurrencia sobre el petróleo es una broma.
+
+## [50-036 · La explicación de Chopito depende de quién pueda entenderlo](../capitulos/50.md) · 00:51:04.559
+
+Tipo: `explicacion_director`.
+
+Tentacol advierte a la señora que está tocando secreciones de materia orgánica. Chopito lo traduce a palabras más sencillas. La mesa aclara que su habla suena a burbujas para quien no entienda su lengua, y se corrige el intercambio con Oghma, que señala el terran.
+
+La réplica no prueba que Oghma entienda la lengua de Chopito.
+
+## [50-077 · La expedición decide llevar a Walulu la escasa muestra](../capitulos/50.md) · 02:03:02.040
+
+Tipo: `hecho_confirmado`.
+
+Oghma invita a mirar otras hojas y no aparece ninguna fuente mejor. La broma es que media heroína también quiere una recompensa entera. Al preguntar por otro árbol al que trata de deidad, la respuesta recuerda que Walulu pidió precisamente el árbol antiguo. El grupo prefiere consultar en la aldea.
+
+El tratamiento de deidad suprema y el de lacayo pertenecen al diálogo y no demuestran divinidad. No descubren un segundo árbol.
+
+## [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760
+
+Tipo: `hecho_confirmado`.
+
+La última escena abandona la mesa de Angelique. En el lago cercano a Iktan, Chopito y Tentacol vuelven a meterse en el agua. En la zona que había destrozado un antiguo dragón, Tortas sube a su roca y medita sobre su próximo entrenamiento. Con esas dos imágenes se despide la sesión.
+
+La imagen no bautiza el lago, no identifica al dragón antiguo ni atribuye un nuevo poder a la roca.
 

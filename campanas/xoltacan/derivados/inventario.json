@@ -929,5 +929,24 @@
     "inicio": "00:00:00.000",
     "fin": "02:32:48.720",
     "cambios": 0
+  },
+  {
+    "capitulo": 50,
+    "id": "QkUmNIOuyQI",
+    "titulo": "Abastecimiento",
+    "url": "https://www.youtube.com/watch?v=QkUmNIOuyQI",
+    "variantes": [
+      "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es-orig.vtt",
+      "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es.vtt"
+    ],
+    "estado_fuente": "disponible",
+    "revision": "revisado",
+    "fingerprint": "dd6eb0a2de7ac1296a0c5078450541bd8256f1b81773153a07e4bb14c6f8fae5",
+    "fuente": "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es-orig.vtt",
+    "sha256": "ac1b3bdef307f2adcc9777982576c5a43c67b806bdc5afca0b8c56ac694d3063",
+    "segmentos": 3101,
+    "inicio": "00:00:00.160",
+    "fin": "02:25:31.240",
+    "cambios": 2
   }
 ]

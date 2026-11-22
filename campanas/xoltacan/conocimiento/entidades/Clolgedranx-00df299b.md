@@ -8,11 +8,11 @@ Grafía confirmada por el usuario. La voz reconocida por Tesara y la explicació
 
 Etiquetas agrupadas: Clodidrax / Clotis (dragón del bosque, grafía provisional); Clodidrax; Clolgedranx; Clodidax; Dragón verde del bosque de Iktan; Serpiente del Bosque.
 
-Base para revisar equivalencia: [39-016](../capitulos/39.md), [47-002](../capitulos/47.md), [47-024](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-048](../capitulos/47.md), [47-049](../capitulos/47.md), [47-050](../capitulos/47.md), [47-051](../capitulos/47.md), [47-052](../capitulos/47.md), [47-056](../capitulos/47.md), [47-058](../capitulos/47.md), [47-060](../capitulos/47.md), [47-064](../capitulos/47.md), [47-065](../capitulos/47.md), [47-067](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-070](../capitulos/47.md), [47-071](../capitulos/47.md), [47-072](../capitulos/47.md), [47-073](../capitulos/47.md), [47-074](../capitulos/47.md), [47-075](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [31-015](../capitulos/31.md), [40-002](../capitulos/40.md), [40-030](../capitulos/40.md), [40-032](../capitulos/40.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-036](../capitulos/48.md), [48-040](../capitulos/48.md), [48-041](../capitulos/48.md), [48-042](../capitulos/48.md), [48-044](../capitulos/48.md), [48-092](../capitulos/48.md), [48-117](../capitulos/48.md), [48-119](../capitulos/48.md), [48-123](../capitulos/48.md), [48-124](../capitulos/48.md), [48-125](../capitulos/48.md), [48-126](../capitulos/48.md).
+Base para revisar equivalencia: [39-016](../capitulos/39.md), [47-002](../capitulos/47.md), [47-024](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-048](../capitulos/47.md), [47-049](../capitulos/47.md), [47-050](../capitulos/47.md), [47-051](../capitulos/47.md), [47-052](../capitulos/47.md), [47-056](../capitulos/47.md), [47-058](../capitulos/47.md), [47-060](../capitulos/47.md), [47-064](../capitulos/47.md), [47-065](../capitulos/47.md), [47-067](../capitulos/47.md), [47-068](../capitulos/47.md), [47-069](../capitulos/47.md), [47-070](../capitulos/47.md), [47-071](../capitulos/47.md), [47-072](../capitulos/47.md), [47-073](../capitulos/47.md), [47-074](../capitulos/47.md), [47-075](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [31-015](../capitulos/31.md), [40-002](../capitulos/40.md), [40-030](../capitulos/40.md), [40-032](../capitulos/40.md), [48-008](../capitulos/48.md), [48-009](../capitulos/48.md), [48-010](../capitulos/48.md), [48-011](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-036](../capitulos/48.md), [48-040](../capitulos/48.md), [48-041](../capitulos/48.md), [48-042](../capitulos/48.md), [48-044](../capitulos/48.md), [48-092](../capitulos/48.md), [48-117](../capitulos/48.md), [48-119](../capitulos/48.md), [48-123](../capitulos/48.md), [48-124](../capitulos/48.md), [48-125](../capitulos/48.md), [48-126](../capitulos/48.md), [50-020](../capitulos/50.md), [50-021](../capitulos/50.md), [50-078](../capitulos/50.md), [50-079](../capitulos/50.md), [50-082](../capitulos/50.md), [50-089](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un trato en el bosque
 
@@ -769,4 +769,52 @@ Tipo: `declaracion_personaje`.
 Patata recapitula su llegada a Iktan después de encontrarse con muertos controlados por una especie de dragón verde. Recuerda que le pidió llevar a los elfos al bosque. Aunque no le caen bien, no quiere que mueran; dice haber dado vueltas por Iktan sin encontrarlos.
 
 Recapitulación de la amenaza, no un nuevo encuentro con el dragón ni prueba de que los hermanos hayan sido entregados.
+
+## [50-020 · Tryel sabe por Tesara que el dragón busca a los hermanos](../capitulos/50.md) · 00:26:25.440
+
+Tipo: `declaracion_personaje`.
+
+Tryel tranquiliza a Oghma asegurándole que el dragón del bosque busca únicamente a su hermano y a ella. Cuando Tortas vuelve y le pregunta de dónde sale la advertencia, responde que se lo dijo Tesara, a quien describe por su pelo azul y por el disparo que hizo a Eldrath.
+
+Información transmitida por Tryel: el dragón no se presenta en este encuentro.
+
+## [50-021 · Chopito propone disfrazar a Tryel para salir al bosque](../capitulos/50.md) · 00:28:13.880
+
+Tipo: `hecho_confirmado`.
+
+Tortas considera que no podrían vencer al dragón y pide a Tryel que permanezca en la ciudad. Ella quiere ir y propone esconderse. Chopito le hace aparecer mediante prestidigitación unas gafas con nariz y bigote.
+
+Disfraz para acompañar a la expedición, sin prueba de su eficacia frente al dragón.
+
+## [50-078 · Una búsqueda de «tontos» y un disfraz que incomoda](../capitulos/50.md) · 02:04:52.880
+
+Tipo: `hecho_confirmado`.
+
+Encuentran a Tryel a la orilla, preguntándole a un animal si es tonto. Tortas le enseña el recipiente y le recuerda el encargo de Walulu. Oghma propone atarse un lazo al dedo cuando falle la memoria. Tryel protesta por tener que llevar ropa negra para esconderse del dragón sin haberlo visto siquiera.
+
+El director duda entre varios animales. El aspecto de elfa de la Infraoscuridad es una comparación de Tryel sobre su ropa, no una revelación de ascendencia.
+
+## [50-079 · Tryel vuelve a Iktan sin que el grupo perciba al dragón](../capitulos/50.md) · 02:06:29.760
+
+Tipo: `explicacion_director`.
+
+En la vuelta a Iktan no perciben que el dragón verde los aceche, aunque Tryel los acompaña. El director recuerda que en encuentros previos demostró sigilo y la capacidad de hacerse invisible. El grupo llega a la ciudad sin sufrir un ataque. Tryel explica que Eldrath guarda su dinero porque suele perderlo.
+
+No sentir al dragón no demuestra su ausencia ni el fin del ultimátum. Lo que hace con el dinero depende del testimonio de Tryel.
+
+## [50-082 · El olor a muerte del árbol difiere de los venenos conocidos](../capitulos/50.md) · 02:10:55.840
+
+Tipo: `explicacion_director`.
+
+Walulu advierte que perder la resina dificultará contrarrestar el veneno de los hombres serpiente. Se pregunta si el olor que encontraron permite reconocer el de los yuan-ti. El director responde que era peste a muerte, totalmente diferente, y descarta que fuera el olor del dragón.
+
+La distinción de olores no prueba quién dañó el árbol ni equivale a un análisis de los charcos o a la preparación de un antídoto.
+
+## [50-089 · Walulu no puede identificar una tercera amenaza](../capitulos/50.md) · 02:19:08.080
+
+Tipo: `declaracion_personaje`.
+
+Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón y de los yuan-ti. Walulu baja la cabeza y admite que no lo sabe. Tortas se pone a su disposición desde su roca. Walulu espera que la paz le permita prescindir de esa ayuda, pero teme que los acontecimientos indiquen lo contrario.
+
+La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
 

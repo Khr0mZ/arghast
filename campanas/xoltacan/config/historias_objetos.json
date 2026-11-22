@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 49,
+  "revisado_hasta": 50,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -993,6 +993,53 @@
         "referencias": [
           "49-084",
           "49-086"
+        ]
+      }
+    ],
+    "Resina del Gran Árbol Anciano": [
+      {
+        "titulo": "De la copa al altar",
+        "texto": "Walulu encarga la resina con la esperanza de contribuir a la defensa de Cuicapalli. Los cortes bajos solo sueltan líquido de descomposición. Tortas encuentra una rama viva y recoge un poco de savia en una cantimplora. Walulu la guarda. Todavía se desconoce si basta para el remedio.",
+        "referencias": [
+          "50-014",
+          "50-074",
+          "50-075",
+          "50-076",
+          "50-082",
+          "50-083"
+        ]
+      }
+    ],
+    "Sello que usa Madame Oghma": [
+      {
+        "titulo": "La promesa hecha papel",
+        "texto": "En la taberna, Oghma ofrece a Angelique una futura presentación al conde. Para respaldar el trato estampa varios papeles. Angelique acepta servirle vino y alojarla. En el rol posterior Oghma entrega a Coyote un anillo con una M. El vídeo deja abierta la correspondencia física entre ambos sellos.",
+        "referencias": [
+          "50-091",
+          "50-092",
+          "50-093"
+        ]
+      }
+    ],
+    "Tatuaje del brazo de Tryel": [
+      {
+        "titulo": "La demostración de Tryel",
+        "texto": "Durante el recorrido por Iktan, Tryel enseña el brazo tatuado. Pone cara de furia y explica a Oghma que ahora intimida más. Su testimonio aporta una finalidad al tatuaje que pagó Eldrath.",
+        "referencias": [
+          "50-018"
+        ]
+      }
+    ],
+    "Espada invocada de Oghma": [
+      {
+        "titulo": "Ataques desde dos posiciones",
+        "texto": "Oghma invoca el arma después de intercambiarse con su eco. Dispara desde la espada y ataca desde la posición de la copia. Con el eco revienta la planta de cadáveres y más tarde consigue partir en dos a uno de los zombis.",
+        "referencias": [
+          "50-040",
+          "50-045",
+          "50-050",
+          "50-064",
+          "50-068"
         ]
       }
     ]

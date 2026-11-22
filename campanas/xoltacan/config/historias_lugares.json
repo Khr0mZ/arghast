@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 49,
+  "revisado_hasta": 50,
   "entidades": {
     "Atlan": [
       {
@@ -168,6 +168,16 @@
           "44-055",
           "44-056"
         ]
+      },
+      {
+        "titulo": "La ayuda que prepara Walulu",
+        "texto": "Walulu encarga a los viajeros la búsqueda de resina para ayudar a la población contra el veneno de los yuan-ti. La expedición consigue entregar una muestra escasa en Iktan. El capítulo deja pendiente su traslado o utilización en Cuicapalli.",
+        "referencias": [
+          "50-014",
+          "50-082",
+          "50-083",
+          "50-087"
+        ]
       }
     ],
     "El Bocado del Jaguar": [
@@ -315,6 +325,17 @@
           "49-011",
           "49-012",
           "49-019"
+        ]
+      },
+      {
+        "titulo": "Los Miaullidos de Angelique",
+        "texto": "Oghma lee este rótulo sobre la entrada al conocer a Tryel. Tras la expedición las dos vuelven al local. Mientras los clientes de aspecto pirata beben en otra mesa, Angelique corteja la recomendación de la supuesta emisaria y le reserva alojamiento.",
+        "referencias": [
+          "50-005",
+          "50-086",
+          "50-090",
+          "50-092",
+          "50-093"
         ]
       }
     ],
@@ -624,6 +645,19 @@
           "49-019",
           "49-020"
         ]
+      },
+      {
+        "titulo": "Guardias en la aldea, recolectores fuera",
+        "texto": "Walulu explica que ha llamado de vuelta a guardias del contorno desde el incidente del festival. Los recolectores salen al noroeste para ayudar a Cuicapalli y regresan con una muestra pequeña. En el templo se reparten las donaciones, y en la taberna Angelique prepara una habitación para su nueva huésped.",
+        "referencias": [
+          "50-013",
+          "50-014",
+          "50-017",
+          "50-080",
+          "50-083",
+          "50-084",
+          "50-092"
+        ]
       }
     ],
     "La Madriguera": [
@@ -756,6 +790,14 @@
           "17-019",
           "17-021",
           "17-023"
+        ]
+      },
+      {
+        "titulo": "Los soberanos en el informe a Walulu",
+        "texto": "A solas con Tortas, Walulu menciona a los dos soberanos de los hombres lagarto entre los contactos de Naór. Los subtítulos recogen «Rockshak y Erceg». Quedan abiertas la grafía y la correspondencia individual de cada nombre.",
+        "referencias": [
+          "50-087",
+          "50-088"
         ]
       }
     ],
@@ -1068,6 +1110,14 @@
         "referencias": [
           "48-120",
           "48-129"
+        ]
+      },
+      {
+        "titulo": "El saludo de Leo",
+        "texto": "Tortas abre la puerta buscando a Walulu. La profesora Miausi indica a la clase que haga una reverencia, mientras Leo le saluda con la mano. Cuando el monje vuelve a equivocarse de puerta tras la expedición, los alumnos se inclinan por su cuenta.",
+        "referencias": [
+          "50-016",
+          "50-080"
         ]
       }
     ],
@@ -1388,6 +1438,23 @@
           "49-102",
           "49-110",
           "49-113"
+        ]
+      }
+    ],
+    "Gran Árbol Anciano": [
+      {
+        "titulo": "Una rama entre la podredumbre",
+        "texto": "En un islote al noroeste, rodeado de agua y unido a la orilla por un puente, Tortas reconoce el árbol que vio plantar de pequeño. Bajo las ramas hay huesos y una planta que alberga muertos. El líquido de la corteza está corrompido. Solo una rama de la copa permite conseguir una pequeña cantidad de la savia que necesita Walulu.",
+        "referencias": [
+          "50-015",
+          "50-017",
+          "50-028",
+          "50-034",
+          "50-038",
+          "50-073",
+          "50-074",
+          "50-075",
+          "50-076"
         ]
       }
     ]

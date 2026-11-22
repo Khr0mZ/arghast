@@ -1,6 +1,6 @@
 # Fechas de emisión y publicación
 
-La cronología utiliza 42 fechas documentadas en los avisos y 4 fechas asumidas tras el cotejo editorial. Xoltacan tiene fecha para sus 46 capítulos catalogados. Las fechas asumidas se identifican en este informe y conservan sus [estimaciones y fuentes de origen](ESTIMACIONES_EMISIONES.md).
+La cronología utiliza 46 fechas documentadas en los avisos y 4 fechas asumidas tras el cotejo editorial. Xoltacan tiene fecha para sus 50 capítulos catalogados. Las fechas asumidas se identifican en este informe y conservan sus [estimaciones y fuentes de origen](ESTIMACIONES_EMISIONES.md).
 
 Fechas civiles en Europe/Madrid. Twitch, publicación en YouTube, aviso de Discord y programación prevista se conservan separados. Aceptar el día no supone aceptar la hora programada como inicio real del rol. Véase el [cotejo de los calendarios](PROGRAMACION_TWITCH.md).
 
@@ -54,6 +54,10 @@ Fechas civiles en Europe/Madrid. Twitch, publicación en YouTube, aviso de Disco
 | 44 | Una cura para Eromov | [15/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1527010759236653109) | 01/11/2026 | Sin aviso localizado |
 | 45 | El escondite de los Profundos | [16/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1527375684333338644) | 03/11/2026 | Sin aviso localizado |
 | 46 | Camino perdido a Iktan | [23/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1529917702439698493) | 08/11/2026 | Sin aviso localizado |
+| 47 | Cadáveres | [24/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1530274670023278874) | 10/11/2026 | Sin aviso localizado |
+| 48 | Una Guarida Apestosa | [29/07/2026](https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216) | 15/11/2026 | Sin aviso localizado |
+| 49 | Buscando la Verdad | [06/08/2026](https://discord.com/channels/946724148628041748/946724149131378707/1534992858807926865) | 17/11/2026 | Sin aviso localizado |
+| 50 | Abastecimiento | [07/08/2026](https://discord.com/channels/946724148628041748/946724149131378707/1535348824992649227) | 22/11/2026 | Sin aviso localizado |
 
 ## Límites de las fuentes
 

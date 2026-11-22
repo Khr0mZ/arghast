@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-057](../capitulos/48.md), [48-058](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Se levantan por la retaguardia y los flancos
 

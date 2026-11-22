@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-069](../capitulos/42.md), [42-070](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La acusación contra Bonnie
 

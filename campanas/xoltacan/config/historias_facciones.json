@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 49,
+  "revisado_hasta": 50,
   "entidades": {
     "Cinco reyes piratas": [
       {
@@ -431,6 +431,14 @@
         "texto": "Kilzer llega cubierto de harapos tras sobrevivir en la jungla. Los guardias, ya cansados de los visitantes extraños, terminan dejándolo entrar. Su paso permite al refugiado reencontrarse con Patata y sumarse a una expedición nacida en la ciudad.",
         "referencias": [
           "49-007"
+        ]
+      },
+      {
+        "titulo": "Defender la ciudad tras el festival",
+        "texto": "Los guardias permiten la entrada a Oghma. Walulu cuenta luego que ha hecho regresar a muchos de los guardias que recorrían el contorno para reforzar la protección de los vecinos.",
+        "referencias": [
+          "50-004",
+          "50-013"
         ]
       }
     ]

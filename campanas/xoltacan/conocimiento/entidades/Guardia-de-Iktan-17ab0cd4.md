@@ -8,11 +8,11 @@ Función colectiva en testimonio de Walulu; sin nombres individuales, número o 
 
 Etiquetas agrupadas: Guardia de Iktan.
 
-Base para revisar equivalencia: [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-086](../capitulos/47.md), [49-007](../capitulos/49.md).
+Base para revisar equivalencia: [47-083](../capitulos/47.md), [47-084](../capitulos/47.md), [47-086](../capitulos/47.md), [49-007](../capitulos/49.md), [50-004](../capitulos/50.md), [50-013](../capitulos/50.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Defensa frente a la hueste y noticias de guaridas
 
@@ -25,6 +25,12 @@ Fuentes: [47-083 · La protección dracónica no detiene por sí sola a la huest
 Kilzer llega cubierto de harapos tras sobrevivir en la jungla. Los guardias, ya cansados de los visitantes extraños, terminan dejándolo entrar. Su paso permite al refugiado reencontrarse con Patata y sumarse a una expedición nacida en la ciudad.
 
 Fuentes: [49-007 · Los guardias dejan entrar a Kilzer en Iktan](../capitulos/49.md) · 00:04:43.840.
+
+### Defender la ciudad tras el festival
+
+Los guardias permiten la entrada a Oghma. Walulu cuenta luego que ha hecho regresar a muchos de los guardias que recorrían el contorno para reforzar la protección de los vecinos.
+
+Fuentes: [50-004 · Los guardias dejan entrar a Oghma](../capitulos/50.md) · 00:03:15.680 · [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919.
 
 ## Registros y evidencias
 
@@ -59,4 +65,20 @@ Tipo: `explicacion_director`.
 El director describe las ropas deterioradas y los campamentos de Kilzer, con el detalle cómico de un poblado próximo que no ha visto. Finalmente llega a Iktan: los guardias, cansados de visitantes extraños, le permiten pasar y él encuentra una vegetación más abundante y colorida que la jungla circundante.
 
 No se fija cuántos días duró el viaje ni se identifica por nombre el poblado de la viñeta anterior.
+
+## [50-004 · Los guardias dejan entrar a Oghma](../capitulos/50.md) · 00:03:15.680
+
+Tipo: `hecho_confirmado`.
+
+Un guardia lagarto y otro tabaxi intercambian un gesto resignado y dejan que Oghma pase. En las calles predominan los nativos, entre ellos numerosos tabaxis; también se ven humanos y elfos. La gente la saluda al pasar.
+
+El nombre ASR de otro grupo de habitantes es incierto.
+
+## [50-013 · Walulu ha llamado de vuelta a los guardias del contorno](../capitulos/50.md) · 00:18:06.919
+
+Tipo: `declaracion_personaje`.
+
+Tras el intento de los yuan-ti de envenenar a la población durante las festividades, Walulu ha reforzado las defensas de Iktan. Para ello ha tenido que hacer volver a muchos guardias que patrullaban los alrededores. Ahora necesita ingredientes de fuera.
+
+Se trata del informe de Walulu; no se atribuye el repliegue a otro ataque ni se establece que todo el contorno esté desguarnecido.
 

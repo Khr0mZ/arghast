@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-074](../capitulos/48.md), [48-076](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El brillo y las manos que las recuperan
 

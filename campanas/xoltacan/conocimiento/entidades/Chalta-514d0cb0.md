@@ -12,7 +12,7 @@ Base para revisar equivalencia: [19-003](../capitulos/19.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una intervención en Cuicapalli
 

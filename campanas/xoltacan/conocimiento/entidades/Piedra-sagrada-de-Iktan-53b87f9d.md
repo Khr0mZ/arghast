@@ -8,11 +8,11 @@ Su valor sagrado está documentado. No se demuestra que otorgue brazos astrales 
 
 Etiquetas agrupadas: Piedra sagrada de Iktan (asiento de Tortas).
 
-Base para revisar equivalencia: [40-008](../capitulos/40.md), [40-013](../capitulos/40.md), [40-042](../capitulos/40.md).
+Base para revisar equivalencia: [40-008](../capitulos/40.md), [40-013](../capitulos/40.md), [40-042](../capitulos/40.md), [50-002](../capitulos/50.md), [50-007](../capitulos/50.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El soporte del protector
 
@@ -67,4 +67,20 @@ Tipo: `hecho_confirmado`.
 Tortas protesta por el agua y escucha la invitación a Perlasal. La mesa aclara que los demás normalmente oyen burbujas cuando habla Chopito; el monje atribuye su respuesta a haber interpretado bien sus gestos. Tentacol transmite la propuesta de unirse y hacerse más fuertes. Tortas decide ir porque recuerda que Bigotitos tiene asuntos allí, sin comprometerse a adorar al pulpo, y comienza a bajar lentamente de la piedra.
 
 El intercambio no concede a todos comunicación telepática o habla con animales. La aceptación del viaje no confirma el culto solicitado por Chopito.
+
+## [50-002 · Tortas se suma al entrenamiento de la orilla](../capitulos/50.md) · 00:00:40.120
+
+Tipo: `declaracion_personaje`.
+
+Tortas cuenta que encontró a Naór e Ilikar entrenando junto al agua y se unió a ellos. Cuando los dos acabaron inconscientes en la orilla, el anciano volvió a meditar en su piedra.
+
+Recuerdo de Tortas, sin reconstrucción de las causas ni de la duración de la inconsciencia.
+
+## [50-007 · Tryel conduce a Oghma hasta la roca de Tortas](../capitulos/50.md) · 00:06:46.080
+
+Tipo: `hecho_confirmado`.
+
+La elfa atraviesa con su acompañante una zona donde el suelo parece muerto y algunas construcciones parecen derretidas. Al fondo está Tortas sobre su gran roca. Lo acompañan Tentacol y el pequeño pulpo que lleva en su frasco.
+
+La descripción del barrio no establece la causa de los daños.
 

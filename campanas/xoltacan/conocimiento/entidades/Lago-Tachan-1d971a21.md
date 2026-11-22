@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-012](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Corrientes entre Iktan y el mar
 

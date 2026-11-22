@@ -8,11 +8,11 @@ Conservar separado de una identificación arquitectónica o institucional autom�
 
 Etiquetas agrupadas: Colegio de Iktan.
 
-Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-064](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md).
+Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-064](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md), [50-016](../capitulos/50.md), [50-018](../capitulos/50.md), [50-080](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Las dos horas anteriores al viaje
 
@@ -37,6 +37,12 @@ Fuentes: [47-004 · Tesa lleva a Leo al colegio y reclama que vuelva su madre](.
 La sesión vuelve a su puerta después de la expedición de la cueva. Una mujer felina espera con libros y carpetas junto a Leo y se impacienta por la tardanza de Naór. La madre todavía corre por la jungla. No llegan a representarse la recogida, la conversación sobre el retraso o una reunión de madres.
 
 Fuentes: [48-120 · Naór deja la investigación para recoger a Leo](../capitulos/48.md) · 03:08:22.880 · [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840.
+
+### El saludo de Leo
+
+Tortas abre la puerta buscando a Walulu. La profesora Miausi indica a la clase que haga una reverencia, mientras Leo le saluda con la mano. Cuando el monje vuelve a equivocarse de puerta tras la expedición, los alumnos se inclinan por su cuenta.
+
+Fuentes: [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880 · [50-080 · Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu](../capitulos/50.md) · 02:08:24.800.
 
 ## Registros y evidencias
 
@@ -183,4 +189,28 @@ Tipo: `explicacion_director`.
 En la puerta del colegio de Iktan una mujer felina espera impaciente con libros y carpetas, acompañada por Leo. Dice que su madre volverá a llegar tarde. Al mismo tiempo Naór corre a toda prisa por la jungla, apartando ramas de su cara e insistiendo en que ya llega. La sesión termina antes del encuentro.
 
 La mujer no recibe nombre en este epílogo; no se la identifica automáticamente con Miaussy o Miausi. No se representa la entrega del colmillo, la recogida de Leo o una reunión de madres.
+
+## [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880
+
+Tipo: `hecho_confirmado`.
+
+De camino al templo, Tortas abre la puerta del colegio. La profesora Miausi le hace una reverencia y los niños la imitan. Leo es la excepción: le saluda con la mano y Tortas le devuelve el saludo antes de cerrar.
+
+La profesora no se identifica aquí como directora. La escena tampoco representa una reunión de madres.
+
+## [50-018 · Tryel enseña a Oghma el tatuaje de su brazo](../capitulos/50.md) · 00:23:43.000
+
+Tipo: `declaracion_personaje`.
+
+Mientras esperan a Tortas, Tryel señala a Oghma el herrero, el alquimista, el colegio y la taberna. Le muestra una camisa hecha en la ciudad y un tatuaje del brazo; dice que con el tatuaje intimida más y ensaya una cara furiosa.
+
+Se documentan la función que Tryel le atribuye y el gesto. No se realiza una tirada de intimidación ni se cifra una mejora.
+
+## [50-080 · Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu](../capitulos/50.md) · 02:08:24.800
+
+Tipo: `hecho_confirmado`.
+
+Al llegar, una pequeña capilla de piedra contrasta con las casas de madera. Tortas vuelve a equivocarse de puerta y abre la del colegio. Esta vez los niños la reconocen y se agachan sin esperar a la maestra. Ya ante Walulu, la expedición anuncia que trae savia y también malas noticias.
+
+Se conservan como destinos distintos la clase y la capilla.
 

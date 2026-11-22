@@ -12,7 +12,7 @@ Base para revisar equivalencia: [32-002](../capitulos/32.md), [33-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una recién llegada en plena guerra
 

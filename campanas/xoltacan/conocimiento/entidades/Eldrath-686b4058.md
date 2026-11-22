@@ -8,11 +8,11 @@ Yelber el Magnífico es un alias adoptado por Eldrat, no otro personaje. Nombre 
 
 Etiquetas agrupadas: Alias Yelber el Magnífico usado por Eldrat; Eldrat (elfo hermano, grafía provisional); Eldrat.
 
-Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-007](../capitulos/31.md), [47-067](../capitulos/47.md), [47-069](../capitulos/47.md), [47-072](../capitulos/47.md), [47-073](../capitulos/47.md), [47-076](../capitulos/47.md), [47-080](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-086](../capitulos/47.md), [48-002](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-029](../capitulos/48.md), [48-030](../capitulos/48.md), [48-031](../capitulos/48.md), [48-032](../capitulos/48.md), [48-037](../capitulos/48.md), [48-038](../capitulos/48.md), [48-039](../capitulos/48.md), [48-041](../capitulos/48.md), [48-043](../capitulos/48.md), [48-044](../capitulos/48.md), [48-049](../capitulos/48.md), [48-050](../capitulos/48.md), [48-053](../capitulos/48.md), [48-058](../capitulos/48.md), [48-062](../capitulos/48.md), [48-068](../capitulos/48.md), [48-070](../capitulos/48.md), [48-071](../capitulos/48.md), [48-074](../capitulos/48.md), [48-075](../capitulos/48.md), [48-076](../capitulos/48.md), [48-077](../capitulos/48.md), [48-078](../capitulos/48.md), [48-079](../capitulos/48.md), [48-086](../capitulos/48.md), [48-102](../capitulos/48.md), [48-109](../capitulos/48.md), [48-115](../capitulos/48.md), [48-116](../capitulos/48.md), [48-121](../capitulos/48.md), [48-120](../capitulos/48.md), [48-122](../capitulos/48.md), [48-123](../capitulos/48.md), [48-124](../capitulos/48.md), [48-125](../capitulos/48.md), [48-126](../capitulos/48.md), [48-128](../capitulos/48.md).
+Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-007](../capitulos/31.md), [47-067](../capitulos/47.md), [47-069](../capitulos/47.md), [47-072](../capitulos/47.md), [47-073](../capitulos/47.md), [47-076](../capitulos/47.md), [47-080](../capitulos/47.md), [47-082](../capitulos/47.md), [47-083](../capitulos/47.md), [47-086](../capitulos/47.md), [48-002](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-024](../capitulos/48.md), [48-025](../capitulos/48.md), [48-026](../capitulos/48.md), [48-028](../capitulos/48.md), [48-029](../capitulos/48.md), [48-030](../capitulos/48.md), [48-031](../capitulos/48.md), [48-032](../capitulos/48.md), [48-037](../capitulos/48.md), [48-038](../capitulos/48.md), [48-039](../capitulos/48.md), [48-041](../capitulos/48.md), [48-043](../capitulos/48.md), [48-044](../capitulos/48.md), [48-049](../capitulos/48.md), [48-050](../capitulos/48.md), [48-053](../capitulos/48.md), [48-058](../capitulos/48.md), [48-062](../capitulos/48.md), [48-068](../capitulos/48.md), [48-070](../capitulos/48.md), [48-071](../capitulos/48.md), [48-074](../capitulos/48.md), [48-075](../capitulos/48.md), [48-076](../capitulos/48.md), [48-077](../capitulos/48.md), [48-078](../capitulos/48.md), [48-079](../capitulos/48.md), [48-086](../capitulos/48.md), [48-102](../capitulos/48.md), [48-109](../capitulos/48.md), [48-115](../capitulos/48.md), [48-116](../capitulos/48.md), [48-121](../capitulos/48.md), [48-120](../capitulos/48.md), [48-122](../capitulos/48.md), [48-123](../capitulos/48.md), [48-124](../capitulos/48.md), [48-125](../capitulos/48.md), [48-126](../capitulos/48.md), [48-128](../capitulos/48.md), [50-009](../capitulos/50.md), [50-020](../capitulos/50.md), [50-071](../capitulos/50.md), [50-079](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Dos hermanos acostumbrados a sobrevivir juntos
 
@@ -1533,4 +1533,36 @@ Tipo: `declaracion_personaje`.
 Patata recapitula su llegada a Iktan después de encontrarse con muertos controlados por una especie de dragón verde. Recuerda que le pidió llevar a los elfos al bosque. Aunque no le caen bien, no quiere que mueran; dice haber dado vueltas por Iktan sin encontrarlos.
 
 Recapitulación de la amenaza, no un nuevo encuentro con el dragón ni prueba de que los hermanos hayan sido entregados.
+
+## [50-009 · Tryel explica por qué su hermano lleva el dinero](../capitulos/50.md) · 00:09:15.040
+
+Tipo: `declaracion_personaje`.
+
+Presentada a los dos compañeros y a Tortas, Oghma pregunta por un conde y admite que necesita dinero para cerveza. Tryel explica que pierde o regala sus monedas y que por eso su hermano las lleva por ella. El grupo se ofrece a ayudar a la recién llegada a buscar a sus supuestos primos.
+
+Lo que se sabe de la administración del dinero procede de Tryel. El conde no aparece.
+
+## [50-020 · Tryel sabe por Tesara que el dragón busca a los hermanos](../capitulos/50.md) · 00:26:25.440
+
+Tipo: `declaracion_personaje`.
+
+Tryel tranquiliza a Oghma asegurándole que el dragón del bosque busca únicamente a su hermano y a ella. Cuando Tortas vuelve y le pregunta de dónde sale la advertencia, responde que se lo dijo Tesara, a quien describe por su pelo azul y por el disparo que hizo a Eldrath.
+
+Información transmitida por Tryel: el dragón no se presenta en este encuentro.
+
+## [50-071 · Tryel acaba con la resistencia junto al árbol](../capitulos/50.md) · 01:55:52.719
+
+Tipo: `hecho_confirmado`.
+
+Tryel confiesa que suele hacer solo dos sentadillas porque se aburre, mientras que Eldrath se pasa el día entrenando. Sigue pinchando la planta hasta que termina el combate. Los compañeros quedan frente al árbol que han venido a buscar, aparentemente podrido del todo.
+
+El entrenamiento de Eldrath procede de su hermana. El aspecto exterior todavía no descarta que quede una rama viva.
+
+## [50-079 · Tryel vuelve a Iktan sin que el grupo perciba al dragón](../capitulos/50.md) · 02:06:29.760
+
+Tipo: `explicacion_director`.
+
+En la vuelta a Iktan no perciben que el dragón verde los aceche, aunque Tryel los acompaña. El director recuerda que en encuentros previos demostró sigilo y la capacidad de hacerse invisible. El grupo llega a la ciudad sin sufrir un ataque. Tryel explica que Eldrath guarda su dinero porque suele perderlo.
+
+No sentir al dragón no demuestra su ausencia ni el fin del ultimátum. Lo que hace con el dinero depende del testimonio de Tryel.
 

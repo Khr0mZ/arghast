@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 49,
+  "revisado_hasta": 50,
   "preguntas": [
     {
       "id": "P48-001",
@@ -8,7 +8,7 @@
       "indice": 1,
       "pregunta": "¿Cómo funciona el ritual protector de Iktan y cuáles son sus límites precisos? (48-010–48-011).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Tesara conoce su finalidad general, pero carece de la capacidad mágica necesaria para comprenderlo por entero. No recibe una fórmula reproducible.",
       "referencias": [
         "48-010",
@@ -22,7 +22,7 @@
       "indice": 2,
       "pregunta": "¿Se completará el tatuaje de Eldrath y qué efecto tiene llevarlo a medias? (48-026, 48-028, 48-030).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Naór interrumpe al minotauro y se lleva a Eldrath cuando solo ha dibujado la mitad. No se describe una facultad adquirida.",
       "referencias": [
         "48-026",
@@ -37,11 +37,12 @@
       "indice": 3,
       "pregunta": "¿Quiénes son los clientes que Eldrath toma por piratas de Shiaru y qué relación tienen con Molly? (48-006, 48-017).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
-      "respuesta": "Eldrath sospecha por su apariencia y Molly está próxima a ellos. No se identifican sus nombres, afiliación o participación en la ocupación.",
+      "revisado_hasta": 50,
+      "respuesta": "Eldrath sospecha por su apariencia y Molly está próxima a ellos. No se identifican sus nombres, afiliación o participación en la ocupación. Oghma y Tryel ven en la taberna de Angelique una mesa de aspecto pirata con tres hipopótamos, un hombre perro y un hombre con un ojo perdido y otro rasgado. La descripción permite cotejar rasgos, pero no nombra a los clientes ni acredita que sean exactamente quienes vio Eldrath o su relación con Molly.",
       "referencias": [
         "48-006",
-        "48-017"
+        "48-017",
+        "50-092"
       ],
       "pendiente": "La identidad y afiliación de los clientes y su relación concreta con Molly."
     },
@@ -51,7 +52,7 @@
       "indice": 4,
       "pregunta": "¿Quién anima a los muertos de la cueva y qué relación tiene con la magia que se disipa? (48-104, 48-117, 48-119, 48-124).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Los esqueletos despiertan durante la lucha con la serpiente. Tesara no encuentra marcas; el director distingue la huella mágica dracónica del veneno de las pozas.",
       "referencias": [
         "48-104",
@@ -68,7 +69,7 @@
       "indice": 5,
       "pregunta": "¿Servirán las muestras de la cueva para preparar una defensa eficaz contra el dragón verde? (48-125–48-127).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Eldrath y Tesara recogen veneno de las pozas. Coyote obtiene el suyo del colmillo restante. Son materiales para futuras preparaciones, sin receta o ensayo.",
       "referencias": [
         "48-125",
@@ -83,7 +84,7 @@
       "indice": 6,
       "pregunta": "¿Qué valor, procedencia y destino tendrán los objetos recuperados del tesoro? (48-087, 48-092, 48-097, 48-121).",
       "estado": "pendiente",
-      "revisado_hasta": 49,
+      "revisado_hasta": 50,
       "respuesta": "Hay piezas corroídas y otras conservadas. Tesara guarda un collar y los compañeros continúan registrando; no se valora el conjunto ni se entrega una joya a Angelique.",
       "referencias": [
         "48-087",

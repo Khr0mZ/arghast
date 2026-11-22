@@ -8,11 +8,11 @@ Naór se presenta hija del mismo Camar y princesa de Atlan; Atlat es variante. N
 
 Etiquetas agrupadas: Atlan (reino leonino); Atlan (reino leonino, grafía provisional); Atlan / Atlat (reino leonino, grafía provisional).
 
-Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitulos/17.md), [20-004](../capitulos/20.md), [31-024](../capitulos/31.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md).
+Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitulos/17.md), [20-004](../capitulos/20.md), [31-024](../capitulos/31.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [50-085](../capitulos/50.md), [50-087](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El reino del que parte la convocatoria
 
@@ -159,4 +159,20 @@ Tipo: `declaracion_personaje`.
 Antes de internarse, Tesara se cubre la boca con un pañuelo por el hedor. Se plantea enviar un emisario a Atlan para que venga un ejército y acabe con el dragón, mientras continúa la entrada en la cueva.
 
 No se identifica con certeza la voz que propone el emisario ni se representa que alguien lo envíe. No llegan tropas ni se activa una alianza militar por esta sugerencia.
+
+## [50-085 · Walulu quiere consultar a Naór y a los dirigentes](../capitulos/50.md) · 02:14:15.000
+
+Tipo: `declaracion_personaje`.
+
+Walulu explica que en ese momento no necesita otro servicio. Hablará con los líderes, quizá vuelva a avisar a los viajeros y debe consultar también a Naór, la enviada encargada de hablar con los clanes. Ante el interés de Oghma por la princesa de Atlan, levanta un poco la máscara y se ve que es humana. Menciona en voz baja el temperamento bastante bárbaro de Naór.
+
+El episodio no muestra esa consulta ni una reunión acordada. «Bigotitos» se refiere aquí a Naór.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
 

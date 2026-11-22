@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-036](../capitulos/49.md), [49-037](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Cenizas que no exigen encender una ceremonia
 

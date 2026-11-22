@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-008](../capitulos/08.md), [08-016](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una expedición tras el relato de un superviviente
 

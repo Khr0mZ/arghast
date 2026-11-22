@@ -8,11 +8,11 @@ Líder elefante de Cuicapalli, distintas variantes de reconocimiento no crean l�
 
 Etiquetas agrupadas: Eromov (líder de Cuicapalli, grafía provisional).
 
-Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitulos/30.md), [30-004](../capitulos/30.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-037](../capitulos/44.md), [44-056](../capitulos/44.md).
+Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitulos/30.md), [30-004](../capitulos/30.md), [44-008](../capitulos/44.md), [44-009](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-037](../capitulos/44.md), [44-056](../capitulos/44.md), [50-087](../capitulos/50.md), [50-088](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El dirigente que abre Cuicapalli a los viajeros
 
@@ -341,4 +341,20 @@ Tipo: `hecho_confirmado`.
 El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
 
 Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
 

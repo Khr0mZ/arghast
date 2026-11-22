@@ -1,5 +1,11 @@
 # Método de reconstrucción
 
+## Incorporación de Abastecimiento
+
+Tres lecturas consecutivas cubren los 3.101 segmentos del VTT original español. De ellas proceden las 94 evidencias del capítulo 50. Cada cita conserva su intervalo y la entrada exacta del subtítulo. La ficha distingue las conversaciones que Oghma presencia de la reunión privada entre Tortas y Walulu. [Registro de revisión](../revision/fuente_xoltacan_50.json).
+
+La confirmación del usuario permite utilizar el aviso del 7 de agosto pese a que repite el título del día anterior. Se conserva esa rotulación original y se usa la hora de la tarjeta para estimar el corte de ordenación. La revisión coteja los 88 mensajes de la conversación que atraviesa el corte y los mantiene en su orden. [Continuidad entre las sesiones](continuidad_50.md).
+
 ## Incorporación del capítulo 48
 
 Lectura íntegra de 4.697 segmentos en tres bloques sin solapamiento: 129 evidencias y 23 etapas. Se cotejan las 295 preguntas previas y se añaden seis. La [procedencia](../revision/fuente_xoltacan_48.json) conserva cinco hashes; el audio no está cotejado. La investigación histórica mantiene la diferencia entre el testimonio de Walulu y la atribución posterior de Tesara, sin imponer una identidad al atacante antiguo.

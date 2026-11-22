@@ -312,6 +312,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 00:28:19.200: Tesara reclama a Naór por los tres días al cuidado de Leo ([48-022](capitulos/48.md)).
 - Cap. 49, 00:06:24.120: Los Miaullidos y su encargada tabaxi ([49-008](capitulos/49.md)).
 - Cap. 49, 00:25:53.640: Preparativos de ropa y una moneda perdida ([49-019](capitulos/49.md)).
+- Cap. 50, 00:04:24.840: Oghma encuentra a una elfa en la puerta de la taberna ([50-005](capitulos/50.md)).
+- Cap. 50, 02:15:45.719: Walulu recomienda la taberna de Angelique ([50-086](capitulos/50.md)).
+- Cap. 50, 02:19:59.040: Tryel presenta a Oghma en Los Miaullidos de Angelique ([50-090](capitulos/50.md)).
+- Cap. 50, 02:21:15.800: Oghma se anuncia como emisaria de un conde ([50-091](capitulos/50.md)).
+- Cap. 50, 02:22:05.000: Una habitación reservada y vino por una futura presentación ([50-092](capitulos/50.md)).
+- Cap. 50, 02:23:30.240: El sello de Oghma da apariencia oficial a los gastos ([50-093](capitulos/50.md)).
 
 ## Angélica Thunder
 
@@ -365,6 +371,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:08:31.120: Ivet admite a la princesa de Atlan en el templo de coral ([45-075](capitulos/45.md)).
 - Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 - Cap. 48, 01:04:06.720: Cubrirse del hedor y proponer tropas de Atlan ([48-045](capitulos/48.md)).
+- Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
 
 ## Axi
 
@@ -1084,6 +1092,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 29, 00:00:00.000: Trampas reforzadas y casino aún cerrado ([29-001](capitulos/29.md)).
 - Cap. 49, 00:02:18.879: Kilzer presenció la guerra y la llegada de otros piratas ([49-004](capitulos/49.md)).
 - Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
+- Cap. 50, 00:13:07.959: Los «primos» podrían estar en la taberna ([50-011](capitulos/50.md)).
 
 ## Cañón tomado por Lunaria
 
@@ -1183,6 +1192,19 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
 - Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 50, 00:00:23.800: Tenta recuerda la espera con Chopito ([50-001](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
+- Cap. 50, 00:08:00.520: Chopito prueba el camino de la paciencia ([50-008](capitulos/50.md)).
+- Cap. 50, 00:09:15.040: Tryel explica por qué su hermano lleva el dinero ([50-009](capitulos/50.md)).
+- Cap. 50, 00:11:13.240: Oghma se presenta y le hace una reverencia a Chopito ([50-010](capitulos/50.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 00:28:13.880: Chopito propone disfrazar a Tryel para salir al bosque ([50-021](capitulos/50.md)).
+- Cap. 50, 00:29:29.760: Oghma, Tryel y Chopito completan el disfraz ([50-022](capitulos/50.md)).
+- Cap. 50, 00:41:01.280: La isla hace inclinarse a Tortas, Tentacol y Chopito ([50-030](capitulos/50.md)).
+- Cap. 50, 00:49:30.680: Oghma mete la mano en la secreción ([50-035](capitulos/50.md)).
+- Cap. 50, 00:51:04.559: La explicación de Chopito depende de quién pueda entenderlo ([50-036](capitulos/50.md)).
+- Cap. 50, 02:03:02.040: La expedición decide llevar a Walulu la escasa muestra ([50-077](capitulos/50.md)).
+- Cap. 50, 02:24:31.760: Tentacol y Chopito regresan al agua; Tortas, a la roca ([50-094](capitulos/50.md)).
 
 ## Cinco reyes piratas
 
@@ -1588,6 +1610,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:18:45.600: Eldrath llena su cantimplora de veneno ([48-125](capitulos/48.md)).
 - Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
 - Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
+- Cap. 50, 00:26:25.440: Tryel sabe por Tesara que el dragón busca a los hermanos ([50-020](capitulos/50.md)).
+- Cap. 50, 00:28:13.880: Chopito propone disfrazar a Tryel para salir al bosque ([50-021](capitulos/50.md)).
+- Cap. 50, 02:04:52.880: Una búsqueda de «tontos» y un disfraz que incomoda ([50-078](capitulos/50.md)).
+- Cap. 50, 02:06:29.760: Tryel vuelve a Iktan sin que el grupo perciba al dragón ([50-079](capitulos/50.md)).
+- Cap. 50, 02:10:55.840: El olor a muerte del árbol difiere de los venenos conocidos ([50-082](capitulos/50.md)).
+- Cap. 50, 02:19:08.080: Walulu no puede identificar una tercera amenaza ([50-089](capitulos/50.md)).
 
 ## Colegio de Iktan
 
@@ -1609,6 +1637,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 02:10:40.119: La recogida de Leo impide hacer un descanso corto ([48-080](capitulos/48.md)).
 - Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
 - Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
+- Cap. 50, 00:22:13.880: Leo saluda a Tortas desde el colegio ([50-016](capitulos/50.md)).
+- Cap. 50, 00:23:43.000: Tryel enseña a Oghma el tatuaje de su brazo ([50-018](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
 
 ## Collar antiguo de oro con gemas
 
@@ -1981,6 +2012,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:41:12.400: El herrero exige que Ayoto lleve el material a la tienda ([44-051](capitulos/44.md)).
 - Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
 - Cap. 46, 01:50:32.080: Citlali reconoce el camino y el grupo llega a Iktan ([46-052](capitulos/46.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 
 ## Devorafango
 
@@ -2117,6 +2151,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
 - Cap. 49, 00:10:39.839: El reencuentro de Kilzer y Patata termina con una cerveza ([49-010](capitulos/49.md)).
 - Cap. 49, 00:13:57.639: Molly reúne a los viajeros y Patata intenta incluir a Kilzer ([49-011](capitulos/49.md)).
+- Cap. 50, 00:04:24.840: Oghma encuentra a una elfa en la puerta de la taberna ([50-005](capitulos/50.md)).
+- Cap. 50, 02:15:45.719: Walulu recomienda la taberna de Angelique ([50-086](capitulos/50.md)).
+- Cap. 50, 02:19:59.040: Tryel presenta a Oghma en Los Miaullidos de Angelique ([50-090](capitulos/50.md)).
+- Cap. 50, 02:22:05.000: Una habitación reservada y vino por una futura presentación ([50-092](capitulos/50.md)).
+- Cap. 50, 02:23:30.240: El sello de Oghma da apariencia oficial a los gastos ([50-093](capitulos/50.md)).
 
 ## Eldrath
 
@@ -2300,6 +2339,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 - Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
+- Cap. 50, 00:09:15.040: Tryel explica por qué su hermano lleva el dinero ([50-009](capitulos/50.md)).
+- Cap. 50, 00:26:25.440: Tryel sabe por Tesara que el dragón busca a los hermanos ([50-020](capitulos/50.md)).
+- Cap. 50, 01:55:52.719: Tryel acaba con la resistencia junto al árbol ([50-071](capitulos/50.md)).
+- Cap. 50, 02:06:29.760: Tryel vuelve a Iktan sin que el grupo perciba al dragón ([50-079](capitulos/50.md)).
 
 ## Eleanor
 
@@ -2640,6 +2683,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 00:20:54.760: Leona recluta a Ayoto y Tlachka para buscar las espinas ([44-012](capitulos/44.md)).
 - Cap. 44, 01:13:10.880: Leona arranca una espina recordando a Eromov ([44-037](capitulos/44.md)).
 - Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 
 ## Escondite de los Profundos
 
@@ -2667,6 +2712,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 14, 00:03:15.000: Cocodrilo alimentado y panteras derrotadas por los hermanos ([14-002](capitulos/14.md)).
 - Cap. 15, 00:31:00.000: La espada de Triel tiene escamas de dragón azul ([15-006](capitulos/15.md)).
 - Cap. 40, 01:37:01.719: Triel imita las patadas de Tortas e Ilikar mantiene la presión ([40-023](capitulos/40.md)).
+
+## Espada invocada de Oghma
+
+- Cap. 50, 00:57:02.280: La raíz destruye la figura que ocupaba el lugar de Oghma ([50-040](capitulos/50.md)).
+- Cap. 50, 01:07:41.799: De la espada de Oghma salen dos rayos ([50-045](capitulos/50.md)).
+- Cap. 50, 01:16:20.600: Los golpes del eco de Oghma abren el saco y caen seis zombis ([50-050](capitulos/50.md)).
+- Cap. 50, 01:44:04.280: Oghma supera el efecto que la había tumbado y dispara desde el suelo ([50-064](capitulos/50.md)).
+- Cap. 50, 01:51:11.639: Oghma cambia de sitio con su eco y parte en dos a un zombi ([50-068](capitulos/50.md)).
 
 ## Espinas del Devorafango
 
@@ -2808,6 +2861,30 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 42, 00:15:43.480: Ione promete proteger a Jack y le confía su gorro ([42-008](capitulos/42.md)).
 
+## Gran Árbol Anciano
+
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 00:20:07.559: Tortas recuerda la plantación del árbol ([50-015](capitulos/50.md)).
+- Cap. 50, 00:22:50.480: Walulu confirma que el árbol está al noroeste ([50-017](capitulos/50.md)).
+- Cap. 50, 00:34:45.440: Tortas guía al grupo y Tryel cambia la piedra por fruta ([50-025](capitulos/50.md)).
+- Cap. 50, 00:37:57.880: El Gran Árbol Anciano ocupa un islote rodeado de agua ([50-028](capitulos/50.md)).
+- Cap. 50, 00:39:18.160: Tortas encuentra rastros de algo que se arrastraba ([50-029](capitulos/50.md)).
+- Cap. 50, 00:41:01.280: La isla hace inclinarse a Tortas, Tentacol y Chopito ([50-030](capitulos/50.md)).
+- Cap. 50, 00:43:42.839: Oghma percibe un olor a muerte en el árbol ([50-031](capitulos/50.md)).
+- Cap. 50, 00:44:55.359: Tortas reconoce el olor de cadáveres en descomposición ([50-032](capitulos/50.md)).
+- Cap. 50, 00:46:14.240: Una rama se retrae y la madera cruje bajo las raíces ([50-033](capitulos/50.md)).
+- Cap. 50, 00:47:50.240: La herida del tronco exuda un líquido negro ([50-034](capitulos/50.md)).
+- Cap. 50, 00:49:30.680: Oghma mete la mano en la secreción ([50-035](capitulos/50.md)).
+- Cap. 50, 00:51:48.040: Varias raíces rodean el árbol y cada cual busca una salida ([50-037](capitulos/50.md)).
+- Cap. 50, 01:55:52.719: Tryel acaba con la resistencia junto al árbol ([50-071](capitulos/50.md)).
+- Cap. 50, 01:58:11.520: Entre los huesos del árbol solo asoma líquido negro ([50-073](capitulos/50.md)).
+- Cap. 50, 01:59:28.679: El corte de Tentacol en la corteza rezuma el mismo líquido oscuro ([50-074](capitulos/50.md)).
+- Cap. 50, 02:00:39.520: Una rama alta conserva una porción viva ([50-075](capitulos/50.md)).
+- Cap. 50, 02:01:55.679: Tortas recoge un poco de savia en una cantimplora ([50-076](capitulos/50.md)).
+- Cap. 50, 02:09:38.280: La expedición cuenta a Walulu lo que encontró bajo el árbol ([50-081](capitulos/50.md)).
+- Cap. 50, 02:10:55.840: El olor a muerte del árbol difiere de los venenos conocidos ([50-082](capitulos/50.md)).
+- Cap. 50, 02:19:08.080: Walulu no puede identificar una tercera amenaza ([50-089](capitulos/50.md)).
+
 ## Granja de Patata
 
 - Cap. 15, 00:07:00.000: Granja de Patata y dos piratas arrastrados ([15-003](capitulos/15.md)).
@@ -2824,6 +2901,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:12:14.719: Walulu informa de varias guaridas dispersas ([47-084](capitulos/47.md)).
 - Cap. 47, 02:13:42.840: El felino prefiere entregar a los elfos y Walulu los acoge ([47-086](capitulos/47.md)).
 - Cap. 49, 00:04:43.840: Los guardias dejan entrar a Kilzer en Iktan ([49-007](capitulos/49.md)).
+- Cap. 50, 00:03:15.680: Los guardias dejan entrar a Oghma ([50-004](capitulos/50.md)).
+- Cap. 50, 00:18:06.919: Walulu ha llamado de vuelta a los guardias del contorno ([50-013](capitulos/50.md)).
 
 ## Guayacán
 
@@ -3076,6 +3155,24 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
 - Cap. 49, 00:25:53.640: Preparativos de ropa y una moneda perdida ([49-019](capitulos/49.md)).
 - Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
+- Cap. 50, 00:01:28.079: Una viajera llega a Iktan en busca de dinero y cerveza ([50-003](capitulos/50.md)).
+- Cap. 50, 00:03:15.680: Los guardias dejan entrar a Oghma ([50-004](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
+- Cap. 50, 00:15:49.480: Walulu solicita la ayuda del Gran Anciano ([50-012](capitulos/50.md)).
+- Cap. 50, 00:18:06.919: Walulu ha llamado de vuelta a los guardias del contorno ([50-013](capitulos/50.md)).
+- Cap. 50, 00:20:07.559: Tortas recuerda la plantación del árbol ([50-015](capitulos/50.md)).
+- Cap. 50, 00:22:50.480: Walulu confirma que el árbol está al noroeste ([50-017](capitulos/50.md)).
+- Cap. 50, 00:23:43.000: Tryel enseña a Oghma el tatuaje de su brazo ([50-018](capitulos/50.md)).
+- Cap. 50, 00:33:19.440: Oghma manifiesta un eco al salir de Iktan ([50-024](capitulos/50.md)).
+- Cap. 50, 00:37:57.880: El Gran Árbol Anciano ocupa un islote rodeado de agua ([50-028](capitulos/50.md)).
+- Cap. 50, 02:06:29.760: Tryel vuelve a Iktan sin que el grupo perciba al dragón ([50-079](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
+- Cap. 50, 02:11:32.280: Walulu guarda la muestra bajo el altar ([50-083](capitulos/50.md)).
+- Cap. 50, 02:12:13.159: Walulu reparte donaciones del templo ([50-084](capitulos/50.md)).
+- Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:19:59.040: Tryel presenta a Oghma en Los Miaullidos de Angelique ([50-090](capitulos/50.md)).
+- Cap. 50, 02:24:31.760: Tentacol y Chopito regresan al agua; Tortas, a la roca ([50-094](capitulos/50.md)).
 
 ## Ilikar
 
@@ -3144,6 +3241,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
+- Cap. 50, 00:00:40.120: Tortas se suma al entrenamiento de la orilla ([50-002](capitulos/50.md)).
 
 ## Infiltrada serpiente del festival de Iktan
 
@@ -3563,6 +3661,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 03:10:25.239: Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan ([45-076](capitulos/45.md)).
 - Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
 - Cap. 45, 03:14:57.200: La audiencia acaba entre salmos y la curiosidad de Triel ([45-078](capitulos/45.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 
 ## Jack
 
@@ -3898,6 +3997,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
 - Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
 - Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
+- Cap. 50, 00:13:07.959: Los «primos» podrían estar en la taberna ([50-011](capitulos/50.md)).
 
 ## La Madriguera
 
@@ -3977,6 +4077,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:06:51.880: Naór conserva un colmillo para Leo ([48-118](capitulos/48.md)).
 - Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
 - Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
+- Cap. 50, 00:22:13.880: Leo saluda a Tortas desde el colegio ([50-016](capitulos/50.md)).
 
 ## Leona
 
@@ -4093,6 +4194,35 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:43:32.159: Leona y Guayacán priorizan descansar y comer ([44-052](capitulos/44.md)).
 - Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
 - Cap. 44, 01:53:33.719: El remedio de Parroter reduce las venas negras de Eromov ([44-056](capitulos/44.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+
+## Lianas y zombis del Gran Árbol Anciano
+
+- Cap. 50, 01:09:35.199: La planta expulsa un primer zombi antes de morir ([50-046](capitulos/50.md)).
+- Cap. 50, 01:12:27.840: Tortas aturde al zombi que tiene al flanco ([50-048](capitulos/50.md)).
+- Cap. 50, 01:16:20.600: Los golpes del eco de Oghma abren el saco y caen seis zombis ([50-050](capitulos/50.md)).
+- Cap. 50, 01:18:34.480: Las lianas alcanzan a Tentacol pese a la oscuridad ([50-051](capitulos/50.md)).
+- Cap. 50, 01:20:34.280: Tentacol incapacita a la liana y se suelta ([50-052](capitulos/50.md)).
+- Cap. 50, 01:22:59.480: Tortas recibe a un zombi con un saludo ([50-053](capitulos/50.md)).
+- Cap. 50, 01:26:59.800: Oghma cubre a Tryel y un zombi desprende polvo verde ([50-055](capitulos/50.md)).
+- Cap. 50, 01:29:18.760: Tortas resiste el olor que desprenden los zombis ([50-056](capitulos/50.md)).
+- Cap. 50, 01:31:31.280: Un zombi cae de cabeza dentro de otra planta ([50-057](capitulos/50.md)).
+- Cap. 50, 01:33:02.159: Los puños de Tortas abaten a dos zombis ([50-058](capitulos/50.md)).
+- Cap. 50, 01:34:55.360: Oghma pierde el sentido y su eco desaparece ([50-059](capitulos/50.md)).
+- Cap. 50, 01:36:03.360: El golpe despierta a Oghma y el tentáculo amortigua el daño ([50-060](capitulos/50.md)).
+- Cap. 50, 01:37:35.280: Los disparos abren distancia entre las plantas y sus presas ([50-061](capitulos/50.md)).
+- Cap. 50, 01:39:55.719: Los brazos astrales rompen la presa de Tortas ([50-062](capitulos/50.md)).
+- Cap. 50, 01:42:06.320: Tryel despierta al recibir un golpe y destroza al zombi ([50-063](capitulos/50.md)).
+- Cap. 50, 01:44:04.280: Oghma supera el efecto que la había tumbado y dispara desde el suelo ([50-064](capitulos/50.md)).
+- Cap. 50, 01:45:44.599: Tryel interviene cuando una raíz vuelve a buscar a Tortas ([50-065](capitulos/50.md)).
+- Cap. 50, 01:48:09.199: Tortas carga contra la planta y esta resiste ([50-066](capitulos/50.md)).
+- Cap. 50, 01:49:36.719: Tryel deja a Oghma defenderse y enseña sus patadas ([50-067](capitulos/50.md)).
+- Cap. 50, 01:51:11.639: Oghma cambia de sitio con su eco y parte en dos a un zombi ([50-068](capitulos/50.md)).
+- Cap. 50, 01:52:44.679: Los disparos de Tentacol hunden una planta ([50-069](capitulos/50.md)).
+- Cap. 50, 01:54:15.000: Una lección de sentadillas en plena pelea ([50-070](capitulos/50.md)).
+- Cap. 50, 01:55:52.719: Tryel acaba con la resistencia junto al árbol ([50-071](capitulos/50.md)).
+- Cap. 50, 01:58:11.520: Entre los huesos del árbol solo asoma líquido negro ([50-073](capitulos/50.md)).
+- Cap. 50, 02:09:38.280: La expedición cuenta a Walulu lo que encontró bajo el árbol ([50-081](capitulos/50.md)).
 
 ## Libro histórico mostrado por Walulu
 
@@ -4304,6 +4434,69 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:05:47.159: Eleanor comprueba que Erandy está en la taberna ([46-058](capitulos/46.md)).
+
+## Madame Oghma
+
+- Cap. 50, 00:01:28.079: Una viajera llega a Iktan en busca de dinero y cerveza ([50-003](capitulos/50.md)).
+- Cap. 50, 00:03:15.680: Los guardias dejan entrar a Oghma ([50-004](capitulos/50.md)).
+- Cap. 50, 00:04:24.840: Oghma encuentra a una elfa en la puerta de la taberna ([50-005](capitulos/50.md)).
+- Cap. 50, 00:05:42.440: Tryel confunde los «primos» que busca Oghma con parientes ([50-006](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
+- Cap. 50, 00:09:15.040: Tryel explica por qué su hermano lleva el dinero ([50-009](capitulos/50.md)).
+- Cap. 50, 00:11:13.240: Oghma se presenta y le hace una reverencia a Chopito ([50-010](capitulos/50.md)).
+- Cap. 50, 00:13:07.959: Los «primos» podrían estar en la taberna ([50-011](capitulos/50.md)).
+- Cap. 50, 00:15:49.480: Walulu solicita la ayuda del Gran Anciano ([50-012](capitulos/50.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 00:23:43.000: Tryel enseña a Oghma el tatuaje de su brazo ([50-018](capitulos/50.md)).
+- Cap. 50, 00:25:03.399: Oghma se presenta como emisaria de un conde ([50-019](capitulos/50.md)).
+- Cap. 50, 00:26:25.440: Tryel sabe por Tesara que el dragón busca a los hermanos ([50-020](capitulos/50.md)).
+- Cap. 50, 00:29:29.760: Oghma, Tryel y Chopito completan el disfraz ([50-022](capitulos/50.md)).
+- Cap. 50, 00:32:20.320: Una piedra con sabor a fresa mantiene entretenida a Tryel ([50-023](capitulos/50.md)).
+- Cap. 50, 00:33:19.440: Oghma manifiesta un eco al salir de Iktan ([50-024](capitulos/50.md)).
+- Cap. 50, 00:34:45.440: Tortas guía al grupo y Tryel cambia la piedra por fruta ([50-025](capitulos/50.md)).
+- Cap. 50, 00:36:00.359: La fruta rehace los dientes de Oghma y permite a Tryel planear ([50-026](capitulos/50.md)).
+- Cap. 50, 00:37:02.480: Tortas adquiere una cola prensil y Tentacol, savia curativa ([50-027](capitulos/50.md)).
+- Cap. 50, 00:37:57.880: El Gran Árbol Anciano ocupa un islote rodeado de agua ([50-028](capitulos/50.md)).
+- Cap. 50, 00:39:18.160: Tortas encuentra rastros de algo que se arrastraba ([50-029](capitulos/50.md)).
+- Cap. 50, 00:43:42.839: Oghma percibe un olor a muerte en el árbol ([50-031](capitulos/50.md)).
+- Cap. 50, 00:44:55.359: Tortas reconoce el olor de cadáveres en descomposición ([50-032](capitulos/50.md)).
+- Cap. 50, 00:46:14.240: Una rama se retrae y la madera cruje bajo las raíces ([50-033](capitulos/50.md)).
+- Cap. 50, 00:47:50.240: La herida del tronco exuda un líquido negro ([50-034](capitulos/50.md)).
+- Cap. 50, 00:49:30.680: Oghma mete la mano en la secreción ([50-035](capitulos/50.md)).
+- Cap. 50, 00:51:04.559: La explicación de Chopito depende de quién pueda entenderlo ([50-036](capitulos/50.md)).
+- Cap. 50, 00:51:48.040: Varias raíces rodean el árbol y cada cual busca una salida ([50-037](capitulos/50.md)).
+- Cap. 50, 00:53:45.480: Del hueco sale una planta repleta de cuerpos ([50-038](capitulos/50.md)).
+- Cap. 50, 00:55:55.359: Tryel activa su foco antes de ponerse junto a Oghma ([50-039](capitulos/50.md)).
+- Cap. 50, 00:57:02.280: La raíz destruye la figura que ocupaba el lugar de Oghma ([50-040](capitulos/50.md)).
+- Cap. 50, 01:07:41.799: De la espada de Oghma salen dos rayos ([50-045](capitulos/50.md)).
+- Cap. 50, 01:09:35.199: La planta expulsa un primer zombi antes de morir ([50-046](capitulos/50.md)).
+- Cap. 50, 01:15:00.360: El hedor hace vomitar a Tryel ([50-049](capitulos/50.md)).
+- Cap. 50, 01:16:20.600: Los golpes del eco de Oghma abren el saco y caen seis zombis ([50-050](capitulos/50.md)).
+- Cap. 50, 01:18:34.480: Las lianas alcanzan a Tentacol pese a la oscuridad ([50-051](capitulos/50.md)).
+- Cap. 50, 01:25:48.000: Tryel reaparece inconsciente ([50-054](capitulos/50.md)).
+- Cap. 50, 01:26:59.800: Oghma cubre a Tryel y un zombi desprende polvo verde ([50-055](capitulos/50.md)).
+- Cap. 50, 01:34:55.360: Oghma pierde el sentido y su eco desaparece ([50-059](capitulos/50.md)).
+- Cap. 50, 01:36:03.360: El golpe despierta a Oghma y el tentáculo amortigua el daño ([50-060](capitulos/50.md)).
+- Cap. 50, 01:37:35.280: Los disparos abren distancia entre las plantas y sus presas ([50-061](capitulos/50.md)).
+- Cap. 50, 01:42:06.320: Tryel despierta al recibir un golpe y destroza al zombi ([50-063](capitulos/50.md)).
+- Cap. 50, 01:44:04.280: Oghma supera el efecto que la había tumbado y dispara desde el suelo ([50-064](capitulos/50.md)).
+- Cap. 50, 01:45:44.599: Tryel interviene cuando una raíz vuelve a buscar a Tortas ([50-065](capitulos/50.md)).
+- Cap. 50, 01:49:36.719: Tryel deja a Oghma defenderse y enseña sus patadas ([50-067](capitulos/50.md)).
+- Cap. 50, 01:51:11.639: Oghma cambia de sitio con su eco y parte en dos a un zombi ([50-068](capitulos/50.md)).
+- Cap. 50, 01:56:46.520: Tryel le pregunta al eco qué es la savia ([50-072](capitulos/50.md)).
+- Cap. 50, 02:00:39.520: Una rama alta conserva una porción viva ([50-075](capitulos/50.md)).
+- Cap. 50, 02:03:02.040: La expedición decide llevar a Walulu la escasa muestra ([50-077](capitulos/50.md)).
+- Cap. 50, 02:04:52.880: Una búsqueda de «tontos» y un disfraz que incomoda ([50-078](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
+- Cap. 50, 02:09:38.280: La expedición cuenta a Walulu lo que encontró bajo el árbol ([50-081](capitulos/50.md)).
+- Cap. 50, 02:11:32.280: Walulu guarda la muestra bajo el altar ([50-083](capitulos/50.md)).
+- Cap. 50, 02:12:13.159: Walulu reparte donaciones del templo ([50-084](capitulos/50.md)).
+- Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
+- Cap. 50, 02:15:45.719: Walulu recomienda la taberna de Angelique ([50-086](capitulos/50.md)).
+- Cap. 50, 02:19:59.040: Tryel presenta a Oghma en Los Miaullidos de Angelique ([50-090](capitulos/50.md)).
+- Cap. 50, 02:21:15.800: Oghma se anuncia como emisaria de un conde ([50-091](capitulos/50.md)).
+- Cap. 50, 02:22:05.000: Una habitación reservada y vino por una futura presentación ([50-092](capitulos/50.md)).
+- Cap. 50, 02:23:30.240: El sello de Oghma da apariencia oficial a los gastos ([50-093](capitulos/50.md)).
 
 ## Mango
 
@@ -4655,6 +4848,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:58:52.520: Citlali encuentra a Etley con Leo a la salida del colegio ([46-054](capitulos/46.md)).
 - Cap. 46, 02:00:55.719: Miausi invita a Citlali a la reunión de madres ([46-055](capitulos/46.md)).
 - Cap. 46, 02:02:00.520: Citlali reprende a Leo y se lleva a Etley ([46-056](capitulos/46.md)).
+- Cap. 50, 00:22:13.880: Leo saluda a Tortas desde el colegio ([50-016](capitulos/50.md)).
 
 ## Miaussy
 
@@ -5091,6 +5285,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
 - Cap. 48, 03:20:48.760: Coyote obtiene veneno del colmillo restante ([48-127](capitulos/48.md)).
 - Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
+- Cap. 50, 00:00:40.120: Tortas se suma al entrenamiento de la orilla ([50-002](capitulos/50.md)).
+- Cap. 50, 00:15:49.480: Walulu solicita la ayuda del Gran Anciano ([50-012](capitulos/50.md)).
+- Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 
 ## Negociación
 
@@ -5946,6 +6145,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 00:01:57.840: Tenta sale de Perlasal con Chopito para buscar más súbditos ([47-003](capitulos/47.md)).
 - Cap. 47, 00:13:27.199: Tenta y Chopito salen por otro punto del lago ([47-011](capitulos/47.md)).
 - Cap. 47, 01:49:04.280: Chopito rechaza que le ofrezcan Perlasal ([47-071](capitulos/47.md)).
+- Cap. 50, 00:13:07.959: Los «primos» podrían estar en la taberna ([50-011](capitulos/50.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 
 ## Piedra sagrada de Iktan
 
@@ -5954,6 +6155,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 41, 00:21:23.000: Naór ofrece respetos de Atlan y encarga a Leo vigilar la tortuga ([41-009](capitulos/41.md)).
 - Cap. 45, 00:08:04.000: Chopito propone reclutar a Tortas ([45-005](capitulos/45.md)).
 - Cap. 45, 00:10:30.839: Tortas acepta acompañarlos sin rendir culto a Chopito ([45-006](capitulos/45.md)).
+- Cap. 50, 00:00:40.120: Tortas se suma al entrenamiento de la orilla ([50-002](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
 
 ## Pinky
 
@@ -6094,6 +6297,22 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 38, 00:18:00.000: Duelo amistoso con resultado de empate ([38-004](capitulos/38.md)).
 - Cap. 46, 00:08:02.800: Ione se detiene y reparte fruta mientras buscan orientarse ([46-006](capitulos/46.md)).
 
+## Planta de cadáveres del árbol
+
+- Cap. 50, 00:53:45.480: Del hueco sale una planta repleta de cuerpos ([50-038](capitulos/50.md)).
+- Cap. 50, 00:55:55.359: Tryel activa su foco antes de ponerse junto a Oghma ([50-039](capitulos/50.md)).
+- Cap. 50, 00:57:02.280: La raíz destruye la figura que ocupaba el lugar de Oghma ([50-040](capitulos/50.md)).
+- Cap. 50, 00:58:42.720: Las raíces alcanzan el caparazón de Tortas ([50-041](capitulos/50.md)).
+- Cap. 50, 01:00:28.400: Tentacol oscurece su silueta y congela una hoja ([50-042](capitulos/50.md)).
+- Cap. 50, 01:02:44.000: Tortas se arroja con los brazos astrales ([50-043](capitulos/50.md)).
+- Cap. 50, 01:06:38.240: Tryel combate con las espadas y se preocupa por Tortas ([50-044](capitulos/50.md)).
+- Cap. 50, 01:07:41.799: De la espada de Oghma salen dos rayos ([50-045](capitulos/50.md)).
+- Cap. 50, 01:09:35.199: La planta expulsa un primer zombi antes de morir ([50-046](capitulos/50.md)).
+- Cap. 50, 01:11:16.640: Tentacol aprovecha la oscuridad frente a la planta ([50-047](capitulos/50.md)).
+- Cap. 50, 01:12:27.840: Tortas aturde al zombi que tiene al flanco ([50-048](capitulos/50.md)).
+- Cap. 50, 01:15:00.360: El hedor hace vomitar a Tryel ([50-049](capitulos/50.md)).
+- Cap. 50, 01:16:20.600: Los golpes del eco de Oghma abren el saco y caen seis zombis ([50-050](capitulos/50.md)).
+
 ## Pociones de Arwen
 
 - Cap. 28, 00:58:00.000: Blink abandona el collar y las serpientes se unen ([28-010](capitulos/28.md)).
@@ -6152,6 +6371,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 17, 02:39:30.000: Botín y promesa de los dirigentes de asistir al concilio ([17-021](capitulos/17.md)).
 - Cap. 17, 02:51:10.000: Separación: regreso y misión todavía sin Iktan ([17-023](capitulos/17.md)).
 - Cap. 20, 00:00:00.000: Equipo reparado y camino a Iktan ([20-001](capitulos/20.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 
 ## Relicario de gema negra
 
@@ -6173,6 +6393,19 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:47:26.080: La Marina concentra varios flancos contra Bonnie ([42-056](capitulos/42.md)).
 - Cap. 42, 01:55:33.920: Bonnie vuelve a abrirse paso entre la flota ([42-059](capitulos/42.md)).
 - Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
+
+## Resina del Gran Árbol Anciano
+
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 01:56:46.520: Tryel le pregunta al eco qué es la savia ([50-072](capitulos/50.md)).
+- Cap. 50, 01:59:28.679: El corte de Tentacol en la corteza rezuma el mismo líquido oscuro ([50-074](capitulos/50.md)).
+- Cap. 50, 02:00:39.520: Una rama alta conserva una porción viva ([50-075](capitulos/50.md)).
+- Cap. 50, 02:01:55.679: Tortas recoge un poco de savia en una cantimplora ([50-076](capitulos/50.md)).
+- Cap. 50, 02:03:02.040: La expedición decide llevar a Walulu la escasa muestra ([50-077](capitulos/50.md)).
+- Cap. 50, 02:04:52.880: Una búsqueda de «tontos» y un disfraz que incomoda ([50-078](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
+- Cap. 50, 02:10:55.840: El olor a muerte del árbol difiere de los venenos conocidos ([50-082](capitulos/50.md)).
+- Cap. 50, 02:11:32.280: Walulu guarda la muestra bajo el altar ([50-083](capitulos/50.md)).
 
 ## Roca de los sacerdotes al norte de Iktan
 
@@ -6247,6 +6480,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 24, 01:47:00.000: Loba calmada y concha destruida ([24-013](capitulos/24.md)).
 - Cap. 24, 02:10:00.000: Regreso, Sam y pueblo alternativo ([24-016](capitulos/24.md)).
 - Cap. 24, 02:20:00.000: Din acuerda buscar a Sam por cincuenta monedas ([24-018](capitulos/24.md)).
+
+## Sello que usa Madame Oghma
+
+- Cap. 50, 02:23:30.240: El sello de Oghma da apariencia oficial a los gastos ([50-093](capitulos/50.md)).
 
 ## Serpiente esquelética de la cueva envenenada
 
@@ -6646,6 +6883,10 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 44, 01:40:34.320: Tlachka limpia y cocina la carne con chile ([44-050](capitulos/44.md)).
 - Cap. 44, 01:48:50.360: Leona prueba la carne y resiste la salsa más picante ([44-054](capitulos/44.md)).
 
+## Tatuaje del brazo de Tryel
+
+- Cap. 50, 00:23:43.000: Tryel enseña a Oghma el tatuaje de su brazo ([50-018](capitulos/50.md)).
+
 ## Tatuaje incompleto de Eldrath
 
 - Cap. 48, 00:36:18.599: El tatuaje retrasa una hora a Eldrath ([48-026](capitulos/48.md)).
@@ -6866,6 +7107,33 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 01:59:07.079: Tentacol y Chopito imitan la meditación de Tortas ([47-078](capitulos/47.md)).
 - Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
+- Cap. 50, 00:00:23.800: Tenta recuerda la espera con Chopito ([50-001](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
+- Cap. 50, 00:08:00.520: Chopito prueba el camino de la paciencia ([50-008](capitulos/50.md)).
+- Cap. 50, 00:09:15.040: Tryel explica por qué su hermano lleva el dinero ([50-009](capitulos/50.md)).
+- Cap. 50, 00:11:13.240: Oghma se presenta y le hace una reverencia a Chopito ([50-010](capitulos/50.md)).
+- Cap. 50, 00:13:07.959: Los «primos» podrían estar en la taberna ([50-011](capitulos/50.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 00:29:29.760: Oghma, Tryel y Chopito completan el disfraz ([50-022](capitulos/50.md)).
+- Cap. 50, 00:37:02.480: Tortas adquiere una cola prensil y Tentacol, savia curativa ([50-027](capitulos/50.md)).
+- Cap. 50, 00:41:01.280: La isla hace inclinarse a Tortas, Tentacol y Chopito ([50-030](capitulos/50.md)).
+- Cap. 50, 00:49:30.680: Oghma mete la mano en la secreción ([50-035](capitulos/50.md)).
+- Cap. 50, 00:51:04.559: La explicación de Chopito depende de quién pueda entenderlo ([50-036](capitulos/50.md)).
+- Cap. 50, 00:53:45.480: Del hueco sale una planta repleta de cuerpos ([50-038](capitulos/50.md)).
+- Cap. 50, 01:00:28.400: Tentacol oscurece su silueta y congela una hoja ([50-042](capitulos/50.md)).
+- Cap. 50, 01:11:16.640: Tentacol aprovecha la oscuridad frente a la planta ([50-047](capitulos/50.md)).
+- Cap. 50, 01:18:34.480: Las lianas alcanzan a Tentacol pese a la oscuridad ([50-051](capitulos/50.md)).
+- Cap. 50, 01:20:34.280: Tentacol incapacita a la liana y se suelta ([50-052](capitulos/50.md)).
+- Cap. 50, 01:26:59.800: Oghma cubre a Tryel y un zombi desprende polvo verde ([50-055](capitulos/50.md)).
+- Cap. 50, 01:29:18.760: Tortas resiste el olor que desprenden los zombis ([50-056](capitulos/50.md)).
+- Cap. 50, 01:36:03.360: El golpe despierta a Oghma y el tentáculo amortigua el daño ([50-060](capitulos/50.md)).
+- Cap. 50, 01:37:35.280: Los disparos abren distancia entre las plantas y sus presas ([50-061](capitulos/50.md)).
+- Cap. 50, 01:45:44.599: Tryel interviene cuando una raíz vuelve a buscar a Tortas ([50-065](capitulos/50.md)).
+- Cap. 50, 01:52:44.679: Los disparos de Tentacol hunden una planta ([50-069](capitulos/50.md)).
+- Cap. 50, 01:59:28.679: El corte de Tentacol en la corteza rezuma el mismo líquido oscuro ([50-074](capitulos/50.md)).
+- Cap. 50, 02:12:13.159: Walulu reparte donaciones del templo ([50-084](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:24:31.760: Tentacol y Chopito regresan al agua; Tortas, a la roca ([50-094](capitulos/50.md)).
 
 ## Tesara Queen
 
@@ -7015,6 +7283,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:11:50.560: Tesara detecta el mismo rastro en toda la cámara ([48-123](capitulos/48.md)).
 - Cap. 48, 03:19:49.239: Tesara recoge una segunda muestra de las pozas ([48-126](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
+- Cap. 50, 00:26:25.440: Tryel sabe por Tesara que el dragón busca a los hermanos ([50-020](capitulos/50.md)).
 
 ## Tesoro de la cueva envenenada
 
@@ -7275,6 +7544,62 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 02:16:25.119: La imitación de Tortas se presenta como una apariencia de piedra ([47-089](capitulos/47.md)).
 - Cap. 47, 02:17:15.880: Angelique cuenta a Patata su encuentro con Zoltan ([47-090](capitulos/47.md)).
 - Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
+- Cap. 50, 00:00:23.800: Tenta recuerda la espera con Chopito ([50-001](capitulos/50.md)).
+- Cap. 50, 00:00:40.120: Tortas se suma al entrenamiento de la orilla ([50-002](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
+- Cap. 50, 00:08:00.520: Chopito prueba el camino de la paciencia ([50-008](capitulos/50.md)).
+- Cap. 50, 00:09:15.040: Tryel explica por qué su hermano lleva el dinero ([50-009](capitulos/50.md)).
+- Cap. 50, 00:11:13.240: Oghma se presenta y le hace una reverencia a Chopito ([50-010](capitulos/50.md)).
+- Cap. 50, 00:15:49.480: Walulu solicita la ayuda del Gran Anciano ([50-012](capitulos/50.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 00:20:07.559: Tortas recuerda la plantación del árbol ([50-015](capitulos/50.md)).
+- Cap. 50, 00:22:13.880: Leo saluda a Tortas desde el colegio ([50-016](capitulos/50.md)).
+- Cap. 50, 00:22:50.480: Walulu confirma que el árbol está al noroeste ([50-017](capitulos/50.md)).
+- Cap. 50, 00:26:25.440: Tryel sabe por Tesara que el dragón busca a los hermanos ([50-020](capitulos/50.md)).
+- Cap. 50, 00:28:13.880: Chopito propone disfrazar a Tryel para salir al bosque ([50-021](capitulos/50.md)).
+- Cap. 50, 00:29:29.760: Oghma, Tryel y Chopito completan el disfraz ([50-022](capitulos/50.md)).
+- Cap. 50, 00:34:45.440: Tortas guía al grupo y Tryel cambia la piedra por fruta ([50-025](capitulos/50.md)).
+- Cap. 50, 00:37:02.480: Tortas adquiere una cola prensil y Tentacol, savia curativa ([50-027](capitulos/50.md)).
+- Cap. 50, 00:37:57.880: El Gran Árbol Anciano ocupa un islote rodeado de agua ([50-028](capitulos/50.md)).
+- Cap. 50, 00:39:18.160: Tortas encuentra rastros de algo que se arrastraba ([50-029](capitulos/50.md)).
+- Cap. 50, 00:41:01.280: La isla hace inclinarse a Tortas, Tentacol y Chopito ([50-030](capitulos/50.md)).
+- Cap. 50, 00:44:55.359: Tortas reconoce el olor de cadáveres en descomposición ([50-032](capitulos/50.md)).
+- Cap. 50, 00:46:14.240: Una rama se retrae y la madera cruje bajo las raíces ([50-033](capitulos/50.md)).
+- Cap. 50, 00:47:50.240: La herida del tronco exuda un líquido negro ([50-034](capitulos/50.md)).
+- Cap. 50, 00:51:48.040: Varias raíces rodean el árbol y cada cual busca una salida ([50-037](capitulos/50.md)).
+- Cap. 50, 00:53:45.480: Del hueco sale una planta repleta de cuerpos ([50-038](capitulos/50.md)).
+- Cap. 50, 00:58:42.720: Las raíces alcanzan el caparazón de Tortas ([50-041](capitulos/50.md)).
+- Cap. 50, 01:02:44.000: Tortas se arroja con los brazos astrales ([50-043](capitulos/50.md)).
+- Cap. 50, 01:06:38.240: Tryel combate con las espadas y se preocupa por Tortas ([50-044](capitulos/50.md)).
+- Cap. 50, 01:12:27.840: Tortas aturde al zombi que tiene al flanco ([50-048](capitulos/50.md)).
+- Cap. 50, 01:22:59.480: Tortas recibe a un zombi con un saludo ([50-053](capitulos/50.md)).
+- Cap. 50, 01:29:18.760: Tortas resiste el olor que desprenden los zombis ([50-056](capitulos/50.md)).
+- Cap. 50, 01:31:31.280: Un zombi cae de cabeza dentro de otra planta ([50-057](capitulos/50.md)).
+- Cap. 50, 01:33:02.159: Los puños de Tortas abaten a dos zombis ([50-058](capitulos/50.md)).
+- Cap. 50, 01:36:03.360: El golpe despierta a Oghma y el tentáculo amortigua el daño ([50-060](capitulos/50.md)).
+- Cap. 50, 01:37:35.280: Los disparos abren distancia entre las plantas y sus presas ([50-061](capitulos/50.md)).
+- Cap. 50, 01:39:55.719: Los brazos astrales rompen la presa de Tortas ([50-062](capitulos/50.md)).
+- Cap. 50, 01:45:44.599: Tryel interviene cuando una raíz vuelve a buscar a Tortas ([50-065](capitulos/50.md)).
+- Cap. 50, 01:48:09.199: Tortas carga contra la planta y esta resiste ([50-066](capitulos/50.md)).
+- Cap. 50, 01:49:36.719: Tryel deja a Oghma defenderse y enseña sus patadas ([50-067](capitulos/50.md)).
+- Cap. 50, 01:54:15.000: Una lección de sentadillas en plena pelea ([50-070](capitulos/50.md)).
+- Cap. 50, 01:55:52.719: Tryel acaba con la resistencia junto al árbol ([50-071](capitulos/50.md)).
+- Cap. 50, 01:56:46.520: Tryel le pregunta al eco qué es la savia ([50-072](capitulos/50.md)).
+- Cap. 50, 01:58:11.520: Entre los huesos del árbol solo asoma líquido negro ([50-073](capitulos/50.md)).
+- Cap. 50, 02:00:39.520: Una rama alta conserva una porción viva ([50-075](capitulos/50.md)).
+- Cap. 50, 02:01:55.679: Tortas recoge un poco de savia en una cantimplora ([50-076](capitulos/50.md)).
+- Cap. 50, 02:03:02.040: La expedición decide llevar a Walulu la escasa muestra ([50-077](capitulos/50.md)).
+- Cap. 50, 02:04:52.880: Una búsqueda de «tontos» y un disfraz que incomoda ([50-078](capitulos/50.md)).
+- Cap. 50, 02:06:29.760: Tryel vuelve a Iktan sin que el grupo perciba al dragón ([50-079](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
+- Cap. 50, 02:09:38.280: La expedición cuenta a Walulu lo que encontró bajo el árbol ([50-081](capitulos/50.md)).
+- Cap. 50, 02:11:32.280: Walulu guarda la muestra bajo el altar ([50-083](capitulos/50.md)).
+- Cap. 50, 02:12:13.159: Walulu reparte donaciones del templo ([50-084](capitulos/50.md)).
+- Cap. 50, 02:15:45.719: Walulu recomienda la taberna de Angelique ([50-086](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
+- Cap. 50, 02:19:08.080: Walulu no puede identificar una tercera amenaza ([50-089](capitulos/50.md)).
+- Cap. 50, 02:24:31.760: Tentacol y Chopito regresan al agua; Tortas, a la roca ([50-094](capitulos/50.md)).
 
 ## Tortuga terapeuta del templo de Iktan
 
@@ -7528,6 +7853,50 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:09:04.600: Tryel y Coyote continúan buscando en el tesoro ([48-121](capitulos/48.md)).
 - Cap. 48, 03:21:47.680: Los compañeros abandonan la cueva heridos ([48-128](capitulos/48.md)).
 - Cap. 49, 00:01:40.079: Patata recuerda el encargo del dragón ([49-003](capitulos/49.md)).
+- Cap. 50, 00:04:24.840: Oghma encuentra a una elfa en la puerta de la taberna ([50-005](capitulos/50.md)).
+- Cap. 50, 00:05:42.440: Tryel confunde los «primos» que busca Oghma con parientes ([50-006](capitulos/50.md)).
+- Cap. 50, 00:06:46.080: Tryel conduce a Oghma hasta la roca de Tortas ([50-007](capitulos/50.md)).
+- Cap. 50, 00:09:15.040: Tryel explica por qué su hermano lleva el dinero ([50-009](capitulos/50.md)).
+- Cap. 50, 00:11:13.240: Oghma se presenta y le hace una reverencia a Chopito ([50-010](capitulos/50.md)).
+- Cap. 50, 00:13:07.959: Los «primos» podrían estar en la taberna ([50-011](capitulos/50.md)).
+- Cap. 50, 00:23:43.000: Tryel enseña a Oghma el tatuaje de su brazo ([50-018](capitulos/50.md)).
+- Cap. 50, 00:25:03.399: Oghma se presenta como emisaria de un conde ([50-019](capitulos/50.md)).
+- Cap. 50, 00:26:25.440: Tryel sabe por Tesara que el dragón busca a los hermanos ([50-020](capitulos/50.md)).
+- Cap. 50, 00:28:13.880: Chopito propone disfrazar a Tryel para salir al bosque ([50-021](capitulos/50.md)).
+- Cap. 50, 00:29:29.760: Oghma, Tryel y Chopito completan el disfraz ([50-022](capitulos/50.md)).
+- Cap. 50, 00:32:20.320: Una piedra con sabor a fresa mantiene entretenida a Tryel ([50-023](capitulos/50.md)).
+- Cap. 50, 00:34:45.440: Tortas guía al grupo y Tryel cambia la piedra por fruta ([50-025](capitulos/50.md)).
+- Cap. 50, 00:36:00.359: La fruta rehace los dientes de Oghma y permite a Tryel planear ([50-026](capitulos/50.md)).
+- Cap. 50, 00:39:18.160: Tortas encuentra rastros de algo que se arrastraba ([50-029](capitulos/50.md)).
+- Cap. 50, 00:43:42.839: Oghma percibe un olor a muerte en el árbol ([50-031](capitulos/50.md)).
+- Cap. 50, 00:53:45.480: Del hueco sale una planta repleta de cuerpos ([50-038](capitulos/50.md)).
+- Cap. 50, 00:55:55.359: Tryel activa su foco antes de ponerse junto a Oghma ([50-039](capitulos/50.md)).
+- Cap. 50, 00:57:02.280: La raíz destruye la figura que ocupaba el lugar de Oghma ([50-040](capitulos/50.md)).
+- Cap. 50, 00:58:42.720: Las raíces alcanzan el caparazón de Tortas ([50-041](capitulos/50.md)).
+- Cap. 50, 01:06:38.240: Tryel combate con las espadas y se preocupa por Tortas ([50-044](capitulos/50.md)).
+- Cap. 50, 01:07:41.799: De la espada de Oghma salen dos rayos ([50-045](capitulos/50.md)).
+- Cap. 50, 01:09:35.199: La planta expulsa un primer zombi antes de morir ([50-046](capitulos/50.md)).
+- Cap. 50, 01:15:00.360: El hedor hace vomitar a Tryel ([50-049](capitulos/50.md)).
+- Cap. 50, 01:25:48.000: Tryel reaparece inconsciente ([50-054](capitulos/50.md)).
+- Cap. 50, 01:26:59.800: Oghma cubre a Tryel y un zombi desprende polvo verde ([50-055](capitulos/50.md)).
+- Cap. 50, 01:34:55.360: Oghma pierde el sentido y su eco desaparece ([50-059](capitulos/50.md)).
+- Cap. 50, 01:39:55.719: Los brazos astrales rompen la presa de Tortas ([50-062](capitulos/50.md)).
+- Cap. 50, 01:42:06.320: Tryel despierta al recibir un golpe y destroza al zombi ([50-063](capitulos/50.md)).
+- Cap. 50, 01:45:44.599: Tryel interviene cuando una raíz vuelve a buscar a Tortas ([50-065](capitulos/50.md)).
+- Cap. 50, 01:49:36.719: Tryel deja a Oghma defenderse y enseña sus patadas ([50-067](capitulos/50.md)).
+- Cap. 50, 01:52:44.679: Los disparos de Tentacol hunden una planta ([50-069](capitulos/50.md)).
+- Cap. 50, 01:54:15.000: Una lección de sentadillas en plena pelea ([50-070](capitulos/50.md)).
+- Cap. 50, 01:55:52.719: Tryel acaba con la resistencia junto al árbol ([50-071](capitulos/50.md)).
+- Cap. 50, 01:56:46.520: Tryel le pregunta al eco qué es la savia ([50-072](capitulos/50.md)).
+- Cap. 50, 02:04:52.880: Una búsqueda de «tontos» y un disfraz que incomoda ([50-078](capitulos/50.md)).
+- Cap. 50, 02:06:29.760: Tryel vuelve a Iktan sin que el grupo perciba al dragón ([50-079](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
+- Cap. 50, 02:12:13.159: Walulu reparte donaciones del templo ([50-084](capitulos/50.md)).
+- Cap. 50, 02:15:45.719: Walulu recomienda la taberna de Angelique ([50-086](capitulos/50.md)).
+- Cap. 50, 02:19:59.040: Tryel presenta a Oghma en Los Miaullidos de Angelique ([50-090](capitulos/50.md)).
+- Cap. 50, 02:21:15.800: Oghma se anuncia como emisaria de un conde ([50-091](capitulos/50.md)).
+- Cap. 50, 02:22:05.000: Una habitación reservada y vino por una futura presentación ([50-092](capitulos/50.md)).
+- Cap. 50, 02:23:30.240: El sello de Oghma da apariencia oficial a los gastos ([50-093](capitulos/50.md)).
 
 ## Tutucan
 
@@ -7634,6 +8003,22 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
 - Cap. 49, 00:23:55.039: Walulu proporciona el mapa de un templo antiguo ([49-017](capitulos/49.md)).
 - Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
+- Cap. 50, 00:15:49.480: Walulu solicita la ayuda del Gran Anciano ([50-012](capitulos/50.md)).
+- Cap. 50, 00:18:06.919: Walulu ha llamado de vuelta a los guardias del contorno ([50-013](capitulos/50.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 00:22:50.480: Walulu confirma que el árbol está al noroeste ([50-017](capitulos/50.md)).
+- Cap. 50, 02:03:02.040: La expedición decide llevar a Walulu la escasa muestra ([50-077](capitulos/50.md)).
+- Cap. 50, 02:04:52.880: Una búsqueda de «tontos» y un disfraz que incomoda ([50-078](capitulos/50.md)).
+- Cap. 50, 02:08:24.800: Tortas vuelve a abrir la puerta del colegio antes de encontrar a Walulu ([50-080](capitulos/50.md)).
+- Cap. 50, 02:09:38.280: La expedición cuenta a Walulu lo que encontró bajo el árbol ([50-081](capitulos/50.md)).
+- Cap. 50, 02:10:55.840: El olor a muerte del árbol difiere de los venenos conocidos ([50-082](capitulos/50.md)).
+- Cap. 50, 02:11:32.280: Walulu guarda la muestra bajo el altar ([50-083](capitulos/50.md)).
+- Cap. 50, 02:12:13.159: Walulu reparte donaciones del templo ([50-084](capitulos/50.md)).
+- Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
+- Cap. 50, 02:15:45.719: Walulu recomienda la taberna de Angelique ([50-086](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
+- Cap. 50, 02:19:08.080: Walulu no puede identificar una tercera amenaza ([50-089](capitulos/50.md)).
 
 ## Winscore
 
@@ -7752,6 +8137,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
 - Cap. 49, 00:52:30.839: Los yuan-ti medio muertos salen de las tumbas y disparan a Kilzer ([49-041](capitulos/49.md)).
 - Cap. 49, 01:33:29.080: Erandy recuerda que se trata de un templo yuan-ti abandonado ([49-066](capitulos/49.md)).
+- Cap. 50, 00:18:06.919: Walulu ha llamado de vuelta a los guardias del contorno ([50-013](capitulos/50.md)).
+- Cap. 50, 00:18:34.159: El encargo es conseguir resina para ayudar a Cuicapalli ([50-014](capitulos/50.md)).
+- Cap. 50, 02:10:55.840: El olor a muerte del árbol difiere de los venenos conocidos ([50-082](capitulos/50.md)).
+- Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 50, 02:19:08.080: Walulu no puede identificar una tercera amenaza ([50-089](capitulos/50.md)).
 
 ## Zampaolas
 

@@ -5,14 +5,13 @@
   "fuentes": "config/fuentes_anuncios_discord.json",
   "criterio": "Se cruzan campaña, número y título, con variantes editoriales explícitas. Nunca se emparejan por proximidad de fechas.",
   "resumen": {
-    "capitulos": 41,
+    "capitulos": 50,
     "twitch": {
-      "documentada": 37,
-      "varias_fechas": 1,
-      "sin_anuncio_identificado": 3
+      "documentada": 46,
+      "asumida": 4
     },
     "youtube": {
-      "publicacion_documentada": 20,
+      "publicacion_documentada": 29,
       "solo_aviso": 21
     }
   },
@@ -1287,6 +1286,31 @@
         "archivo_metadatos": "campanas/xoltacan/fuentes/49 - 2ouV6qjHGD0.info.json",
         "sha256_metadatos": "9afc88e77677404433f5257c803c746673597aad837833163a5727b837093b56",
         "publicacion_reportada_utc": "2026-11-17T10:00:21+00:00"
+      }
+    },
+    "50": {
+      "video_id": "QkUmNIOuyQI",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-08-07",
+        "fuentes": [
+          "1535348824992649227"
+        ],
+        "criterio": "correspondencia_confirmada_por_usuario",
+        "nota": "El usuario confirmó que el 7 de agosto se jugó Abastecimiento. La tarjeta conserva el número y título del día anterior. Su hora sirve como referencia aproximada para ordenar los mensajes.",
+        "fechas_candidatas": [
+          "2026-08-07"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-11-22",
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": "metadatos_youtube",
+        "archivo_metadatos": "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.info.json",
+        "sha256_metadatos": "dfd0cab92a953660917bd465c10c2ca830e47372a7b8f7d4ab0806899eed6156",
+        "publicacion_reportada_utc": "2026-11-22T10:00:29+00:00"
       }
     }
   },

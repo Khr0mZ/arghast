@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-012](../capitulos/49.md), [49-013](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El objeto que Molly quiere entender
 

@@ -8,17 +8,23 @@ Identidad provisional de la presentación repetida en este capítulo. No se la f
 
 Etiquetas agrupadas: Miausi.
 
-Base para revisar equivalencia: [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md).
+Base para revisar equivalencia: [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [50-016](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La profesora y las reuniones de madres
 
 Miausi sale del colegio con las gafas puestas cuando Leo vuelve a desobedecerla. Explica a Citlali que el niño intenta influir también en Etley y la invita a la reunión dominical de madres. Advierte del lenguaje de la princesa de Atlan y presencia la reprimenda de Citlali antes de regresar a clase.
 
 Fuentes: [46-054 · Citlali encuentra a Etley con Leo a la salida del colegio](../capitulos/46.md) · 01:58:52.520 · [46-055 · Miausi invita a Citlali a la reunión de madres](../capitulos/46.md) · 02:00:55.719 · [46-056 · Citlali reprende a Leo y se lleva a Etley](../capitulos/46.md) · 02:02:00.520.
+
+### Una visita inesperada a clase
+
+Al ver que Tortas abre la puerta, la profesora se inclina y pide a los niños que hagan lo mismo. Leo prefiere saludarlo con la mano.
+
+Fuentes: [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880.
 
 ## Registros y evidencias
 
@@ -45,4 +51,12 @@ Tipo: `hecho_confirmado`.
 Leo amenaza con pedir a su madre que golpee a la profesora y sigue insultando. Citlali se acerca, lo golpea con la alpargata y le exige que controle el lenguaje. El niño protesta invocando a la princesa de Atlan como su madre, recibe otro golpe y sale llorando a buscarla. Citlali advierte a Etley que no imite esas expresiones; Miausi reitera la cita del domingo y vuelve a clase.
 
 El niño llama madre a Naór dentro del vínculo de cuidado ya establecido; la escena no prueba parentesco biológico. No se narra que llegue a encontrarla, que se pierda definitivamente o que Tesara reciba una reprimenda.
+
+## [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880
+
+Tipo: `hecho_confirmado`.
+
+De camino al templo, Tortas abre la puerta del colegio. La profesora Miausi le hace una reverencia y los niños la imitan. Leo es la excepción: le saluda con la mano y Tortas le devuelve el saludo antes de cerrar.
+
+La profesora no se identifica aquí como directora. La escena tampoco representa una reunión de madres.
 

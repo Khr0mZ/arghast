@@ -12,7 +12,7 @@ Base para revisar equivalencia: [34-018](../capitulos/34.md), [34-020](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El huevo que consiguió nacer
 

@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 49,
+  "revisado_hasta": 50,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -1646,6 +1646,13 @@
           "48-120",
           "48-129"
         ]
+      },
+      {
+        "titulo": "Otra vez en clase",
+        "texto": "Tortas sorprende al grupo en el colegio mientras busca a Walulu. Los otros alumnos se inclinan siguiendo el ejemplo de Miausi, pero Leo lo saluda con naturalidad. Tortas le devuelve el saludo.",
+        "referencias": [
+          "50-016"
+        ]
       }
     ],
     "Leona": [
@@ -2409,6 +2416,16 @@
           "48-120",
           "48-129"
         ]
+      },
+      {
+        "titulo": "Noticias de la enviada",
+        "texto": "Walulu la busca al comienzo del encargo y más tarde quiere consultarla sobre el árbol. Según le cuenta a Tortas en privado, Naór ya ha hablado con Eromov, Ivet y los soberanos de Ras Racor. La llegada efectiva de los dirigentes al concilio sigue pendiente.",
+        "referencias": [
+          "50-012",
+          "50-085",
+          "50-087",
+          "50-088"
+        ]
       }
     ],
     "Nelli": [
@@ -3038,6 +3055,21 @@
           "48-121",
           "48-128"
         ]
+      },
+      {
+        "titulo": "Un disfraz y una nueva compañera",
+        "texto": "La elfa hace de guía de Oghma y le muestra el tatuaje con el que dice intimidar mejor. Pese al peligro que corre con Eldrath, insiste en salir hacia el árbol. Se cubre con ropa, barro y tinta. Allí lucha con sus dos espadas, queda inconsciente y se levanta después de otro golpe. Entre ataques le enseña patadas a Tortas. Conduce luego a Oghma a la taberna y ve cómo la reciben por su relación declarada con el conde.",
+        "referencias": [
+          "50-018",
+          "50-020",
+          "50-022",
+          "50-039",
+          "50-054",
+          "50-063",
+          "50-067",
+          "50-071",
+          "50-090"
+        ]
       }
     ],
     "Tórtola": [
@@ -3186,6 +3218,21 @@
           "49-013",
           "49-014",
           "49-017"
+        ]
+      },
+      {
+        "titulo": "Una muestra bajo el altar",
+        "texto": "El peligro en torno a Iktan ha obligado a traer de vuelta a los guardias de los alrededores. Walulu confía a Tortas y sus compañeros la recolección de resina para ayudar a Cuicapalli. Recibe apenas una cantimplora con algo de savia, la guarda bajo el altar y paga al grupo con donaciones. Quiere consultar a Naór y a los dirigentes. A solas con Tortas reconoce que todavía ignora qué ha pasado en el árbol.",
+        "referencias": [
+          "50-012",
+          "50-013",
+          "50-014",
+          "50-081",
+          "50-082",
+          "50-083",
+          "50-084",
+          "50-085",
+          "50-089"
         ]
       }
     ],
@@ -3376,6 +3423,20 @@
           "47-078",
           "47-089"
         ]
+      },
+      {
+        "titulo": "La rama que aún vive",
+        "texto": "Tortas recuerda haber visto plantar el árbol en su infancia. Lo encuentra infestado y combate con sus brazos astrales. Cuando ya solo parece quedar putrefacción, trepa hasta una rama que sigue viva. Salva un poco de savia y se queda a solas con Walulu para escuchar lo que se sabe de las amenazas a la aldea. Termina la jornada meditando en su roca.",
+        "referencias": [
+          "50-015",
+          "50-043",
+          "50-062",
+          "50-075",
+          "50-076",
+          "50-087",
+          "50-089",
+          "50-094"
+        ]
       }
     ],
     "Masa zombi del claro envenenado": [
@@ -3517,6 +3578,20 @@
           "47-078",
           "47-089"
         ]
+      },
+      {
+        "titulo": "Del agua a las raíces",
+        "texto": "Tentacol acompaña a los recolectores, intenta explicar a Oghma qué ha tocado y pelea envuelto en oscuridad. Una liana consigue apresarlo. Se libera y su tentáculo amortigua un golpe que recibe la anciana. Más tarde prueba la corteza con la daga y solo obtiene líquido negro. Tras el reparto de la recompensa, él y Chopito regresan al lago.",
+        "referencias": [
+          "50-027",
+          "50-035",
+          "50-042",
+          "50-051",
+          "50-052",
+          "50-060",
+          "50-074",
+          "50-094"
+        ]
       }
     ],
     "Chopito": [
@@ -3603,6 +3678,19 @@
           "47-076",
           "47-078",
           "47-089"
+        ]
+      },
+      {
+        "titulo": "La paciencia y el disfraz",
+        "texto": "Chopito ensaya la paciencia de Tortas y ayuda a que Tryel pueda salir de Iktan pese al dragón. Su habla requiere traducción para parte del grupo. Junto al árbol distingue con Tentacol los líquidos de los muertos. Al terminar vuelve al agua con su compañero.",
+        "referencias": [
+          "50-008",
+          "50-010",
+          "50-021",
+          "50-022",
+          "50-035",
+          "50-036",
+          "50-094"
         ]
       }
     ],
@@ -4093,6 +4181,16 @@
           "49-008",
           "49-019"
         ]
+      },
+      {
+        "titulo": "Hospedaje para una emisaria",
+        "texto": "Tryel llega con una anciana a la que primero apenas dedica atención. La noticia de que prepara la llegada de un conde basta para que Angelique le reserve una habitación y le sirva buen vino. Espera que Oghma la recomiende y la presente al noble. Los papeles sellados quedan como garantía aparente de los gastos.",
+        "referencias": [
+          "50-090",
+          "50-091",
+          "50-092",
+          "50-093"
+        ]
       }
     ],
     "Miausi": [
@@ -4103,6 +4201,13 @@
           "46-054",
           "46-055",
           "46-056"
+        ]
+      },
+      {
+        "titulo": "Una visita inesperada a clase",
+        "texto": "Al ver que Tortas abre la puerta, la profesora se inclina y pide a los niños que hagan lo mismo. Leo prefiere saludarlo con la mano.",
+        "referencias": [
+          "50-016"
         ]
       }
     ],
@@ -4392,6 +4497,73 @@
           "49-108",
           "49-110",
           "49-111"
+        ]
+      }
+    ],
+    "Madame Oghma": [
+      {
+        "titulo": "Una emisaria a la puerta de la taberna",
+        "texto": "Oghma llega sin dinero para una cerveza. Tryel interpreta al pie de la letra su búsqueda de «primos» y la lleva a conocer a Tortas, Tentacol y Chopito. Cuando Walulu pide ayuda, a la recién llegada le interesa saber si la labor tendrá recompensa. Durante el viaje le asegura a Tryel que prepara la visita de un conde y que la han asaltado en el camino.",
+        "referencias": [
+          "50-003",
+          "50-005",
+          "50-006",
+          "50-010",
+          "50-014",
+          "50-019"
+        ]
+      },
+      {
+        "titulo": "La espada y el eco",
+        "texto": "Fuera de Iktan manifiesta un eco que la sigue. Examina con la mano lo que rezuma del árbol y cambia de posición con su copia durante el combate. Sus golpes abren la planta cargada de cadáveres. Intenta cubrir a Tryel, llega a perder el conocimiento y despierta cuando un zombi la golpea. Regresa con el grupo y recibe un jade.",
+        "referencias": [
+          "50-024",
+          "50-035",
+          "50-040",
+          "50-050",
+          "50-055",
+          "50-059",
+          "50-060",
+          "50-068",
+          "50-084"
+        ]
+      },
+      {
+        "titulo": "Una cuenta a nombre del conde",
+        "texto": "Angelique cambia de actitud cuando oye que puede conocer al supuesto noble. Oghma consigue vino y alojamiento estampando varios papeles. Después, en una conversación escrita con Coyote, le ofrece interpretar al conde Moor, un papel que hasta entonces desempeñaba ella misma. Le entrega un anillo dorado con una M. Angelique solo cuenta con la promesa que escuchó en la taberna.",
+        "referencias": [
+          "50-086",
+          "50-090",
+          "50-091",
+          "50-092",
+          "50-093"
+        ]
+      }
+    ],
+    "Planta de cadáveres del árbol": [
+      {
+        "titulo": "Los cuerpos de la bolsa vegetal",
+        "texto": "Del tronco emerge una masa de la que cuelgan calaveras y cuerpos que se agitan. Expulsa un zombi antes de que Oghma reviente el saco atacando desde su eco. Salen seis zombis más y se extiende el hedor. Las criaturas restantes siguen atacando.",
+        "referencias": [
+          "50-038",
+          "50-046",
+          "50-050",
+          "50-051"
+        ]
+      }
+    ],
+    "Lianas y zombis del Gran Árbol Anciano": [
+      {
+        "titulo": "Lo que queda tras romper el saco",
+        "texto": "Un muerto sale de la planta antes de su caída y otros seis se desprenden al romperse. Las lianas todavía pueden atrapar a los viajeros. Tortas encaja un zombi en otra planta, Tentacol empuja a una de las criaturas hasta el agua y Tryel acaba con la resistencia. El grupo informa del hallazgo a Walulu.",
+        "referencias": [
+          "50-046",
+          "50-050",
+          "50-051",
+          "50-057",
+          "50-069",
+          "50-071",
+          "50-081"
         ]
       }
     ]

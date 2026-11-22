@@ -1,4 +1,8 @@
-# Misterios y tramas: estado al cierre del capítulo 48
+# Misterios y tramas de Xoltacan
+
+## Los muertos del árbol y la defensa de Cuicapalli
+
+Walulu recibe la savia y reconoce ante Tortas que ignora si se enfrentan a otra amenaza. El grupo plantea un ritual. El director distingue el hedor del árbol de los venenos yuan-ti y del dragón, mientras las identidades de los muertos y la causa de la infestación siguen abiertas. [Capítulo 50](capitulos/50.md) · [Seguimiento](SEGUIMIENTO.md).
 
 ## Los archivos y la cueva envenenada
 

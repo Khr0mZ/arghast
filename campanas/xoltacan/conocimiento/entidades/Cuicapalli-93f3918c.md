@@ -8,11 +8,11 @@ Misma grafía normalizada contextual de Cuikapali; no certeza adicional sobre or
 
 Etiquetas agrupadas: Cuicapalli; Cuicapalli (identificación contextual provisional).
 
-Base para revisar equivalencia: [01-004](../capitulos/01.md), [16-014](../capitulos/16.md), [16-015](../capitulos/16.md), [44-001](../capitulos/44.md), [44-003](../capitulos/44.md), [44-004](../capitulos/44.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-047](../capitulos/44.md), [44-048](../capitulos/44.md), [44-049](../capitulos/44.md), [44-050](../capitulos/44.md), [44-055](../capitulos/44.md), [44-056](../capitulos/44.md).
+Base para revisar equivalencia: [01-004](../capitulos/01.md), [16-014](../capitulos/16.md), [16-015](../capitulos/16.md), [44-001](../capitulos/44.md), [44-003](../capitulos/44.md), [44-004](../capitulos/44.md), [44-007](../capitulos/44.md), [44-008](../capitulos/44.md), [44-011](../capitulos/44.md), [44-012](../capitulos/44.md), [44-013](../capitulos/44.md), [44-047](../capitulos/44.md), [44-048](../capitulos/44.md), [44-049](../capitulos/44.md), [44-050](../capitulos/44.md), [44-055](../capitulos/44.md), [44-056](../capitulos/44.md), [50-014](../capitulos/50.md), [50-087](../capitulos/50.md), [50-088](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una comunidad que recibe a los extranjeros
 
@@ -43,6 +43,12 @@ Fuentes: [40-002 · La enfermedad de Triel y el encargo de Leona](../capitulos/4
 Leona y Guayacán mantienen las rondas de vigilancia mientras Eromov sigue enfermo. Tlachka y Ayoto se reúnen con ellos junto a la cocina de Tacha. La llamada urgente de Parroter lleva a los cuatro a buscar espinas en una cueva junto a un lago cercano. Vuelven con el ingrediente y con el cadáver del devorafango. Mientras Tlachka cocina y Ayoto busca ayuda para trabajar el caparazón, el alquimista administra el remedio a Eromov ante sus guardias. Sus venas negras empiezan a menguar. La cura local no demuestra que hayan llegado los expertos esperados de Iktan ni identifica todas las muestras utilizadas.
 
 Fuentes: [44-001 · Leona busca rastros tras su misión de aviso](../capitulos/44.md) · 00:00:47.039 · [44-003 · Guayacán cuida la ciudad en ausencia de Leona](../capitulos/44.md) · 00:02:34.160 · [44-004 · Leona y Guayacán vuelven de las rondas y comen junto a Tlachka](../capitulos/44.md) · 00:03:29.480 · [44-007 · Un guardia lleva a Leona y Guayacán ante Parroter](../capitulos/44.md) · 00:12:48.240 · [44-008 · Eromov sigue postrado y Parroter lo refresca](../capitulos/44.md) · 00:15:35.240 · [44-011 · Las espinas deben extraerse mientras el devorafango vive](../capitulos/44.md) · 00:19:04.039 · [44-012 · Leona recluta a Ayoto y Tlachka para buscar las espinas](../capitulos/44.md) · 00:20:54.760 · [44-013 · Leona recuerda una cueva de su infancia junto a un lago](../capitulos/44.md) · 00:25:46.960 · [44-047 · Ayoto y Tlachka arrastran el cadáver hacia Cuicapalli](../capitulos/44.md) · 01:31:52.080 · [44-048 · Parroter recibe dos espinas y empieza a preparar el remedio](../capitulos/44.md) · 01:36:45.280 · [44-049 · Ayoto pide un artesano del norte y paga a Tacha](../capitulos/44.md) · 01:38:38.760 · [44-050 · Tlachka limpia y cocina la carne con chile](../capitulos/44.md) · 01:40:34.320 · [44-055 · Ayoto reúne el exoesqueleto para encargar un escudo](../capitulos/44.md) · 01:50:19.480 · [44-056 · El remedio de Parroter reduce las venas negras de Eromov](../capitulos/44.md) · 01:53:33.719.
+
+### La ayuda que prepara Walulu
+
+Walulu encarga a los viajeros la búsqueda de resina para ayudar a la población contra el veneno de los yuan-ti. La expedición consigue entregar una muestra escasa en Iktan. El capítulo deja pendiente su traslado o utilización en Cuicapalli.
+
+Fuentes: [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159 · [50-082 · El olor a muerte del árbol difiere de los venenos conocidos](../capitulos/50.md) · 02:10:55.840 · [50-083 · Walulu guarda la muestra bajo el altar](../capitulos/50.md) · 02:11:32.280 · [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000.
 
 ## Registros y evidencias
 
@@ -581,4 +587,28 @@ Tipo: `hecho_confirmado`.
 Ione empieza a avanzar sin saber orientarse. Tras nuevas tiradas, Citlali reconoce caminos de la jungla y sitúa Cuicapalli a varios días hacia el este; recuerda que al norte pueden alcanzar el lago próximo a Iktan. Indica la ruta y el grupo la sigue. El viaje se elide con una improvisación humorística y la siguiente escena efectiva muestra la llegada a Iktan, con plantas coloridas, cabañas de madera y guardias sorprendidos por tantos visitantes.
 
 Los templos, dios infernal, río de pirañas y Pecio mencionados en el montaje se presentan como invención jocosa de la elipsis y no generan aventuras, muertes o fichas revisadas. No se fijan días exactos ni coordenadas del recorrido.
+
+## [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159
+
+Tipo: `hecho_confirmado`.
+
+Walulu encarga al grupo un poco de resina del Gran Árbol Anciano. Cree que les permitirá ayudar a Cuicapalli frente al veneno de los yuan-ti. Oghma pregunta por la recompensa y acepta cuando Walulu promete pagarles el trabajo. Tentacol comunica la conformidad de Chopito. Walulu los esperará en el templo.
+
+En el encargo no se acuerdan importe, dosis o receta ni se prueba la eficacia del ingrediente.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
 

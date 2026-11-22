@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-024](../capitulos/48.md), [48-025](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El jade y el equipo del elfo
 

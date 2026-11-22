@@ -8,11 +8,11 @@ Niño harengon rescatado en el capítulo 21 y protegido por Naór en el 31. La c
 
 Etiquetas agrupadas: Leo (conejo protegido por Naór); Leo (niño harengon).
 
-Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-019](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-031](../capitulos/48.md), [48-118](../capitulos/48.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md).
+Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-019](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-031](../capitulos/48.md), [48-118](../capitulos/48.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md), [50-016](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un niño que esperaba a sus padres
 
@@ -61,6 +61,12 @@ Fuentes: [48-019 · Walulu insiste en los motivos para que Naór se calme](../ca
 Naór decide guardar para él un colmillo de la serpiente y deja la exploración para recogerlo. Leo permanece en la puerta del colegio junto a una mujer felina con libros y carpetas, que espera con impaciencia y anuncia otro retraso de su madre. La narración no muestra todavía el reencuentro ni la recepción del regalo.
 
 Fuentes: [48-118 · Naór conserva un colmillo para Leo](../capitulos/48.md) · 03:06:51.880 · [48-120 · Naór deja la investigación para recoger a Leo](../capitulos/48.md) · 03:08:22.880 · [48-129 · Leo espera y Naór sigue corriendo por la jungla](../capitulos/48.md) · 03:22:36.840.
+
+### Otra vez en clase
+
+Tortas sorprende al grupo en el colegio mientras busca a Walulu. Los otros alumnos se inclinan siguiendo el ejemplo de Miausi, pero Leo lo saluda con naturalidad. Tortas le devuelve el saludo.
+
+Fuentes: [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880.
 
 ## Registros y evidencias
 
@@ -495,4 +501,12 @@ Tipo: `explicacion_director`.
 En la puerta del colegio de Iktan una mujer felina espera impaciente con libros y carpetas, acompañada por Leo. Dice que su madre volverá a llegar tarde. Al mismo tiempo Naór corre a toda prisa por la jungla, apartando ramas de su cara e insistiendo en que ya llega. La sesión termina antes del encuentro.
 
 La mujer no recibe nombre en este epílogo; no se la identifica automáticamente con Miaussy o Miausi. No se representa la entrega del colmillo, la recogida de Leo o una reunión de madres.
+
+## [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880
+
+Tipo: `hecho_confirmado`.
+
+De camino al templo, Tortas abre la puerta del colegio. La profesora Miausi le hace una reverencia y los niños la imitan. Leo es la excepción: le saluda con la mano y Tortas le devuelve el saludo antes de cerrar.
+
+La profesora no se identifica aquí como directora. La escena tampoco representa una reunión de madres.
 

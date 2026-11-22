@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-082](../capitulos/47.md), [47-085](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La consulta sobre el ritual protector
 

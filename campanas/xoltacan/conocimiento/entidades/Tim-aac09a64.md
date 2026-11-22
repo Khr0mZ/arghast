@@ -12,7 +12,7 @@ Base para revisar equivalencia: [34-006](../capitulos/34.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La búsqueda del huevo termina en una muerte
 

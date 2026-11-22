@@ -56,6 +56,15 @@ class EmissionDatesTests(unittest.TestCase):
         self.assertEqual(corrected['titulo'], 'Abastecimiento')
         self.assertTrue(corrected['confirmada_por_usuario'])
 
+    def test_chapter_50_requires_the_confirmed_correspondence(self):
+        ref = '1535348824992649227'
+        chapter = self.dates[50]
+        self.assertEqual(chapter['twitch']['fuentes'], [ref])
+        self.assertEqual(chapter['twitch']['fecha'], '2026-08-07')
+        self.assertEqual(chapter['youtube']['fecha'], '2026-11-22')
+        with self.assertRaisesRegex(ValueError, 'Número del directo'):
+            self.mutated(lambda d: d['correspondencias_avisos'][ref].update(confirmada_por_usuario=False))
+
     def test_late_youtube_notice_does_not_replace_publication(self):
         chapter = self.dates[1]
         self.assertEqual(chapter['youtube']['fecha'], '2026-04-07')

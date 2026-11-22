@@ -8,11 +8,11 @@ Proyecto y negocio posterior son fases de la misma iniciativa de Kilzer y Nox. L
 
 Etiquetas agrupadas: Casino de Kilzer; Casino propuesto de Shiaru.
 
-Base para revisar equivalencia: [11-031](../capitulos/11.md), [13-011](../capitulos/13.md), [17-001](../capitulos/17.md), [17-002](../capitulos/17.md), [29-002](../capitulos/29.md), [49-004](../capitulos/49.md), [49-005](../capitulos/49.md), [49-006](../capitulos/49.md).
+Base para revisar equivalencia: [11-031](../capitulos/11.md), [13-011](../capitulos/13.md), [17-001](../capitulos/17.md), [17-002](../capitulos/17.md), [29-002](../capitulos/29.md), [49-004](../capitulos/49.md), [49-005](../capitulos/49.md), [49-006](../capitulos/49.md), [50-011](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un proyecto que necesita permiso pirata
 
@@ -113,4 +113,12 @@ Tipo: `explicacion_director`.
 Al situar el regreso de Kilzer, el director establece que los nuevos piratas destrozaron su casino y que la granja de Patata también estaba totalmente destruida. Kilzer tuvo que abandonar Shiaru y adentrarse en la jungla.
 
 Destrucción expresamente narrada. No acredita una apertura comercial anterior del casino, beneficios, indemnización o ruina de todos los bienes de Shiaru.
+
+## [50-011 · Los «primos» podrían estar en la taberna](../capitulos/50.md) · 00:13:07.959
+
+Tipo: `declaracion_personaje`.
+
+Oghma describe a sus presuntos familiares como gente con mucho dinero que lo pierde fácilmente. Surgen la reina de Perlasal y el tiefling que tenía un casino. Oghma dice que prepara la estancia de un duque, se corrige a conde y encamina al grupo hacia la taberna.
+
+El antiguo propietario se reconoce por el casino. Nadie comprueba su fortuna ni la de la reina.
 

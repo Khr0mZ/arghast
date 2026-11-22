@@ -8,11 +8,11 @@ Ivet/Irbet/Irvete/Irbetta se enlazan por localidad, función y continuidad con M
 
 Etiquetas agrupadas: Ivet / Irbet (oficiante de Perlasal, grafía provisional).
 
-Base para revisar equivalencia: [29-020](../capitulos/29.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [45-078](../capitulos/45.md).
+Base para revisar equivalencia: [29-020](../capitulos/29.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [45-078](../capitulos/45.md), [50-088](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La desconfianza de Perlasal
 
@@ -99,4 +99,12 @@ Tipo: `hecho_confirmado`.
 Ivet vuelve al altar del templo para recitar salmos en Aquan ante su pueblo y permite a los visitantes permanecer. Tortas sigue buscando una piedra que le guste. Triel se aparta hacia dos sirenos que llevan una criatura parecida a un caballo con cola marina y pregunta si puede probarla. El capítulo termina antes de que la monte o reciba una respuesta.
 
 Los comentarios sobre plegarias a Chopito son bromas del personaje, no la identificación del culto de Ivet. El animal no recibe nombre ni se convierte en una montura adquirida por Triel.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
 

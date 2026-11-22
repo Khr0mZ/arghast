@@ -2516,7 +2516,18 @@ window.createArchiveEditor=function({data,campaignId,content,refresh,lettering})
   }
   function roleView(rawId) {
     const [id,messageId]=rawId.split('/');
-    const scene=roleScenes().find(item=>item.id===id);if(!scene)return missing();
+    const scenes=roleScenes();
+    let scene=scenes.find(item=>item.id===id);if(!scene)return missing();
+    // Un enlace guardado puede preceder a la división de una conversación entre dos capítulos.
+    if(scene.unidad_revision && /^\d+$/.test(messageId||'')){
+      const target=BigInt(messageId);
+      for(const part of scenes){
+        if(part.unidad_revision===scene.unidad_revision && part.inicio_utc>scene.inicio_utc && BigInt(part.id.slice(2))<=target){
+          scene=part;
+        }
+      }
+      if(scene.id!==id)history.replaceState(null,'',roleRoute(scene)+'/'+messageId);
+    }
     heading(scene.titulo||'Interacción escrita',sections.capitulos+' · Rol escrito');
     const interval=scene.intervalo||{},sources=scene.fuentes||[];
     const status={cerrada:'Escena cerrada',abierta:'Escena abierta; no consta un cierre en los mensajes conservados.',continuacion:'Continuación de una escena escrita.'}[scene.estado]||'Escena escrita';

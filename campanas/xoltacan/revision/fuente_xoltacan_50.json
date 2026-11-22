@@ -1,0 +1,194 @@
+{
+  "capitulo": 50,
+  "id": "QkUmNIOuyQI",
+  "title": "D&D Aventuras en Xoltacan - Capítulo 50 - Abastecimiento",
+  "duration": 8729,
+  "channel": "Lichpol",
+  "channel_id": "UCWJ11LdxIuDJpbknXpSPgeg",
+  "webpage_url": "https://www.youtube.com/watch?v=QkUmNIOuyQI",
+  "upload_date": "20261122",
+  "recuperado_el": "2026-11-22",
+  "herramienta": "yt-dlp",
+  "version": "2026.08.19",
+  "originales": {
+    "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es-orig.txt": {
+      "bytes": 137003,
+      "sha256": "ea919fa80f4f94de9e0b1497e4d338f9f324c6f7bf65252044b0b0c294bc1f30"
+    },
+    "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es-orig.vtt": {
+      "bytes": 898575,
+      "sha256": "ac1b3bdef307f2adcc9777982576c5a43c67b806bdc5afca0b8c56ac694d3063"
+    },
+    "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es.txt": {
+      "bytes": 137003,
+      "sha256": "ea919fa80f4f94de9e0b1497e4d338f9f324c6f7bf65252044b0b0c294bc1f30"
+    },
+    "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.es.vtt": {
+      "bytes": 898575,
+      "sha256": "ac1b3bdef307f2adcc9777982576c5a43c67b806bdc5afca0b8c56ac694d3063"
+    },
+    "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.info.json": {
+      "bytes": 547952,
+      "sha256": "dfd0cab92a953660917bd465c10c2ca830e47372a7b8f7d4ab0806899eed6156"
+    }
+  },
+  "lectura_integral": true,
+  "bloques": [
+    {
+      "bloque": 1,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c002067",
+      "inicio": "00:00:00.160",
+      "fin": "00:47:50.230",
+      "segmentos": 1034,
+      "palabras": 5818,
+      "lectura_completa": true,
+      "evidencias": [
+        "50-001",
+        "50-033"
+      ],
+      "etapas": 7
+    },
+    {
+      "bloque": 2,
+      "primer_segmento": "c002069",
+      "ultimo_segmento": "c004135",
+      "inicio": "00:47:50.240",
+      "fin": "01:37:35.270",
+      "segmentos": 1034,
+      "palabras": 5568,
+      "lectura_completa": true,
+      "evidencias": [
+        "50-034",
+        "50-060"
+      ],
+      "etapas": 6
+    },
+    {
+      "bloque": 3,
+      "primer_segmento": "c004137",
+      "ultimo_segmento": "c006201",
+      "inicio": "01:37:35.280",
+      "fin": "02:25:31.240",
+      "segmentos": 1033,
+      "palabras": 5666,
+      "lectura_completa": true,
+      "evidencias": [
+        "50-061",
+        "50-094"
+      ],
+      "etapas": 8
+    }
+  ],
+  "total_segmentos": 3101,
+  "audio_cotejado": false,
+  "integracion": {
+    "etapas": 21,
+    "evidencias": 94,
+    "fichas_nuevas": [
+      "Madame Oghma",
+      "Gran Árbol Anciano",
+      "Resina del Gran Árbol Anciano",
+      "Planta de cadáveres del árbol",
+      "Lianas y zombis del Gran Árbol Anciano",
+      "Sello que usa Madame Oghma",
+      "Tatuaje del brazo de Tryel",
+      "Espada invocada de Oghma"
+    ],
+    "preguntas_previas_cotejadas": 309,
+    "actualizaciones": {
+      "P16-004": [
+        "50-085",
+        "50-087",
+        "50-088"
+      ],
+      "P17-001": [
+        "50-087"
+      ],
+      "P17-002": [
+        "50-088"
+      ],
+      "P17-003": [
+        "50-085",
+        "50-087",
+        "50-088"
+      ],
+      "P31-006": [
+        "50-018"
+      ],
+      "P39-004": [
+        "50-013",
+        "50-014"
+      ],
+      "P40-005": [
+        "50-015",
+        "50-075"
+      ],
+      "P40-006": [
+        "50-013",
+        "50-014",
+        "50-076",
+        "50-083"
+      ],
+      "P46-008": [
+        "50-016"
+      ],
+      "P47-008": [
+        "50-020",
+        "50-021",
+        "50-022",
+        "50-078",
+        "50-079"
+      ],
+      "P48-003": [
+        "50-092"
+      ]
+    },
+    "preguntas_nuevas": [
+      "P50-001",
+      "P50-002",
+      "P50-003",
+      "P50-004"
+    ]
+  },
+  "rol": {
+    "twitch": "2026-08-07",
+    "aviso": "1535348824992649227",
+    "fin_estimado_utc": "2026-08-07T20:28:31Z",
+    "unidad": "x-1535034920198607038",
+    "partes": [
+      {
+        "id": "x-1535034920198607038",
+        "mensajes": 15,
+        "entre": [
+          49,
+          50
+        ]
+      },
+      {
+        "id": "x-1535388630367867000",
+        "mensajes": 73,
+        "entre": [
+          50,
+          51
+        ]
+      }
+    ],
+    "escenas_totales": 326,
+    "mensajes_totales": 6723
+  },
+  "verificacion_local": {
+    "capitulos_revisados": 50,
+    "registros": 1803,
+    "preguntas": 313,
+    "pendientes_de_cotejo": 0,
+    "fuentes_de_transcripcion_verificadas": 200,
+    "originales_verificados_con_zip_inicial": 156,
+    "fichas_anteriores_intactas": 49,
+    "enlaces_de_preguntas_a_mensajes_comprobados": 74,
+    "pruebas_unitarias": 103,
+    "comprobaciones_del_visor": 320,
+    "comprobaciones_del_rol": 183,
+    "comprobaciones_de_edicion": 35
+  }
+}

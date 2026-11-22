@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-023](../capitulos/41.md), [41-027](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El lugar de los viales y la emboscada
 

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### El gruñido junto al rito
 

@@ -1,0 +1,99 @@
+{
+  "version": 1,
+  "revisado_hasta": 50,
+  "preguntas": [
+    {
+      "id": "P50-001",
+      "capitulo": 50,
+      "indice": 1,
+      "pregunta": "¿Quiénes eran los muertos del Gran Árbol Anciano y qué causó la infestación?",
+      "revisado_hasta": 50,
+      "estado": "pendiente",
+      "respuesta": "Hay restos enterrados, una planta que expulsa zombis y lianas que se mueven incluso tras su muerte. El grupo aventuró la posibilidad de un ritual ante Walulu. Ella no pudo identificar al responsable.",
+      "referencias": [
+        "50-038",
+        "50-046",
+        "50-050",
+        "50-081",
+        "50-082",
+        "50-089"
+      ],
+      "pendiente": "Identidades de los muertos, origen de la corrupción y posible vínculo con otras amenazas."
+    },
+    {
+      "id": "P50-002",
+      "capitulo": 50,
+      "indice": 2,
+      "pregunta": "¿Bastará la resina que recogió Tortas para ayudar a Cuicapalli y podrá obtenerse más?",
+      "revisado_hasta": 50,
+      "estado": "pendiente",
+      "respuesta": "Solo una rama alta conserva savia sana. Tortas recoge una pequeña cantidad y Walulu la guarda bajo el altar. El remedio que Parroter ya administró a Eromov en el capítulo 44 tenía otra procedencia.",
+      "referencias": [
+        "50-014",
+        "50-074",
+        "50-075",
+        "50-076",
+        "50-077",
+        "50-082",
+        "50-083"
+      ],
+      "pendiente": "La disponibilidad de nuevas muestras y el resultado de emplear esta savia."
+    },
+    {
+      "id": "P50-003",
+      "capitulo": 50,
+      "indice": 3,
+      "pregunta": "¿Qué respuesta recibirá Walulu cuando comunique la pérdida del árbol a Naór y a los otros líderes?",
+      "revisado_hasta": 50,
+      "estado": "pendiente",
+      "respuesta": "Walulu anuncia que hablará con los líderes y con Naór. En privado explica a Tortas los contactos de la enviada con los dirigentes de Cuicapalli, Perlasal y Ras Racor.",
+      "referencias": [
+        "50-083",
+        "50-085",
+        "50-087",
+        "50-088"
+      ],
+      "pendiente": "Las consultas sobre la pérdida del árbol y las acciones que acuerden."
+    },
+    {
+      "id": "P50-004",
+      "capitulo": 50,
+      "indice": 4,
+      "pregunta": "¿Cómo cumplirá Oghma lo que prometió a Angelique en nombre del conde?",
+      "revisado_hasta": 50,
+      "estado": "pendiente",
+      "respuesta": "Angelique le reserva cama y le sirve vino a cambio de una futura presentación. Después, en el rol escrito, Oghma dice que ella misma solía interpretar al conde Moor, propone que Coyote asuma el papel y le entrega un anillo de sello. Coyote acepta. La mención posterior de la taberna muestra que la anfitriona todavía espera la visita.",
+      "referencias": [
+        "50-019",
+        "50-086",
+        "50-091",
+        "50-092",
+        "50-093"
+      ],
+      "pendiente": "Una presentación efectiva a Angelique y la liquidación de los gastos que Oghma se ofreció a sellar.",
+      "fuentes_rol": [
+        {
+          "escena": "x-1537587717364387901",
+          "mensaje_id": "1537598638543470613",
+          "descripcion": "Oghma explica a Coyote quién interpretaba al conde.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1537598638543470613",
+          "texto_sha256": "3a7b33dc67ca9c636c87461daf65488c191102c126849bc70daf00b0400477a7"
+        },
+        {
+          "escena": "x-1537587717364387901",
+          "mensaje_id": "1537600008059101274",
+          "descripcion": "Coyote acepta el papel.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1537600008059101274",
+          "texto_sha256": "03e377f2ec7904c82e32acb6b5480463aba906149b4abdfae66df93a54454917"
+        },
+        {
+          "escena": "x-1537587717364387901",
+          "mensaje_id": "1537601844149493780",
+          "descripcion": "La habitación y el anillo con la M.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1537601844149493780",
+          "texto_sha256": "9b8e7e5148d9d7d2240ec8f4cc63d9cbecdaf7caca446b489e7aaa6a19b638ca"
+        }
+      ]
+    }
+  ]
+}

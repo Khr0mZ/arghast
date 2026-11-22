@@ -8,11 +8,11 @@ Grafía provisional. La presentación Tenta y la continuidad con el pulpo enlaza
 
 Etiquetas agrupadas: Tentacol / Tentac (viajero acuático, grafía provisional); Tentacol; Tentac; Tenta.
 
-Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-008](../capitulos/41.md), [41-010](../capitulos/41.md), [41-022](../capitulos/41.md), [41-029](../capitulos/41.md), [41-049](../capitulos/41.md), [45-001](../capitulos/45.md), [45-005](../capitulos/45.md), [45-006](../capitulos/45.md), [45-016](../capitulos/45.md), [45-018](../capitulos/45.md), [45-021](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-034](../capitulos/45.md), [45-037](../capitulos/45.md), [45-039](../capitulos/45.md), [45-041](../capitulos/45.md), [45-044](../capitulos/45.md), [45-045](../capitulos/45.md), [45-046](../capitulos/45.md), [45-048](../capitulos/45.md), [45-052](../capitulos/45.md), [45-057](../capitulos/45.md), [45-058](../capitulos/45.md), [45-059](../capitulos/45.md), [45-063](../capitulos/45.md), [45-066](../capitulos/45.md), [45-069](../capitulos/45.md), [45-070](../capitulos/45.md), [45-072](../capitulos/45.md), [45-074](../capitulos/45.md), [47-003](../capitulos/47.md), [47-011](../capitulos/47.md), [47-012](../capitulos/47.md), [47-013](../capitulos/47.md), [47-014](../capitulos/47.md), [47-015](../capitulos/47.md), [47-021](../capitulos/47.md), [47-028](../capitulos/47.md), [47-029](../capitulos/47.md), [47-036](../capitulos/47.md), [47-039](../capitulos/47.md), [47-044](../capitulos/47.md), [47-047](../capitulos/47.md), [47-053](../capitulos/47.md), [47-057](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-043](../capitulos/47.md), [47-061](../capitulos/47.md), [47-066](../capitulos/47.md), [47-068](../capitulos/47.md), [47-071](../capitulos/47.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md).
+Base para revisar equivalencia: [41-006](../capitulos/41.md), [41-008](../capitulos/41.md), [41-010](../capitulos/41.md), [41-022](../capitulos/41.md), [41-029](../capitulos/41.md), [41-049](../capitulos/41.md), [45-001](../capitulos/45.md), [45-005](../capitulos/45.md), [45-006](../capitulos/45.md), [45-016](../capitulos/45.md), [45-018](../capitulos/45.md), [45-021](../capitulos/45.md), [45-027](../capitulos/45.md), [45-028](../capitulos/45.md), [45-030](../capitulos/45.md), [45-034](../capitulos/45.md), [45-037](../capitulos/45.md), [45-039](../capitulos/45.md), [45-041](../capitulos/45.md), [45-044](../capitulos/45.md), [45-045](../capitulos/45.md), [45-046](../capitulos/45.md), [45-048](../capitulos/45.md), [45-052](../capitulos/45.md), [45-057](../capitulos/45.md), [45-058](../capitulos/45.md), [45-059](../capitulos/45.md), [45-063](../capitulos/45.md), [45-066](../capitulos/45.md), [45-069](../capitulos/45.md), [45-070](../capitulos/45.md), [45-072](../capitulos/45.md), [45-074](../capitulos/45.md), [47-003](../capitulos/47.md), [47-011](../capitulos/47.md), [47-012](../capitulos/47.md), [47-013](../capitulos/47.md), [47-014](../capitulos/47.md), [47-015](../capitulos/47.md), [47-021](../capitulos/47.md), [47-028](../capitulos/47.md), [47-029](../capitulos/47.md), [47-036](../capitulos/47.md), [47-039](../capitulos/47.md), [47-044](../capitulos/47.md), [47-047](../capitulos/47.md), [47-053](../capitulos/47.md), [47-057](../capitulos/47.md), [47-038](../capitulos/47.md), [47-042](../capitulos/47.md), [47-043](../capitulos/47.md), [47-061](../capitulos/47.md), [47-066](../capitulos/47.md), [47-068](../capitulos/47.md), [47-071](../capitulos/47.md), [47-078](../capitulos/47.md), [47-089](../capitulos/47.md), [50-001](../capitulos/50.md), [50-007](../capitulos/50.md), [50-008](../capitulos/50.md), [50-009](../capitulos/50.md), [50-010](../capitulos/50.md), [50-011](../capitulos/50.md), [50-014](../capitulos/50.md), [50-022](../capitulos/50.md), [50-027](../capitulos/50.md), [50-030](../capitulos/50.md), [50-035](../capitulos/50.md), [50-036](../capitulos/50.md), [50-038](../capitulos/50.md), [50-042](../capitulos/50.md), [50-047](../capitulos/50.md), [50-051](../capitulos/50.md), [50-052](../capitulos/50.md), [50-055](../capitulos/50.md), [50-056](../capitulos/50.md), [50-060](../capitulos/50.md), [50-061](../capitulos/50.md), [50-065](../capitulos/50.md), [50-069](../capitulos/50.md), [50-074](../capitulos/50.md), [50-084](../capitulos/50.md), [50-087](../capitulos/50.md), [50-094](../capitulos/50.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un viajero de las aguas profundas
 
@@ -61,6 +61,12 @@ Fuentes: [47-038 · Una voz implanta la necesidad de atraer a dos elfos](../capi
 Tentacol abre el frasco para que Chopito salga a hablar con Tesara. Queda atrapado por las raíces, pregunta al dragón qué recompensa podría ofrecer y escucha la propuesta sobre Perlasal. Al volver a Iktan se queda con Tortas y el pulpo para imitar la meditación. En el cierre se muestra como una roca sobre la que se coloca Chopito.
 
 Fuentes: [47-066 · Chopito abofetea a Tesara y cuestiona su alarma](../capitulos/47.md) · 01:40:45.000 · [47-068 · Las raíces inmovilizan al grupo](../capitulos/47.md) · 01:44:52.920 · [47-071 · Chopito rechaza que le ofrezcan Perlasal](../capitulos/47.md) · 01:49:04.280 · [47-078 · Tentacol y Chopito imitan la meditación de Tortas](../capitulos/47.md) · 01:59:07.079 · [47-089 · La imitación de Tortas se presenta como una apariencia de piedra](../capitulos/47.md) · 02:16:25.119.
+
+### Del agua a las raíces
+
+Tentacol acompaña a los recolectores, intenta explicar a Oghma qué ha tocado y pelea envuelto en oscuridad. Una liana consigue apresarlo. Se libera y su tentáculo amortigua un golpe que recibe la anciana. Más tarde prueba la corteza con la daga y solo obtiene líquido negro. Tras el reparto de la recompensa, él y Chopito regresan al lago.
+
+Fuentes: [50-027 · Tortas adquiere una cola prensil y Tentacol, savia curativa](../capitulos/50.md) · 00:37:02.480 · [50-035 · Oghma mete la mano en la secreción](../capitulos/50.md) · 00:49:30.680 · [50-042 · Tentacol oscurece su silueta y congela una hoja](../capitulos/50.md) · 01:00:28.400 · [50-051 · Las lianas alcanzan a Tentacol pese a la oscuridad](../capitulos/50.md) · 01:18:34.480 · [50-052 · Tentacol incapacita a la liana y se suelta](../capitulos/50.md) · 01:20:34.280 · [50-060 · El golpe despierta a Oghma y el tentáculo amortigua el daño](../capitulos/50.md) · 01:36:03.360 · [50-074 · El corte de Tentacol en la corteza rezuma el mismo líquido oscuro](../capitulos/50.md) · 01:59:28.679 · [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760.
 
 ## Registros y evidencias
 
@@ -887,4 +893,220 @@ Tipo: `declaracion_personaje`.
 Patata intenta cortejar a la encargada, que deriva la conversación hacia un recién llegado de torso desnudo, herida y chispas. Dice que estuvo con él el día anterior, promete presentárselo y finalmente lo nombra Zoltan. Lo describe mientras Patata sigue en la taberna; Tesara y el felino regresan de hablar con Walulu y Chopito continúa la imitación de Tortas en el cierre.
 
 No se representa una nueva aparición de Zoltan ni la presentación prometida. La expresión «ayer» pertenece al testimonio de Angelique; no sirve por sí sola para cerrar un calendario. Las comparaciones de mesa con otros personajes o campañas no incorporan sus identidades a Xoltacan.
+
+## [50-001 · Tenta recuerda la espera con Chopito](../capitulos/50.md) · 00:00:23.800
+
+Tipo: `declaracion_personaje`.
+
+Tentacol recuerda que él y Chopito se quedaron junto a una figura con forma de tortuga. En su relato, Chopito llegó a dejarse barba y después se afeitó.
+
+Lo del resfriado se cuenta en broma y con dudas.
+
+## [50-007 · Tryel conduce a Oghma hasta la roca de Tortas](../capitulos/50.md) · 00:06:46.080
+
+Tipo: `hecho_confirmado`.
+
+La elfa atraviesa con su acompañante una zona donde el suelo parece muerto y algunas construcciones parecen derretidas. Al fondo está Tortas sobre su gran roca. Lo acompañan Tentacol y el pequeño pulpo que lleva en su frasco.
+
+La descripción del barrio no establece la causa de los daños.
+
+## [50-008 · Chopito prueba el camino de la paciencia](../capitulos/50.md) · 00:08:00.520
+
+Tipo: `hecho_confirmado`.
+
+Con una barba hecha mediante prestidigitación, Chopito se dispone a meditar. Tentacol duda de la lección, pero su maestro insiste en que un villano también necesita aprender. Tortas entiende el aquan de Chopito y le dice que la paciencia no es para villanos. El pulpo se justifica diciendo que viene de una villa.
+
+La escena muestra que Tortas entiende aquan, sin extender esa capacidad a Oghma.
+
+## [50-009 · Tryel explica por qué su hermano lleva el dinero](../capitulos/50.md) · 00:09:15.040
+
+Tipo: `declaracion_personaje`.
+
+Presentada a los dos compañeros y a Tortas, Oghma pregunta por un conde y admite que necesita dinero para cerveza. Tryel explica que pierde o regala sus monedas y que por eso su hermano las lleva por ella. El grupo se ofrece a ayudar a la recién llegada a buscar a sus supuestos primos.
+
+Lo que se sabe de la administración del dinero procede de Tryel. El conde no aparece.
+
+## [50-010 · Oghma se presenta y le hace una reverencia a Chopito](../capitulos/50.md) · 00:11:13.240
+
+Tipo: `hecho_confirmado`.
+
+Tryel presenta al anciano como un maestro y, al oído de la visitante, describe a Tentacol y Chopito como grandes villanos. Oghma da su nombre con una reverencia. Tentacol le traduce el agrado de su maestro y Tortas devuelve el saludo a su ritmo.
+
+«Villanos» es la presentación que hace Tryel.
+
+## [50-011 · Los «primos» podrían estar en la taberna](../capitulos/50.md) · 00:13:07.959
+
+Tipo: `declaracion_personaje`.
+
+Oghma describe a sus presuntos familiares como gente con mucho dinero que lo pierde fácilmente. Surgen la reina de Perlasal y el tiefling que tenía un casino. Oghma dice que prepara la estancia de un duque, se corrige a conde y encamina al grupo hacia la taberna.
+
+El antiguo propietario se reconoce por el casino. Nadie comprueba su fortuna ni la de la reina.
+
+## [50-014 · El encargo es conseguir resina para ayudar a Cuicapalli](../capitulos/50.md) · 00:18:34.159
+
+Tipo: `hecho_confirmado`.
+
+Walulu encarga al grupo un poco de resina del Gran Árbol Anciano. Cree que les permitirá ayudar a Cuicapalli frente al veneno de los yuan-ti. Oghma pregunta por la recompensa y acepta cuando Walulu promete pagarles el trabajo. Tentacol comunica la conformidad de Chopito. Walulu los esperará en el templo.
+
+En el encargo no se acuerdan importe, dosis o receta ni se prueba la eficacia del ingrediente.
+
+## [50-022 · Oghma, Tryel y Chopito completan el disfraz](../capitulos/50.md) · 00:29:29.760
+
+Tipo: `hecho_confirmado`.
+
+Oghma recoge el cabello de Tryel y le acomoda la ropa para taparle mejor la cara. Tortas señala que su piel aún la delata. La muchacha se embadurna de barro y pide a Chopito que además la cubra de tinta. Su acompañante explica que el pulpo necesita una hora de descanso entre descargas.
+
+No se demuestra cuánto dura el disfraz ni cómo reaccionaría Clolgedranx al verlo.
+
+## [50-027 · Tortas adquiere una cola prensil y Tentacol, savia curativa](../capitulos/50.md) · 00:37:02.480
+
+Tipo: `explicacion_director`.
+
+Tortas come despacio una fruta que cuelga de un árbol y su cola se alarga hasta poder sujetar objetos. A Tentacol le rezuma de los dedos una savia con la que puede curar por contacto. El director recuerda a los jugadores que los efectos duran toda la partida.
+
+La curación de un dado de seis es una capacidad concedida; en esta escena todavía no se aplica a una herida.
+
+## [50-030 · La isla hace inclinarse a Tortas, Tentacol y Chopito](../capitulos/50.md) · 00:41:01.280
+
+Tipo: `explicacion_director`.
+
+Una vez en el islote, los compañeros ven ramas que entran y vuelven a salir del tronco. En presencia del árbol, Tortas, Tentacol y Chopito sienten que algo los obliga a bajar la cabeza. La maldición procedente de la encuesta se traduce en desventaja al atacar a las cosas de la isla. Tentacol lo interpreta como una chepa y Tortas como dolor de rodilla.
+
+El director distingue a Tryel de los objetivos afectados por la desventaja. Oghma no figura entre quienes reciben la maldición.
+
+## [50-035 · Oghma mete la mano en la secreción](../capitulos/50.md) · 00:49:30.680
+
+Tipo: `hecho_confirmado`.
+
+Oghma ayuda a investigar introduciendo la mano en el líquido maloliente. Tentacol y Chopito la observan. La mezcla contiene materia de cuerpos en descomposición, barro y hojas. Gotea de la mano y por el momento no produce un efecto visible en la piel.
+
+Solo comprueban el efecto inmediato visible. La ocurrencia sobre el petróleo es una broma.
+
+## [50-036 · La explicación de Chopito depende de quién pueda entenderlo](../capitulos/50.md) · 00:51:04.559
+
+Tipo: `explicacion_director`.
+
+Tentacol advierte a la señora que está tocando secreciones de materia orgánica. Chopito lo traduce a palabras más sencillas. La mesa aclara que su habla suena a burbujas para quien no entienda su lengua, y se corrige el intercambio con Oghma, que señala el terran.
+
+La réplica no prueba que Oghma entienda la lengua de Chopito.
+
+## [50-038 · Del hueco sale una planta repleta de cuerpos](../capitulos/50.md) · 00:53:45.480
+
+Tipo: `hecho_confirmado`.
+
+Tentacol toma distancia. Tryel todavía observa las ramas cuando estas se alzan, resquebrajan el tronco y dejan salir una bolsa vegetal con calaveras y cuerpos en descomposición. A los viajeros les llegan gemidos guturales desde esos restos.
+
+Los sonidos se atribuyen a los cuerpos que asoman de la planta. No se identifica a las víctimas.
+
+## [50-042 · Tentacol oscurece su silueta y congela una hoja](../capitulos/50.md) · 01:00:28.400
+
+Tipo: `hecho_confirmado`.
+
+Tentacol se envuelve en sombras. Explica que su cuerpo pasa a verse como oscuridad y que la luz brillante se atenúa cerca. Invoca además un tentáculo que alcanza a la planta con frío. Una de sus hojas empieza a congelarse.
+
+La mesa distingue esta oscuridad de la invisibilidad. El conjuro por sí solo no daña a la planta al lanzarse.
+
+## [50-047 · Tentacol aprovecha la oscuridad frente a la planta](../capitulos/50.md) · 01:11:16.640
+
+Tipo: `hecho_confirmado`.
+
+Tentacol dirige sus dos rayos contra la planta sin empujarla. Al resolver el ataque, su ocultación compensa la desventaja de la maldición. Intenta alcanzar otra vez al enemigo con el tentáculo, falla y lo mueve de sitio.
+
+La maldición se aplica al ataque de Tentacol. No se identifica con una de las amenazas antiguas de la campaña.
+
+## [50-051 · Las lianas alcanzan a Tentacol pese a la oscuridad](../capitulos/50.md) · 01:18:34.480
+
+Tipo: `hecho_confirmado`.
+
+Oghma mueve los pies y logra evitar las lianas que intentan agarrarla por el tobillo. Otra planta localiza a Tentacol por su percepción a ciegas. Sus raíces le hacen daño y lo aprisionan, aunque consigue mantener la concentración. Al volver el turno al zombi que atacó Tortas, sigue aturdido.
+
+Las plantas menores siguen activas después de la muerte de la planta central. Mantener la concentración no lo libera del agarre.
+
+## [50-052 · Tentacol incapacita a la liana y se suelta](../capitulos/50.md) · 01:20:34.280
+
+Tipo: `hecho_confirmado`.
+
+Atrapado, Tentacol fuerza a la liana a resistir un conjuro. Le inflige veintiún puntos de daño y la deja incapacitada hasta el comienzo de su siguiente turno. Las raíces lo sueltan. Puede alejarse y volver a atacar con su tentáculo.
+
+El estado adjudicado es incapacitación temporal, no muerte de la liana.
+
+## [50-055 · Oghma cubre a Tryel y un zombi desprende polvo verde](../capitulos/50.md) · 01:26:59.800
+
+Tipo: `hecho_confirmado`.
+
+Oghma decide repartir los rayos entre dos zombis próximos al eco y a la elfa. Uno cae y desprende polvo verdoso con un olor semejante al de la planta. Oghma intercambia su posición con el eco para cubrir a Tryel. La liana incapacitada pierde su turno.
+
+El director confirma la caída de uno de los dos objetivos.
+
+## [50-056 · Tortas resiste el olor que desprenden los zombis](../capitulos/50.md) · 01:29:18.760
+
+Tipo: `hecho_confirmado`.
+
+Tentacol adelanta su tentáculo para atacar y se repliega rodeado de oscuridad. Un zombi se aproxima a Tortas e intenta golpearlo sin éxito. El olor resulta nauseabundo, pero el monje supera la prueba y permanece en pie.
+
+El éxito de Tortas en esta prueba no establece inmunidad al olor.
+
+## [50-060 · El golpe despierta a Oghma y el tentáculo amortigua el daño](../capitulos/50.md) · 01:36:03.360
+
+Tipo: `hecho_confirmado`.
+
+Un zombi alcanza a Oghma mientras yace indefensa. El golpe la devuelve en sí y encuentra al atacante encima de ella. Tentacol interviene con una reacción de su tentáculo. El director resta seis puntos al daño. A continuación las raíces vuelven a buscar a Tortas.
+
+La corrección de seis puntos representa daño evitado. El resultado del intento de las raíces corresponde al tramo siguiente.
+
+## [50-061 · Los disparos abren distancia entre las plantas y sus presas](../capitulos/50.md) · 01:37:35.280
+
+Tipo: `hecho_confirmado`.
+
+Una planta sujeta a Tortas mientras un zombi intenta golpear sin éxito a Oghma en el suelo. El tentáculo de Tentacol alcanza a un zombi con frío y sus disparos empujan a un adversario que apenas consigue avanzar.
+
+No se atribuye daño de frío a todos los disparos.
+
+## [50-065 · Tryel interviene cuando una raíz vuelve a buscar a Tortas](../capitulos/50.md) · 01:45:44.599
+
+Tipo: `hecho_confirmado`.
+
+Una planta intenta apresar otra vez a Tortas. Tryel interviene y el intento falla. Un zombi sí consigue golpear a Oghma en la rodilla. Tentacol sigue empujando a su blanco con disparos y reserva el frío del tentáculo para otro zombi.
+
+Hay acciones simultáneas sobre enemigos distintos.
+
+## [50-069 · Los disparos de Tentacol hunden una planta](../capitulos/50.md) · 01:52:44.679
+
+Tipo: `hecho_confirmado`.
+
+Una planta amenaza a Tryel y otra avanza demasiado despacio para alcanzar a su presa. Tentacol desplaza el tentáculo, que falla su ataque. Después acierta con los disparos, empuja una de las plantas al agua y la ve empezar a hundirse.
+
+Se narra el hundimiento, sin inspeccionar bajo el agua el destino de esa planta.
+
+## [50-074 · El corte de Tentacol en la corteza rezuma el mismo líquido oscuro](../capitulos/50.md) · 01:59:28.679
+
+Tipo: `hecho_confirmado`.
+
+Tentacol abre con una daga un pequeño surco en la corteza, como si fuera a sangrar un árbol para extraer caucho. Corre líquido negro por el corte. También por dentro parece haberse podrido aquella parte del tronco.
+
+Ese corte no produce savia aprovechable. Queda por examinar la copa.
+
+## [50-084 · Walulu reparte donaciones del templo](../capitulos/50.md) · 02:12:13.159
+
+Tipo: `hecho_confirmado`.
+
+La recompensa sale de pequeñas donaciones de los ciudadanos. Tortas recibe una aguamarina, Oghma un jade y a Tryel le cuentan veintiuna monedas. A Tentacol le anuncian veintidós monedas de oro. La mesa resuelve por separado una tirada correspondiente a un cofre abierto otro día, con un resultado de treinta y siete monedas.
+
+La asignación nominal de las dos gemas y las monedas de Tryel es explícita. Las treinta y siete no se suman al pago de Walulu ni se atribuyen aquí a un destinatario inequívoco.
+
+## [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000
+
+Tipo: `declaracion_personaje`.
+
+Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se queda a hablar en privado con Walulu. Ella recuerda que Leona, de Cuicapalli, trajo la advertencia de que habían envenenado a Eromov, y que Iktan sufrió un ataque semejante durante su festividad. Si los yuan-ti han vuelto, teme por todos los pueblos. Vincula la situación con la decisión de reunir a los clanes y la llegada de Naór desde el reino sureño de Atlan.
+
+La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
+
+## [50-094 · Tentacol y Chopito regresan al agua; Tortas, a la roca](../capitulos/50.md) · 02:24:31.760
+
+Tipo: `hecho_confirmado`.
+
+La última escena abandona la mesa de Angelique. En el lago cercano a Iktan, Chopito y Tentacol vuelven a meterse en el agua. En la zona que había destrozado un antiguo dragón, Tortas sube a su roca y medita sobre su próximo entrenamiento. Con esas dos imágenes se despide la sesión.
+
+La imagen no bautiza el lago, no identifica al dragón antiguo ni atribuye un nuevo poder a la roca.
 

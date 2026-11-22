@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-040](../capitulos/49.md), [49-041](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Ataques, protección y curación
 

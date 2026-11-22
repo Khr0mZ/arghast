@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-008](../capitulos/47.md), [47-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un lugar de estudio que oculta cadáveres
 

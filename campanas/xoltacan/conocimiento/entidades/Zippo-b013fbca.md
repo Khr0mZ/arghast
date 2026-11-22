@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-022](../capitulos/01.md), [27-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una presencia de fuego junto a Mamá
 

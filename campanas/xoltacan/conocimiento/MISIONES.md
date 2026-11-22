@@ -258,3 +258,8 @@ Historial de objetivos, resultados y consecuencias por episodio; las fichas post
 - Cap. 49: Recuperar los documentos del altar: Patata repara las hojas y las conserva todavía frágiles; Patata y Erandy recuerdan la traducción recibida. ([ficha](capitulos/49.md)).
 - Cap. 49: Interpretar el mensaje y comunicarlo a Walulu: pendiente. La salida se dirige a Iktan sin una audiencia representada. ([ficha](capitulos/49.md)).
 - Cap. 49: Descansar tras la expedición: intención de regreso, sin descanso completado en este bloque. ([ficha](capitulos/49.md)).
+- Cap. 50: Tortas obtiene de la última rama viva una pequeña cantidad de savia. Walulu guarda la muestra bajo el altar y recompensa a los viajeros con donaciones. Falta comprobar si alcanza para contrarrestar el veneno en Cuicapalli. ([ficha](capitulos/50.md)).
+- Cap. 50: La expedición derrota a la planta de cadáveres y supera a las demás criaturas. Comunica el hallazgo a Walulu. Sigue sin conocerse quién enterró los cuerpos o qué provocó la infestación. ([ficha](capitulos/50.md)).
+- Cap. 50: Tryel sale disfrazada y regresa a Iktan con sus compañeros. El dragón no se deja ver durante el trayecto. ([ficha](capitulos/50.md)).
+- Cap. 50: Walulu se propone consultar a los demás líderes y a Naór tras el daño al árbol. Las conversaciones quedan para después. ([ficha](capitulos/50.md)).
+- Cap. 50: Oghma consigue vino y una habitación al prometerle a Angelique una presentación al conde. La cuenta futura depende de esa promesa. ([ficha](capitulos/50.md)).

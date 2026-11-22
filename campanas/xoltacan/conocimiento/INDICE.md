@@ -55,3 +55,4 @@ Las fichas reúnen acontecimientos seleccionados y citados. La tabla distingue d
 | 47 | [Cadáveres](capitulos/47.md) | disponible | revisado | [texto](../derivados/47/lectura.md) |
 | 48 | [Una Guarida Apestosa](capitulos/48.md) | disponible | revisado | [texto](../derivados/48/lectura.md) |
 | 49 | [Buscando la Verdad](capitulos/49.md) | disponible | revisado | [texto](../derivados/49/lectura.md) |
+| 50 | [Abastecimiento](capitulos/50.md) | disponible | revisado | [texto](../derivados/50/lectura.md) |

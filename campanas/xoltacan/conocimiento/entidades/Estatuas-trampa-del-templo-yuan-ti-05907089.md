@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-032](../capitulos/49.md), [49-033](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Los primeros mecanismos de la entrada
 

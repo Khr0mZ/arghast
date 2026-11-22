@@ -12,7 +12,7 @@ Base para revisar equivalencia: [07-010](../capitulos/07.md), [12-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La expansión de la Marina toma forma
 

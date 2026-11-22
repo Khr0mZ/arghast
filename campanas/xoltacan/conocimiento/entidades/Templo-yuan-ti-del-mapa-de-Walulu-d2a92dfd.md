@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-017](../capitulos/49.md), [49-020](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una entrada ganada al abandono
 

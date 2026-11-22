@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-124](../capitulos/48.md), [48-125](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Una preparación todavía pendiente
 

@@ -104,7 +104,14 @@ def load_dates(campaign, chapters, path=None, source_path=None, estimate_path=No
                 if platform == 'youtube' and source['video_id'] != chapter['id']:
                     raise ValueError('Aviso de YouTube correspondiente a otro vídeo')
                 if platform == 'twitch' and item['estado'] == 'documentada' and source['episodio_anunciado'] != int(key):
-                    raise ValueError('Número del directo distinto del capítulo asociado')
+                    correction = document.get('correspondencias_avisos', {}).get(ref, {})
+                    if not (correction.get('confirmada_por_usuario') is True
+                            and correction.get('campana') == campaign
+                            and correction.get('episodio_rotulado') == source['episodio_anunciado']
+                            and correction.get('capitulo') == int(key)
+                            and correction.get('titulo') == chapter['titulo']
+                            and correction.get('fecha') == source['fecha_tarjeta_local']):
+                        raise ValueError('Número del directo distinto del capítulo asociado')
             if item.get('fecha'):
                 date.fromisoformat(item['fecha'])
                 if platform == 'twitch':

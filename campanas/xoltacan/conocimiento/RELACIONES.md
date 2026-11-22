@@ -1,5 +1,9 @@
 # Relaciones documentadas
 
+## Tryel presenta a Oghma
+
+Tryel acompaña a la recién llegada por Iktan, le muestra su tatuaje y la presenta al grupo de Tortas. Oghma la ayuda a disfrazarse para salir de la ciudad y trata de cubrirla cuando cae en el combate del árbol. Después la elfa la lleva a la taberna. Angelique ofrece cama y vino a cambio de que Oghma la recomiende al conde. Más tarde la viajera confía a Coyote cómo preparaba esas apariciones. [Capítulo 50](capitulos/50.md) · [La propuesta a Coyote](rol_escrito/escenas/x-1537587717364387901.md).
+
 ## Los cinco viajeros y la vuelta a Leo
 
 Tesara, Eldrath, Tryel, Coyote y Naór investigan la cueva. Las bromas sobre un noviazgo de la historiadora y el elfo son negadas por ambos. El interés de Tryel por Molly no acredita una relación correspondida. La ayuda mutua coexiste con los roces: Naór intimida al tatuador y a Tesara, Tryel golpea a su hermano sin matarlo y Coyote provoca a la madre hablando de Leo ([capítulo 48](capitulos/48.md)).

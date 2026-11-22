@@ -1,5 +1,9 @@
 # Seguimiento de tramas entre capítulos
 
+## La resina para Cuicapalli
+
+Tras el envenenamiento de Eromov y el ataque durante el festival, Walulu pide resina para ayudar a Cuicapalli. Recibe una muestra escasa y planea hablar con Naór y los líderes. La preparación que Parroter administró a Eromov en el capítulo 44 empleaba las espinas del devorafango. La savia del árbol queda guardada en Iktan. [Tratamiento de Eromov](capitulos/44.md) · [Abastecimiento](capitulos/50.md).
+
 ## Investigación y materiales antes de la respuesta al dragón
 
 Tesara termina su investigación con historia y límites generales del ritual, sin una debilidad práctica. Los cinco viajeros siguen el recuerdo de Tryel, abren una cueva tras las raíces y superan plantas, pozas y muertos. La serpiente esquelética cae por el disparo de Tesara y el remate de Naór. Después perciben magia que se disipa y recogen muestras para futuras pociones; el plan no está ejecutado y el dragón permanece fuera de escena ([capítulo 48](capitulos/48.md)).

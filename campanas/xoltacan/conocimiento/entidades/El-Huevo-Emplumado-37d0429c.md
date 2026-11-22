@@ -6,13 +6,13 @@ Taberna de Iktan visitada por los viajeros.
 
 En el capítulo 49 se improvisa el rótulo Los Miaullidos y el director admite no recordar el anterior. Se conserva la continuidad propuesta del establecimiento y la discrepancia nominal.
 
-Etiquetas agrupadas: El Huevo Emplumado; Los Miaullidos.
+Etiquetas agrupadas: El Huevo Emplumado; Los Miaullidos; Los Miaullidos de Angelique.
 
-Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [48-005](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-017](../capitulos/48.md), [49-008](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-012](../capitulos/49.md), [49-019](../capitulos/49.md).
+Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitulos/31.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [46-058](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-066](../capitulos/46.md), [47-077](../capitulos/47.md), [47-079](../capitulos/47.md), [47-080](../capitulos/47.md), [47-081](../capitulos/47.md), [47-090](../capitulos/47.md), [48-005](../capitulos/48.md), [48-006](../capitulos/48.md), [48-007](../capitulos/48.md), [48-012](../capitulos/48.md), [48-013](../capitulos/48.md), [48-014](../capitulos/48.md), [48-015](../capitulos/48.md), [48-017](../capitulos/48.md), [49-008](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-011](../capitulos/49.md), [49-012](../capitulos/49.md), [49-019](../capitulos/49.md), [50-005](../capitulos/50.md), [50-086](../capitulos/50.md), [50-090](../capitulos/50.md), [50-092](../capitulos/50.md), [50-093](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Descansar después del bosque
 
@@ -43,6 +43,12 @@ Fuentes: [48-005 · Tesara llega cargada de libros a El Huevo Emplumado](../capi
 Kilzer llega a un establecimiento con taberna y descanso que el director llama Los Miaullidos después de reconocer que no recuerda si ya le puso nombre. Una encargada tabaxi elegante atiende a nativos y humanos, Eleanor y Erandy se sientan juntas, Patata permanece en la barra y los piratas de Ione beben en otra mesa. Allí se produce el reencuentro de los dos refugiados y Molly expone el ojo y los papeles antes de la salida.
 
 Fuentes: [49-008 · Los Miaullidos y su encargada tabaxi](../capitulos/49.md) · 00:06:24.120 · [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839 · [49-011 · Molly reúne a los viajeros y Patata intenta incluir a Kilzer](../capitulos/49.md) · 00:13:57.639 · [49-012 · Molly muestra el ojo que atribuye a una expedición con Bonny](../capitulos/49.md) · 00:15:11.360 · [49-019 · Preparativos de ropa y una moneda perdida](../capitulos/49.md) · 00:25:53.640.
+
+### Los Miaullidos de Angelique
+
+Oghma lee este rótulo sobre la entrada al conocer a Tryel. Tras la expedición las dos vuelven al local. Mientras los clientes de aspecto pirata beben en otra mesa, Angelique corteja la recomendación de la supuesta emisaria y le reserva alojamiento.
+
+Fuentes: [50-005 · Oghma encuentra a una elfa en la puerta de la taberna](../capitulos/50.md) · 00:04:24.840 · [50-086 · Walulu recomienda la taberna de Angelique](../capitulos/50.md) · 02:15:45.719 · [50-090 · Tryel presenta a Oghma en Los Miaullidos de Angelique](../capitulos/50.md) · 02:19:59.040 · [50-092 · Una habitación reservada y vino por una futura presentación](../capitulos/50.md) · 02:22:05.000 · [50-093 · El sello de Oghma da apariencia oficial a los gastos](../capitulos/50.md) · 02:23:30.240.
 
 ## Registros y evidencias
 
@@ -205,4 +211,44 @@ Tipo: `hecho_confirmado`.
 Molly entra buscando a alguien, llama a Patata y se sienta a la mesa de Eleanor y Erandy. Patata invita a Kilzer, que inicialmente rechaza ir a hablar de trabajo con una marine. Molly se alegra de encontrarlos fuera del pueblo del que les había advertido que salieran.
 
 No implica una rehabilitación de Molly en la Marina ni un alistamiento de Kilzer. Su comentario sobre la advertencia no describe por completo la evacuación de Shiaru.
+
+## [50-005 · Oghma encuentra a una elfa en la puerta de la taberna](../capitulos/50.md) · 00:04:24.840
+
+Tipo: `hecho_confirmado`.
+
+Sobre la entrada de la taberna, Oghma lee Los Miaullidos de Angelique. Cuando abre, tropieza con una elfa de piel muy pálida y pelo negro que enseguida se preocupa por ella. Oghma cree haber encontrado a quien buscaba.
+
+La encargada figura en el rótulo. La elfa de la puerta es identificada después como Tryel.
+
+## [50-086 · Walulu recomienda la taberna de Angelique](../capitulos/50.md) · 02:15:45.719
+
+Tipo: `hecho_confirmado`.
+
+Oghma pide un lugar donde dormir mientras espera que llegue el supuesto conde con su riqueza y se ofrece a usar los bancos. Walulu prefiere mandarla a la taberna, donde confía en que Angelique le encuentre una cama. Pide a Tortas que la acompañe. Tryel acaba llevándose a Oghma hacia allí y ofrece monedas para una cerveza.
+
+La acogida de la tabernera todavía no está acordada en el templo. El viaje del conde es la versión de Oghma.
+
+## [50-090 · Tryel presenta a Oghma en Los Miaullidos de Angelique](../capitulos/50.md) · 02:19:59.040
+
+Tipo: `hecho_confirmado`.
+
+En la taberna reconocen a Angelique, la dueña tabaxi bien vestida y con una trenza. Sonríe al ver a Tryel; el director revela al público que espera sacarle dinero. La elfa presenta a Oghma y la anciana propone que Tryel pague las bebidas. Angelique pregunta a la elfa si tiene con qué hacerlo.
+
+El rótulo oído aquí continúa el de Los Miaullidos del capítulo 49. El pensamiento sobre el dinero pertenece a la narración, no a la conversación.
+
+## [50-092 · Una habitación reservada y vino por una futura presentación](../capitulos/50.md) · 02:22:05.000
+
+Tipo: `hecho_confirmado`.
+
+Angelique toma la mano de Oghma y le reserva una habitación. Quiere una buena recomendación para su taberna y que la presente al conde cuando llegue. Ante la anciana señala con desdén una mesa en la que beben un hombre perro, un hombre con un ojo perdido y el otro rasgado, otros clientes y tres hipopótamos. Parecen piratas. Hace callar a Tryel y sirve a Oghma vino del bueno por cuenta de la casa.
+
+Los rasgos físicos no bastan para asignar nombres a cada cliente o una afiliación concreta. Aquí se reserva la cama; no se muestra a Oghma durmiendo en ella.
+
+## [50-093 · El sello de Oghma da apariencia oficial a los gastos](../capitulos/50.md) · 02:23:30.240
+
+Tipo: `hecho_confirmado`.
+
+Oghma promete recomendar a Angelique y propone sellar los gastos. Saca el sello que llama del duque de Condemol y estampa varios papeles. Angelique admira el sello y sigue atendiendo a la visitante mientras impide que Tryel entre en la conversación.
+
+Conde y duque alternan en el diálogo y el subtítulo deforma el nombre. Sellar papeles no prueba un título, deuda exigible o pago posterior. El vídeo no describe un anillo ni una letra grabada.
 

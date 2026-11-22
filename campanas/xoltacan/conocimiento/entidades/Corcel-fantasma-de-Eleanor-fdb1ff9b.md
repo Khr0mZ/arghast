@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-035](../capitulos/49.md), [49-038](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Un explorador que recibe el primer ataque
 

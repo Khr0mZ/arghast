@@ -1,6 +1,6 @@
 # Rol escrito · Xoltacan
 
-325 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
+326 escenas con relato editorial y texto original completo. Fechas en horario de Madrid.
 
 La ordenación utiliza las fechas originales de Twitch, las horas de referencia y la duración de los vídeos. Admite retrasos y conserva la incertidumbre de los días asumidos. Los pensamientos no se atribuyen a los demás personajes.
 
@@ -231,7 +231,8 @@ La ordenación utiliza las fechas originales de Twitch, las horas de referencia 
 | 2026-07-27 | [El entrenamiento nocturno de Naór, Ilikar y Tortas](escenas/x-1531236090323669164.md) | 39 |
 | 2026-07-30 | [Citlali cura a Naór y comparten sus duelos](escenas/x-1532155716633231392.md) | 27 |
 | 2026-08-06 | [Naór ve aparecer la Luna de Fuego](escenas/x-1534940909018546227.md) | 2 |
-| 2026-08-06 | [Erandi localiza una pista del segundo Ojo](escenas/x-1535034920198607038.md) | 88 |
+| 2026-08-06 | [Erandi y Molly buscan a Citlali en Iktan](escenas/x-1535034920198607038.md) | 15 |
+| 2026-08-07 | [Erandi localiza una pista del segundo Ojo](escenas/x-1535388630367867000.md) | 73 |
 | 2026-08-08 | [Ione y Citlali comparten el duelo por Nox](escenas/x-1535461403065057411.md) | 27 |
 | 2026-08-10 | [Zoltan pierde el control de sus rayos](escenas/x-1536490724164378715.md) | 49 |
 | 2026-08-13 | [Coyote guía a Oghma hasta el arroyo](escenas/x-1537510110232977481.md) | 12 |

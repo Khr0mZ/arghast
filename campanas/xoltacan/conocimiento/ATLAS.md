@@ -1,5 +1,9 @@
 # Lugares y regiones de Xoltacan
 
+## El islote del Gran Árbol Anciano
+
+Walulu señala el noroeste desde Iktan. Tortas recuerda el camino de su infancia y guía al grupo hasta un islote unido a la orilla por un puente de madera. El árbol conserva flores de los colores de la ciudad. Bajo las raíces encuentran restos humanos y líquido negro. La única savia aprovechable sale de una rama en lo alto de la copa. [Capítulo 50](capitulos/50.md).
+
 ## La cueva envenenada
 
 Tryel guía al grupo hacia el lugar donde recuerda haberse envenenado. Tras desorientarse, los rastros de Tesara y la lectura del terreno de Eldrath los llevan a una pared rocosa cubierta de raíces. Tesara quema el acceso con el efecto de una fruta. Dentro hay cápsulas tóxicas, charcas, puentes rotos, restos humanos y una cámara con tesoro y un gran esqueleto ([capítulo 48](capitulos/48.md)).

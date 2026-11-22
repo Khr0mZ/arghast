@@ -1,5 +1,9 @@
 # Organizaciones y facciones
 
+## La defensa de Iktan y los contactos de los clanes
+
+Walulu explica que ha hecho regresar a guardias del contorno desde el intento de envenenamiento durante el festival. Quiere ayudar a Cuicapalli y consultar a Naór tras la pérdida del árbol. A solas con Tortas enumera a los dirigentes con quienes la enviada ya ha hablado. El relato distingue esa lista de contactos de la asistencia efectiva al concilio. [Capítulo 50](capitulos/50.md).
+
 ## Preparativos ante el plazo de seis días
 
 Según Tesara, queda un día menos del ultimátum. El grupo decide investigar y preparar una respuesta, sin entregar a los hermanos. La creación histórica de no muertos se atribuye al dragón en la información consultada, pero la identidad del controlador de los restos concretos de la cueva no se demuestra. La sospecha de Eldrath sobre los clientes próximos a Molly tampoco los convierte en ocupantes de Shiaru ([capítulo 48](capitulos/48.md)).

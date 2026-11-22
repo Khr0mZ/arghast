@@ -12,7 +12,7 @@ Base para revisar equivalencia: [38-008](../capitulos/38.md), [38-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### Del ataque al rescate del barco
 

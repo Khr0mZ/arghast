@@ -311,3 +311,7 @@ Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta de
 - Cap. 49: ¿A quién y a qué hechos se refieren el fuego divino, el negro velo, los ojos de la serpiente, el amo dormido y la última muda? ([ficha](capitulos/49.md)).
 - Cap. 49: ¿Llegarán los papeles y la traducción hasta Walulu y qué podrá aprender de ellos? ([ficha](capitulos/49.md)).
 - Cap. 49: ¿Por qué Chauntea y el dios de Erandy intervienen para hacer comprensible esta inscripción? ([ficha](capitulos/49.md)).
+- Cap. 50: ¿Quiénes eran los muertos del Gran Árbol Anciano y qué causó la infestación? ([ficha](capitulos/50.md)).
+- Cap. 50: ¿Bastará la resina que recogió Tortas para ayudar a Cuicapalli y podrá obtenerse más? ([ficha](capitulos/50.md)).
+- Cap. 50: ¿Qué respuesta recibirá Walulu cuando comunique la pérdida del árbol a Naór y a los otros líderes? ([ficha](capitulos/50.md)).
+- Cap. 50: ¿Cómo cumplirá Oghma lo que prometió a Angelique en nombre del conde? ([ficha](capitulos/50.md)).

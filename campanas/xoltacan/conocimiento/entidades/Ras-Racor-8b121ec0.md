@@ -8,11 +8,11 @@ Dos rótulos editoriales para la misma ciudad; grafía fonética pendiente.
 
 Etiquetas agrupadas: Ras Racor (ciudad lagarto, grafía provisional); Ras Racor (grafía provisional).
 
-Base para revisar equivalencia: [17-006](../capitulos/17.md), [17-010](../capitulos/17.md), [20-001](../capitulos/20.md).
+Base para revisar equivalencia: [17-006](../capitulos/17.md), [17-010](../capitulos/17.md), [20-001](../capitulos/20.md), [50-088](../capitulos/50.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 50.
 
 ### La ciudad detrás de la patrulla
 
@@ -25,6 +25,12 @@ Fuentes: [17-006 · La patrulla busca a quienes destruyeron el poblado](../capit
 Los visitantes combaten contra bestias, un enorme cocodrilo y una hidra. La victoria les proporciona jade, monedas y perlas, y los dirigentes prometen acudir al concilio de Tutucan. Después el grupo se separa. Ras Racor no queda destruida ni conquistada por los aventureros: el encuentro transforma una relación marcada por la violencia anterior en una promesa de cooperación todavía por materializar.
 
 Fuentes: [17-013 · Los cinco entran en una prueba contra bestias](../capitulos/17.md) · 01:16:00.000 · [17-017 · Naór y Triel dentro del cocodrilo, Axi lo mata](../capitulos/17.md) · 02:03:00.000 · [17-019 · Naór derriba al monstruo y Eldrat lo mata para ayudar a su hermana](../capitulos/17.md) · 02:25:30.000 · [17-021 · Botín y promesa de los dirigentes de asistir al concilio](../capitulos/17.md) · 02:39:30.000 · [17-023 · Separación: regreso y misión todavía sin Iktan](../capitulos/17.md) · 02:51:10.000.
+
+### Los soberanos en el informe a Walulu
+
+A solas con Tortas, Walulu menciona a los dos soberanos de los hombres lagarto entre los contactos de Naór. Los subtítulos recogen «Rockshak y Erceg». Quedan abiertas la grafía y la correspondencia individual de cada nombre.
+
+Fuentes: [50-087 · Walulu explica a Tortas por qué peligra la aldea](../capitulos/50.md) · 02:17:13.000 · [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160.
 
 ## Registros y evidencias
 
@@ -83,4 +89,12 @@ Tipo: `declaracion_personaje`.
 Poncelot relata que reparó sus armas y su armadura tras el encuentro con las serpientes, y que buscó un animal que pudiera montar cerca de Cuicapalli. Naór y Axi pasan la noche en la ciudad de los lagartos después de la arena. Ella parte hacia Iktan y él la sigue, agotado.
 
 Las bromas sobre la muerte de Axi durante sus relaciones no confirman que haya muerto.
+
+## [50-088 · Walulu enumera los contactos de Naór con los dirigentes](../capitulos/50.md) · 02:18:33.160
+
+Tipo: `declaracion_personaje`.
+
+Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
+
+Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
 
