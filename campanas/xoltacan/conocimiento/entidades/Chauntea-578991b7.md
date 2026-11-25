@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-106](../capitulos/49.md), [49-108](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La voz que vuelve legible el abisal
 
@@ -29,4 +29,3 @@ Tipo: `explicacion_director`.
 La lectura no suena como la voz propia de Patata: escucha una voz anciana que ha oído antes. El director identifica a la mujer de cabellera blanca como Chauntea, su diosa, y explica que le está traduciendo los papeles en la cabeza.
 
 La escena atribuye la ayuda a la diosa de Patata. No muestra que Molly, Eleanor o Kilzer la vean u oigan ni acredita acceso de Madame Oghma a esa experiencia.
-

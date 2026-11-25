@@ -28,12 +28,12 @@
   "fecha_local": "2026-08-06",
   "intervalo": {
     "anterior": 48,
-    "siguiente": 51,
-    "anterior_catalogado": false,
-    "siguiente_catalogado": false,
+    "siguiente": 49,
+    "anterior_catalogado": true,
+    "siguiente_catalogado": true,
     "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216",
-    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304",
-    "ambito": "despues_del_catalogo",
+    "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1534992858807926865",
+    "ambito": "entre_capitulos",
     "criterio": "horario_y_duracion_con_retrasos",
     "confianza": "cronologica",
     "referencias": [
@@ -41,24 +41,24 @@
         "capitulo": 48,
         "fecha": "2026-07-29",
         "inicio_referencia_utc": "2026-07-29T18:34:59+00:00",
-        "fin_estimado_utc": null,
-        "duracion_video_segundos": null,
-        "tipo_referencia": "tarjeta_twitch_sin_video",
-        "catalogado": false,
+        "fin_estimado_utc": "2026-07-29T21:58:44+00:00",
+        "duracion_video_segundos": 12225,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
         "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1532095200023937216"
       },
       {
-        "capitulo": 51,
-        "fecha": "2026-08-09",
-        "inicio_referencia_utc": "2026-08-09T19:15:40+00:00",
-        "fin_estimado_utc": null,
-        "duracion_video_segundos": null,
-        "tipo_referencia": "tarjeta_twitch_sin_video",
-        "catalogado": false,
-        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304"
+        "capitulo": 49,
+        "fecha": "2026-08-06",
+        "inicio_referencia_utc": "2026-08-06T18:29:08+00:00",
+        "fin_estimado_utc": "2026-08-06T21:01:55+00:00",
+        "duracion_video_segundos": 9167,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
+        "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1534992858807926865"
       }
     ],
-    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego. Un directo sin hora o duración suficiente solo permite orientar por el día; el rol de ese día se conserva antes."
+    "nota": "Ordenación por las fechas de los mensajes y los directos de Twitch. El final se estima sumando la duración del vídeo a la hora de referencia del aviso o calendario. El rol anterior a ese final estimado se sitúa antes de la sesión, admitiendo retrasos; el posterior, después. No acredita las horas reales de juego."
   },
   "fuentes": [
     {

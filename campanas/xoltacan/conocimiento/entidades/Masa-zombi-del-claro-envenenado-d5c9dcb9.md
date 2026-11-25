@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-016](../capitulos/40.md), [40-017](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Los restos se levantan
 
@@ -99,4 +99,3 @@ Tipo: `hecho_confirmado`.
 Leona sigue golpeando a los zombis que se resisten a caer. Eldrat avisa al anciano de que se aparte, lanza de nuevo las dagas contra dos enemigos y anima al grupo mediante su voz mental. Tortas analiza la situación, corre hacia el último rival y lo remata con un puñetazo crítico. El director confirma que han acabado con el último zombi.
 
 El momento exacto en que cae el cuerpo principal no se enuncia con claridad; la confirmación inequívoca del final del combate es el remate del último zombi.
-

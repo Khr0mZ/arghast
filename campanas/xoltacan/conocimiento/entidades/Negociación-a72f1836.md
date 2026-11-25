@@ -12,7 +12,7 @@ Base para revisar equivalencia: [09-006](../capitulos/09.md), [23-008](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Las armas de puño de la capitana
 
@@ -97,4 +97,3 @@ Tipo: `hecho_confirmado`.
 Ione se aproxima para golpear por debajo de la barbilla y consigue aplicar un golpe aturdidor a uno de los tiranosaurios. Cambia de posición y golpea al otro, esta vez con los puños normales porque ha agotado las cargas de Negociación. El segundo animal supera la salvación. El director aclara que el miedo de Eleanor ya ha terminado. Ione se aparta: el rival aturdido pierde su acción, pero el otro continúa intentando morder y golpear con la cola.
 
 No se conservan dos aturdimientos por la forma plural de una recapitulación: el segundo superó expresamente la salvación. Las cargas agotadas no implican la destrucción de Negociación. Los blancos y efectos de las acometidas finales no se verbalizan suficientemente para asignarles nuevas heridas concretas.
-

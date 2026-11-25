@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-013](../capitulos/44.md), [44-016](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Dos amenazas en una cueva de la infancia
 
@@ -61,4 +61,3 @@ Tipo: `hecho_confirmado`.
 Guayacán oye ruido detrás del grupo. Una criatura enorme entra por la boca de la cueva: está cubierta de barro, tiene ojos grandes y saltones, espinas en la espalda y protuberancias dentadas alrededor de la boca. Escupe una gran descarga que llena de ácido la sala y alcanza también la zona de la masa de moho. Ayoto describe el ácido cayéndole sobre la espalda cuando el moho se abre encima de él y utiliza su resistencia para mitigar el daño.
 
 La identificación con el Devorafango enlaza sus rasgos con el encargo, sin añadir una especie de bestiario. Una reacción de absorción de ácido se declara sin nombre del actor suficientemente claro en ese instante; el arma de Tlachka se describe luego cargada con ese ácido.
-

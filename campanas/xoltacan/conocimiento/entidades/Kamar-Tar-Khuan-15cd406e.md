@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-015](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El rey que busca reunir a los clanes
 
@@ -91,4 +91,3 @@ Tipo: `declaracion_personaje`.
 Ivet lamenta que las tribus de la superficie lleven años sin comunicarse con ellos. Recuerda una promesa del padre de Naór de mantener unidas a las tribus, pero sostiene que se han separado. Naór responde que Atlan quedó aislado con la responsabilidad del sur y que otros líderes evitan el contacto. Más adelante defiende que su pueblo sí ha ayudado y ha cumplido su promesa de proteger la frontera meridional.
 
 Son posiciones políticas de las interlocutoras; la discusión no reconstruye por sí sola todos los términos del pacto, las ayudas dadas o la responsabilidad de cada tribu.
-

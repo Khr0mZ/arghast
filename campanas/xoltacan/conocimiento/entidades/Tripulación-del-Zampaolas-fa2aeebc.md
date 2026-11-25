@@ -8,11 +8,11 @@ Colectivo de personas, distinto de la embarcación aunque comparta nombre.
 
 Etiquetas agrupadas: Zampaolas (tripulación).
 
-Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitulos/06.md), [42-005](../capitulos/42.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-014](../capitulos/46.md), [46-050](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [47-079](../capitulos/47.md), [49-009](../capitulos/49.md).
+Base para revisar equivalencia: [03-015](../capitulos/03.md), [06-005](../capitulos/06.md), [42-005](../capitulos/42.md), [42-008](../capitulos/42.md), [42-013](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-014](../capitulos/46.md), [46-050](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [47-079](../capitulos/47.md), [49-009](../capitulos/49.md), [51-002](../capitulos/51.md), [51-003](../capitulos/51.md), [51-011](../capitulos/51.md), [51-013](../capitulos/51.md), [51-018](../capitulos/51.md), [51-019](../capitulos/51.md), [51-091](../capitulos/51.md), [51-092](../capitulos/51.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Reunirse alrededor de un barco averiado
 
@@ -67,6 +67,12 @@ Fuentes: [47-079 · Patata encuentra a los piratas en la taberna de Iktan](../ca
 Cuando Kilzer entra en la taberna, encuentra a parte de los piratas de Ione reunidos en una mesa. La bebida ha dejado a algunos borrachos o inconscientes. No participan automáticamente en las decisiones que Molly toma con los otros expedicionarios.
 
 Fuentes: [49-009 · Kilzer reconoce a Patata entre los refugiados](../capitulos/49.md) · 00:09:39.000.
+
+### Cascos, guardia y una capitana al timón
+
+Ione reúne a los trillizos para que preparen cascos de inmersión comunicados con la superficie. Ya en cubierta, Sir Poncelot ayuda con el metal y las tuberías; uno de los hermanos se da cuenta de que también necesitarán lastre. Tras la sacudida de la ballena, el trillizo ciego enciende los faroles. La capitana deja a los tres a cargo del barco mientras ella, Citlali, Naór y el caballero exploran el interior. Más tarde Ione ofrece a Archi el trabajo de la compañía durante el tiempo que dure la reparación.
+
+Fuentes: [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359 · [51-003 · Un proyecto para descender hasta Nox](../capitulos/51.md) · 00:01:34.640 · [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200 · [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639 · [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880 · [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840 · [51-091 · Archi pide algo a cambio del Ojo](../capitulos/51.md) · 03:18:39.920 · [51-092 · Ione acepta trabajar con el uniforme de las autómatas](../capitulos/51.md) · 03:20:55.920.
 
 ## Registros y evidencias
 
@@ -270,3 +276,80 @@ En la taberna están Eleanor, una mujer de armadura y cabellera rojiza, y su esc
 
 No se enumeran todos los piratas ni se confirma que Ione esté sentada en esa mesa. La inconsciencia se presenta en el contexto de la bebida.
 
+## [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359
+
+Tipo: `declaracion_personaje`.
+
+Tras dejar descansar a su tripulación en la taberna, Ione pasa tiempo junto a las ruinas del lago. Traza círculos con la moneda e intenta reproducir lo que hacía Bonny. Por ahora no consigue hacerla funcionar.
+
+En la retrospectiva se oye una localidad como «Siaru». Las ruinas se describen por el lago; su identificación queda abierta.
+
+## [51-003 · Un proyecto para descender hasta Nox](../capitulos/51.md) · 00:01:34.640
+
+Tipo: `declaracion_personaje`.
+
+Ione pide a los trillizos que la acompañen. Imagina cascos de barril con un conducto hasta la superficie, para que quienes desciendan puedan respirar, verse y hablar mientras buscan el Ojo que llevaba Nox.
+
+Es el diseño que les encarga; todavía nadie lo ha probado bajo el agua.
+
+## [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720
+
+Tipo: `declaracion_personaje`.
+
+Ione recuerda que tras perder a Nox dejaron el barco en la costa, relativamente cerca de Shiaru. Con la tripulación abatida y un navío imposible de ocultar, tuvieron que marcharse; la capitana teme lo que pueda encontrar a su vuelta.
+
+La capitana señala un área aproximada, sin dar una posición precisa.
+
+## [51-010 · El mástil asoma entre los árboles](../capitulos/51.md) · 00:07:23.199
+
+Tipo: `explicacion_director`.
+
+Un mástil divisado por casualidad pone fin a la búsqueda. El Zampaolas sigue atracado en la costa. La expedición despeja los seres con aspecto de pez que intentan abordarlo y consigue volver a hacerse a la mar.
+
+El director cree recordar que Poncelot divisó el mástil. Las figuras de aspecto de pez quedan sin identificar.
+
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot ayuda con sus conocimientos de herrería, las tuberías y el metal de armas sobrantes; pueden hacer falta piezas y remaches. Un trillizo señala que necesitarán lastre para descender. Poncelot reorienta a quien estaba martillando en dirección equivocada.
+
+Su trabajo continúa cuando se aproxima el barco al arrecife.
+
+## [51-014 · Naór e Ione alcanzan un acuerdo a bordo](../capitulos/51.md) · 00:14:32.600
+
+Tipo: `hecho_confirmado`.
+
+Aunque se agarra a los tablones con las garras, Naór sube a hablar con Ione sobre su mal comienzo. Se ofrecen un entrenamiento, se estrechan el brazo y Naór reconoce la autoridad de la capitana en cubierta. Ione se compromete a tratarla como a su tripulación. Naór empieza por soltar el cabo de la vela mayor.
+
+El acuerdo se formula para el barco; las dos bromean sobre lo que pueda ocurrir en tierra.
+
+## [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320
+
+Tipo: `hecho_confirmado`.
+
+La sombra rebasa la silueta de la nave. Ione se descuelga a cubierta, ordena dar vela y vuelve al timón. Como el barco estaba parado, apenas consigue arrancar antes de que una boca en forma de V se cierre en torno a él. La ballena se hunde llevándose barco y ocupantes.
+
+La alusión de la mesa a un kraken precede a la descripción explícita de la ballena.
+
+## [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880
+
+Tipo: `hecho_confirmado`.
+
+La tripulación rueda entre golpes y crujidos hasta que el Zampaolas se detiene. Sir Poncelot y Naór alcanzan a orientarse en la penumbra. El trillizo ciego enciende los faroles y aparecen a la vista el casco encajado, los maderos flotantes y las paredes de carne; a intervalos les llega un olor ácido.
+
+
+
+## [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840
+
+Tipo: `hecho_confirmado`.
+
+Mientras unos se levantan tras la caída y la capitana ayuda a Poncelot con los cabos de los que cuelga, los trillizos terminan de encender las luces. Naór salta sobre el suelo blando; Ione echa una cuerda para los siguientes y deja a los trillizos al cuidado del barco mientras salen los cuatro a buscar una salida.

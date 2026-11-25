@@ -12,7 +12,7 @@ Base para revisar equivalencia: [17-006](../capitulos/17.md), [17-010](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La ciudad detrás de la patrulla
 
@@ -97,4 +97,3 @@ Tipo: `declaracion_personaje`.
 Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
 
 Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
-

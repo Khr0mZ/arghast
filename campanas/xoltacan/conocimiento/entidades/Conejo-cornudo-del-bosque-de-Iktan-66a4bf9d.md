@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-027](../capitulos/41.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una dirección ofrecida a Blink
 
@@ -29,4 +29,3 @@ Tipo: `declaracion_personaje`.
 Tras una búsqueda dificultada por el ruido de la jungla, Blink habla con un conejo cornudo. El animal afirma haber visto una serpiente enorme que se proclama dueña del bosque. Al precisar que busca humanoides serpentinos, recuerda unas mujeres extrañas que estuvieron junto a una piedra y le señala la dirección. Blink comunica la pista al grupo, que decide investigar la roca sin desviarse a buscar a la gran serpiente.
 
 La gran serpiente es un testimonio del conejo; no se identifica con el dragón verde ni con una criatura conocida. Los comentarios sobre que alguien se ha comido al conejo no describen un agresor ni una acción inequívoca: no incorporarlos como muerte comprobada.
-

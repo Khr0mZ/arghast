@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-052](../capitulos/49.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El remate tras la espada normal
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Kilzer intenta primero un ataque con la espada normal y después utiliza Beso de sirena como actuación adicional. El impacto acaba con un adversario sin necesidad de añadir el ataque furtivo. Retrocede para cubrirse del siguiente golpe, aclarando que busca cobertura narrativa y no efectuar la acción de esconderse.
 
 Se mantiene Beso de sirena como arma nombrada, sin inventar capacidades mágicas. La retirada no demuestra invisibilidad ni una ocultación superada con éxito.
-

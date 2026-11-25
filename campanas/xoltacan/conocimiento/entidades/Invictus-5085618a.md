@@ -8,11 +8,11 @@ Su reputación de invicto no implica invulnerabilidad. La figura encadenada de l
 
 Etiquetas agrupadas: Invictus.
 
-Base para revisar equivalencia: [42-019](../capitulos/42.md), [42-020](../capitulos/42.md), [42-021](../capitulos/42.md), [42-022](../capitulos/42.md), [42-031](../capitulos/42.md), [42-034](../capitulos/42.md), [42-041](../capitulos/42.md), [42-042](../capitulos/42.md), [42-047](../capitulos/42.md), [42-055](../capitulos/42.md), [42-057](../capitulos/42.md), [42-061](../capitulos/42.md), [42-062](../capitulos/42.md).
+Base para revisar equivalencia: [42-019](../capitulos/42.md), [42-020](../capitulos/42.md), [42-021](../capitulos/42.md), [42-022](../capitulos/42.md), [42-031](../capitulos/42.md), [42-034](../capitulos/42.md), [42-041](../capitulos/42.md), [42-042](../capitulos/42.md), [42-047](../capitulos/42.md), [42-055](../capitulos/42.md), [42-057](../capitulos/42.md), [42-061](../capitulos/42.md), [42-062](../capitulos/42.md), [51-015](../capitulos/51.md), [51-016](../capitulos/51.md), [51-017](../capitulos/51.md), [51-088](../capitulos/51.md), [51-089](../capitulos/51.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La aproximación de Tórtola
 
@@ -31,6 +31,12 @@ Fuentes: [42-031 · Nox libera a Pinky de la celda del Invictus](../capitulos/42
 El Invictus es identificado como el barco del capitán Tórtola. Nox toma el timón herido, altera sus velas y pabellón con una imagen mayor y manda prender su pólvora. Deja la nave rumbo a la flota, pero permanece a bordo para impedir que el aviar cambie el curso. Una explosión arrasa el barco y la zona cercana.
 
 Fuentes: [42-055 · Nox arroja a Tórtola y gobierna el Invictus herido](../capitulos/42.md) · 01:45:25.000 · [42-057 · Nox cambia los emblemas del Invictus y Pinky prende la pólvora](../capitulos/42.md) · 01:49:27.280 · [42-061 · Los tatuajes y el orbe preceden a la decisión de Nox de quedarse](../capitulos/42.md) · 01:58:47.960 · [42-062 · El Invictus explota contra la flota y los buques restantes se retiran](../capitulos/42.md) · 02:00:20.239.
+
+### Una sombra entre los pecios
+
+Citlali intenta localizar entre los pecios una embarcación del tamaño que debió de tener el Invictus. Desde el puesto de vigía descubre una mancha enorme, pero en vez de quedarse en el fondo sube hacia ellos: es una ballena. Cuando preguntan a Archi por los restos de la batalla, lo que obtienen es el Ojo; el pecio del Invictus queda sin identificar en esta exploración.
+
+Fuentes: [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039 · [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320 · [51-088 · Archi recorre las aguas en busca de hallazgos](../capitulos/51.md) · 03:16:31.040 · [51-089 · Entre varias esferas aparece la que lleva un ojo](../capitulos/51.md) · 03:17:08.520.
 
 ## Registros y evidencias
 
@@ -194,3 +200,18 @@ Al bajar el fuego se descubre otra flota de la Marina con un buque que dobla al 
 
 No se atribuyen individualmente el hielo ni el fuego a un rey concreto. La descripción aproximada de centenar de barcos no se convierte en un inventario exacto.
 
+## [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca desde arriba un pecio imponente entre restos rotos contra las rocas. Ve una mancha tan grande como imagina al Invictus, pero asciende hacia ellos. En vez de gritar, emite el silbido de alerta que conocen sus compañeros. Ione sube a reunirse con ella.
+
+Citlali no había visto el navío de la Marina. La comparación de tamaño no identifica la sombra con su pecio.
+
+## [51-088 · Archi recorre las aguas en busca de hallazgos](../capitulos/51.md) · 03:16:31.040
+
+Tipo: `declaracion_personaje`.
+
+Al preguntarle si la ballena ha tragado restos de otros barcos, Archi explica que surca las aguas en busca de objetos interesantes. Ione aprovecha para hablarle de un amigo perdido en la batalla naval que dejó los restos.
+
+Esta conversación no demuestra que Archi haya recogido el cuerpo del amigo.

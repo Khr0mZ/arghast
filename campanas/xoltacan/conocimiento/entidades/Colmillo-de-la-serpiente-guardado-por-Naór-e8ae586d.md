@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-118](../capitulos/48.md), [48-120](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El recuerdo que debe esperar
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Naór quiere llevarle a Leo un recuerdo y arranca un colmillo de la serpiente derrotada para guardarlo. Más tarde Coyote recuerda que ella tomó solo uno, dejando otro en la criatura.
 
 No se representa la entrega a Leo ni se demuestra que el colmillo tenga un poder propio.
-

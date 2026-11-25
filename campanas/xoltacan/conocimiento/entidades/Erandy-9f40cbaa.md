@@ -8,11 +8,11 @@ Misma escudera de Eleanor por presentación y continuidad. Grafía del nombre no
 
 Etiquetas agrupadas: Erandy / Eri / Maya (escudera kender, grafía provisional); Eri / Maya (escudera kender, grafía provisional).
 
-Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitulos/36.md), [38-003](../capitulos/38.md), [43-002](../capitulos/43.md), [43-009](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-029](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-038](../capitulos/43.md), [43-047](../capitulos/43.md), [43-052](../capitulos/43.md), [43-060](../capitulos/43.md), [46-001](../capitulos/46.md), [46-004](../capitulos/46.md), [46-053](../capitulos/46.md), [46-058](../capitulos/46.md), [49-002](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-018](../capitulos/49.md), [49-020](../capitulos/49.md), [49-021](../capitulos/49.md), [49-027](../capitulos/49.md), [49-028](../capitulos/49.md), [49-029](../capitulos/49.md), [49-032](../capitulos/49.md), [49-034](../capitulos/49.md), [49-037](../capitulos/49.md), [49-039](../capitulos/49.md), [49-040](../capitulos/49.md), [49-046](../capitulos/49.md), [49-053](../capitulos/49.md), [49-060](../capitulos/49.md), [49-066](../capitulos/49.md), [49-069](../capitulos/49.md), [49-070](../capitulos/49.md), [49-071](../capitulos/49.md), [49-072](../capitulos/49.md), [49-082](../capitulos/49.md), [49-083](../capitulos/49.md), [49-086](../capitulos/49.md), [49-089](../capitulos/49.md), [49-093](../capitulos/49.md), [49-097](../capitulos/49.md), [49-101](../capitulos/49.md), [49-103](../capitulos/49.md), [49-105](../capitulos/49.md), [49-107](../capitulos/49.md), [49-109](../capitulos/49.md), [49-110](../capitulos/49.md), [49-111](../capitulos/49.md), [49-112](../capitulos/49.md).
+Base para revisar equivalencia: [32-002](../capitulos/32.md), [36-001](../capitulos/36.md), [38-003](../capitulos/38.md), [43-002](../capitulos/43.md), [43-009](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-029](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-038](../capitulos/43.md), [43-047](../capitulos/43.md), [43-052](../capitulos/43.md), [43-060](../capitulos/43.md), [46-001](../capitulos/46.md), [46-004](../capitulos/46.md), [46-053](../capitulos/46.md), [46-058](../capitulos/46.md), [49-002](../capitulos/49.md), [49-009](../capitulos/49.md), [49-010](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-018](../capitulos/49.md), [49-020](../capitulos/49.md), [49-021](../capitulos/49.md), [49-027](../capitulos/49.md), [49-028](../capitulos/49.md), [49-029](../capitulos/49.md), [49-032](../capitulos/49.md), [49-034](../capitulos/49.md), [49-037](../capitulos/49.md), [49-039](../capitulos/49.md), [49-040](../capitulos/49.md), [49-046](../capitulos/49.md), [49-053](../capitulos/49.md), [49-060](../capitulos/49.md), [49-066](../capitulos/49.md), [49-069](../capitulos/49.md), [49-070](../capitulos/49.md), [49-071](../capitulos/49.md), [49-072](../capitulos/49.md), [49-082](../capitulos/49.md), [49-083](../capitulos/49.md), [49-086](../capitulos/49.md), [49-089](../capitulos/49.md), [49-093](../capitulos/49.md), [49-097](../capitulos/49.md), [49-101](../capitulos/49.md), [49-103](../capitulos/49.md), [49-105](../capitulos/49.md), [49-107](../capitulos/49.md), [49-109](../capitulos/49.md), [49-110](../capitulos/49.md), [49-111](../capitulos/49.md), [49-112](../capitulos/49.md), [51-007](../capitulos/51.md), [51-015](../capitulos/51.md), [51-016](../capitulos/51.md), [51-017](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La escudera de Eleanor
 
@@ -97,6 +97,12 @@ Fuentes: [49-093 · Erandy coloca un guardián de fe y cura al grupo](../capitul
 Las hojas abisales no son legibles para Erandy hasta que siente un calor agradable en el corazón. El director describe la ayuda de su dios y solo ella ve cambiar la escritura; Eleanor y Kilzer no perciben nada semejante. Guarda el significado de la inscripción en la mente y la comprensión temporal desaparece. Erandy interpreta lo vivido como una señal del Señor del Amanecer y quiere comunicar su importancia.
 
 Fuentes: [49-105 · Los papeles están escritos en abisal y ninguno lo conoce](../capitulos/49.md) · 02:23:55.920 · [49-107 · Erandy recibe calma y una comprensión solo suya](../capitulos/49.md) · 02:26:04.319 · [49-109 · La ayuda a Erandy llega como una sensación en el corazón](../capitulos/49.md) · 02:27:58.920 · [49-110 · La inscripción enlaza el fuego velado, los ojos y un santuario](../capitulos/49.md) · 02:28:32.560 · [49-111 · La traducción cesa y las palabras quedan en la memoria](../capitulos/49.md) · 02:29:58.439 · [49-112 · Erandy interpreta la ayuda como una señal del Señor del Amanecer](../capitulos/49.md) · 02:30:30.319.
+
+### La indicación que devuelve al arrecife
+
+Ione detiene el Zampaolas en el sector que Erandy había señalado para buscar el Ojo. Desde la cubierta se distinguen barcos hundidos y Citlali escudriña el fondo. La pista de la escudera pone la expedición en el lugar adecuado, aunque el encuentro con la ballena cambia la búsqueda antes de que puedan sumergirse.
+
+Fuentes: [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880 · [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039 · [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320.
 
 ## Registros y evidencias
 
@@ -1076,3 +1082,18 @@ Los compañeros discuten todavía sobre la posibilidad de que se levanten más m
 
 Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 
+## [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880
+
+Tipo: `explicacion_director`.
+
+Al recapitular la investigación del templo, el director recuerda que Poncelot extrajo de la profecía la pista de los dos Ojos. Molly recordaba haber visto uno en manos de Nox. Para seguir esa pista la expedición necesita recuperar el Zampaolas.
+
+El viaje al templo y la interpretación posterior se recapitulan juntos. Poncelot contribuyó a la interpretación; este pasaje no lo sitúa entre los expedicionarios del templo.
+
+## [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080
+
+Tipo: `hecho_confirmado`.
+
+El agua clara permite distinguir barcos hundidos. La sonrisa de Ione desaparece y Citlali se aferra a la barandilla, dividida ante la posibilidad de encontrar a Nox. Cuando llegan al punto señalado por Erandy para buscar el Ojo, Ione manda recoger las velas y detiene la nave.
+
+Las coordenadas y el método de localización no se vuelven a dar en este pasaje.

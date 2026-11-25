@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-003](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Las dos horas anteriores al viaje
 
@@ -213,4 +213,3 @@ Tipo: `hecho_confirmado`.
 Al llegar, una pequeña capilla de piedra contrasta con las casas de madera. Tortas vuelve a equivocarse de puerta y abre la del colegio. Esta vez los niños la reconocen y se agachan sin esperar a la maestra. Ya ante Walulu, la expedición anuncia que trae savia y también malas noticias.
 
 Se conservan como destinos distintos la clase y la capilla.
-

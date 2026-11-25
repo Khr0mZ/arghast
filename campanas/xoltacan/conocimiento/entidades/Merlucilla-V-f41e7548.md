@@ -12,7 +12,7 @@ Base para revisar equivalencia: [38-008](../capitulos/38.md), [38-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Del ataque al rescate del barco
 
@@ -77,4 +77,3 @@ Tipo: `hecho_confirmado`.
 Ione, aún loba, e Ilikar tiran desde las rocas. Erandy aporta ayuda a la fuerza y Poncelot y el tiburón colaboran. Las rampas y amarres de los hipopótamos permiten desencajar el barco de la taberna. Flota parcialmente elevado, pero la proa sigue destrozada y necesita reparación. Poncelot llama al tiburón Merlucilla quinto, guarda un tentáculo como cebo y lo deja marcharse cuando quiera.
 
 No se acredita que el barco esté reparado o pueda navegar ni que el tiburón permanezca encerrado.
-

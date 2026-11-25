@@ -12,7 +12,7 @@ Base para revisar equivalencia: [50-014](../capitulos/50.md), [50-072](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### De la copa al altar
 
@@ -101,4 +101,3 @@ Tipo: `hecho_confirmado`.
 Entregan el recipiente de savia a Walulu. Constata que es muy poca, dice que tendrá que hablar con los otros líderes, guarda el frasquito bajo el altar y busca algo con lo que agradecer la ayuda.
 
 Se cumple la entrega. El volumen no se cuantifica ni se demuestra que baste para una dosis eficaz.
-

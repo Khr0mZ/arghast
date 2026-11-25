@@ -12,7 +12,7 @@ Base para revisar equivalencia: [28-010](../capitulos/28.md), [34-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Recuperar a los compañeros en momentos críticos
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Mamá toca el cuello de Winscore y le roba dieciocho puntos de vida para curarse y rejuvenecer. Los ataques posteriores derriban al enano y a Zarial. Blink lanza patrón hipnótico, que afecta a Mamá y a un dinosaurio. Baja para dar una poción de Arwen a Zarial, que recupera el conocimiento con ceceo. Blink termina la concentración para liberar a Mamá.
 
 Mamá presenta el drenaje como una necesidad, no como una curación del enano. Las caídas no suponen muertes ni resurrecciones.
-

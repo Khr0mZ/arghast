@@ -12,7 +12,7 @@ Base para revisar equivalencia: [50-040](../capitulos/50.md), [50-045](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Ataques desde dos posiciones
 
@@ -61,4 +61,3 @@ Tipo: `hecho_confirmado`.
 Oghma intercambia su posición con el eco. Su jugadora explica el reparto que elige para el combate: la anciana dispara y el eco empuña la espada. Esta vez el espadazo acierta y parte al zombi por la mitad.
 
 Es una elección de interpretación. No se establece una imposibilidad general de atacar de otra manera.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [20-005](../capitulos/20.md), [21-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La mosca que pudo sacar al grupo de Aurora
 
@@ -187,4 +187,3 @@ Tipo: `hecho_confirmado`.
 Ione reconoce a Pinky y observa la muerte de la mosca, que la anciana niega mientras sostiene la pistola humeante. Apuestan hierbas sobre si el tigre morderá al gnomo, sin resolver la apuesta. Poncelot retira los ojos y las alas de Merlucilla III para fabricar equipo después. Entierra el resto bajo hojas y palitos y monta al tigre, Merlucilla IV.
 
 Todavía no fabrica una capa ni un equipo para visión oscura. Los comentarios sobre marihuana y orégano no constituyen un análisis botánico.
-

@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Shiaru.
 
-Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [46-060](../capitulos/46.md), [46-063](../capitulos/46.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md), [49-004](../capitulos/49.md), [49-005](../capitulos/49.md), [49-006](../capitulos/49.md), [49-010](../capitulos/49.md).
+Base para revisar equivalencia: [01-001](../capitulos/01.md), [01-009](../capitulos/01.md), [01-024](../capitulos/01.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [42-013](../capitulos/42.md), [42-016](../capitulos/42.md), [42-063](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [43-001](../capitulos/43.md), [43-005](../capitulos/43.md), [43-006](../capitulos/43.md), [43-007](../capitulos/43.md), [43-008](../capitulos/43.md), [43-010](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [46-060](../capitulos/46.md), [46-063](../capitulos/46.md), [47-001](../capitulos/47.md), [47-017](../capitulos/47.md), [49-004](../capitulos/49.md), [49-005](../capitulos/49.md), [49-006](../capitulos/49.md), [49-010](../capitulos/49.md), [51-008](../capitulos/51.md), [51-009](../capitulos/51.md), [51-010](../capitulos/51.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El primer puerto y sus deudas
 
@@ -67,6 +67,12 @@ Fuentes: [47-001 · Patata encuentra su huerto destruido y el cuerpo de Bonny ex
 En el contexto que le da el director, Kilzer permaneció cuidando su casino mientras se preparaba la guerra. Tras la explosión en el mar llegaron piratas de grandes galeones que echaron a la población para ocupar su sitio. El casino y la granja de Patata quedaron destruidos y Kilzer se internó en la jungla, convencido de que regresar ya no sería sencillo.
 
 Fuentes: [49-004 · Kilzer presenció la guerra y la llegada de otros piratas](../capitulos/49.md) · 00:02:18.879 · [49-005 · El casino y la granja quedaron destruidos](../capitulos/49.md) · 00:03:17.720 · [49-006 · Kilzer sobrevive buscando otro refugio](../capitulos/49.md) · 00:03:48.360 · [49-010 · El reencuentro de Kilzer y Patata termina con una cerveza](../capitulos/49.md) · 00:10:39.839.
+
+### La costa donde quedó el Zampaolas
+
+Ione sitúa el lugar donde tuvieron que dejar el Zampaolas en la costa relativamente próxima a Shiaru. Al volver, el único punto de referencia que permite reconocer la nave es su mástil; el rodeo por Fuerte Aurora e Iktan demuestra hasta qué punto era impreciso el recuerdo del fondeadero.
+
+Fuentes: [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720 · [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800 · [51-010 · El mástil asoma entre los árboles](../capitulos/51.md) · 00:07:23.199.
 
 ## Registros y evidencias
 
@@ -766,3 +772,18 @@ Kilzer explica que ha vagado por la jungla evitando bestias, levantando campamen
 
 Relato del personaje. Su impresión de que no podrá volver a Shiaru no establece un impedimento permanente o una decisión de todos los refugiados.
 
+## [51-001 · El caballero se presenta en un nuevo reino](../capitulos/51.md) · 00:00:19.840
+
+Tipo: `declaracion_personaje`.
+
+Sir Poncelot dedica los días previos a recorrer la ciudad y presentarse a sus habitantes. Quiere volver a ganarse un nombre, como había hecho en Shiaru.
+
+El caballero habla de lo que aspira a hacer por el reino.
+
+## [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720
+
+Tipo: `declaracion_personaje`.
+
+Ione recuerda que tras perder a Nox dejaron el barco en la costa, relativamente cerca de Shiaru. Con la tripulación abatida y un navío imposible de ocultar, tuvieron que marcharse; la capitana teme lo que pueda encontrar a su vuelta.
+
+La capitana señala un área aproximada, sin dar una posición precisa.

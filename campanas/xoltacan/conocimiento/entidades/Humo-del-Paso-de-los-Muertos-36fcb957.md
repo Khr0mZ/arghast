@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La alquimia entre los servicios locales
 
@@ -29,4 +29,3 @@ Tipo: `explicacion_director`.
 El director muestra los servicios de Cuicapalli: la taberna El Bocado del Jaguar; la Forja del Águila de Sangre, con armas y armaduras de mejora más uno; la Cabaña del Sueño, clínica del sabio que ofrece tatuajes; la alquimia de Humo del Paso de los Muertos; y La Madriguera, con alojamiento y sastrería. Según las reglas de la mesa, los tatuajes conceden dos puntos adicionales a una habilidad, solo puede tenerse uno y no pueden intercambiarse diariamente. La explicación indica que no requieren sintonización.
 
 Nombres normalizados por reconocimiento, grafías provisionales. No todos tatuajes oficiales de D&D tienen esas reglas ni varias mejoras adquiridas por explicar catálogo.
-

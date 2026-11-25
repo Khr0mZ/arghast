@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-015](../capitulos/16.md), [30-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El dirigente que abre Cuicapalli a los viajeros
 
@@ -357,4 +357,3 @@ Tipo: `declaracion_personaje`.
 Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
 
 Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-022](../capitulos/31.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La anfitriona de Iktan
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Walulu regresa y reprende a Coyote por revelar una ubicación prohibida. Acepta el argumento de Naór sobre las dificultades de los clanes y la posibilidad de confiar en algunos extranjeros. Permite que Tesara, Eldrat y Triel permanezcan en Iktan si no revelan el camino. Advierte que habrá consecuencias para ellos y para Coyote si llegan nuevos extranjeros o los traen. Angélica Thunder les proporcionará habitaciones. Naór presenta a Leo y pide visitar la tumba del padre de Walulu; ella recomienda descansar primero debido a las heridas. La escena final muestra una gran criatura serpenteante entre los árboles cercanos.
 
 La decisión cambia y no se ejecuta el borrado de memoria. No se concreta ni se cumple un castigo contra Coyote. La visita a la tumba queda pendiente.
-

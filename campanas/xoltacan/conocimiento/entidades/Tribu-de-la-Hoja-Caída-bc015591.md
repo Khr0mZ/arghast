@@ -12,7 +12,7 @@ Base para revisar equivalencia: [30-007](../capitulos/30.md), [30-009](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una presentación amistosa ante Cuicapalli
 
@@ -51,4 +51,3 @@ Tipo: `declaracion_personaje`.
 El grupo informa de que la Hoja Caída estaba formada por hombres serpiente y sospecha que fuera una avanzadilla o una estratagema para desplazar tribus. Eromov dice que los dormidos están despertando y que envió a Naór, hija de los leoninos del sur, aunque desconoce si llegó a su destino. La expresión Naoritan de la transcripción no permite fijar ese destino. Pide a Parroter que estudie las pruebas en la casa de Leona y ofrece descanso a los heridos. Eromov sigue enfermo; no se ha obtenido una cura.
 
 Naór no es una harengon ni participa en este grupo. Naoritan puede unir su nombre y un lugar, pero no acredita un apellido. Tampoco se obtiene una confesión sobre quién añadió el veneno.
-

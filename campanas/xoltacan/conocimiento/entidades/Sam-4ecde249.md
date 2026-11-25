@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-002](../capitulos/24.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El hermano al que Din no consigue encontrar
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 Din todavía no se considera tripulante. Habla a Bonnie sin decir Happy y ella dispara junto a su cabeza como advertencia. Él se sienta en la silla de un pirata y ella le exige levantarse. Deja una bolsa con siete monedas sobre la mesa para pedir que busquen a Sam. Bonnie cobra por la información y eleva el precio al saber que es su hermano. Acuerdan comenzar la búsqueda y los retratos por cincuenta monedas cuando Din las reúna. No se confirma el pago ni el inicio de la búsqueda.
 
 La bolsa queda sobre la mesa, pero no se describe expresamente su apropiación. No puede sumarse automáticamente un pago de siete y otro de cincuenta, ni se muestra un contrato firmado.
-

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "preguntas": [
     {
       "id": "P42-001",
@@ -8,8 +8,8 @@
       "indice": 1,
       "pregunta": "¿Qué destino tienen Nox, Pinky y Tórtola tras la explosión del Invictus? El director despide a Nox y Pinky, pero la búsqueda no recupera el cuerpo de Nox ni se representa el destino del aviar (42-060–42-064, 42-072).",
       "estado": "parcial",
-      "revisado_hasta": 50,
-      "respuesta": "La explosión se contempla desde tierra. Citlali ve a Nox cayendo al agua en una visión y después declara que se ha ido; el director presenta su mirada ante Molly como la de quien ha perdido a su hijo. Se desarrolla así la pérdida de Nox que enmarcaba la despedida del capítulo 42, sin narrar una recuperación de su cuerpo. Pinky y Tórtola no reciben una escena posterior al estallido.",
+      "revisado_hasta": 51,
+      "respuesta": "Citlali vio en una visión a Nox caer al agua tras la explosión y lo lloró como a un hijo. En el 51 Ione pregunta a Archi por un cuerpo o por una esfera. El grupo recupera el Ojo; la búsqueda del cuerpo queda entonces sin resolver. En la conversación escrita de septiembre Archi sitúa el hallazgo junto al cuerpo de un hombre; no lo identifica por su nombre y no conserva coordenadas. El reencuentro de octubre sí muestra a Nox conversando y abrazando a Ione en Tutucan. Ella percibe frío y falta de latido durante un instante antes de que vuelva el pulso. Pinky y Tórtola siguen sin un destino establecido tras la batalla.",
       "referencias": [
         "42-060",
         "42-062",
@@ -18,9 +18,36 @@
         "43-044",
         "43-045",
         "43-059",
-        "43-061"
+        "43-061",
+        "51-011",
+        "51-088",
+        "51-089",
+        "51-094"
       ],
-      "pendiente": "El destino de Pinky y Tórtola y cualquier recuperación o escena posterior de los tres."
+      "pendiente": "Cómo regresó Nox, qué explica lo que Ione percibe al abrazarlo y qué pasó con Pinky y Tórtola.",
+      "fuentes_rol": [
+        {
+          "escena": "x-1546203784097562654",
+          "mensaje_id": "1546209487671529653",
+          "descripcion": "Archi recuerda que el Ojo parecía aferrarse al cuerpo de un hombre entre restos de barcos.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1546209487671529653",
+          "texto_sha256": "a9782b50ddb52166ca6e1132ac638a64611fabb2b842597551edef3bba1f8071"
+        },
+        {
+          "escena": "x-1546203784097562654",
+          "mensaje_id": "1546213633502216302",
+          "descripcion": "Archi acudió al detectar energía con el sonar y no puede precisar el lugar.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1546213633502216302",
+          "texto_sha256": "7b4f8439558e94ae685eb10e5451e360beea57fdd85d411fe983de764ff39b42"
+        },
+        {
+          "escena": "x-1563959420193480704",
+          "mensaje_id": "1564061594324041739",
+          "descripcion": "Nox abraza a Ione en Tutucan; ella vuelve a sentir su calor y su pulso después de un instante.",
+          "url": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739",
+          "texto_sha256": "a1fa2dd67350159f4f7bf254d47ee4c47a507852863ea12ba2ca325ae97198b0"
+        }
+      ]
     },
     {
       "id": "P42-002",
@@ -28,8 +55,8 @@
       "indice": 2,
       "pregunta": "¿Qué función tienen los tatuajes y el ojo-orbe en la última decisión de Nox y dónde queda el objeto? Su presencia en la chaqueta no acredita dominación, protección o una vía de escape (42-061).",
       "estado": "parcial",
-      "revisado_hasta": 50,
-      "respuesta": "El ojo queda con Nox antes del estallido y no se recupera en el capítulo 43. El dolor y el altar de símbolos que se muestran ahora pertenecen a Citlali: no se identifican sus marcas con las de Nox ni se atribuye al ojo una orden, protección o fuga. La continuación escrita del 49 aporta una pista: al pedirle Molly que localice otra esfera semejante a la suya, Erandi ve el punto del mar donde estalló el Invictus. Después transmite lo visto a los compañeros. No se recupera el Ojo ni se demuestra una función de los tatuajes, una dominación o una vía de escape de Nox.",
+      "revisado_hasta": 51,
+      "respuesta": "Nox llevaba el Ojo en la chaqueta antes del estallido. La visión de Erandy, recogida en el rol escrito, sitúa la búsqueda de un Ojo semejante al de Molly en el lugar de la explosión. En la ballena, Ione reconoce la esfera que buscaban, Citlali sufre al verla y Archi se la entrega al grupo. En septiembre Archi cuenta a Citlali que el Ojo parecía aferrarse al cuerpo de un hombre entre los pecios; se acercó siguiendo una descarga detectada por sonar. Ese testimonio aclara cómo lo halló, sin identificar por sí solo el cuerpo ni explicar qué hizo el Ojo durante la última decisión de Nox.",
       "referencias": [
         "42-061",
         "42-062",
@@ -37,9 +64,14 @@
         "43-045",
         "43-062",
         "49-012",
-        "49-110"
+        "49-110",
+        "51-007",
+        "51-015",
+        "51-089",
+        "51-090",
+        "51-094"
       ],
-      "pendiente": "La función de los tatuajes y el ojo en la decisión de Nox y el paradero posterior del objeto.",
+      "pendiente": "La función de los tatuajes y del Ojo cuando Nox se quedó en el Invictus, y si intervinieron en su posterior regreso.",
       "fuentes_rol": [
         {
           "escena": "x-1535388630367867000",
@@ -61,6 +93,27 @@
           "descripcion": "Erandi transmite a los presentes la pista del mar del Calor Sofocante.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535426405205020735",
           "texto_sha256": "b2fab3cdd5a3a285bc039120f418487dee70e3e56dacffc813da1b9b5cefd1e6"
+        },
+        {
+          "escena": "x-1546203784097562654",
+          "mensaje_id": "1546209487671529653",
+          "descripcion": "Archi recuerda que el Ojo parecía aferrarse al cuerpo de un hombre entre restos de barcos.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1546209487671529653",
+          "texto_sha256": "a9782b50ddb52166ca6e1132ac638a64611fabb2b842597551edef3bba1f8071"
+        },
+        {
+          "escena": "x-1546203784097562654",
+          "mensaje_id": "1546213633502216302",
+          "descripcion": "Archi acudió al detectar energía con el sonar y no puede precisar el lugar.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1546213633502216302",
+          "texto_sha256": "7b4f8439558e94ae685eb10e5451e360beea57fdd85d411fe983de764ff39b42"
+        },
+        {
+          "escena": "x-1563959420193480704",
+          "mensaje_id": "1564061594324041739",
+          "descripcion": "Nox abraza a Ione en Tutucan; ella vuelve a sentir su calor y su pulso después de un instante.",
+          "url": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739",
+          "texto_sha256": "a1fa2dd67350159f4f7bf254d47ee4c47a507852863ea12ba2ca325ae97198b0"
         }
       ]
     },
@@ -70,7 +123,7 @@
       "indice": 3,
       "pregunta": "¿Qué consecuencias tiene el disparo de Taylor contra Bonnie y quién controlará Shiaru? La sesión cierra con el disparo a la frente y la despedida del director, sin mostrar el nuevo gobierno (42-068–42-072).",
       "estado": "parcial",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "respuesta": "El director confirma que Patata encontró el huerto destrozado y el cuerpo de «Happy» Bonny colgado a la entrada de Shiaru. Patata atribuye la expulsión de habitantes y la pérdida de su casa a nuevos piratas. Los antiguos tripulantes se encuentran refugiados en Iktan y corroboran que los echaron. No se representa quién colgó el cuerpo ni se identifica al gobernante actual o a todos los ocupantes.",
       "referencias": [
         "42-068",
@@ -90,7 +143,7 @@
       "indice": 4,
       "pregunta": "¿Cuáles eran las cláusulas del pacto entre los cinco reyes y qué harán en Xoltacan? Taylor acusa a Bonnie de ocultar la isla y faltar a reuniones, pero no expone todo el acuerdo (42-069–42-072).",
       "estado": "pendiente",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "respuesta": "Taylor relaciona el pacto con las reuniones y con no ocultar una isla de grandes tesoros. Bonnie reconoce haber leído su carta. No se leen todas las cláusulas ni se expone un plan común posterior.",
       "referencias": [
         "42-069",
@@ -106,7 +159,7 @@
       "indice": 5,
       "pregunta": "¿Quién es el joven Jackie que Taylor dice haber capturado rumbo a Puerto de Espadas y cuál es su destino? No se demuestra su identidad con Jack, presente en el Zampaolas (42-008, 42-029, 42-070).",
       "estado": "pendiente",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "respuesta": "La captura del joven rumbo a Puerto de Espadas sigue procediendo del relato de Taylor. En Iktan aparece otra mención sin resolver: los hombres de Ione no encuentran al novato que llaman Jacki y dicen que faltaba desde la playa. Ese testimonio no establece su identidad con el exmarine Jack ni con el cautivo de Taylor, ni demuestra una segunda captura, muerte o regreso.",
       "referencias": [
         "42-008",
@@ -123,8 +176,8 @@
       "indice": 6,
       "pregunta": "¿Dónde continuará Ione la búsqueda de Nox y cómo utilizará la moneda recibida? Acepta salir de la batalla, pero se niega a abandonar Shiaru (42-066–42-067).",
       "estado": "parcial",
-      "revisado_hasta": 50,
-      "respuesta": "Ione viaja por tierra hacia Iktan con los supervivientes, se separa de ellos y termina reuniéndose con sus hombres en la taberna. Quiere conseguir dinero y apoyos para recuperar Shiaru y averiguar si el novato ausente ha vuelto por allí. No representa una nueva búsqueda de Nox o su cuerpo ni una activación de la moneda pirata. Las monedas usadas para elegir una dirección al azar no se identifican como el objeto recibido de Bonnie. Después del 49, la pista del segundo Ojo reactiva el proyecto de volver al lugar de la explosión. Ione ofrece el Zampaolas y Molly propone adquirir medios para respirar bajo el agua. Son preparativos: no se narra aún el viaje, la recuperación de Nox o la activación de la moneda.",
+      "revisado_hasta": 51,
+      "respuesta": "Tras reunirse en Iktan con sus hombres, Ione quiere recuperar Shiaru y saber qué fue del novato ausente. Cuando Erandy les indica en el rol escrito dónde buscar el Ojo, Ione ofrece el Zampaolas. En el 51, recupera la nave de la costa y vuelve al arrecife. Ha practicado con la moneda de Bonny sin lograr activarla. En el interior de la ballena pregunta por su amigo y por la esfera, negocia con Archi y el grupo recupera el Ojo. El rol escrito de octubre sí escenifica el reencuentro con Nox, que le devuelve la moneda que ella reclama; se la guarda sin manifestación de poder.",
       "referencias": [
         "42-066",
         "42-067",
@@ -136,9 +189,17 @@
         "46-053",
         "46-059",
         "46-060",
-        "46-063"
+        "46-063",
+        "51-002",
+        "51-003",
+        "51-010",
+        "51-015",
+        "51-088",
+        "51-089",
+        "51-092",
+        "51-094"
       ],
-      "pendiente": "La continuación de la búsqueda de Ione y la activación o uso de la moneda por ella.",
+      "pendiente": "Cómo conseguirá Ione activar la moneda y qué podrá hacer con ella.",
       "fuentes_rol": [
         {
           "escena": "x-1535388630367867000",
@@ -160,6 +221,34 @@
           "descripcion": "Molly propone preparar la expedición y conseguir medios para respirar bajo el agua.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535430626210091128",
           "texto_sha256": "49be5d5398e696af3d6129a1c0424607b215946bb7151cb645588f3282dfaf12"
+        },
+        {
+          "escena": "x-1563959420193480704",
+          "mensaje_id": "1564061594324041739",
+          "descripcion": "Nox abraza a Ione en Tutucan; ella vuelve a sentir su calor y su pulso después de un instante.",
+          "url": "https://discord.com/channels/946724148628041748/1563959420193480704/1564061594324041739",
+          "texto_sha256": "a1fa2dd67350159f4f7bf254d47ee4c47a507852863ea12ba2ca325ae97198b0"
+        },
+        {
+          "escena": "x-1563959420193480704",
+          "mensaje_id": "1564063022555729992",
+          "descripcion": "Ione devuelve el gorro a Nox y reclama la moneda que le dieron a ella.",
+          "url": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063022555729992",
+          "texto_sha256": "a604ce1c6d057544ab681d1dac26aa105198ae6232b2eee77ba0d91feb0eec2a"
+        },
+        {
+          "escena": "x-1563959420193480704",
+          "mensaje_id": "1564063847487111369",
+          "descripcion": "Nox le lanza la moneda a Ione.",
+          "url": "https://discord.com/channels/946724148628041748/1563959420193480704/1564063847487111369",
+          "texto_sha256": "a3643208c2c0fc7b270cc8b164a8d17bc751fe84dfe9308a8bf33dec0097aab7"
+        },
+        {
+          "escena": "x-1563959420193480704",
+          "mensaje_id": "1564066435322478766",
+          "descripcion": "Ione atrapa la moneda y la guarda.",
+          "url": "https://discord.com/channels/946724148628041748/1563959420193480704/1564066435322478766",
+          "texto_sha256": "c36e00b17e5b57c4b523e75ff3af67a6a084f4aa9d01cf3084dcf7018989e129"
         }
       ]
     },
@@ -169,7 +258,7 @@
       "indice": 7,
       "pregunta": "¿A qué reyes y monedas corresponden los ataques de hielo y fuego y cuáles son sus límites? La llegada de las cuatro banderas no distribuye individualmente esos poderes (42-065–42-069).",
       "estado": "pendiente",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "respuesta": "El hielo y el fuego destruyen los refuerzos justo antes de aparecer las cuatro banderas y los reyes. La narración los presenta como su llegada, sin identificar cuál ejecuta cada fenómeno ni describir una activación individual de sus monedas.",
       "referencias": [
         "42-065",

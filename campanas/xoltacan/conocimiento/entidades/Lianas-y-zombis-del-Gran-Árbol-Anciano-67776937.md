@@ -12,7 +12,7 @@ Base para revisar equivalencia: [50-046](../capitulos/50.md), [50-048](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Lo que queda tras romper el saco
 
@@ -221,4 +221,3 @@ Tipo: `hecho_confirmado`.
 Explican que el árbol ancestral ha sucumbido a la infestación y al veneno. Hablan de muertos enterrados bajo sus raíces y de una planta que los atacó y de la que salían más cadáveres. Ante la pregunta de Walulu por alguna pista, sugieren que podría tratarse de un ritual.
 
 La hipótesis ritual pertenece a la conversación. No se identifica al responsable ni se ve enterrar los cuerpos.
-

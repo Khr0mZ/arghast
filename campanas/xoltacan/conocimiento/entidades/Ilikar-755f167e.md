@@ -12,7 +12,7 @@ Base para revisar equivalencia: [38-003](../capitulos/38.md), [38-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un náufrago que encuentra una tripulación
 
@@ -591,4 +591,3 @@ Tipo: `declaracion_personaje`.
 Tortas cuenta que encontró a Naór e Ilikar entrenando junto al agua y se unió a ellos. Cuando los dos acabaron inconscientes en la orilla, el anciano volvió a meditar en su piedra.
 
 Recuerdo de Tortas, sin reconstrucción de las causas ni de la duración de la inconsciencia.
-

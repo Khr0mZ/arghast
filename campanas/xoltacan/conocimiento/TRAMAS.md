@@ -1,5 +1,9 @@
 # Seguimiento de tramas entre capítulos
 
+## Del pecio del Invictus a la colección de Archi
+
+El Ojo que Nox llevaba en la chaqueta antes de la explosión acaba en la colección de Archi. Entre ambos episodios, Molly reconoce que había visto una segunda esfera y Erandi localiza la zona de la batalla. Al ofrecer un día de trabajo, Ione consigue que el inventor le entregue el objeto. El vídeo deja a los expedicionarios dentro de la ballena, mientras reparan su nave. [El Invictus](capitulos/42.md) · [La investigación del templo](capitulos/49.md) · [La recuperación del Ojo](capitulos/51.md).
+
 ## La resina para Cuicapalli
 
 Tras el envenenamiento de Eromov y el ataque durante el festival, Walulu pide resina para ayudar a Cuicapalli. Recibe una muestra escasa y planea hablar con Naór y los líderes. La preparación que Parroter administró a Eromov en el capítulo 44 empleaba las espinas del devorafango. La savia del árbol queda guardada en Iktan. [Tratamiento de Eromov](capitulos/44.md) · [Abastecimiento](capitulos/50.md).

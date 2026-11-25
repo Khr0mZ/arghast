@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-026](../capitulos/47.md), [47-027](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una prueba de fuego sin ventaja
 
@@ -51,4 +51,3 @@ Tipo: `hecho_confirmado`.
 Tras el ataque de un zombi, se corrige el daño pendiente de Tryel y el director confirma que ha acabado con su adversario. Tesara sale del escondite, corre hasta obtener alcance y dispara. Se aclara que la carga de fuego ya se ha consumido y que la desventaja le impide añadir ataque furtivo.
 
 No se narran cargas nuevas recuperadas ni una vulnerabilidad al fuego de los enemigos. La corrección de daño no concede una baja adicional distinta del adversario que se estaba resolviendo.
-

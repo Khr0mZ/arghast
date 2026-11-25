@@ -1,0 +1,359 @@
+{
+  "capitulo": 51,
+  "id": "nNsgxNdReFk",
+  "title": "D&D Aventuras en Xoltacan - Capítulo 51 - Buscando el Ojo",
+  "duration": 12483,
+  "channel": "Lichpol",
+  "channel_id": "UCWJ11LdxIuDJpbknXpSPgeg",
+  "webpage_url": "https://www.youtube.com/watch?v=nNsgxNdReFk",
+  "upload_date": "20261124",
+  "recuperado_el": "2026-11-25",
+  "herramienta": "yt-dlp",
+  "version": "2026.08.19",
+  "originales": {
+    "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.es-orig.txt": {
+      "bytes": 215353,
+      "sha256": "f18f54e9ec5cfe2b4be578c7595a5c725811b57da3588dbfbc9aa85849bf7315"
+    },
+    "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.es-orig.vtt": {
+      "bytes": 1383838,
+      "sha256": "6db21d066dee31f922ba2200a4bb11125e576c68ebac57f88e26e53612399f56"
+    },
+    "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.es.txt": {
+      "bytes": 215353,
+      "sha256": "f18f54e9ec5cfe2b4be578c7595a5c725811b57da3588dbfbc9aa85849bf7315"
+    },
+    "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.es.vtt": {
+      "bytes": 1383838,
+      "sha256": "6db21d066dee31f922ba2200a4bb11125e576c68ebac57f88e26e53612399f56"
+    },
+    "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.info.json": {
+      "bytes": 569576,
+      "sha256": "d87259fd3197cd149315c2a572a633bb634dc9e5c4fefffb57592d4dbb758001"
+    }
+  },
+  "lectura_integral": true,
+  "bloques": [
+    {
+      "bloque": 1,
+      "primera_linea": 1,
+      "ultima_linea": 1615,
+      "primer_segmento": "c000001",
+      "ultimo_segmento": "c003229",
+      "inicio": "00:00:00.320",
+      "fin": "01:09:47.990",
+      "segmentos": 1615,
+      "palabras": 9403,
+      "lectura_completa": true,
+      "evidencias": [
+        "51-001",
+        "51-033"
+      ],
+      "citas_cotejadas": 33,
+      "ejemplo_de_cita": {
+        "evidencia": "51-001",
+        "linea": 19,
+        "cue": "c000037",
+        "inicio": "00:00:50.199",
+        "fin": "00:00:52.349",
+        "texto": "nuevo reino para volver a hacerse un"
+      },
+      "etapas": 8
+    },
+    {
+      "bloque": 2,
+      "primera_linea": 1616,
+      "ultima_linea": 3230,
+      "primer_segmento": "c003231",
+      "ultimo_segmento": "c006459",
+      "inicio": "01:09:48.000",
+      "fin": "02:17:18.830",
+      "segmentos": 1615,
+      "palabras": 8751,
+      "lectura_completa": true,
+      "evidencias": [
+        "51-034",
+        "51-065"
+      ],
+      "citas_cotejadas": 32,
+      "ejemplo_de_cita": {
+        "evidencia": "51-034",
+        "linea": 1633,
+        "cue": "c003265",
+        "inicio": "01:10:17.920",
+        "fin": "01:10:21.350",
+        "texto": "Pero eres, eres mi tripulación también."
+      },
+      "etapas": 8
+    },
+    {
+      "bloque": 3,
+      "primera_linea": 3231,
+      "ultima_linea": 4844,
+      "primer_segmento": "c006461",
+      "ultimo_segmento": "c009687",
+      "inicio": "02:17:18.840",
+      "fin": "03:28:03.800",
+      "segmentos": 1614,
+      "palabras": 7830,
+      "lectura_completa": true,
+      "evidencias": [
+        "51-066",
+        "51-098"
+      ],
+      "citas_cotejadas": 33,
+      "ejemplo_de_cita": {
+        "evidencia": "51-089",
+        "linea": 4596,
+        "cue": "c009191",
+        "inicio": "03:17:51.399",
+        "fin": "03:17:55.630",
+        "texto": "Esta y saca una con un ojo."
+      },
+      "etapas": 8
+    }
+  ],
+  "total_segmentos": 4844,
+  "audio_cotejado": false,
+  "integracion": {
+    "etapas": 24,
+    "evidencias": 98,
+    "fichas_nuevas": [
+      "Ballena de Archi",
+      "Camino del guardián",
+      "Estatua del campeón",
+      "Prueba del inventor",
+      "Proyector de la ballena de Archi",
+      "Archi",
+      "Autómatas de la ballena de Archi",
+      "R53",
+      "Réplica de Calista",
+      "Réplica de Danifae",
+      "Réplica de Serafina",
+      "Réplica de Palayer",
+      "Anciana del mechero"
+    ],
+    "preguntas_previas_cotejadas": 313,
+    "actualizaciones": {
+      "P03-006": [
+        "51-034"
+      ],
+      "P09-003": [
+        "51-090"
+      ],
+      "P09-007": [
+        "51-095",
+        "51-096",
+        "51-097"
+      ],
+      "P11-001": [
+        "51-004",
+        "51-015"
+      ],
+      "P11-004": [
+        "51-002"
+      ],
+      "P21-004": [
+        "51-005"
+      ],
+      "P37-001": [
+        "51-007",
+        "51-089",
+        "51-090",
+        "51-094"
+      ],
+      "P37-002": [
+        "51-007",
+        "51-015",
+        "51-089",
+        "51-090",
+        "51-094"
+      ],
+      "P39-002": [
+        "51-004",
+        "51-015"
+      ],
+      "P41-001": [
+        "51-005"
+      ],
+      "P42-001": [
+        "51-011",
+        "51-088",
+        "51-089",
+        "51-094"
+      ],
+      "P42-002": [
+        "51-007",
+        "51-015",
+        "51-089",
+        "51-090",
+        "51-094"
+      ],
+      "P42-006": [
+        "51-002",
+        "51-003",
+        "51-010",
+        "51-015",
+        "51-088",
+        "51-089",
+        "51-092",
+        "51-094"
+      ],
+      "P43-003": [
+        "51-004",
+        "51-015"
+      ],
+      "P43-004": [
+        "51-095",
+        "51-096",
+        "51-097"
+      ],
+      "P46-008": [
+        "51-004"
+      ],
+      "P49-001": [
+        "51-007",
+        "51-089",
+        "51-090",
+        "51-094"
+      ],
+      "P49-006": [
+        "51-007",
+        "51-015",
+        "51-089",
+        "51-094"
+      ]
+    },
+    "preguntas_nuevas": [
+      "P51-001",
+      "P51-002",
+      "P51-003",
+      "P51-004",
+      "P51-005"
+    ],
+    "preguntas_totales": 318
+  },
+  "rol": {
+    "twitch": "2026-08-09",
+    "aviso": "1536091712404066304",
+    "titulo_aviso": "🦜D&D Aventuras en Xoltacan | Episodio #51 Buscando el Ojo",
+    "fuente_aviso": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304",
+    "registro_anuncios": "campanas/xoltacan/config/fuentes_anuncios_discord.json",
+    "mensaje_aviso_sha256": "25b4913339c4f5a1d4e9d3d23b241fe100cc214a50c02e19b701a8e7d0b940a7",
+    "pagina_privada_del_aviso": "pagina_0001.json",
+    "pagina_aviso_sha256": "ddcf1a35d734f7c53c4bf3e818697f86a4ea0f909edeab754c4a1e3effaa6a43",
+    "manifest_anuncios_sha256": "a4105becaa7e439bdd527179c1454bd190d4e3033734ba3406c5def113a6856f",
+    "inicio_tarjeta_utc": "2026-08-09T19:15:40Z",
+    "inicio_tarjeta_madrid": "2026-08-09T21:15:40+02:00",
+    "aviso_discord_utc": "2026-08-09T19:20:03.441000Z",
+    "aviso_discord_madrid": "2026-08-09T21:20:03.441000+02:00",
+    "duracion_video_segundos": 12483,
+    "fin_estimado_utc": "2026-08-09T22:43:43Z",
+    "fin_estimado_madrid": "2026-08-10T00:43:43+02:00",
+    "criterio": "La tarjeta de Twitch identifica campaña, número y título. El final se estima sumando la duración del vídeo a la referencia horaria de la tarjeta. El aviso de Discord llegó después de la hora de la tarjeta. Ninguna de las dos acredita la hora exacta de comienzo del rol.",
+    "youtube_publicacion_utc": "2026-11-24T10:00:05Z",
+    "youtube_publicacion_madrid": "2026-11-24T11:00:05+01:00",
+    "fuente_fecha_youtube": "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.info.json",
+    "escenas_contiguas": [
+      {
+        "id": "x-1535388630367867000",
+        "titulo": "Erandi localiza una pista del segundo Ojo",
+        "mensajes": 73,
+        "entre": [
+          50,
+          51
+        ],
+        "inicio_utc": "2026-08-07T20:46:15.621000Z",
+        "fin_utc": "2026-08-08T01:32:21.623000Z",
+        "inicio_madrid": "2026-08-07T22:46:15.621000+02:00",
+        "fin_madrid": "2026-08-08T03:32:21.623000+02:00"
+      },
+      {
+        "id": "x-1535461403065057411",
+        "titulo": "Ione y Citlali comparten el duelo por Nox",
+        "mensajes": 27,
+        "entre": [
+          50,
+          51
+        ],
+        "inicio_utc": "2026-08-08T01:35:25.984000Z",
+        "fin_utc": "2026-08-09T15:14:24.439000Z",
+        "inicio_madrid": "2026-08-08T03:35:25.984000+02:00",
+        "fin_madrid": "2026-08-09T17:14:24.439000+02:00"
+      },
+      {
+        "id": "x-1536490724164378715",
+        "titulo": "Zoltan pierde el control de sus rayos",
+        "mensajes": 49,
+        "entre": [
+          51,
+          52
+        ],
+        "inicio_utc": "2026-08-10T21:45:35.258000Z",
+        "fin_utc": "2026-08-11T00:03:17.329000Z",
+        "inicio_madrid": "2026-08-10T23:45:35.258000+02:00",
+        "fin_madrid": "2026-08-11T02:03:17.329000+02:00"
+      },
+      {
+        "id": "x-1537510110232977481",
+        "titulo": "Coyote guía a Oghma hasta el arroyo",
+        "mensajes": 12,
+        "entre": [
+          51,
+          52
+        ],
+        "inicio_utc": "2026-08-13T17:16:15.836000Z",
+        "fin_utc": "2026-08-13T21:34:24.814000Z",
+        "inicio_madrid": "2026-08-13T19:16:15.836000+02:00",
+        "fin_madrid": "2026-08-13T23:34:24.814000+02:00"
+      }
+    ],
+    "escenas_totales": 326,
+    "mensajes_totales": 6723,
+    "mensajes_originales": 6725,
+    "mensajes_de_reglas_fuera_del_visor": 2,
+    "escenas_mismo_contenido_que_version_previa": 326,
+    "version_previa": "44722dc3d9f8125d94629ccda9f5e466142a4f62",
+    "escenas_con_intervalo_actualizado": [
+      "x-1532155716633231392",
+      "x-1534940909018546227",
+      "x-1535388630367867000",
+      "x-1535461403065057411",
+      "x-1536490724164378715",
+      "x-1537510110232977481"
+    ],
+    "manifiestos_privados": [
+      {
+        "captura": "20261020T152108Z",
+        "manifest_sha256": "081ae3843c5ae2a978286ebad7031113c0f2b3000b329615602bf901c1103ae0",
+        "mensajes_de_escenas_cotejados_con_esta_captura": 6241
+      },
+      {
+        "captura": "20261102T154143577500Z",
+        "manifest_sha256": "0455228dae0df15a1e3826a5d44947e4e77d6aebeec077e1569439dc3bc9b5c5",
+        "mensajes_de_escenas_cotejados_con_esta_captura": 476
+      },
+      {
+        "captura": "20261103T025021015196Z",
+        "manifest_sha256": "15f05e4c0463a72bb95c12d1485ae756551385977fb871ab196ffb8fd4402550",
+        "mensajes_de_escenas_cotejados_con_esta_captura": 6
+      }
+    ],
+    "mensajes_con_texto_autor_fecha_e_hilo_verificados": 6723,
+    "sha256_id_autor_texto_fecha": "3c73f70ba23b18ecbd316e3514d2e6ffd63d658468dc0da3765654027fc5552f",
+    "metodo_cotejo": "Cada fuente de escena tiene un ID único. El texto, su SHA-256, el hilo y la fecha coinciden con la exportación completa más reciente. El SHA-256 del mensaje íntegro, incluido el autor, coincide con una captura original, y ese ID de autor coincide con la exportación más reciente. La huella conjunta se obtiene del JSON canónico {id_mensaje: [id_autor, sha256_texto, fecha_utc]} con claves ordenadas, UTF-8, sin espacios ni escapes ASCII. Los dos mensajes de reglas permanecen en los originales privados."
+  },
+  "verificacion_local": {
+    "fecha": "2026-11-25",
+    "capitulos_revisados": 51,
+    "evidencias_en_archivo": 1901,
+    "entidades_visibles": 251,
+    "preguntas_cotejadas": 318,
+    "originales_vtt_y_txt_integros": 204,
+    "pruebas_unitarias": 103,
+    "comprobaciones_interfaz": 323,
+    "comprobaciones_rol": 183,
+    "comprobaciones_edicion": 37,
+    "temporales_retirados": true
+  }
+}

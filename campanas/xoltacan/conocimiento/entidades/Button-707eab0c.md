@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-003](../capitulos/14.md), [16-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Del cautiverio al camino de casa
 
@@ -129,4 +129,3 @@ Tipo: `hecho_confirmado`.
 Ayoto llega herido a la tienda del norte y ofrece pagar e invitar a comer al artesano si lo ayuda a trabajar la criatura. El hombre no quiere dejar la tienda sola y pide que le traigan el cadáver. Ayoto propone que Baton vigile, pero el artesano lo rechaza llamándolo ladrón. Baton niega haber robado a nadie; Ayoto insiste en la invitación y regresa sin lograr que el herrero abandone su puesto.
 
 La acusación contra Baton pertenece al herrero y queda contestada, sin prueba independiente de un robo. El oficio de herrero se confirma al describir la salida de Ayoto; no se le asigna el nombre Armin ni se confunde con el artesano de Shiaru.
-

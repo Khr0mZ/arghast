@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-038](../capitulos/49.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El habitante que interrumpe las pesquisas
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Mientras el grupo examina las vasijas, el corcel relincha. Una criatura extraña de aspecto serpentino y perruno avanza, se yergue sobre dos patas y salta para golpearlo con zarpazos. El director aclara que es una criatura, no una trampa, y pide iniciativa.
 
 Primer ataque observado. Este bloque no resuelve el combate, no determina el número total de enemigos ni identifica una especie de bestiario o la desaparición del corcel.
-

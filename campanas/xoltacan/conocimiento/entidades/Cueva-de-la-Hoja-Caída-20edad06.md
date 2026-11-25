@@ -12,7 +12,7 @@ Base para revisar equivalencia: [30-007](../capitulos/30.md), [30-010](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una visita que debía evitar una guerra
 
@@ -57,6 +57,3 @@ No se desplaza a la cautiva ni se obtiene una confesión. Su posible condición 
 Tipo: `hecho_confirmado`.
 
 Una criatura emerge del agua venenosa y ataca a Winscore, cuya Esquiva ya no sigue activa tras la parálisis. Leona mata a dos enemigos con su hacha y ataques adicionales, y presume de su futuro liderazgo. Winscore ataca mientras cubre a Luna. Guayacán se levanta y mata al último adversario utilizando el taburete y una Ráfaga de golpes. Al acabar el combate no quedan enemigos vivos para interrogar.
-
-
-

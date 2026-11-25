@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-014](../capitulos/48.md), [48-015](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Las pistas conducen a una entrada oculta
 
@@ -505,4 +505,3 @@ Tipo: `hecho_confirmado`.
 Después de recoger las muestras los compañeros acuerdan marcharse cuanto antes: reconocen que están debilitados y alguno se encuentra mal. Inician el camino de vuelta mientras la narración regresa a Iktan.
 
 Emprender el regreso no demuestra que todo el grupo haya llegado ya a la ciudad, descansado o neutralizado el veneno.
-

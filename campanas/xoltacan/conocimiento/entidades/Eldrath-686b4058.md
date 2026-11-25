@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-001](../capitulos/14.md), [31-007](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Dos hermanos acostumbrados a sobrevivir juntos
 
@@ -1565,4 +1565,3 @@ Tipo: `explicacion_director`.
 En la vuelta a Iktan no perciben que el dragón verde los aceche, aunque Tryel los acompaña. El director recuerda que en encuentros previos demostró sigilo y la capacidad de hacerse invisible. El grupo llega a la ciudad sin sufrir un ataque. Tryel explica que Eldrath guarda su dinero porque suele perderlo.
 
 No sentir al dragón no demuestra su ausencia ni el fin del ultimátum. Lo que hace con el dinero depende del testimonio de Tryel.
-

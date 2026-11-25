@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El lugar de la cautiva
 
@@ -75,4 +75,3 @@ Tipo: `hecho_confirmado`.
 Antes de abandonar la cueva, Naór busca objetos o efectos mágicos relacionados con el ritual. Percibe una concentración intensa en el altar, como una consagración por alguna criatura extraña, y ve también el agua iluminada como si fuera mágica. Lo comunica al grupo y pregunta a Tentacol a quién dedicaban los sacrificios.
 
 El director no identifica una maldición concreta, el origen de la magia del agua ni una deidad confirmada. El grupo no desactiva ni destruye el altar en la escena.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-022](../capitulos/01.md), [27-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una presencia de fuego junto a Mamá
 
@@ -493,4 +493,3 @@ Tipo: `hecho_confirmado`.
 Eleanor se concentra en comprobar que Erandy se encuentra bien y se reúne con ella. Cerca están Ilikar jugando con Cipo y Lunaria, a quien el director imagina intentando quemar algún trozo de madera. Eleanor expresa que también quiere coger a Lunaria en brazos; el director advierte que esta no se dejaría.
 
 La llegada y la preocupación de Eleanor no demuestran una curación completa del agotamiento anterior de Erandy. El intento incendiario de Lunaria se expresa de forma conjetural y no acredita otro incendio consumado; tampoco se ejecuta un abrazo forzado a Lunaria.
-

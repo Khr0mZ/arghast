@@ -12,7 +12,7 @@ Base para revisar equivalencia: [13-025](../capitulos/13.md), [27-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Del sótano del templo a una alianza con babuinos
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Ayoto llama a unos babuinos mediante gestos y pide a Axi que traduzca con Hablar con animales. Proponen que arrojen piedras o cocos a los sombreros azules a cambio de botín. Axi entrega dos monedas comunes y Ayoto dos antiguas, pidiendo que traigan más monos. Los babuinos aceptan y se disputan las monedas. Solo esos dos ayudan después; no aparece un ejército de animales.
 
 La fruta persuasiva no asegura que lleguen más aliados. Ayoto no entiende a los babuinos sin Axi.
-

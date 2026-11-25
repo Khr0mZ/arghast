@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-034](../capitulos/43.md), [43-039](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### De garrote a propulsor
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Lunaria golpea el cañón contra el suelo buscando hacerlo disparar otra vez. Tras un primer golpe que lo mueve, repite y consigue una nueva detonación que la lanza al aire con Eleanor montada encima. El director deja a ambas suspendidas para resolver la caída en su turno posterior.
 
 No es una capacidad de vuelo autónoma. La descripción posterior dice los tres al contar la escena, sin identificar aquí a un tercer jinete o pasajero.
-

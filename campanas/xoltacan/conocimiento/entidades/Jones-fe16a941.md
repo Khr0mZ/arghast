@@ -12,7 +12,7 @@ Base para revisar equivalencia: [26-006](../capitulos/26.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una llegada anunciada
 
@@ -29,4 +29,3 @@ Tipo: `declaracion_personaje`.
 Nox cuenta a Ione que obtuvo información de Molly y del fuerte y que acaba de conversar con Bonnie. Afirma que Jones llega o está en camino, que habrá una reunión de los cinco y que las altas esferas están preocupadas. Según él, la llegada alteró el equilibrio y comenzó una disputa por un tesoro. Se declara del lado de Ione y dispuesto a utilizar a quien sea. Ella aplaza sus conflictos, pero exige disculpas después.
 
 No se muestra la reunión ni el desembarco de Jones. Las referencias a Tórtola, Jones y Bonnie no constituyen una lista nueva y completa de asistentes.
-

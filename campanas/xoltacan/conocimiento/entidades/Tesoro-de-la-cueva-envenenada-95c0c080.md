@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-087](../capitulos/48.md), [48-092](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un collar entre piezas deterioradas
 
@@ -61,4 +61,3 @@ Tipo: `explicacion_director`.
 Eldrath busca objetos o superficies con inscripciones dracónicas intentando explicar la señal que detectó Naór. Tesara recuerda que también está buscando grabados o un pasadizo. El director descarta esa vía: es una cueva y no hay inscripciones en ningún lado.
 
 La búsqueda de runas es una hipótesis, sin texto dracónico encontrado. No se generaliza el descarte de inscripciones a toda otra cueva de la campaña.
-

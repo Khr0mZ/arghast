@@ -2,17 +2,17 @@
 
 Menciones documentadas por capítulo y minuto. La etiqueta no garantiza grafía oficial; véanse limitaciones y nombres dudosos de cada episodio.
 
-Barco asociado a Nox e Ione; llega averiado y estampado junto a la taberna de Shiaru.
+Barco pirata de Nox e Ione, recuperado en la costa y tragado por la ballena de Archi al volver al arrecife.
 
 Mismo barco a través de capítulos. La tripulación Zampaolas se mantiene como organización separada del casco.
 
 Etiquetas agrupadas: Barco Zampaolas (grafía provisional); Zampaolas.
 
-Base para revisar equivalencia: [01-033](../capitulos/01.md), [33-002](../capitulos/33.md), [38-006](../capitulos/38.md), [42-003](../capitulos/42.md), [42-013](../capitulos/42.md), [42-015](../capitulos/42.md), [42-017](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-035](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-051](../capitulos/42.md), [42-062](../capitulos/42.md), [42-063](../capitulos/42.md), [42-064](../capitulos/42.md), [42-067](../capitulos/42.md), [43-061](../capitulos/43.md).
+Base para revisar equivalencia: [01-033](../capitulos/01.md), [33-002](../capitulos/33.md), [38-006](../capitulos/38.md), [42-003](../capitulos/42.md), [42-013](../capitulos/42.md), [42-015](../capitulos/42.md), [42-017](../capitulos/42.md), [42-024](../capitulos/42.md), [42-027](../capitulos/42.md), [42-035](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-051](../capitulos/42.md), [42-062](../capitulos/42.md), [42-063](../capitulos/42.md), [42-064](../capitulos/42.md), [42-067](../capitulos/42.md), [43-061](../capitulos/43.md), [51-008](../capitulos/51.md), [51-009](../capitulos/51.md), [51-010](../capitulos/51.md), [51-011](../capitulos/51.md), [51-012](../capitulos/51.md), [51-013](../capitulos/51.md), [51-015](../capitulos/51.md), [51-017](../capitulos/51.md), [51-018](../capitulos/51.md), [51-019](../capitulos/51.md), [51-087](../capitulos/51.md), [51-094](../capitulos/51.md), [51-098](../capitulos/51.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un barco que se convierte en casa inmóvil
 
@@ -55,6 +55,12 @@ Fuentes: [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](
 Después del combate terrestre, Citlali reconoce por encima de los árboles sus velas negras y su bandera. El barco parece ir a la deriva junto a la costa y se detiene, meciéndose como varado al este. Citlali intenta alcanzarlo esperando encontrar a Nox, sin que se muestre el encuentro ni una inspección de la nave.
 
 Fuentes: [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800.
+
+### De la playa al estómago de una ballena
+
+Después de varias semanas de rodeos, la expedición distingue su mástil en la costa. Lo despejan de intrusos y el barco vuelve al arrecife con Ione al timón, Citlali de vigía, Sir Poncelot y los trillizos trabajando en cascos de inmersión. Recogen las velas en la zona señalada por Erandy. Cuando llega el silbido de alarma, el barco parado apenas tiene tiempo de arrancar antes de que una boca lo engulla. Queda encajado entre restos de madera y paredes de carne. Los trillizos se quedan a custodiarlo; después, Archi afirma que sus ayudantes reparan la nave y calcula que hará falta un día. La sesión termina antes de que vuelva a navegar.
+
+Fuentes: [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720 · [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800 · [51-010 · El mástil asoma entre los árboles](../capitulos/51.md) · 00:07:23.199 · [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200 · [51-012 · Citlali toma el puesto de vigía](../capitulos/51.md) · 00:11:12.160 · [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639 · [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320 · [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880 · [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840 · [51-087 · La ballena tiene cámaras y reparan el barco](../capitulos/51.md) · 03:15:16.000 · [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199 · [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120.
 
 ## Registros y evidencias
 
@@ -562,3 +568,170 @@ Cansada y con dolor de pies, Ione se sienta, añora el barco y reparte frutas en
 
 La confianza en los compañeros y Pix no representa un encuentro o rastreo observado de ese otro grupo. La comparación de aspecto no fija la edad exacta de Citlali.
 
+## [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880
+
+Tipo: `explicacion_director`.
+
+Al recapitular la investigación del templo, el director recuerda que Poncelot extrajo de la profecía la pista de los dos Ojos. Molly recordaba haber visto uno en manos de Nox. Para seguir esa pista la expedición necesita recuperar el Zampaolas.
+
+El viaje al templo y la interpretación posterior se recapitulan juntos. Poncelot contribuyó a la interpretación; este pasaje no lo sitúa entre los expedicionarios del templo.
+
+## [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720
+
+Tipo: `declaracion_personaje`.
+
+Ione recuerda que tras perder a Nox dejaron el barco en la costa, relativamente cerca de Shiaru. Con la tripulación abatida y un navío imposible de ocultar, tuvieron que marcharse; la capitana teme lo que pueda encontrar a su vuelta.
+
+La capitana señala un área aproximada, sin dar una posición precisa.
+
+## [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800
+
+Tipo: `explicacion_director`.
+
+La expedición prueba primero al sur, corrige al norte y vuelve a perderse. Un rodeo la lleva a Fuerte Aurora; cuando Poncelot confía el rastro a su montura, acaban otra vez en Iktan. Pierden otra semana antes de regresar a la costa.
+
+El director habla de varias semanas en total y precisa una semana adicional por el regreso a Iktan.
+
+## [51-010 · El mástil asoma entre los árboles](../capitulos/51.md) · 00:07:23.199
+
+Tipo: `explicacion_director`.
+
+Un mástil divisado por casualidad pone fin a la búsqueda. El Zampaolas sigue atracado en la costa. La expedición despeja los seres con aspecto de pez que intentan abordarlo y consigue volver a hacerse a la mar.
+
+El director cree recordar que Poncelot divisó el mástil. Las figuras de aspecto de pez quedan sin identificar.
+
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-012 · Citlali toma el puesto de vigía](../capitulos/51.md) · 00:11:12.160
+
+Tipo: `hecho_confirmado`.
+
+Citlali le cuenta a Ione que acostumbraba a viajar a pie. La capitana le señala el puesto elevado y le encarga dar la voz si ve tierra, otra embarcación o una criatura. Citlali trepa y queda por encima de la cubierta.
+
+
+
+## [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot ayuda con sus conocimientos de herrería, las tuberías y el metal de armas sobrantes; pueden hacer falta piezas y remaches. Un trillizo señala que necesitarán lastre para descender. Poncelot reorienta a quien estaba martillando en dirección equivocada.
+
+Su trabajo continúa cuando se aproxima el barco al arrecife.
+
+## [51-014 · Naór e Ione alcanzan un acuerdo a bordo](../capitulos/51.md) · 00:14:32.600
+
+Tipo: `hecho_confirmado`.
+
+Aunque se agarra a los tablones con las garras, Naór sube a hablar con Ione sobre su mal comienzo. Se ofrecen un entrenamiento, se estrechan el brazo y Naór reconoce la autoridad de la capitana en cubierta. Ione se compromete a tratarla como a su tripulación. Naór empieza por soltar el cabo de la vela mayor.
+
+El acuerdo se formula para el barco; las dos bromean sobre lo que pueda ocurrir en tierra.
+
+## [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080
+
+Tipo: `hecho_confirmado`.
+
+El agua clara permite distinguir barcos hundidos. La sonrisa de Ione desaparece y Citlali se aferra a la barandilla, dividida ante la posibilidad de encontrar a Nox. Cuando llegan al punto señalado por Erandy para buscar el Ojo, Ione manda recoger las velas y detiene la nave.
+
+Las coordenadas y el método de localización no se vuelven a dar en este pasaje.
+
+## [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca desde arriba un pecio imponente entre restos rotos contra las rocas. Ve una mancha tan grande como imagina al Invictus, pero asciende hacia ellos. En vez de gritar, emite el silbido de alerta que conocen sus compañeros. Ione sube a reunirse con ella.
+
+Citlali no había visto el navío de la Marina. La comparación de tamaño no identifica la sombra con su pecio.
+
+## [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320
+
+Tipo: `hecho_confirmado`.
+
+La sombra rebasa la silueta de la nave. Ione se descuelga a cubierta, ordena dar vela y vuelve al timón. Como el barco estaba parado, apenas consigue arrancar antes de que una boca en forma de V se cierre en torno a él. La ballena se hunde llevándose barco y ocupantes.
+
+La alusión de la mesa a un kraken precede a la descripción explícita de la ballena.
+
+## [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880
+
+Tipo: `hecho_confirmado`.
+
+La tripulación rueda entre golpes y crujidos hasta que el Zampaolas se detiene. Sir Poncelot y Naór alcanzan a orientarse en la penumbra. El trillizo ciego enciende los faroles y aparecen a la vista el casco encajado, los maderos flotantes y las paredes de carne; a intervalos les llega un olor ácido.
+
+
+
+## [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840
+
+Tipo: `hecho_confirmado`.
+
+Mientras unos se levantan tras la caída y la capitana ayuda a Poncelot con los cabos de los que cuelga, los trillizos terminan de encender las luces. Naór salta sobre el suelo blando; Ione echa una cuerda para los siguientes y deja a los trillizos al cuidado del barco mientras salen los cuatro a buscar una salida.
+
+
+
+## [51-020 · Merlucilla IV se deja convencer con comida](../capitulos/51.md) · 00:35:00.440
+
+Tipo: `hecho_confirmado`.
+
+Antes de salir, Poncelot baja a buscar a su tigre. Merlucilla IV sigue pegada al techo, asustada tras las sacudidas. La llama y reparte pedacitos de sus raciones para que se calme y lo acompañe.
+
+La mesa bromea sobre la muerte de la cuarta Merlucilla; la escena muestra al tigre vivo.
+
+## [51-026 · El tigre vuelve al barco](../capitulos/51.md) · 00:45:30.240
+
+Tipo: `hecho_confirmado`.
+
+Merlucilla IV queda atrapada al intentar franquear la puerta estrecha. Poncelot desiste de empujar, manda al tigre de vuelta a la nave de Ione y entra sin montura. Rechaza por cuestión de honor la oferta de montar sobre Naór.
+
+La dirección de regreso se da en el diálogo; no se representa su llegada a cubierta.
+
+## [51-086 · Ione pide una de las autómatas para la tripulación](../capitulos/51.md) · 03:14:23.760
+
+Tipo: `hecho_confirmado`.
+
+Ione averigua que Archi considera obras de arte a las combatientes y lo abraza para darle las gracias por la pelea. Le pregunta si puede llevarse una para la tripulación, pero el inventor rechaza la petición.
+
+
+
+## [51-087 · La ballena tiene cámaras y reparan el barco](../capitulos/51.md) · 03:15:16.000
+
+Tipo: `declaracion_personaje`.
+
+Citlali explica que necesitan salir de la ballena que los ha tragado. Archi dice que ha visto el incidente por las cámaras y que sus ayudantes ya están reparando el barco. Calcula que tardarán unas veinticuatro horas.
+
+Es el plazo que da Archi, no una reparación terminada.
+
+## [51-091 · Archi pide algo a cambio del Ojo](../capitulos/51.md) · 03:18:39.920
+
+Tipo: `hecho_confirmado`.
+
+Magullada después de la pelea, Ione confirma que buscaban ese objeto. Cuando Archi pregunta qué le darán a cambio, ella le ofrece hacer entre todos el trabajo de las autómatas durante el día que durará la reparación.
+
+La moneda de cambio ofrecida es trabajo durante la espera.
+
+## [51-092 · Ione acepta trabajar con el uniforme de las autómatas](../capitulos/51.md) · 03:20:55.920
+
+Tipo: `hecho_confirmado`.
+
+Archi abre un baúl y muestra faldas y cofias; una lleva orejitas de coneja. Sir Poncelot saca la espada ante la idea de que su capitana vista así. Ione toma el uniforme y acepta trabajar hasta que reparen el barco. Archi señala las manchas de sangre de la alfombra como primera tarea.
+
+
+
+## [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199
+
+Tipo: `hecho_confirmado`.
+
+Acordadas las condiciones del trabajo y mientras se disponen a marcharse hacia el ascensor, Archi entrega el orbe. La tripulación ha recuperado el objeto que buscaba antes de que el barco esté listo para salir.
+
+La línea enuncia la entrega, pero no precisa dónde lo guardan después. No se recupera un cuerpo en esta escena.
+
+## [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120
+
+Tipo: `hecho_confirmado`.
+
+Archi e Ione se retiran a los camarotes. Citlali se queda acariciando a Sir Poncelot hasta que recobre su tamaño; Naór, intrigada por el oso que no se mueve, termina gruñéndole a la alfombra. Así se cierra la sesión dentro de la ballena.
+
+La sesión termina antes de mostrar la reparación, la salida de la ballena o el destino posterior del Ojo.

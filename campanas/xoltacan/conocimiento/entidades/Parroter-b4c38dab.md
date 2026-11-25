@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-017](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El alquimista de Cuicapalli
 
@@ -153,4 +153,3 @@ Tipo: `hecho_confirmado`.
 El cierre entra en la casa de Eromov, que reposa cubierto con hojas, con la piel grisácea y venas negras por el cuerpo. Parroter termina la preparación aún pastosa y se la administra mientras observan los guardias. Las venas empiezan a menguar; el alquimista sonríe, pide que avisen a Leona y anuncia que hará más porque Eromov se pondrá mejor. El director cierra diciendo que parece que mejorará bastante.
 
 Se representa una mejoría visible tras administrar el remedio, sin vuelta a sus funciones o curación completa. La continuación del tratamiento es la intención de Parroter; no se narra una segunda dosis ya administrada.
-

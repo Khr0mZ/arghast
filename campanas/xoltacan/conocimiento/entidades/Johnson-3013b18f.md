@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-010](../capitulos/35.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Bajo las órdenes de Tórtola
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Smith dice que Molly volvió a casa o se jubiló, contradiciendo al guardia interrogado. Tórtola lo reprende, manda a Johnson llevárselo y rechaza alojar a los viajeros. Después del regateo, Patata vende tortillas a otro oficial por dos monedas y media de plata cada una. Luna finge una necesidad corporal cerca del muelle y preparan una distracción con comida.
 
 No se muestra el desenlace del castigo de Smith. La posterior celda contradice la supuesta jubilación de Molly.
-

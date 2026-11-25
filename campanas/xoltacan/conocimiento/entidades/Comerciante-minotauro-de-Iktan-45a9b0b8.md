@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-024](../capitulos/48.md), [48-025](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El jade y el equipo del elfo
 
@@ -59,4 +59,3 @@ Tipo: `hecho_confirmado`.
 Naór va a la tienda, saluda a Eldrath y presiona al minotauro que lo está tatuando. Le pone la mano en el hombro, clava las uñas y muestra los colmillos mientras insiste en que el trabajo está acabado aunque solo hay medio dibujo. La intimidación surte efecto: el comerciante lo da por terminado y Naór levanta a Eldrath para marcharse.
 
 «Reotra» es una grafía aislada del saludo en el ASR, no un nombre fijado. La presión para salir no termina la otra mitad del tatuaje ni prueba qué propiedades mágicas tendrá.
-

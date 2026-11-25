@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "entidades": {
     "Anillo familiar de Erendriel": [
       {
@@ -252,6 +252,13 @@
           "42-066",
           "42-068"
         ]
+      },
+      {
+        "titulo": "Los ensayos junto al lago",
+        "texto": "Ione se aparta de su tripulación y lleva la moneda a las ruinas junto al lago. Traza círculos e intenta reproducir los gestos de Bonny. Aún recuerda el efecto que busca, pero el objeto no le responde en esos ensayos.",
+        "referencias": [
+          "51-002"
+        ]
       }
     ],
     "Monedas antiguas de Ayoto": [
@@ -317,6 +324,21 @@
         "texto": "Cuando va a escapar del Invictus, Nox nota los tatuajes de su espalda y encuentra el orbe con ojo de serpiente en su chaqueta. A continuación abandona el cabo y corre para detener a Tórtola. No se manifiesta una función del objeto ni se acredita una fuga provocada por él.",
         "referencias": [
           "42-061"
+        ]
+      },
+      {
+        "titulo": "El hallazgo de Archi",
+        "texto": "El recuerdo de Molly y la indicación de Erandy llevan al Zampaolas hacia los pecios donde se perdió Nox. Ione había pensado bajar a buscarlos con cascos de inmersión. En cambio, acaba describiéndole la esfera al dueño de una ballena que recoge objetos de esas aguas. Entre varias piezas que va sacando Archi aparece un orbe con un ojo. Citlali se agarra la cabeza y cae de rodillas al verlo. Archi dice que lo había tomado por una fuente de energía y accede a ocultarlo. Tras pactar con Ione el trabajo que harán mientras reparan la nave, entrega el Ojo a la expedición.",
+        "referencias": [
+          "51-003",
+          "51-007",
+          "51-015",
+          "51-022",
+          "51-088",
+          "51-089",
+          "51-090",
+          "51-091",
+          "51-094"
         ]
       }
     ],
@@ -507,6 +529,25 @@
         "referencias": [
           "43-061"
         ]
+      },
+      {
+        "titulo": "De la playa al estómago de una ballena",
+        "texto": "Después de varias semanas de rodeos, la expedición distingue su mástil en la costa. Lo despejan de intrusos y el barco vuelve al arrecife con Ione al timón, Citlali de vigía, Sir Poncelot y los trillizos trabajando en cascos de inmersión. Recogen las velas en la zona señalada por Erandy. Cuando llega el silbido de alarma, el barco parado apenas tiene tiempo de arrancar antes de que una boca lo engulla. Queda encajado entre restos de madera y paredes de carne. Los trillizos se quedan a custodiarlo; después, Archi afirma que sus ayudantes reparan la nave y calcula que hará falta un día. La sesión termina antes de que vuelva a navegar.",
+        "referencias": [
+          "51-008",
+          "51-009",
+          "51-010",
+          "51-011",
+          "51-012",
+          "51-013",
+          "51-015",
+          "51-017",
+          "51-018",
+          "51-019",
+          "51-087",
+          "51-094",
+          "51-098"
+        ]
       }
     ],
     "Muestra de veneno del claro": [
@@ -641,6 +682,17 @@
           "42-057",
           "42-061",
           "42-062"
+        ]
+      },
+      {
+        "titulo": "Una sombra entre los pecios",
+        "texto": "Citlali intenta localizar entre los pecios una embarcación del tamaño que debió de tener el Invictus. Desde el puesto de vigía descubre una mancha enorme, pero en vez de quedarse en el fondo sube hacia ellos: es una ballena. Cuando preguntan a Archi por los restos de la batalla, lo que obtienen es el Ojo; el pecio del Invictus queda sin identificar en esta exploración.",
+        "referencias": [
+          "51-015",
+          "51-016",
+          "51-017",
+          "51-088",
+          "51-089"
         ]
       }
     ],
@@ -908,6 +960,15 @@
           "49-016",
           "49-017"
         ]
+      },
+      {
+        "titulo": "La pista apunta al otro objeto",
+        "texto": "Al recordar la investigación del templo, la compañía pone en relación los dos Ojos de la profecía. Molly se acuerda de la esfera que Nox le había enseñado; esa es la que lleva a Ione de vuelta al arrecife y la que termina entregando Archi. La expedición no proporciona un nuevo paradero para la que Molly obtuvo con Bonny.",
+        "referencias": [
+          "51-007",
+          "51-089",
+          "51-094"
+        ]
       }
     ],
     "Mapa del templo entregado por Walulu": [
@@ -1040,6 +1101,32 @@
           "50-050",
           "50-064",
           "50-068"
+        ]
+      }
+    ],
+    "Estatua del campeón": [
+      {
+        "titulo": "Una calavera para el campeón",
+        "texto": "En el centro del ring espera un semiorco de boca abierta. El pedestal pide que se use el coco. Ione y Naór se toman la invitación a cabezazos y descubren que la estatua sabe responder con un martillo. Después del golpe recupera su posición. Poncelot trepa y palpa el cojín que tiene en la boca. Cuando deja sobre él una calavera recogida del suelo, el campeón cierra la mandíbula, posa para sus visitantes y desbloquea la salida.",
+        "referencias": [
+          "51-039",
+          "51-040",
+          "51-041",
+          "51-042",
+          "51-043"
+        ]
+      }
+    ],
+    "Proyector de la ballena de Archi": [
+      {
+        "titulo": "Una película en el taller",
+        "texto": "Las voces que oye Citlali al abrirse la puerta salen de este aparato. Proyecta imágenes íntimas de Serafina y Guxi y, por unos instantes, a un robot entrando en la habitación de la shogun en el palacio de Kuroto. Citlali tapa la imagen para cortar la sesión y el sonido continúa. Ione convence a su compañera de que puede guardarse el proyector en la mochila, y así se lo lleva, todavía en marcha. Cuando Poncelot cree reconocer una voz en la prueba, Ione le ofrece volver a mirar la grabación en el barco.",
+        "referencias": [
+          "51-044",
+          "51-045",
+          "51-046",
+          "51-047",
+          "51-054"
         ]
       }
     ]

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-057](../capitulos/48.md), [48-058](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Se levantan por la retaguardia y los flancos
 
@@ -201,4 +201,3 @@ Tipo: `hecho_confirmado`.
 Eldrath se acerca a su hermana y prepara una maniobra conjunta. Tryel le advierte que no toque al enemigo, pero él le responde que nunca le hace caso y mata con un golpe crítico al esqueleto que ella tenía enfrente. El cuerpo se deshace delante de Tryel.
 
 Se documenta la disputa entre hermanos sin convertir el esqueleto anónimo en un personaje diferente por cada intervención.
-

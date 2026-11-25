@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Sacrificios junto a la sirena
 
@@ -107,4 +107,3 @@ Tipo: `hecho_confirmado`.
 Tentacol coloca al sacerdote junto a Chopito y prepara humo y luces para agrandar la sombra del pulpo. Chopito se presenta como ser supremo y reprocha al cautivo que intentara sacrificar a una criatura a otro dios. Amenaza con entrar por la boca y abrirse paso por el pecho; la narración representa que lo hace y sale ensangrentado del cuerpo. Los demás solo ven y oyen al pulpo actuar mientras el rival muere.
 
 El sacerdote inconsciente es finalmente ejecutado, sin interrogatorio ni respuesta documentada. Las proclamaciones de supremacía y los relatos de supuestas víctimas anteriores son palabras de Chopito; no prueban divinidad ni otros hechos fuera de la escena.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [02-004](../capitulos/02.md), [24-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Entre la taberna y el Zampaolas
 
@@ -121,4 +121,3 @@ Tipo: `declaracion_personaje`.
 Baps confirma que han alquilado habitaciones, aunque están llenas y se duerme en común. Ione revisa a los tripulantes y echa de menos al novato, al que los demás llaman Jacki. Nadie confirma su destino; unos especulan con muerte o tiburones, mientras los trillizos dicen que ya no estaba cuando salieron de la playa. Ione teme que se haya perdido en la jungla y no quiere perder a otro hombre.
 
 La mención se mantiene provisional sin identificarla automáticamente con Jack veterano ni con el Jackie cautivo referido por Taylor. Las conjeturas no prueban muerte, captura, devoración o localización actual.
-

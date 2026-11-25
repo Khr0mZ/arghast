@@ -2,17 +2,17 @@
 
 Menciones documentadas por capítulo y minuto. La etiqueta no garantiza grafía oficial; véanse limitaciones y nombres dudosos de cada episodio.
 
-Moneda que Bonnie utiliza durante la defensa de Shiaru.
+Moneda en la que se recoge la electricidad de Bonny y que pasa a manos de Ione durante la retirada del arrecife.
 
 Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Moneda pirata de Bonnie.
 
-Base para revisar equivalencia: [32-014](../capitulos/32.md), [32-020](../capitulos/32.md), [42-012](../capitulos/42.md), [42-018](../capitulos/42.md), [42-066](../capitulos/42.md), [42-068](../capitulos/42.md), [43-001](../capitulos/43.md), [43-007](../capitulos/43.md).
+Base para revisar equivalencia: [32-014](../capitulos/32.md), [32-020](../capitulos/32.md), [42-012](../capitulos/42.md), [42-018](../capitulos/42.md), [42-066](../capitulos/42.md), [42-068](../capitulos/42.md), [43-001](../capitulos/43.md), [43-007](../capitulos/43.md), [51-002](../capitulos/51.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La moneda que acompaña al rayo
 
@@ -31,6 +31,12 @@ Fuentes: [42-012 · La moneda de Bonnie acompaña su transformación eléctrica]
 Después de las embestidas del Relámpago del Mar, Bonnie aparece en el Zampaolas y su electricidad se recoge en la moneda. La coloca en la mano de Ione y exige la retirada. El barco de Bonnie queda sin su brillo y carga mágica antes de ser rodeado por los otros reyes.
 
 Fuentes: [42-066 · Bonnie entrega la moneda a Ione y les ordena marcharse](../capitulos/42.md) · 02:12:59.000 · [42-068 · Los otros reyes rodean al Relámpago del Mar sin su poder mágico](../capitulos/42.md) · 02:17:14.319.
+
+### Los ensayos junto al lago
+
+Ione se aparta de su tripulación y lleva la moneda a las ruinas junto al lago. Traza círculos e intenta reproducir los gestos de Bonny. Aún recuerda el efecto que busca, pero el objeto no le responde en esos ensayos.
+
+Fuentes: [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359.
 
 ## Registros y evidencias
 
@@ -82,3 +88,10 @@ Bonnie sostiene la moneda de los reyes piratas. Empieza a brillar y de ella sale
 
 Es la preparación compartida con el comienzo del capítulo 42, vista desde el otro grupo. No se cuentan dos activaciones distintas ni se describe un nuevo origen de la moneda.
 
+## [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359
+
+Tipo: `declaracion_personaje`.
+
+Tras dejar descansar a su tripulación en la taberna, Ione pasa tiempo junto a las ruinas del lago. Traza círculos con la moneda e intenta reproducir lo que hacía Bonny. Por ahora no consigue hacerla funcionar.
+
+En la retrospectiva se oye una localidad como «Siaru». Las ruinas se describen por el lago; su identificación queda abierta.

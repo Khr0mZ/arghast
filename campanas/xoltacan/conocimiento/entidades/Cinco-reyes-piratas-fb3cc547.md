@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-024](../capitulos/11.md), [26-006](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Las monedas y la autoridad pirata
 
@@ -105,4 +105,3 @@ Tipo: `hecho_confirmado`.
 Bonnie sostiene la moneda de los reyes piratas. Empieza a brillar y de ella salen rayos que la envuelven; el director la presenta como una de las cinco reinas piratas. Tras su grito, los piratas corren a los muelles y unas nubes negras levantan una tormenta atribuida a su poder.
 
 Es la preparación compartida con el comienzo del capítulo 42, vista desde el otro grupo. No se cuentan dos activaciones distintas ni se describe un nuevo origen de la moneda.
-

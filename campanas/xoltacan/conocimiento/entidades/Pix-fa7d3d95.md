@@ -12,7 +12,7 @@ Base para revisar equivalencia: [10-005](../capitulos/10.md), [11-023](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El mono cuya desaparición moviliza al pueblo
 
@@ -331,4 +331,3 @@ Tipo: `hecho_confirmado`.
 Cansada y con dolor de pies, Ione se sienta, añora el barco y reparte frutas entre las compañeras. Citlali le reprocha que se canse pese a parecer ahora más joven ella misma. Confían en que los otros estén con los trillizos y en que Pix pueda rastrearlas. La pirata acaba encontrando un cangrejo muerto en la bota, que retira antes de continuar.
 
 La confianza en los compañeros y Pix no representa un encuentro o rastreo observado de ese otro grupo. La comparación de aspecto no fija la edad exacta de Citlali.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-021](../capitulos/29.md), [29-022](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La amenaza que describe Maris
 
@@ -257,4 +257,3 @@ Tipo: `declaracion_personaje`.
 Al intentar reconocer el culto, Tentacol recuerda las leyendas de Perlasal sobre una enorme criatura de otro plano que vendría a destruir y conquistar el mundo. El nombre recordado es kraken. Su convicción personal sigue siendo que la criatura suprema es Chopito, y no el kraken del que hablan los habitantes.
 
 Las leyendas y la creencia de Tentacol se atribuyen a sus fuentes. No confirman la presencia actual de un kraken, una identidad entre este y Chopito ni que el ritual abortado lograra invocarlo.
-

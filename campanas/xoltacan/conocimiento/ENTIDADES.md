@@ -129,6 +129,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 47, 00:23:00.520: Patata comunica que otros piratas tomaron Shiaru y destruyeron su casa ([47-017](capitulos/47.md)).
 - Cap. 49, 00:15:11.360: Molly muestra el ojo que atribuye a una expedición con Bonny ([49-012](capitulos/49.md)).
 - Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
+- Cap. 51, 00:00:58.359: Ione ensaya a solas con la moneda ([51-002](capitulos/51.md)).
 
 ## Abominación de la roca norte
 
@@ -294,6 +295,12 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 43, 02:05:14.559: El ser serpentino activa un altar con los símbolos de Citlali ([43-062](capitulos/43.md)).
 
+## Anciana del mechero
+
+- Cap. 51, 03:23:19.760: Una anciana pide el mechero de Archi ([51-095](capitulos/51.md)).
+- Cap. 51, 03:24:49.479: La visitante no reconoce a Citlali ([51-096](capitulos/51.md)).
+- Cap. 51, 03:26:01.040: La anciana se lleva la chocolatina ([51-097](capitulos/51.md)).
+
 ## Angelique
 
 - Cap. 39, 02:12:00.000: Descanso en Iktan y expulsión de Coyote ([39-020](capitulos/39.md)).
@@ -339,6 +346,32 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 20, 00:11:00.000: Encuentro del grupo y tradición del templo ([20-003](capitulos/20.md)).
 
+## Archi
+
+- Cap. 51, 01:56:05.840: Archi recibe a los visitantes en su guarida ([51-057](capitulos/51.md)).
+- Cap. 51, 01:59:07.040: R53 pone música a la última prueba ([51-058](capitulos/51.md)).
+- Cap. 51, 02:07:31.280: Ione empuja a Danifae hasta la puerta del ascensor ([51-062](capitulos/51.md)).
+- Cap. 51, 02:10:29.880: Archi acciona las cuchillas de la ballena ([51-063](capitulos/51.md)).
+- Cap. 51, 02:15:13.920: La réplica de Serafina combate como una monja ([51-065](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:28:04.120: Naór rompe el autómata con forma de pez ([51-070](capitulos/51.md)).
+- Cap. 51, 02:34:38.160: Archi apaga la gravedad al ver rota a Calista ([51-073](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+- Cap. 51, 02:57:23.520: Archi prolonga el combate con veneno y baile ([51-080](capitulos/51.md)).
+- Cap. 51, 03:08:27.640: Calista queda junto a la barra ([51-083](capitulos/51.md)).
+- Cap. 51, 03:11:50.040: Naór destruye el último robot de la prueba ([51-084](capitulos/51.md)).
+- Cap. 51, 03:13:40.239: Archi reconoce la destreza de los visitantes ([51-085](capitulos/51.md)).
+- Cap. 51, 03:14:23.760: Ione pide una de las autómatas para la tripulación ([51-086](capitulos/51.md)).
+- Cap. 51, 03:15:16.000: La ballena tiene cámaras y reparan el barco ([51-087](capitulos/51.md)).
+- Cap. 51, 03:16:31.040: Archi recorre las aguas en busca de hallazgos ([51-088](capitulos/51.md)).
+- Cap. 51, 03:17:08.520: Entre varias esferas aparece la que lleva un ojo ([51-089](capitulos/51.md)).
+- Cap. 51, 03:17:51.399: Citlali reconoce el Ojo por el dolor que le causa ([51-090](capitulos/51.md)).
+- Cap. 51, 03:18:39.920: Archi pide algo a cambio del Ojo ([51-091](capitulos/51.md)).
+- Cap. 51, 03:20:55.920: Ione acepta trabajar con el uniforme de las autómatas ([51-092](capitulos/51.md)).
+- Cap. 51, 03:22:36.199: Archi entrega el orbe ([51-094](capitulos/51.md)).
+- Cap. 51, 03:23:19.760: Una anciana pide el mechero de Archi ([51-095](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
+
 ## Armin
 
 - Cap. 07, 02:30:00.000: Mamá prepara la crianza y Patata compra un hacha ([07-031](capitulos/07.md)).
@@ -373,6 +406,37 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 01:04:06.720: Cubrirse del hedor y proponer tropas de Atlan ([48-045](capitulos/48.md)).
 - Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
 - Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
+- Cap. 51, 00:03:37.519: Naór patrulla mientras espera noticias de Atlan ([51-005](capitulos/51.md)).
+
+## Autómatas de la ballena de Archi
+
+- Cap. 51, 01:52:32.480: Los servidores del salón se vuelven hacia el grupo ([51-056](capitulos/51.md)).
+- Cap. 51, 01:56:05.840: Archi recibe a los visitantes en su guarida ([51-057](capitulos/51.md)).
+- Cap. 51, 01:59:07.040: R53 pone música a la última prueba ([51-058](capitulos/51.md)).
+- Cap. 51, 02:01:13.880: La réplica de Calista excluye a Danifae ([51-059](capitulos/51.md)).
+- Cap. 51, 02:02:15.560: Naór se lanza contra la réplica de Calista ([51-060](capitulos/51.md)).
+- Cap. 51, 02:10:29.880: Archi acciona las cuchillas de la ballena ([51-063](capitulos/51.md)).
+- Cap. 51, 02:17:22.040: Citlali responde al ataque contra el gnomo ([51-066](capitulos/51.md)).
+- Cap. 51, 02:18:47.679: La maza derriba a Citlali ([51-067](capitulos/51.md)).
+- Cap. 51, 02:20:25.600: Calista obliga a Naór a bailar ([51-068](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:28:04.120: Naór rompe el autómata con forma de pez ([51-070](capitulos/51.md)).
+- Cap. 51, 02:32:33.399: Ione abre espacio alrededor de Citlali ([51-072](capitulos/51.md)).
+- Cap. 51, 02:34:38.160: Archi apaga la gravedad al ver rota a Calista ([51-073](capitulos/51.md)).
+- Cap. 51, 02:35:36.080: La réplica de Danifae paraliza a Naór ([51-074](capitulos/51.md)).
+- Cap. 51, 02:40:45.000: Poncelot busca un ángulo para su jabalina ([51-075](capitulos/51.md)).
+- Cap. 51, 02:43:22.960: Ione pelea rodeada y retrocede a cubrir a los demás ([51-076](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+- Cap. 51, 02:50:39.920: Ione pide que concentren los golpes ([51-078](capitulos/51.md)).
+- Cap. 51, 02:54:12.239: Otra máquina cae y dos expedicionarios quedan en peligro ([51-079](capitulos/51.md)).
+- Cap. 51, 02:57:23.520: Archi prolonga el combate con veneno y baile ([51-080](capitulos/51.md)).
+- Cap. 51, 03:00:15.120: Citlali consigue alcanzar a Serafina sin salir del sitio ([51-081](capitulos/51.md)).
+- Cap. 51, 03:04:51.080: Una poción para la princesa ([51-082](capitulos/51.md)).
+- Cap. 51, 03:08:27.640: Calista queda junto a la barra ([51-083](capitulos/51.md)).
+- Cap. 51, 03:11:50.040: Naór destruye el último robot de la prueba ([51-084](capitulos/51.md)).
+- Cap. 51, 03:14:23.760: Ione pide una de las autómatas para la tripulación ([51-086](capitulos/51.md)).
+- Cap. 51, 03:18:39.920: Archi pide algo a cambio del Ojo ([51-091](capitulos/51.md)).
+- Cap. 51, 03:20:55.920: Ione acepta trabajar con el uniforme de las autómatas ([51-092](capitulos/51.md)).
 
 ## Axi
 
@@ -764,6 +828,41 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:06:48.360: Ione descubre la ausencia del novato llamado Jacki ([46-059](capitulos/46.md)).
 
+## Ballena de Archi
+
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:37:09.000: Citlali detiene el intento de provocar el vómito ([51-021](capitulos/51.md)).
+- Cap. 51, 00:38:47.079: Los restos son de los dos bandos ([51-022](capitulos/51.md)).
+- Cap. 51, 00:39:09.760: El pulpo responde con tinta ([51-023](capitulos/51.md)).
+- Cap. 51, 00:41:41.599: Bajo la carne aparece una puerta atornillada ([51-024](capitulos/51.md)).
+- Cap. 51, 00:44:16.800: Una habitación iluminada por cristales azules ([51-025](capitulos/51.md)).
+- Cap. 51, 00:48:42.880: La palanca da la bienvenida a las grandes pruebas ([51-027](capitulos/51.md)).
+- Cap. 51, 01:13:30.480: El confeti anuncia el Camino del Dragón ([51-037](capitulos/51.md)).
+- Cap. 51, 01:16:09.199: La salida exige superar la prueba del campeón ([51-039](capitulos/51.md)).
+- Cap. 51, 01:24:22.920: Sir Poncelot entrega la cabeza correcta ([51-043](capitulos/51.md)).
+- Cap. 51, 01:25:48.520: La sala de las máquinas reproduce voces grabadas ([51-044](capitulos/51.md)).
+- Cap. 51, 01:32:45.119: En la prueba del inventor hay que poner en marcha las máquinas ([51-048](capitulos/51.md)).
+- Cap. 51, 01:34:59.199: Un botón rojo pone en marcha el primer panel ([51-049](capitulos/51.md)).
+- Cap. 51, 01:36:35.239: Cuatro símbolos llevan el vapor al segundo panel ([51-050](capitulos/51.md)).
+- Cap. 51, 01:37:53.360: El dorso de un mapa ayuda a recordar ocho figuras ([51-051](capitulos/51.md)).
+- Cap. 51, 01:41:57.199: Doce figuras hacen girar el ventilador ([51-052](capitulos/51.md)).
+- Cap. 51, 01:45:24.320: Los cuatro se reparten la secuencia final ([51-053](capitulos/51.md)).
+- Cap. 51, 01:49:33.000: Los cuadros del pasillo acaban a cuestas ([51-055](capitulos/51.md)).
+- Cap. 51, 01:52:32.480: Los servidores del salón se vuelven hacia el grupo ([51-056](capitulos/51.md)).
+- Cap. 51, 01:56:05.840: Archi recibe a los visitantes en su guarida ([51-057](capitulos/51.md)).
+- Cap. 51, 02:10:29.880: Archi acciona las cuchillas de la ballena ([51-063](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:30:43.840: Poncelot silba mientras friega ([51-071](capitulos/51.md)).
+- Cap. 51, 02:34:38.160: Archi apaga la gravedad al ver rota a Calista ([51-073](capitulos/51.md)).
+- Cap. 51, 02:40:45.000: Poncelot busca un ángulo para su jabalina ([51-075](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+- Cap. 51, 03:15:16.000: La ballena tiene cámaras y reparan el barco ([51-087](capitulos/51.md)).
+- Cap. 51, 03:16:31.040: Archi recorre las aguas en busca de hallazgos ([51-088](capitulos/51.md)).
+- Cap. 51, 03:23:19.760: Una anciana pide el mechero de Archi ([51-095](capitulos/51.md)).
+- Cap. 51, 03:26:01.040: La anciana se lleva la chocolatina ([51-097](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
+
 ## Beso de sirena
 
 - Cap. 49, 01:08:53.600: Kilzer remata a un adversario con Beso de sirena y se retira ([49-052](capitulos/49.md)).
@@ -1072,6 +1171,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 43, 00:03:45.400: Citlali recuerda la caja de música y huye de Iktan con la cría ([43-003](capitulos/43.md)).
 - Cap. 43, 01:57:06.040: La caja musical acompaña el duelo de Citlali por Nox ([43-059](capitulos/43.md)).
+
+## Camino del guardián
+
+- Cap. 51, 00:48:42.880: La palanca da la bienvenida a las grandes pruebas ([51-027](capitulos/51.md)).
+- Cap. 51, 00:54:01.319: Una caída devuelve al caballero al comienzo ([51-028](capitulos/51.md)).
+- Cap. 51, 00:56:47.119: La lanza descubre las losas de presión ([51-029](capitulos/51.md)).
+- Cap. 51, 00:59:54.960: Ione desmonta al ratón mecánico ([51-030](capitulos/51.md)).
+- Cap. 51, 01:02:19.520: Una nube amarilla cruza el pasillo ([51-031](capitulos/51.md)).
+- Cap. 51, 01:04:55.240: Naór ayuda a Citlali a cruzar ([51-032](capitulos/51.md)).
+- Cap. 51, 01:06:49.640: El puño mecánico cede ante el escudo ([51-033](capitulos/51.md)).
 
 ## Caparazón del Devorafango
 
@@ -1515,6 +1624,47 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 00:00:13.160: Naór recuerda el colegio y sus nuevos encuentros ([48-001](capitulos/48.md)).
 - Cap. 49, 00:15:11.360: Molly muestra el ojo que atribuye a una expedición con Bonny ([49-012](capitulos/49.md)).
 - Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
+- Cap. 51, 00:02:46.680: Citlali recuerda a Nox ([51-004](capitulos/51.md)).
+- Cap. 51, 00:03:37.519: Naór hubiera preferido quedarse en tierra ([51-006](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:11:12.160: Citlali toma el puesto de vigía ([51-012](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
+- Cap. 51, 00:21:35.039: La sombra del tamaño del Invictus asciende ([51-016](capitulos/51.md)).
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:32:03.840: Cuatro salen y los trillizos guardan la nave ([51-019](capitulos/51.md)).
+- Cap. 51, 00:37:09.000: Citlali detiene el intento de provocar el vómito ([51-021](capitulos/51.md)).
+- Cap. 51, 00:39:09.760: El pulpo responde con tinta ([51-023](capitulos/51.md)).
+- Cap. 51, 01:02:19.520: Una nube amarilla cruza el pasillo ([51-031](capitulos/51.md)).
+- Cap. 51, 01:04:55.240: Naór ayuda a Citlali a cruzar ([51-032](capitulos/51.md)).
+- Cap. 51, 01:16:09.199: La salida exige superar la prueba del campeón ([51-039](capitulos/51.md)).
+- Cap. 51, 01:19:05.000: El campeón pide que usen el coco ([51-040](capitulos/51.md)).
+- Cap. 51, 01:25:48.520: La sala de las máquinas reproduce voces grabadas ([51-044](capitulos/51.md)).
+- Cap. 51, 01:27:09.360: Citlali aparta a Poncelot de la cinta ([51-045](capitulos/51.md)).
+- Cap. 51, 01:30:08.440: El proyector muestra el palacio de Kuroto ([51-046](capitulos/51.md)).
+- Cap. 51, 01:31:08.159: Ione guarda el proyector y la cinta sigue sonando ([51-047](capitulos/51.md)).
+- Cap. 51, 01:37:53.360: El dorso de un mapa ayuda a recordar ocho figuras ([51-051](capitulos/51.md)).
+- Cap. 51, 01:41:57.199: Doce figuras hacen girar el ventilador ([51-052](capitulos/51.md)).
+- Cap. 51, 01:45:24.320: Los cuatro se reparten la secuencia final ([51-053](capitulos/51.md)).
+- Cap. 51, 01:49:33.000: Los cuadros del pasillo acaban a cuestas ([51-055](capitulos/51.md)).
+- Cap. 51, 01:52:32.480: Los servidores del salón se vuelven hacia el grupo ([51-056](capitulos/51.md)).
+- Cap. 51, 02:05:28.920: La capa de Poncelot no atemoriza a los robots ([51-061](capitulos/51.md)).
+- Cap. 51, 02:15:13.920: La réplica de Serafina combate como una monja ([51-065](capitulos/51.md)).
+- Cap. 51, 02:17:22.040: Citlali responde al ataque contra el gnomo ([51-066](capitulos/51.md)).
+- Cap. 51, 02:18:47.679: La maza derriba a Citlali ([51-067](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:32:33.399: Ione abre espacio alrededor de Citlali ([51-072](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+- Cap. 51, 02:50:39.920: Ione pide que concentren los golpes ([51-078](capitulos/51.md)).
+- Cap. 51, 02:57:23.520: Archi prolonga el combate con veneno y baile ([51-080](capitulos/51.md)).
+- Cap. 51, 03:00:15.120: Citlali consigue alcanzar a Serafina sin salir del sitio ([51-081](capitulos/51.md)).
+- Cap. 51, 03:08:27.640: Calista queda junto a la barra ([51-083](capitulos/51.md)).
+- Cap. 51, 03:15:16.000: La ballena tiene cámaras y reparan el barco ([51-087](capitulos/51.md)).
+- Cap. 51, 03:17:51.399: Citlali reconoce el Ojo por el dolor que le causa ([51-090](capitulos/51.md)).
+- Cap. 51, 03:21:42.840: Sir Poncelot queda diminuto ([51-093](capitulos/51.md)).
+- Cap. 51, 03:24:49.479: La visitante no reconoce a Citlali ([51-096](capitulos/51.md)).
+- Cap. 51, 03:26:01.040: La anciana se lleva la chocolatina ([51-097](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
 
 ## Claro de los restos envenenados
 
@@ -2128,6 +2278,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 00:00:59.440: Eleanor recuerda la discusión en la playa después de la batalla ([46-001](capitulos/46.md)).
 - Cap. 46, 00:19:02.559: El camino elegido las devuelve a la costa ([46-011](capitulos/46.md)).
 - Cap. 46, 00:22:37.400: Ione no obtiene orientación del mapa que recuerda haber recibido de Nox ([46-013](capitulos/46.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
 
 ## El Huevo Emplumado
 
@@ -2505,6 +2657,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 02:22:17.600: Patata conserva los papeles, todavía frágiles ([49-104](capitulos/49.md)).
 - Cap. 49, 02:23:55.920: Los papeles están escritos en abisal y ninguno lo conoce ([49-105](capitulos/49.md)).
 - Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
 
 ## Elger Banana
 
@@ -2643,6 +2796,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 02:29:58.439: La traducción cesa y las palabras quedan en la memoria ([49-111](capitulos/49.md)).
 - Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
 - Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
 
 ## Eromov
 
@@ -2737,6 +2892,13 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 
 - Cap. 43, 01:09:48.000: Eleanor marca la retaguardia y llama a cargar ([43-035](capitulos/43.md)).
 
+## Estatua del campeón
+
+- Cap. 51, 01:19:05.000: El campeón pide que usen el coco ([51-040](capitulos/51.md)).
+- Cap. 51, 01:21:06.040: Los cabezazos despiertan el martillo ([51-041](capitulos/51.md)).
+- Cap. 51, 01:23:10.239: La boca abierta contiene un cojín ([51-042](capitulos/51.md)).
+- Cap. 51, 01:24:22.920: Sir Poncelot entrega la cabeza correcta ([51-043](capitulos/51.md)).
+
 ## Estatuas trampa del templo yuan-ti
 
 - Cap. 49, 01:37:06.600: La detección de Erandy permite advertir las estatuas peligrosas ([49-069](capitulos/49.md)).
@@ -2825,6 +2987,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 35, 01:44:00.000: Nox libera Molly y Pinky ([35-012](capitulos/35.md)).
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
 - Cap. 42, 00:31:35.600: La Marina forma dos líneas de fuego frente a los piratas ([42-016](capitulos/42.md)).
+- Cap. 51, 00:06:21.800: La búsqueda del barco pasa por Fuerte Aurora e Iktan ([51-009](capitulos/51.md)).
 
 ## Fular de alas de mosca de Ione
 
@@ -3173,6 +3336,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
 - Cap. 50, 02:19:59.040: Tryel presenta a Oghma en Los Miaullidos de Angelique ([50-090](capitulos/50.md)).
 - Cap. 50, 02:24:31.760: Tentacol y Chopito regresan al agua; Tortas, a la roca ([50-094](capitulos/50.md)).
+- Cap. 51, 00:06:21.800: La búsqueda del barco pasa por Fuerte Aurora e Iktan ([51-009](capitulos/51.md)).
 
 ## Ilikar
 
@@ -3280,6 +3444,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
 - Cap. 42, 02:00:20.239: El Invictus explota contra la flota y los buques restantes se retiran ([42-062](capitulos/42.md)).
 - Cap. 42, 02:09:35.040: Cuatro reyes piratas destruyen una nueva flota de la Marina ([42-065](capitulos/42.md)).
+- Cap. 51, 00:21:35.039: La sombra del tamaño del Invictus asciende ([51-016](capitulos/51.md)).
+- Cap. 51, 03:16:31.040: Archi recorre las aguas en busca de hallazgos ([51-088](capitulos/51.md)).
 
 ## Ione
 
@@ -3649,6 +3815,55 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:17:24.120: Froger compra el collar a Ione por veinticuatro monedas ([46-063](capitulos/46.md)).
 - Cap. 46, 02:21:14.359: Zoltan y Angelique se retiran a una habitación ([46-066](capitulos/46.md)).
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
+- Cap. 51, 00:00:58.359: Ione ensaya a solas con la moneda ([51-002](capitulos/51.md)).
+- Cap. 51, 00:01:34.640: Un proyecto para descender hasta Nox ([51-003](capitulos/51.md)).
+- Cap. 51, 00:05:35.720: El Zampaolas había quedado junto a la playa ([51-008](capitulos/51.md)).
+- Cap. 51, 00:06:21.800: La búsqueda del barco pasa por Fuerte Aurora e Iktan ([51-009](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:11:12.160: Citlali toma el puesto de vigía ([51-012](capitulos/51.md)).
+- Cap. 51, 00:12:41.639: Poncelot trabaja en los cascos con los trillizos ([51-013](capitulos/51.md)).
+- Cap. 51, 00:14:32.600: Naór e Ione alcanzan un acuerdo a bordo ([51-014](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
+- Cap. 51, 00:21:35.039: La sombra del tamaño del Invictus asciende ([51-016](capitulos/51.md)).
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:32:03.840: Cuatro salen y los trillizos guardan la nave ([51-019](capitulos/51.md)).
+- Cap. 51, 00:38:47.079: Los restos son de los dos bandos ([51-022](capitulos/51.md)).
+- Cap. 51, 00:41:41.599: Bajo la carne aparece una puerta atornillada ([51-024](capitulos/51.md)).
+- Cap. 51, 00:44:16.800: Una habitación iluminada por cristales azules ([51-025](capitulos/51.md)).
+- Cap. 51, 00:45:30.240: El tigre vuelve al barco ([51-026](capitulos/51.md)).
+- Cap. 51, 00:48:42.880: La palanca da la bienvenida a las grandes pruebas ([51-027](capitulos/51.md)).
+- Cap. 51, 00:54:01.319: Una caída devuelve al caballero al comienzo ([51-028](capitulos/51.md)).
+- Cap. 51, 00:56:47.119: La lanza descubre las losas de presión ([51-029](capitulos/51.md)).
+- Cap. 51, 00:59:54.960: Ione desmonta al ratón mecánico ([51-030](capitulos/51.md)).
+- Cap. 51, 01:02:19.520: Una nube amarilla cruza el pasillo ([51-031](capitulos/51.md)).
+- Cap. 51, 01:09:49.920: La capitana también responde por su caballero ([51-034](capitulos/51.md)).
+- Cap. 51, 01:12:21.520: Los puños de mono salen hacia un lado ([51-036](capitulos/51.md)).
+- Cap. 51, 01:15:09.800: Naór le promete a Ione una visita a la lucha libre ([51-038](capitulos/51.md)).
+- Cap. 51, 01:21:06.040: Los cabezazos despiertan el martillo ([51-041](capitulos/51.md)).
+- Cap. 51, 01:27:09.360: Citlali aparta a Poncelot de la cinta ([51-045](capitulos/51.md)).
+- Cap. 51, 01:31:08.159: Ione guarda el proyector y la cinta sigue sonando ([51-047](capitulos/51.md)).
+- Cap. 51, 01:32:45.119: En la prueba del inventor hay que poner en marcha las máquinas ([51-048](capitulos/51.md)).
+- Cap. 51, 01:37:53.360: El dorso de un mapa ayuda a recordar ocho figuras ([51-051](capitulos/51.md)).
+- Cap. 51, 01:41:57.199: Doce figuras hacen girar el ventilador ([51-052](capitulos/51.md)).
+- Cap. 51, 01:45:24.320: Los cuatro se reparten la secuencia final ([51-053](capitulos/51.md)).
+- Cap. 51, 01:48:43.639: Poncelot cree reconocer una voz ([51-054](capitulos/51.md)).
+- Cap. 51, 01:49:33.000: Los cuadros del pasillo acaban a cuestas ([51-055](capitulos/51.md)).
+- Cap. 51, 01:56:05.840: Archi recibe a los visitantes en su guarida ([51-057](capitulos/51.md)).
+- Cap. 51, 02:07:31.280: Ione empuja a Danifae hasta la puerta del ascensor ([51-062](capitulos/51.md)).
+- Cap. 51, 02:15:13.920: La réplica de Serafina combate como una monja ([51-065](capitulos/51.md)).
+- Cap. 51, 02:32:33.399: Ione abre espacio alrededor de Citlali ([51-072](capitulos/51.md)).
+- Cap. 51, 02:43:22.960: Ione pelea rodeada y retrocede a cubrir a los demás ([51-076](capitulos/51.md)).
+- Cap. 51, 02:50:39.920: Ione pide que concentren los golpes ([51-078](capitulos/51.md)).
+- Cap. 51, 02:54:12.239: Otra máquina cae y dos expedicionarios quedan en peligro ([51-079](capitulos/51.md)).
+- Cap. 51, 03:04:51.080: Una poción para la princesa ([51-082](capitulos/51.md)).
+- Cap. 51, 03:14:23.760: Ione pide una de las autómatas para la tripulación ([51-086](capitulos/51.md)).
+- Cap. 51, 03:16:31.040: Archi recorre las aguas en busca de hallazgos ([51-088](capitulos/51.md)).
+- Cap. 51, 03:17:08.520: Entre varias esferas aparece la que lleva un ojo ([51-089](capitulos/51.md)).
+- Cap. 51, 03:18:39.920: Archi pide algo a cambio del Ojo ([51-091](capitulos/51.md)).
+- Cap. 51, 03:20:55.920: Ione acepta trabajar con el uniforme de las autómatas ([51-092](capitulos/51.md)).
+- Cap. 51, 03:22:36.199: Archi entrega el orbe ([51-094](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
 
 ## Ivet
 
@@ -4078,6 +4293,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 48, 03:08:22.880: Naór deja la investigación para recoger a Leo ([48-120](capitulos/48.md)).
 - Cap. 48, 03:22:36.840: Leo espera y Naór sigue corriendo por la jungla ([48-129](capitulos/48.md)).
 - Cap. 50, 00:22:13.880: Leo saluda a Tortas desde el colegio ([50-016](capitulos/50.md)).
+- Cap. 51, 00:03:37.519: Naór patrulla mientras espera noticias de Atlan ([51-005](capitulos/51.md)).
 
 ## Leona
 
@@ -4665,6 +4881,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 43, 01:55:31.560: Los piratas celebran la victoria y Molly llega herida ([43-058](capitulos/43.md)).
 - Cap. 44, 00:05:57.880: Guayacán cambia la voz al reconocer a Tlachka ([44-005](capitulos/44.md)).
 - Cap. 46, 00:00:59.440: Eleanor recuerda la discusión en la playa después de la batalla ([46-001](capitulos/46.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:38:47.079: Los restos son de los dos bandos ([51-022](capitulos/51.md)).
 
 ## Marina, la sirena
 
@@ -4832,6 +5050,9 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 01:33:30.400: Sir Poncelot asume las órdenes mientras Ione está indispuesta ([42-049](capitulos/42.md)).
 - Cap. 42, 01:37:37.480: Sir Poncelot y Merlucilla IV despejan cubiertas y regresan ([42-051](capitulos/42.md)).
 - Cap. 42, 02:02:20.520: Ione se lanza a buscar a Nox y sus compañeros la siguen ([42-063](capitulos/42.md)).
+- Cap. 51, 00:35:00.440: Merlucilla IV se deja convencer con comida ([51-020](capitulos/51.md)).
+- Cap. 51, 00:41:41.599: Bajo la carne aparece una puerta atornillada ([51-024](capitulos/51.md)).
+- Cap. 51, 00:45:30.240: El tigre vuelve al barco ([51-026](capitulos/51.md)).
 
 ## Merlucilla V
 
@@ -4999,6 +5220,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 02:15:40.520: El combate deja a Kilzer apresado y sin ataque furtivo ([49-099](capitulos/49.md)).
 - Cap. 49, 02:20:27.680: Molly cuestiona que Eleanor siga tratando a Erandy como una niña ([49-103](capitulos/49.md)).
 - Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
 
 ## Moneda negra del mercante
 
@@ -5013,6 +5235,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 00:37:59.520: El Relámpago del Mar avanza con Bonnie preparando rayos ([42-018](capitulos/42.md)).
 - Cap. 42, 02:12:59.000: Bonnie entrega la moneda a Ione y les ordena marcharse ([42-066](capitulos/42.md)).
 - Cap. 43, 00:10:14.800: La moneda de Bonnie convoca la tormenta de la partida ([43-007](capitulos/43.md)).
+- Cap. 51, 00:00:58.359: Ione ensaya a solas con la moneda ([51-002](capitulos/51.md)).
 
 ## Monedas antiguas de Ayoto
 
@@ -5290,6 +5513,43 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 50, 02:14:15.000: Walulu quiere consultar a Naór y a los dirigentes ([50-085](capitulos/50.md)).
 - Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
 - Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
+- Cap. 51, 00:03:37.519: Naór patrulla mientras espera noticias de Atlan ([51-005](capitulos/51.md)).
+- Cap. 51, 00:03:37.519: Naór hubiera preferido quedarse en tierra ([51-006](capitulos/51.md)).
+- Cap. 51, 00:06:21.800: La búsqueda del barco pasa por Fuerte Aurora e Iktan ([51-009](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:14:32.600: Naór e Ione alcanzan un acuerdo a bordo ([51-014](capitulos/51.md)).
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:32:03.840: Cuatro salen y los trillizos guardan la nave ([51-019](capitulos/51.md)).
+- Cap. 51, 00:37:09.000: Citlali detiene el intento de provocar el vómito ([51-021](capitulos/51.md)).
+- Cap. 51, 00:41:41.599: Bajo la carne aparece una puerta atornillada ([51-024](capitulos/51.md)).
+- Cap. 51, 00:45:30.240: El tigre vuelve al barco ([51-026](capitulos/51.md)).
+- Cap. 51, 01:02:19.520: Una nube amarilla cruza el pasillo ([51-031](capitulos/51.md)).
+- Cap. 51, 01:04:55.240: Naór ayuda a Citlali a cruzar ([51-032](capitulos/51.md)).
+- Cap. 51, 01:15:09.800: Naór le promete a Ione una visita a la lucha libre ([51-038](capitulos/51.md)).
+- Cap. 51, 01:21:06.040: Los cabezazos despiertan el martillo ([51-041](capitulos/51.md)).
+- Cap. 51, 01:27:09.360: Citlali aparta a Poncelot de la cinta ([51-045](capitulos/51.md)).
+- Cap. 51, 01:36:35.239: Cuatro símbolos llevan el vapor al segundo panel ([51-050](capitulos/51.md)).
+- Cap. 51, 01:37:53.360: El dorso de un mapa ayuda a recordar ocho figuras ([51-051](capitulos/51.md)).
+- Cap. 51, 01:41:57.199: Doce figuras hacen girar el ventilador ([51-052](capitulos/51.md)).
+- Cap. 51, 01:45:24.320: Los cuatro se reparten la secuencia final ([51-053](capitulos/51.md)).
+- Cap. 51, 01:49:33.000: Los cuadros del pasillo acaban a cuestas ([51-055](capitulos/51.md)).
+- Cap. 51, 02:02:15.560: Naór se lanza contra la réplica de Calista ([51-060](capitulos/51.md)).
+- Cap. 51, 02:05:28.920: La capa de Poncelot no atemoriza a los robots ([51-061](capitulos/51.md)).
+- Cap. 51, 02:12:13.679: Danifae falla contra su aliada y paraliza al caballero ([51-064](capitulos/51.md)).
+- Cap. 51, 02:20:25.600: Calista obliga a Naór a bailar ([51-068](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:28:04.120: Naór rompe el autómata con forma de pez ([51-070](capitulos/51.md)).
+- Cap. 51, 02:30:43.840: Poncelot silba mientras friega ([51-071](capitulos/51.md)).
+- Cap. 51, 02:35:36.080: La réplica de Danifae paraliza a Naór ([51-074](capitulos/51.md)).
+- Cap. 51, 02:40:45.000: Poncelot busca un ángulo para su jabalina ([51-075](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+- Cap. 51, 02:50:39.920: Ione pide que concentren los golpes ([51-078](capitulos/51.md)).
+- Cap. 51, 02:54:12.239: Otra máquina cae y dos expedicionarios quedan en peligro ([51-079](capitulos/51.md)).
+- Cap. 51, 02:57:23.520: Archi prolonga el combate con veneno y baile ([51-080](capitulos/51.md)).
+- Cap. 51, 03:04:51.080: Una poción para la princesa ([51-082](capitulos/51.md)).
+- Cap. 51, 03:11:50.040: Naór destruye el último robot de la prueba ([51-084](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
 
 ## Negociación
 
@@ -5771,6 +6031,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
 - Cap. 46, 00:22:37.400: Ione no obtiene orientación del mapa que recuerda haber recibido de Nox ([46-013](capitulos/46.md)).
 - Cap. 46, 01:16:36.639: Citlali evoca los dados de Nox al golpear con las chanclas ([46-037](capitulos/46.md)).
+- Cap. 51, 00:01:34.640: Un proyecto para descender hasta Nox ([51-003](capitulos/51.md)).
+- Cap. 51, 00:02:46.680: Citlali recuerda a Nox ([51-004](capitulos/51.md)).
+- Cap. 51, 00:03:37.519: Naór hubiera preferido quedarse en tierra ([51-006](capitulos/51.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
+- Cap. 51, 00:05:35.720: El Zampaolas había quedado junto a la playa ([51-008](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
+- Cap. 51, 00:54:01.319: Una caída devuelve al caballero al comienzo ([51-028](capitulos/51.md)).
+- Cap. 51, 03:16:31.040: Archi recorre las aguas en busca de hallazgos ([51-088](capitulos/51.md)).
+- Cap. 51, 03:17:08.520: Entre varias esferas aparece la que lleva un ojo ([51-089](capitulos/51.md)).
 
 ## Ojo Ausente
 
@@ -5788,6 +6058,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 00:16:46.920: La amnesia de Erandy deja explicaciones pendientes ([49-014](capitulos/49.md)).
 - Cap. 49, 00:21:52.159: La hipótesis de que el ojo observe inspira un dibujo ([49-016](capitulos/49.md)).
 - Cap. 49, 01:48:18.480: Molly recuerda el ojo encontrado con Bonny ([49-079](capitulos/49.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
 
 ## Ojo-orbe recuperado por Nox
 
@@ -5799,6 +6070,14 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 02:09:00.000: Bonnie presta el ojo con una condición que Nox planea incumplir ([37-017](capitulos/37.md)).
 - Cap. 37, 02:14:00.000: Luna roba pólvora y Nox parte hacia el fuerte ([37-018](capitulos/37.md)).
 - Cap. 42, 01:58:47.960: Los tatuajes y el orbe preceden a la decisión de Nox de quedarse ([42-061](capitulos/42.md)).
+- Cap. 51, 00:01:34.640: Un proyecto para descender hasta Nox ([51-003](capitulos/51.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
+- Cap. 51, 00:38:47.079: Los restos son de los dos bandos ([51-022](capitulos/51.md)).
+- Cap. 51, 03:17:08.520: Entre varias esferas aparece la que lleva un ojo ([51-089](capitulos/51.md)).
+- Cap. 51, 03:17:51.399: Citlali reconoce el Ojo por el dolor que le causa ([51-090](capitulos/51.md)).
+- Cap. 51, 03:18:39.920: Archi pide algo a cambio del Ojo ([51-091](capitulos/51.md)).
+- Cap. 51, 03:22:36.199: Archi entrega el orbe ([51-094](capitulos/51.md)).
 
 ## Oliver
 
@@ -6096,6 +6375,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 02:29:58.439: La traducción cesa y las palabras quedan en la memoria ([49-111](capitulos/49.md)).
 - Cap. 49, 02:30:30.319: Erandy interpreta la ayuda como una señal del Señor del Amanecer ([49-112](capitulos/49.md)).
 - Cap. 49, 02:31:18.160: Los papeles salen del templo en manos de Patata ([49-113](capitulos/49.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
 
 ## Patata Hammer
 
@@ -6349,6 +6629,19 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 45, 02:57:37.800: Tentacol encuentra una perla y los compañeros se llevan recuerdos ([45-070](capitulos/45.md)).
 - Cap. 45, 03:03:19.000: Tentacol recuerda leyendas de un kraken de otro plano ([45-072](capitulos/45.md)).
 
+## Proyector de la ballena de Archi
+
+- Cap. 51, 01:25:48.520: La sala de las máquinas reproduce voces grabadas ([51-044](capitulos/51.md)).
+- Cap. 51, 01:27:09.360: Citlali aparta a Poncelot de la cinta ([51-045](capitulos/51.md)).
+- Cap. 51, 01:30:08.440: El proyector muestra el palacio de Kuroto ([51-046](capitulos/51.md)).
+- Cap. 51, 01:31:08.159: Ione guarda el proyector y la cinta sigue sonando ([51-047](capitulos/51.md)).
+- Cap. 51, 01:48:43.639: Poncelot cree reconocer una voz ([51-054](capitulos/51.md)).
+
+## Prueba del inventor
+
+- Cap. 51, 01:25:48.520: La sala de las máquinas reproduce voces grabadas ([51-044](capitulos/51.md)).
+- Cap. 51, 01:45:24.320: Los cuatro se reparten la secuencia final ([51-053](capitulos/51.md)).
+
 ## Puerto de Espadas
 
 - Cap. 01, 00:05:57.000: Familia y viaje del elfo ([01-005](capitulos/01.md)).
@@ -6361,6 +6654,11 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 31, 00:24:00.000: Naór, princesa de Atlan, y el objetivo de llegar a Iktan ([31-005](capitulos/31.md)).
 - Cap. 32, 00:14:00.000: Patata explica guerra y autoridades ([32-004](capitulos/32.md)).
 - Cap. 42, 02:22:01.359: Taylor dice haber capturado al joven Jackie rumbo a Puerto de Espadas ([42-070](capitulos/42.md)).
+
+## R53
+
+- Cap. 51, 01:59:07.040: R53 pone música a la última prueba ([51-058](capitulos/51.md)).
+- Cap. 51, 03:11:50.040: Naór destruye el último robot de la prueba ([51-084](capitulos/51.md)).
 
 ## Ras Racor
 
@@ -6445,6 +6743,47 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 10, 00:27:40.000: Rastro de varias criaturas con pelos de mono ([10-010](capitulos/10.md)).
 - Cap. 11, 00:26:00.000: Planes, huevo interpretado como Pegaso y salida al norte ([11-009](capitulos/11.md)).
 - Cap. 17, 00:12:50.000: Naór, perdida en Ruki Peten, caza un cocodrilo ([17-004](capitulos/17.md)).
+
+## Réplica de Calista
+
+- Cap. 51, 01:59:07.040: R53 pone música a la última prueba ([51-058](capitulos/51.md)).
+- Cap. 51, 02:01:13.880: La réplica de Calista excluye a Danifae ([51-059](capitulos/51.md)).
+- Cap. 51, 02:02:15.560: Naór se lanza contra la réplica de Calista ([51-060](capitulos/51.md)).
+- Cap. 51, 02:12:13.679: Danifae falla contra su aliada y paraliza al caballero ([51-064](capitulos/51.md)).
+- Cap. 51, 02:20:25.600: Calista obliga a Naór a bailar ([51-068](capitulos/51.md)).
+- Cap. 51, 02:28:04.120: Naór rompe el autómata con forma de pez ([51-070](capitulos/51.md)).
+- Cap. 51, 02:34:38.160: Archi apaga la gravedad al ver rota a Calista ([51-073](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+- Cap. 51, 03:08:27.640: Calista queda junto a la barra ([51-083](capitulos/51.md)).
+
+## Réplica de Danifae
+
+- Cap. 51, 01:59:07.040: R53 pone música a la última prueba ([51-058](capitulos/51.md)).
+- Cap. 51, 02:01:13.880: La réplica de Calista excluye a Danifae ([51-059](capitulos/51.md)).
+- Cap. 51, 02:05:28.920: La capa de Poncelot no atemoriza a los robots ([51-061](capitulos/51.md)).
+- Cap. 51, 02:07:31.280: Ione empuja a Danifae hasta la puerta del ascensor ([51-062](capitulos/51.md)).
+- Cap. 51, 02:12:13.679: Danifae falla contra su aliada y paraliza al caballero ([51-064](capitulos/51.md)).
+- Cap. 51, 02:17:22.040: Citlali responde al ataque contra el gnomo ([51-066](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:35:36.080: La réplica de Danifae paraliza a Naór ([51-074](capitulos/51.md)).
+- Cap. 51, 02:40:45.000: Poncelot busca un ángulo para su jabalina ([51-075](capitulos/51.md)).
+- Cap. 51, 02:45:57.920: La gravedad vuelve de golpe ([51-077](capitulos/51.md)).
+
+## Réplica de Palayer
+
+- Cap. 51, 01:52:32.480: Los servidores del salón se vuelven hacia el grupo ([51-056](capitulos/51.md)).
+- Cap. 51, 02:18:47.679: La maza derriba a Citlali ([51-067](capitulos/51.md)).
+- Cap. 51, 02:43:22.960: Ione pelea rodeada y retrocede a cubrir a los demás ([51-076](capitulos/51.md)).
+- Cap. 51, 03:11:50.040: Naór destruye el último robot de la prueba ([51-084](capitulos/51.md)).
+
+## Réplica de Serafina
+
+- Cap. 51, 02:07:31.280: Ione empuja a Danifae hasta la puerta del ascensor ([51-062](capitulos/51.md)).
+- Cap. 51, 02:15:13.920: La réplica de Serafina combate como una monja ([51-065](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:43:22.960: Ione pelea rodeada y retrocede a cubrir a los demás ([51-076](capitulos/51.md)).
+- Cap. 51, 03:00:15.120: Citlali consigue alcanzar a Serafina sin salir del sitio ([51-081](capitulos/51.md)).
+- Cap. 51, 03:08:27.640: Calista queda junto a la barra ([51-083](capitulos/51.md)).
 
 ## Sacerdote de los Profundos
 
@@ -6601,6 +6940,8 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 49, 00:02:18.879: Kilzer presenció la guerra y la llegada de otros piratas ([49-004](capitulos/49.md)).
 - Cap. 49, 00:03:17.720: El casino y la granja quedaron destruidos ([49-005](capitulos/49.md)).
 - Cap. 49, 00:03:48.360: Kilzer sobrevive buscando otro refugio ([49-006](capitulos/49.md)).
+- Cap. 51, 00:00:19.840: El caballero se presenta en un nuevo reino ([51-001](capitulos/51.md)).
+- Cap. 51, 00:05:35.720: El Zampaolas había quedado junto a la playa ([51-008](capitulos/51.md)).
 
 ## Sir Poncelot
 
@@ -6843,6 +7184,57 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 00:04:39.960: La estampida separa a tres viajeras del grupo que iba a Iktan ([46-004](capitulos/46.md)).
 - Cap. 46, 01:56:01.320: Ione encuentra a la tripulación en la taberna de Iktan ([46-053](capitulos/46.md)).
 - Cap. 46, 02:03:44.679: Zoltan toma una cerveza y Angelique lo corteja ([46-057](capitulos/46.md)).
+- Cap. 51, 00:00:19.840: El caballero se presenta en un nuevo reino ([51-001](capitulos/51.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
+- Cap. 51, 00:06:21.800: La búsqueda del barco pasa por Fuerte Aurora e Iktan ([51-009](capitulos/51.md)).
+- Cap. 51, 00:07:23.199: El mástil asoma entre los árboles ([51-010](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:12:41.639: Poncelot trabaja en los cascos con los trillizos ([51-013](capitulos/51.md)).
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:32:03.840: Cuatro salen y los trillizos guardan la nave ([51-019](capitulos/51.md)).
+- Cap. 51, 00:35:00.440: Merlucilla IV se deja convencer con comida ([51-020](capitulos/51.md)).
+- Cap. 51, 00:41:41.599: Bajo la carne aparece una puerta atornillada ([51-024](capitulos/51.md)).
+- Cap. 51, 00:44:16.800: Una habitación iluminada por cristales azules ([51-025](capitulos/51.md)).
+- Cap. 51, 00:45:30.240: El tigre vuelve al barco ([51-026](capitulos/51.md)).
+- Cap. 51, 00:48:42.880: La palanca da la bienvenida a las grandes pruebas ([51-027](capitulos/51.md)).
+- Cap. 51, 00:54:01.319: Una caída devuelve al caballero al comienzo ([51-028](capitulos/51.md)).
+- Cap. 51, 00:56:47.119: La lanza descubre las losas de presión ([51-029](capitulos/51.md)).
+- Cap. 51, 00:59:54.960: Ione desmonta al ratón mecánico ([51-030](capitulos/51.md)).
+- Cap. 51, 01:02:19.520: Una nube amarilla cruza el pasillo ([51-031](capitulos/51.md)).
+- Cap. 51, 01:06:49.640: El puño mecánico cede ante el escudo ([51-033](capitulos/51.md)).
+- Cap. 51, 01:09:49.920: La capitana también responde por su caballero ([51-034](capitulos/51.md)).
+- Cap. 51, 01:10:40.640: Una lanza para cruzar las baldosas ([51-035](capitulos/51.md)).
+- Cap. 51, 01:12:21.520: Los puños de mono salen hacia un lado ([51-036](capitulos/51.md)).
+- Cap. 51, 01:13:30.480: El confeti anuncia el Camino del Dragón ([51-037](capitulos/51.md)).
+- Cap. 51, 01:16:09.199: La salida exige superar la prueba del campeón ([51-039](capitulos/51.md)).
+- Cap. 51, 01:19:05.000: El campeón pide que usen el coco ([51-040](capitulos/51.md)).
+- Cap. 51, 01:23:10.239: La boca abierta contiene un cojín ([51-042](capitulos/51.md)).
+- Cap. 51, 01:24:22.920: Sir Poncelot entrega la cabeza correcta ([51-043](capitulos/51.md)).
+- Cap. 51, 01:27:09.360: Citlali aparta a Poncelot de la cinta ([51-045](capitulos/51.md)).
+- Cap. 51, 01:31:08.159: Ione guarda el proyector y la cinta sigue sonando ([51-047](capitulos/51.md)).
+- Cap. 51, 01:34:59.199: Un botón rojo pone en marcha el primer panel ([51-049](capitulos/51.md)).
+- Cap. 51, 01:36:35.239: Cuatro símbolos llevan el vapor al segundo panel ([51-050](capitulos/51.md)).
+- Cap. 51, 01:37:53.360: El dorso de un mapa ayuda a recordar ocho figuras ([51-051](capitulos/51.md)).
+- Cap. 51, 01:41:57.199: Doce figuras hacen girar el ventilador ([51-052](capitulos/51.md)).
+- Cap. 51, 01:45:24.320: Los cuatro se reparten la secuencia final ([51-053](capitulos/51.md)).
+- Cap. 51, 01:48:43.639: Poncelot cree reconocer una voz ([51-054](capitulos/51.md)).
+- Cap. 51, 01:49:33.000: Los cuadros del pasillo acaban a cuestas ([51-055](capitulos/51.md)).
+- Cap. 51, 01:52:32.480: Los servidores del salón se vuelven hacia el grupo ([51-056](capitulos/51.md)).
+- Cap. 51, 02:05:28.920: La capa de Poncelot no atemoriza a los robots ([51-061](capitulos/51.md)).
+- Cap. 51, 02:10:29.880: Archi acciona las cuchillas de la ballena ([51-063](capitulos/51.md)).
+- Cap. 51, 02:12:13.679: Danifae falla contra su aliada y paraliza al caballero ([51-064](capitulos/51.md)).
+- Cap. 51, 02:17:22.040: Citlali responde al ataque contra el gnomo ([51-066](capitulos/51.md)).
+- Cap. 51, 02:23:11.680: El megáfono interrumpe el combate con una orden de limpieza ([51-069](capitulos/51.md)).
+- Cap. 51, 02:30:43.840: Poncelot silba mientras friega ([51-071](capitulos/51.md)).
+- Cap. 51, 02:35:36.080: La réplica de Danifae paraliza a Naór ([51-074](capitulos/51.md)).
+- Cap. 51, 02:40:45.000: Poncelot busca un ángulo para su jabalina ([51-075](capitulos/51.md)).
+- Cap. 51, 02:54:12.239: Otra máquina cae y dos expedicionarios quedan en peligro ([51-079](capitulos/51.md)).
+- Cap. 51, 03:13:40.239: Archi reconoce la destreza de los visitantes ([51-085](capitulos/51.md)).
+- Cap. 51, 03:20:55.920: Ione acepta trabajar con el uniforme de las autómatas ([51-092](capitulos/51.md)).
+- Cap. 51, 03:21:42.840: Sir Poncelot queda diminuto ([51-093](capitulos/51.md)).
+- Cap. 51, 03:24:49.479: La visitante no reconoce a Citlali ([51-096](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
 
 ## Sirena cautiva del altar
 
@@ -7640,6 +8032,16 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 46, 02:09:03.239: Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru ([46-060](capitulos/46.md)).
 - Cap. 47, 02:00:10.840: Patata encuentra a los piratas en la taberna de Iktan ([47-079](capitulos/47.md)).
 - Cap. 49, 00:09:39.000: Kilzer reconoce a Patata entre los refugiados ([49-009](capitulos/49.md)).
+- Cap. 51, 00:00:58.359: Ione ensaya a solas con la moneda ([51-002](capitulos/51.md)).
+- Cap. 51, 00:01:34.640: Un proyecto para descender hasta Nox ([51-003](capitulos/51.md)).
+- Cap. 51, 00:05:35.720: El Zampaolas había quedado junto a la playa ([51-008](capitulos/51.md)).
+- Cap. 51, 00:07:23.199: El mástil asoma entre los árboles ([51-010](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:12:41.639: Poncelot trabaja en los cascos con los trillizos ([51-013](capitulos/51.md)).
+- Cap. 51, 00:14:32.600: Naór e Ione alcanzan un acuerdo a bordo ([51-014](capitulos/51.md)).
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:32:03.840: Cuatro salen y los trillizos guardan la nave ([51-019](capitulos/51.md)).
 
 ## Tryel
 
@@ -7913,6 +8315,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 37, 00:36:00.000: Comida contra el cansancio y efectos de las frutas ([37-006](capitulos/37.md)).
 - Cap. 45, 00:15:03.279: Naór quiere viajar a Perlasal por la convocatoria de Tutucan ([45-008](capitulos/45.md)).
 - Cap. 45, 03:11:50.040: La invitación al concilio queda pendiente de decisión ([45-077](capitulos/45.md)).
+- Cap. 51, 01:15:09.800: Naór le promete a Ione una visita a la lucha libre ([51-038](capitulos/51.md)).
 
 ## Tórtola
 
@@ -8019,6 +8422,7 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 50, 02:17:13.000: Walulu explica a Tortas por qué peligra la aldea ([50-087](capitulos/50.md)).
 - Cap. 50, 02:18:33.160: Walulu enumera los contactos de Naór con los dirigentes ([50-088](capitulos/50.md)).
 - Cap. 50, 02:19:08.080: Walulu no puede identificar una tercera amenaza ([50-089](capitulos/50.md)).
+- Cap. 51, 00:03:37.519: Naór hubiera preferido quedarse en tierra ([51-006](capitulos/51.md)).
 
 ## Winscore
 
@@ -8208,6 +8612,27 @@ Una entrada por identidad revisada, con sus variantes agrupadas. Las etiquetas d
 - Cap. 42, 02:17:14.319: Los otros reyes rodean al Relámpago del Mar sin su poder mágico ([42-068](capitulos/42.md)).
 - Cap. 43, 02:01:24.800: Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo ([43-061](capitulos/43.md)).
 - Cap. 46, 00:08:02.800: Ione se detiene y reparte fruta mientras buscan orientarse ([46-006](capitulos/46.md)).
+- Cap. 51, 00:04:38.880: Molly recordó el Ojo que Nox le había enseñado ([51-007](capitulos/51.md)).
+- Cap. 51, 00:05:35.720: El Zampaolas había quedado junto a la playa ([51-008](capitulos/51.md)).
+- Cap. 51, 00:06:21.800: La búsqueda del barco pasa por Fuerte Aurora e Iktan ([51-009](capitulos/51.md)).
+- Cap. 51, 00:07:23.199: El mástil asoma entre los árboles ([51-010](capitulos/51.md)).
+- Cap. 51, 00:08:40.200: La capitana vuelve al arrecife de la batalla ([51-011](capitulos/51.md)).
+- Cap. 51, 00:11:12.160: Citlali toma el puesto de vigía ([51-012](capitulos/51.md)).
+- Cap. 51, 00:12:41.639: Poncelot trabaja en los cascos con los trillizos ([51-013](capitulos/51.md)).
+- Cap. 51, 00:14:32.600: Naór e Ione alcanzan un acuerdo a bordo ([51-014](capitulos/51.md)).
+- Cap. 51, 00:18:37.080: Erandy ha indicado la zona de los pecios ([51-015](capitulos/51.md)).
+- Cap. 51, 00:21:35.039: La sombra del tamaño del Invictus asciende ([51-016](capitulos/51.md)).
+- Cap. 51, 00:24:37.320: Una ballena engulle al Zampaolas ([51-017](capitulos/51.md)).
+- Cap. 51, 00:28:01.880: El barco encalla en el estómago ([51-018](capitulos/51.md)).
+- Cap. 51, 00:32:03.840: Cuatro salen y los trillizos guardan la nave ([51-019](capitulos/51.md)).
+- Cap. 51, 00:35:00.440: Merlucilla IV se deja convencer con comida ([51-020](capitulos/51.md)).
+- Cap. 51, 00:45:30.240: El tigre vuelve al barco ([51-026](capitulos/51.md)).
+- Cap. 51, 03:14:23.760: Ione pide una de las autómatas para la tripulación ([51-086](capitulos/51.md)).
+- Cap. 51, 03:15:16.000: La ballena tiene cámaras y reparan el barco ([51-087](capitulos/51.md)).
+- Cap. 51, 03:18:39.920: Archi pide algo a cambio del Ojo ([51-091](capitulos/51.md)).
+- Cap. 51, 03:20:55.920: Ione acepta trabajar con el uniforme de las autómatas ([51-092](capitulos/51.md)).
+- Cap. 51, 03:22:36.199: Archi entrega el orbe ([51-094](capitulos/51.md)).
+- Cap. 51, 03:26:35.120: La espera termina en los camarotes y junto a la alfombra ([51-098](capitulos/51.md)).
 
 ## Zamuria
 

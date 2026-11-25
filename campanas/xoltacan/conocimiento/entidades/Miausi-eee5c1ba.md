@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-054](../capitulos/46.md), [46-055](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La profesora y las reuniones de madres
 
@@ -59,4 +59,3 @@ Tipo: `hecho_confirmado`.
 De camino al templo, Tortas abre la puerta del colegio. La profesora Miausi le hace una reverencia y los niños la imitan. Leo es la excepción: le saluda con la mano y Tortas le devuelve el saludo antes de cerrar.
 
 La profesora no se identifica aquí como directora. La escena tampoco representa una reunión de madres.
-

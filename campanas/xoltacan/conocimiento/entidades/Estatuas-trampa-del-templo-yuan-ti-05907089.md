@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-032](../capitulos/49.md), [49-033](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Los primeros mecanismos de la entrada
 
@@ -75,4 +75,3 @@ Tipo: `explicacion_director`.
 La nueva revisión de la capilla no revela trampas y el director sitúa las trampas halladas en el primer piso. Ante la pregunta por huecos del techo, aclara que un hueco o un enemigo oculto no equivale a una trampa detectada por el efecto que estaban usando.
 
 El resultado de detectar o investigar trampas no certifica que la sala esté libre de criaturas; esa diferencia será relevante para la emboscada.
-

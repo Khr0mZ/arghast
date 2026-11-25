@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-002](../capitulos/01.md), [16-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### Cultivar una nueva vida
 
@@ -2150,3 +2150,10 @@ Los compañeros discuten todavía sobre la posibilidad de que se levanten más m
 
 Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 
+## [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880
+
+Tipo: `explicacion_director`.
+
+Al recapitular la investigación del templo, el director recuerda que Poncelot extrajo de la profecía la pista de los dos Ojos. Molly recordaba haber visto uno en manos de Nox. Para seguir esa pista la expedición necesita recuperar el Zampaolas.
+
+El viaje al templo y la interpretación posterior se recapitulan juntos. Poncelot contribuyó a la interpretación; este pasaje no lo sitúa entre los expedicionarios del templo.

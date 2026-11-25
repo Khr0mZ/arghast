@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-009](../capitulos/06.md), [20-005](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### De limpiar a combatir y domar
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 Una mosca gigante desciende. Poncelot la llama dragón, aunque otros la identifican como una mosca. Le echa un lazo y Axi y Zarial ayudan a sujetarla. Utiliza una fregona de las alcantarillas de Liz como señuelo maloliente y consigue montarla tras una tirada de trato con animales.
 
 La criatura no es un dragón, aunque Poncelot lo crea.
-

@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "personajes": {
     "Angélica Thunder": [
       {
@@ -1134,6 +1134,16 @@
           "49-111",
           "49-112"
         ]
+      },
+      {
+        "titulo": "La indicación que devuelve al arrecife",
+        "texto": "Ione detiene el Zampaolas en el sector que Erandy había señalado para buscar el Ojo. Desde la cubierta se distinguen barcos hundidos y Citlali escudriña el fondo. La pista de la escudera pone la expedición en el lugar adecuado, aunque el encuentro con la ballena cambia la búsqueda antes de que puedan sumergirse.",
+        "referencias": [
+          "51-007",
+          "51-015",
+          "51-016",
+          "51-017"
+        ]
       }
     ],
     "Eromov": [
@@ -1653,6 +1663,13 @@
         "referencias": [
           "50-016"
         ]
+      },
+      {
+        "titulo": "Un espadón todavía demasiado pesado",
+        "texto": "Naór cuenta que ya le ha comprado el espadón a Leo. La primera lección que tiene para él es conseguir levantarlo. Cuando la princesa parte hacia el arrecife, el pequeño todavía está en ese primer paso.",
+        "referencias": [
+          "51-005"
+        ]
       }
     ],
     "Leona": [
@@ -1989,6 +2006,15 @@
           "42-051",
           "42-063"
         ]
+      },
+      {
+        "titulo": "Una puerta demasiado estrecha",
+        "texto": "El tigre queda pegado al techo del barco tras las sacudidas. Poncelot le habla y le va ofreciendo trozos de sus raciones hasta que se anima a bajar. Naór aprovecha su lomo para saltar hacia la pared de carne, pero el propio tigre se queda encajado al intentar pasar por la puerta que descubren detrás. Su caballero prefiere enviarlo de vuelta al Zampaolas y continuar andando.",
+        "referencias": [
+          "51-020",
+          "51-024",
+          "51-026"
+        ]
       }
     ],
     "Merlucilla V": [
@@ -2153,6 +2179,16 @@
         "referencias": [
           "49-103",
           "49-113"
+        ]
+      },
+      {
+        "titulo": "Recordar un segundo Ojo",
+        "texto": "Un recuerdo de Molly permite a la compañía actuar sobre la interpretación de la profecía: Nox le había enseñado otra esfera. De ahí que sus compañeros vuelvan a por el Zampaolas y busquen en los restos de la batalla. El relato conserva por separado el Ojo que ya guardaba Molly y el que llevaba Nox.",
+        "referencias": [
+          "51-007",
+          "51-015",
+          "51-089",
+          "51-094"
         ]
       }
     ],
@@ -2425,6 +2461,31 @@
           "50-085",
           "50-087",
           "50-088"
+        ]
+      },
+      {
+        "titulo": "Un pacto en cubierta",
+        "texto": "Mientras aguarda al emisario de Atlan, Naór patrulla con los soldados. Ha conseguido un espadón para Leo, que todavía tiene que aprender a levantarlo. A la princesa no le apetece otra travesía: llega a buscar en Walulu una excusa para quedarse en tierra y al final sube al barco por Citlali. En cubierta se acerca a Ione para hablar del mal comienzo entre ellas. Se estrechan el brazo y aceptan quién lleva el mando a bordo. Naór suelta el cabo de la vela mayor y, cuando les toca salvar las trampas, ayuda a Citlali antes de buscarse su propio paso con las hachas.",
+        "referencias": [
+          "51-005",
+          "51-006",
+          "51-014",
+          "51-032"
+        ]
+      },
+      {
+        "titulo": "La leona entre las máquinas",
+        "texto": "El gusto por la lucha acerca a Naór e Ione en el ring: promete llevar a la capitana a las peleas enmascaradas de Tutucan y se presta a competir a cabezazos, aunque ambas acaban contra la valla. En el combate del salón convierte a la réplica de Calista en su blanco; el autómata consigue hacerla bailar antes de que la leona lo rompa. Danifae la paraliza y más tarde necesita una poción, pero es Naór quien destroza al último adversario de la prueba. Tras tanta maquinaria móvil todavía mira con suspicacia al oso que adorna la alfombra.",
+        "referencias": [
+          "51-038",
+          "51-041",
+          "51-060",
+          "51-068",
+          "51-070",
+          "51-074",
+          "51-082",
+          "51-084",
+          "51-098"
         ]
       }
     ],
@@ -4564,6 +4625,129 @@
           "50-069",
           "50-071",
           "50-081"
+        ]
+      }
+    ],
+    "Archi": [
+      {
+        "titulo": "El anfitrión que cambia las reglas desde un balcón",
+        "texto": "Archi se presenta por medio de sus pruebas antes de bajar al salón en un ascensor lleno de humo. Sus sirvientes le ajustan la ropa y el monóculo. El gnomo pide música a R53 y deja pelear a las cuatro réplicas; él acciona las cuchillas del suelo, ordena una limpieza en mitad del combate y suspende la gravedad cuando Naór le rompe el prototipo de Calista. Entre una orden y otra intenta recomponer la máquina. Solo cuando Naór vence al último rival le pide al pianista que pare y se acerca a sus invitados con el bastón de la jeringuilla.",
+        "referencias": [
+          "51-057",
+          "51-058",
+          "51-063",
+          "51-069",
+          "51-070",
+          "51-073",
+          "51-077",
+          "51-083",
+          "51-084",
+          "51-085"
+        ]
+      },
+      {
+        "titulo": "Un Ojo entre los objetos recogidos en el mar",
+        "texto": "El gnomo rechaza separarse de una de sus autómatas a petición de Ione, aunque está dispuesto a tratar sobre sus otros hallazgos. Explica a Citlali que ha visto por las cámaras el percance del barco y que sus ayudantes tardarán alrededor de veinticuatro horas en repararlo. Al oír la descripción de lo que llevaba Nox, va mostrando esferas hasta dar con la que luce un ojo. La guarda al ver el dolor de Citlali. Acepta a cambio el trabajo de la tripulación durante la reparación y hace entrega del objeto. Aún tiene tiempo de responder a una visita más doméstica: la anciana que busca su mechero lo dejó, según él, en la mesilla.",
+        "referencias": [
+          "51-086",
+          "51-087",
+          "51-088",
+          "51-089",
+          "51-090",
+          "51-091",
+          "51-092",
+          "51-094",
+          "51-095"
+        ]
+      }
+    ],
+    "R53": [
+      {
+        "titulo": "La primera canción y el final de la pelea",
+        "texto": "R53 levanta la mano desde el piano cuando Archi lo llama. Obedece la petición de reproducir la canción número uno, y con esas notas los sirvientes sacan sus armas. Permanece asociado a la música hasta el final: cuando la última combatiente cae ante Naór, es a R53 a quien Archi pide que lo pare todo.",
+        "referencias": [
+          "51-058",
+          "51-084"
+        ]
+      }
+    ],
+    "Réplica de Calista": [
+      {
+        "titulo": "A quién alcanza la inspiración",
+        "texto": "B785 suelta el mocho y empuña un estoque. Alza la mano para conceder la inspiración del shogun a sus compañeras, pero aparta deliberadamente a Danifae del beneficio. Naór se fija en su aspecto de pez y le asesta un golpe crítico. Cuando a Danifae le saltan chispas en el ojo, es la propia Calista quien se convierte en el objetivo de aquella compañera de salón.",
+        "referencias": [
+          "51-058",
+          "51-059",
+          "51-060",
+          "51-064"
+        ]
+      },
+      {
+        "titulo": "Un prototipo junto a la barra",
+        "texto": "La autómata consigue que Naór baile mientras ella se cura. La princesa acaba rompiéndola, y Archi abandona su puesto para recoger las piezas: por fin había conseguido que aquel prototipo fregara bien. Intenta animarla a bailar y logra dejarla junto a la barra. Allí sigue durante el último intercambio de golpes, apartada del combate.",
+        "referencias": [
+          "51-068",
+          "51-070",
+          "51-073",
+          "51-077",
+          "51-083"
+        ]
+      }
+    ],
+    "Réplica de Danifae": [
+      {
+        "titulo": "De la bandeja a las dagas",
+        "texto": "La drow del tic nervioso cambia la bandeja por dos dagas. Se queda fuera de la protección que reparte la réplica de Calista; poco después, al chocar contra la puerta del ascensor por un golpe de Ione, le falla un sistema y ataca a esa misma compañera. Cuando se recompone, una daga deja en el suelo y paralizado a Sir Poncelot. Todavía obedece el megáfono que la manda a fregar y, con el salón sin gravedad, alcanza también a Naór. La jabalina del caballero vuelve a marcarla.",
+        "referencias": [
+          "51-056",
+          "51-058",
+          "51-059",
+          "51-061",
+          "51-062",
+          "51-064",
+          "51-069",
+          "51-074",
+          "51-075"
+        ]
+      }
+    ],
+    "Réplica de Serafina": [
+      {
+        "titulo": "Una monja mecánica en el salón",
+        "texto": "La figura con aspecto de conejo que se despereza en el diván se convierte en contrincante de Ione cuando empieza la música. El modelo C008 pelea con los puños, encadena los golpes como una monja y aplica un aturdimiento ideado por Archi. Interrumpe la pelea para limpiar una tubería por orden del megáfono. De vuelta en combate, recibe a Ione entre varias atacantes y las descargas a distancia de Citlali, que sigue apuntándole aun cuando el baile le impide moverse de su sitio.",
+        "referencias": [
+          "51-056",
+          "51-062",
+          "51-065",
+          "51-069",
+          "51-076",
+          "51-081",
+          "51-083"
+        ]
+      }
+    ],
+    "Réplica de Palayer": [
+      {
+        "titulo": "La drow que cambia el polvo por la maza",
+        "texto": "La figura que limpia la parte alta de una estantería parece una drow convertida en droide. En combate la reconoce el grupo por los golpes de maza y la energía radiante. Citlali aguanta la primera acometida, pero la segunda la derriba y le rompe la concentración. La paladina mecánica vuelve a trabarse con las expedicionarias y alcanza a golpear de nuevo antes de que Naór destruya a la última rival de la prueba.",
+        "referencias": [
+          "51-056",
+          "51-067",
+          "51-076",
+          "51-084"
+        ]
+      }
+    ],
+    "Anciana del mechero": [
+      {
+        "titulo": "Una chocolatina para el camino",
+        "texto": "El suelo tiembla cuando llega el ascensor, pero la visita que inquieta a los viajeros solo quiere preguntarle a Archi por un mechero. Citlali cree reconocerla y le recuerda una deuda de hierba. La anciana no la sitúa hasta que ve la chocolatina, e incluso entonces sospecha que la ha robado: recuerda a la mujer que preparaba esos dulces con mucha más edad. Se marcha en el ascensor chupando el chocolate. La asociación anterior de Pinky con los dulces de Citlali aporta un indicio; aquí nadie llama Pinky a la visitante.",
+        "referencias": [
+          "04-004",
+          "22-004",
+          "51-095",
+          "51-096",
+          "51-097"
         ]
       }
     ]

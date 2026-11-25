@@ -1,5 +1,9 @@
 # Lugares y regiones de Xoltacan
 
+## La ballena en el arrecife
+
+En el lugar que Erandy reconoció en su visión, el agua deja ver restos de la batalla. La sombra que asciende entre los pecios resulta ser una ballena capaz de engullir el Zampaolas. Tras una pared de carne se abre una puerta atornillada. Un pasillo de baldosas, un cuadrilátero y un taller comunican con la galería y el salón de Archi. La ballena recorre el mar, de modo que el punto donde se traga el barco solo sitúa el encuentro. [Viaje y recorrido interior](capitulos/51.md).
+
 ## El islote del Gran Árbol Anciano
 
 Walulu señala el noroeste desde Iktan. Tortas recuerda el camino de su infancia y guía al grupo hasta un islote unido a la orilla por un puente de madera. El árbol conserva flores de los colores de la ciudad. Bajo las raíces encuentran restos humanos y líquido negro. La única savia aprovechable sale de una rama en lo alto de la copa. [Capítulo 50](capitulos/50.md).

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-032](../capitulos/46.md), [46-033](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Dos depredadores atraídos hacia los viajeros
 
@@ -163,4 +163,3 @@ Tipo: `hecho_confirmado`.
 Zoltan intenta arrancar un colmillo del tiranosaurio usando lo que llama cirugía eléctrica. Tras una salvación de sabiduría, la mano se ilumina mucho más de lo esperado y la descarga chamusca todo el cadáver. Quedan huesos visibles y dientes ennegrecidos y rotos. Zoltan reconoce que todavía no controla bien su poder.
 
 El intento no entrega un colmillo intacto como botín. No se convierte este descontrol en una capacidad de precisión dominada o disponible sin límites.
-

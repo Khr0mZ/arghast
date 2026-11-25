@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-006](../capitulos/08.md), [10-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un médico al que se acude con recelo
 
@@ -113,4 +113,3 @@ Tipo: `hecho_confirmado`.
 La plaza de Shiaru reúne a los defensores. Gobs guarda una sierra y otras herramientas en su bolsa; Armin lleva dos enormes mazas. Liz y sus compañeras preparan armas de fuego, entre ellas una escopeta y un rifle largo. Ione, Ilikar y Sir Poncelot están con la tripulación del Zampaolas mientras Bonnie pronuncia su discurso.
 
 La presencia de los viajeros corresponde a la concentración anterior a la batalla naval, no confirma su supervivencia después del capítulo 42. Las comparaciones con Frankenstein describen humorísticamente a Gobs y no acreditan una operación realizada aquí.
-

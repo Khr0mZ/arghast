@@ -56,3 +56,4 @@ Las fichas reúnen acontecimientos seleccionados y citados. La tabla distingue d
 | 48 | [Una Guarida Apestosa](capitulos/48.md) | disponible | revisado | [texto](../derivados/48/lectura.md) |
 | 49 | [Buscando la Verdad](capitulos/49.md) | disponible | revisado | [texto](../derivados/49/lectura.md) |
 | 50 | [Abastecimiento](capitulos/50.md) | disponible | revisado | [texto](../derivados/50/lectura.md) |
+| 51 | [Buscando el Ojo](capitulos/51.md) | disponible | revisado | [texto](../derivados/51/lectura.md) |

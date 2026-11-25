@@ -8,11 +8,11 @@ Organización militar. Marina, la sirena liberada del capítulo 6, sigue como pe
 
 Etiquetas agrupadas: Marina.
 
-Base para revisar equivalencia: [03-019](../capitulos/03.md), [05-007](../capitulos/05.md), [23-004](../capitulos/23.md), [42-005](../capitulos/42.md), [42-016](../capitulos/42.md), [42-019](../capitulos/42.md), [42-020](../capitulos/42.md), [42-021](../capitulos/42.md), [42-023](../capitulos/42.md), [42-024](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-035](../capitulos/42.md), [42-042](../capitulos/42.md), [42-043](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-056](../capitulos/42.md), [42-059](../capitulos/42.md), [42-062](../capitulos/42.md), [42-065](../capitulos/42.md), [43-001](../capitulos/43.md), [43-018](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-025](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-030](../capitulos/43.md), [43-031](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-036](../capitulos/43.md), [43-038](../capitulos/43.md), [43-048](../capitulos/43.md), [43-051](../capitulos/43.md), [43-052](../capitulos/43.md), [43-055](../capitulos/43.md), [43-057](../capitulos/43.md), [43-058](../capitulos/43.md).
+Base para revisar equivalencia: [03-019](../capitulos/03.md), [05-007](../capitulos/05.md), [23-004](../capitulos/23.md), [42-005](../capitulos/42.md), [42-016](../capitulos/42.md), [42-019](../capitulos/42.md), [42-020](../capitulos/42.md), [42-021](../capitulos/42.md), [42-023](../capitulos/42.md), [42-024](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-035](../capitulos/42.md), [42-042](../capitulos/42.md), [42-043](../capitulos/42.md), [42-046](../capitulos/42.md), [42-048](../capitulos/42.md), [42-050](../capitulos/42.md), [42-051](../capitulos/42.md), [42-056](../capitulos/42.md), [42-059](../capitulos/42.md), [42-062](../capitulos/42.md), [42-065](../capitulos/42.md), [43-001](../capitulos/43.md), [43-018](../capitulos/43.md), [43-019](../capitulos/43.md), [43-020](../capitulos/43.md), [43-021](../capitulos/43.md), [43-022](../capitulos/43.md), [43-025](../capitulos/43.md), [43-026](../capitulos/43.md), [43-027](../capitulos/43.md), [43-030](../capitulos/43.md), [43-031](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-036](../capitulos/43.md), [43-038](../capitulos/43.md), [43-048](../capitulos/43.md), [43-051](../capitulos/43.md), [43-052](../capitulos/43.md), [43-055](../capitulos/43.md), [43-057](../capitulos/43.md), [43-058](../capitulos/43.md), [51-011](../capitulos/51.md), [51-022](../capitulos/51.md), [51-088](../capitulos/51.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Explorar, ocupar y disputar las ruinas
 
@@ -67,6 +67,12 @@ Fuentes: [43-025 · La tormenta de una reina pirata se ve desde la lucha terrest
 En paralelo al frente naval de la misma batalla, la formación terrestre pierde hombres y mandos ante el impacto del oso, las bolas de fuego y el drenaje de Citlali. Eleanor y Citlali eliminan a los últimos generales; los supervivientes sueltan las armas e intentan huir, perseguidos por piratas o atrapados en la jungla. La victoria proclamada por sus adversarios se limita a esta batalla, sin demostrar la eliminación de toda la organización.
 
 Fuentes: [43-048 · El oso de Lunaria impacta con la energía de Eleanor](../capitulos/43.md) · 01:33:33.920 · [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400 · [43-052 · Erandy recupera magia por el chat y lanza fuego cerca de sus aliados](../capitulos/43.md) · 01:44:54.520 · [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920 · [43-057 · Citlali consume la vida del marine retenido](../capitulos/43.md) · 01:54:11.440 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560.
+
+### Maderas de los dos bandos
+
+Al buscar los restos de la batalla del arrecife, los expedicionarios encuentran maderas piratas y de la Marina dentro de la ballena. Ese hallazgo explica que pregunten a Archi por objetos y cuerpos recogidos en esas aguas. En la sesión no llegan a identificar cada pieza con el navío del que procedía.
+
+Fuentes: [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200 · [51-022 · Los restos son de los dos bandos](../capitulos/51.md) · 00:38:47.079 · [51-088 · Archi recorre las aguas en busca de hallazgos](../capitulos/51.md) · 03:16:31.040.
 
 ## Registros y evidencias
 
@@ -1062,3 +1068,18 @@ Eleanor cuenta que, después del combate contra la Marina, siguieron a Citlali h
 
 Es un repaso de lo sucedido entre sesiones. No reconstruye el diálogo entero, autor o blanco exacto del disparo, una entrada al Zampaolas o las noticias completas que recibió Citlali sobre Nox.
 
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-022 · Los restos son de los dos bandos](../capitulos/51.md) · 00:38:47.079
+
+Tipo: `explicacion_director`.
+
+Ione pregunta si reconoce los restos que hay en el estómago. El director distingue maderas tanto de la flota pirata como de la Marina. La posibilidad de que la ballena haya ingerido también lo que buscan les da un segundo motivo para entrar más adentro.
+
+La procedencia de los pecios está confirmada; dentro de este tramo no encuentran ahí el Ojo.

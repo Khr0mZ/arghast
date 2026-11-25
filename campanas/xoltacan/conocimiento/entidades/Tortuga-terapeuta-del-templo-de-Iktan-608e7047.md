@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-018](../capitulos/48.md), [48-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Respirar antes de salir
 
@@ -45,4 +45,3 @@ Tipo: `hecho_confirmado`.
 La tortuga hace callar a Walulu y guía las últimas respiraciones de Naór: inspirar, espirar y repetir que no tiene rabia ni se enfada. La llama una leona sin uñas. Al concluir acerca un recipiente y pide una donación para seguir dando las clases; Walulu deposita monedas y dice que irá pagando. Naór agradece la sesión y sale.
 
 No se fija importe ni se acredita una curación definitiva, una pérdida física de uñas o un cambio mágico. La práctica respiratoria reaparece cuando Naór intenta dominar el enfado.
-

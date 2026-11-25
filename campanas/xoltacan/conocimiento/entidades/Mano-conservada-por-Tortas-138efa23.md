@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-042](../capitulos/45.md), [45-043](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un recuerdo del primer combate
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Triel distribuye sus luces entre los compañeros y Chopito introduce una en el frasco. Coyote busca a los desaparecidos, pero no están en la primera sala. Tortas saca del agua un cadáver y reúne los cuerpos; el director confirma que están muertos. Naór le acerca el cuerpo dividido. El Anciano lamenta el destino de esas criaturas, separa una mano del cadáver partido y la guarda en su caparazón. Las luces se apagan al agotar su duración y Triel vuelve a crearlas antes de que continúen.
 
 La mano es un trofeo físico sin poder demostrado. No se identifica a los cadáveres con las sirenas secuestradas ni se transforma la broma sobre reparar el cuerpo en una resurrección.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md), [44-004](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La mesa de Cuicapalli
 
@@ -43,4 +43,3 @@ Tipo: `hecho_confirmado`.
 Leona y Guayacán regresan a Cuicapalli cubiertos de hojas y con marcas de sus rondas por los alrededores. Esperan que Eromov mejore y que lleguen refuerzos. Se acercan a Tacha y piden comida. Tlachka se ha hecho un hueco junto a la cocina para tostar mazorcas como acompañamiento.
 
 La expectativa de refuerzos no representa su llegada. El establecimiento se vincula contextualmente a la taberna de Tacha ya catalogada; no se pronuncia un nombre nuevo para el local.
-

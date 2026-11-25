@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-039](../capitulos/40.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La tierra fría recordada por Ilikar
 
@@ -29,4 +29,3 @@ Tipo: `declaracion_personaje`.
 Ilikar declara que procede de Valle Blanco, en las tierras frías del norte. Quiere un trofeo con el que hacerse amigo de un líder y del que su capitana esté orgullosa; Eldrat intenta atraerlo con posibles combates y premios posteriores. Ilikar dice que debe volver a Shiaru y propone sumar la fuerza de su capitana Ione y de Sir Poncelot. Atribuye a Poncelot la muerte de dragones, dinosaurios y gigantes del bosque. Eldrat considera visitarlos y propone competiciones de natación, robo, combate y lanzamiento para prepararse; Ilikar ofrece costumbres de fuerza de su tierra.
 
 Las hazañas de Poncelot se transmiten como testimonio de Ilikar; no se revisitan ni verifican en esta escena. Ione y Poncelot no están presentes ni aceptan participar. El lanzamiento de una cabra a 142 metros es un recuerdo contado durante la broma de los juegos.
-

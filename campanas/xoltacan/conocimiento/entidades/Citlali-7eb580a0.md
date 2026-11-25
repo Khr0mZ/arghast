@@ -8,11 +8,11 @@ El grupo llama Mamá a Citlali. Coyote aparece como un personaje distinto junto 
 
 Etiquetas agrupadas: Mamá / Citlali (identificación contextual provisional).
 
-Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitulos/34.md), [39-017](../capitulos/39.md), [43-003](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [43-024](../capitulos/43.md), [43-030](../capitulos/43.md), [43-032](../capitulos/43.md), [43-037](../capitulos/43.md), [43-041](../capitulos/43.md), [43-044](../capitulos/43.md), [43-045](../capitulos/43.md), [43-046](../capitulos/43.md), [43-050](../capitulos/43.md), [43-051](../capitulos/43.md), [43-057](../capitulos/43.md), [43-059](../capitulos/43.md), [43-061](../capitulos/43.md), [43-062](../capitulos/43.md), [46-003](../capitulos/46.md), [46-004](../capitulos/46.md), [46-005](../capitulos/46.md), [46-008](../capitulos/46.md), [46-009](../capitulos/46.md), [46-012](../capitulos/46.md), [46-018](../capitulos/46.md), [46-021](../capitulos/46.md), [46-024](../capitulos/46.md), [46-026](../capitulos/46.md), [46-028](../capitulos/46.md), [46-029](../capitulos/46.md), [46-030](../capitulos/46.md), [46-037](../capitulos/46.md), [46-040](../capitulos/46.md), [46-042](../capitulos/46.md), [46-046](../capitulos/46.md), [46-050](../capitulos/46.md), [46-052](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-061](../capitulos/46.md), [46-064](../capitulos/46.md).
+Base para revisar equivalencia: [03-013](../capitulos/03.md), [34-004](../capitulos/34.md), [39-017](../capitulos/39.md), [43-003](../capitulos/43.md), [43-011](../capitulos/43.md), [43-012](../capitulos/43.md), [43-013](../capitulos/43.md), [43-024](../capitulos/43.md), [43-030](../capitulos/43.md), [43-032](../capitulos/43.md), [43-037](../capitulos/43.md), [43-041](../capitulos/43.md), [43-044](../capitulos/43.md), [43-045](../capitulos/43.md), [43-046](../capitulos/43.md), [43-050](../capitulos/43.md), [43-051](../capitulos/43.md), [43-057](../capitulos/43.md), [43-059](../capitulos/43.md), [43-061](../capitulos/43.md), [43-062](../capitulos/43.md), [46-003](../capitulos/46.md), [46-004](../capitulos/46.md), [46-005](../capitulos/46.md), [46-008](../capitulos/46.md), [46-009](../capitulos/46.md), [46-012](../capitulos/46.md), [46-018](../capitulos/46.md), [46-021](../capitulos/46.md), [46-024](../capitulos/46.md), [46-026](../capitulos/46.md), [46-028](../capitulos/46.md), [46-029](../capitulos/46.md), [46-030](../capitulos/46.md), [46-037](../capitulos/46.md), [46-040](../capitulos/46.md), [46-042](../capitulos/46.md), [46-046](../capitulos/46.md), [46-050](../capitulos/46.md), [46-052](../capitulos/46.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [46-061](../capitulos/46.md), [46-064](../capitulos/46.md), [51-004](../capitulos/51.md), [51-012](../capitulos/51.md), [51-015](../capitulos/51.md), [51-016](../capitulos/51.md), [51-017](../capitulos/51.md), [51-021](../capitulos/51.md), [51-045](../capitulos/51.md), [51-047](../capitulos/51.md), [51-066](../capitulos/51.md), [51-090](../capitulos/51.md), [51-093](../capitulos/51.md), [51-095](../capitulos/51.md), [51-096](../capitulos/51.md), [51-097](../capitulos/51.md), [51-098](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### Mamá y el huevo de las ruinas
 
@@ -73,6 +73,18 @@ Fuentes: [46-026 · Citlali ayuda a Zoltan a abandonar la cueva](../capitulos/46
 Citlali drena al tiranosaurio superviviente y recupera parte de sus fuerzas, aunque sigue dolorida. Acepta ayuda para caminar y una montura temporal de Eleanor. Después reconoce los senderos que permiten llegar a Iktan. Allí recupera a Etley del colegio, reprende a Leo y se compromete a acudir a la reunión de madres. Explica a Ione que su drenaje forma parte de la maldición y plantea llevarla ante Walulu, sin llegar a esa audiencia.
 
 Fuentes: [46-046 · Citlali se recupera drenando al último tiranosaurio](../capitulos/46.md) · 01:38:56.280 · [46-050 · Zoltan sostiene a Citlali y Eleanor le proporciona una montura temporal](../capitulos/46.md) · 01:47:03.270 · [46-052 · Citlali reconoce el camino y el grupo llega a Iktan](../capitulos/46.md) · 01:50:32.080 · [46-054 · Citlali encuentra a Etley con Leo a la salida del colegio](../capitulos/46.md) · 01:58:52.520 · [46-055 · Miausi invita a Citlali a la reunión de madres](../capitulos/46.md) · 02:00:55.719 · [46-056 · Citlali reprende a Leo y se lleva a Etley](../capitulos/46.md) · 02:02:00.520 · [46-061 · Citlali explica a Ione el drenaje como parte de su maldición](../capitulos/46.md) · 02:13:10.440 · [46-064 · Citlali intenta enseñar buenos modales a Etley](../capitulos/46.md) · 02:19:39.960.
+
+### La vigía del arrecife
+
+Citlali piensa en Nox cuando recibe noticias de sus amigos. El viaje en barco le resulta extraño después de tantos caminos recorridos a pie, pero acepta subir al puesto de vigía. Al divisar los pecios se agarra a la barandilla, sin saber si desea encontrar a su amigo entre ellos. Ve ascender una sombra que le parece tan grande como el Invictus y da la alarma con el silbido conocido por sus compañeros. Una vez dentro de la ballena consigue que Naór baje el hacha antes de provocar un vómito peligroso para todos.
+
+Fuentes: [51-004 · Citlali recuerda a Nox](../capitulos/51.md) · 00:02:46.680 · [51-012 · Citlali toma el puesto de vigía](../capitulos/51.md) · 00:11:12.160 · [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039 · [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320 · [51-021 · Citlali detiene el intento de provocar el vómito](../capitulos/51.md) · 00:37:09.000.
+
+### El dolor y la chocolatina
+
+Citlali guía a Poncelot para apartarlo de las imágenes de la cinta y pacta con él una señal que pueda reconocer aun con los ojos cerrados. En el salón es ella quien responde al ver caer al caballero. Cuando Archi saca la esfera con el ojo, Citlali cae de rodillas con las manos en la cabeza y pide que se la aparten de la vista. Más tarde cuida a Poncelot, reducido de tamaño, y reconoce a una anciana que ha venido a buscar un mechero. Le recuerda la hierba que le debe y le ofrece una chocolatina como prueba de quién es. La visitante se lleva el dulce, pero recuerda a la chocolatera con otra edad.
+
+Fuentes: [51-045 · Citlali aparta a Poncelot de la cinta](../capitulos/51.md) · 01:27:09.360 · [51-047 · Ione guarda el proyector y la cinta sigue sonando](../capitulos/51.md) · 01:31:08.159 · [51-066 · Citlali responde al ataque contra el gnomo](../capitulos/51.md) · 02:17:22.040 · [51-090 · Citlali reconoce el Ojo por el dolor que le causa](../capitulos/51.md) · 03:17:51.399 · [51-093 · Sir Poncelot queda diminuto](../capitulos/51.md) · 03:21:42.840 · [51-095 · Una anciana pide el mechero de Archi](../capitulos/51.md) · 03:23:19.760 · [51-096 · La visitante no reconoce a Citlali](../capitulos/51.md) · 03:24:49.479 · [51-097 · La anciana se lleva la chocolatina](../capitulos/51.md) · 03:26:01.040 · [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120.
 
 ## Registros y evidencias
 
@@ -2436,3 +2448,330 @@ Erandy pregunta qué es el ojo, quién es Citlali y qué son los yuan-ti. Molly 
 
 La noticia del ataque está atribuida a Walulu a través de Molly. No es diagnóstico clínico de Erandy ni relato completo de lo ocurrido durante su pérdida de memoria.
 
+## [51-004 · Citlali recuerda a Nox](../capitulos/51.md) · 00:02:46.680
+
+Tipo: `declaracion_personaje`.
+
+Citlali cuenta que el pollito ha encontrado un amigo y ella se ha amistado con la madre del conejito. Intenta ayudarla a contener su ira. Las noticias que le han llevado la hacen pensar de nuevo en Nox.
+
+Citlali no dice que haya resuelto el problema de ira.
+
+## [51-006 · Naór hubiera preferido quedarse en tierra](../capitulos/51.md) · 00:03:37.519
+
+Tipo: `declaracion_personaje`.
+
+Naór explica que desconoce a Nox y que intentó obtener de Walulu una excusa para evitar otra salida al agua. Más tarde dirá en cubierta que acompañó a la expedición por Citlali.
+
+Su motivo para embarcar se explicita cuando Naór ve a Citlali subir de vigía.
+
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-012 · Citlali toma el puesto de vigía](../capitulos/51.md) · 00:11:12.160
+
+Tipo: `hecho_confirmado`.
+
+Citlali le cuenta a Ione que acostumbraba a viajar a pie. La capitana le señala el puesto elevado y le encarga dar la voz si ve tierra, otra embarcación o una criatura. Citlali trepa y queda por encima de la cubierta.
+
+
+
+## [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080
+
+Tipo: `hecho_confirmado`.
+
+El agua clara permite distinguir barcos hundidos. La sonrisa de Ione desaparece y Citlali se aferra a la barandilla, dividida ante la posibilidad de encontrar a Nox. Cuando llegan al punto señalado por Erandy para buscar el Ojo, Ione manda recoger las velas y detiene la nave.
+
+Las coordenadas y el método de localización no se vuelven a dar en este pasaje.
+
+## [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca desde arriba un pecio imponente entre restos rotos contra las rocas. Ve una mancha tan grande como imagina al Invictus, pero asciende hacia ellos. En vez de gritar, emite el silbido de alerta que conocen sus compañeros. Ione sube a reunirse con ella.
+
+Citlali no había visto el navío de la Marina. La comparación de tamaño no identifica la sombra con su pecio.
+
+## [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320
+
+Tipo: `hecho_confirmado`.
+
+La sombra rebasa la silueta de la nave. Ione se descuelga a cubierta, ordena dar vela y vuelve al timón. Como el barco estaba parado, apenas consigue arrancar antes de que una boca en forma de V se cierre en torno a él. La ballena se hunde llevándose barco y ocupantes.
+
+La alusión de la mesa a un kraken precede a la descripción explícita de la ballena.
+
+## [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880
+
+Tipo: `hecho_confirmado`.
+
+La tripulación rueda entre golpes y crujidos hasta que el Zampaolas se detiene. Sir Poncelot y Naór alcanzan a orientarse en la penumbra. El trillizo ciego enciende los faroles y aparecen a la vista el casco encajado, los maderos flotantes y las paredes de carne; a intervalos les llega un olor ácido.
+
+
+
+## [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840
+
+Tipo: `hecho_confirmado`.
+
+Mientras unos se levantan tras la caída y la capitana ayuda a Poncelot con los cabos de los que cuelga, los trillizos terminan de encender las luces. Naór salta sobre el suelo blando; Ione echa una cuerda para los siguientes y deja a los trillizos al cuidado del barco mientras salen los cuatro a buscar una salida.
+
+
+
+## [51-021 · Citlali detiene el intento de provocar el vómito](../capitulos/51.md) · 00:37:09.000
+
+Tipo: `hecho_confirmado`.
+
+Alguien sugiere hacer vomitar a la ballena y Naór saca el hacha. Citlali le sujeta las manos y le advierte de los jugos del estómago; Naór acepta explorar primero. El riesgo de abrasarse es la razón para aplazar la maniobra.
+
+El vómito es una propuesta; en este tramo no llegan a provocarlo.
+
+## [51-023 · El pulpo responde con tinta](../capitulos/51.md) · 00:39:09.760
+
+Tipo: `hecho_confirmado`.
+
+Entre los restos hay un pulpo que trepa por la pared al acercarse el grupo. Cuando le preguntan por la salida, lanza tinta a la cara de quien se le acerca. Citlali se ríe y ofrece ayuda para limpiarla.
+
+El subtítulo no identifica inequívocamente quién recibe la tinta.
+
+## [51-031 · Una nube amarilla cruza el pasillo](../capitulos/51.md) · 01:02:19.520
+
+Tipo: `hecho_confirmado`.
+
+Ya reconocen el rojo de las losas peligrosas. Esta vez el gnomo pide que se agachen y aprieta una con la lanza a distancia. Tras oír un silbido, ven pasar una nube amarilla por encima de sus cabezas. Poncelot se decide a pisar después; Ione continúa apoyándose en la pared.
+
+No se explica qué habría hecho la nube en contacto con alguien.
+
+## [51-032 · Naór ayuda a Citlali a cruzar](../capitulos/51.md) · 01:04:55.240
+
+Tipo: `hecho_confirmado`.
+
+Naór impulsa a Citlali sobre las baldosas. Citlali cae al borde de una y recupera el equilibrio. Para su propio paso, Naór opta por colgarse del techo e ir avanzando con sus dos hachas.
+
+
+
+## [51-039 · La salida exige superar la prueba del campeón](../capitulos/51.md) · 01:16:09.199
+
+Tipo: `hecho_confirmado`.
+
+Mientras sus compañeras juegan, Citlali se acerca a Sir Poncelot. El caballero recuerda autómatas peligrosos de sus novelas e intenta encontrar una salida que evite despertarlos. Al tocar la puerta, un aviso anuncia que deben terminar la prueba del campeón.
+
+
+
+## [51-040 · El campeón pide que usen el coco](../capitulos/51.md) · 01:19:05.000
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot examina la estatua de un enorme semiorco con la boca abierta. En el pedestal lee que para ganar hay que usar el coco. Pregunta a sus compañeras si llevan uno entre las provisiones y Citlali mira en su bolsa sin encontrarlo.
+
+
+
+## [51-044 · La sala de las máquinas reproduce voces grabadas](../capitulos/51.md) · 01:25:48.520
+
+Tipo: `hecho_confirmado`.
+
+La puerta se abre a espaldas de Citlali, que entra despacio con la chancla preparada. Encuentra máquinas conectadas por tuberías, vapor, un cristal central apagado y una mesa de trabajo. Las imágenes y las voces proceden de una cinta que proyecta sobre la pared.
+
+
+
+## [51-045 · Citlali aparta a Poncelot de la cinta](../capitulos/51.md) · 01:27:09.360
+
+Tipo: `hecho_confirmado`.
+
+Una escena íntima de Serafina y Guxi atrae la atención de Ione y Naór. Citlali tapa los ojos de Poncelot, lo lleva a una esquina y le pide que mire a la pared con los oídos tapados. Para que pueda seguir protegiéndolas, acuerdan que le tocará el hombro cuando lo necesite.
+
+Serafina y Guxi aparecen en una grabación. Poncelot interpreta lo poco que entiende como una tortura.
+
+## [51-046 · El proyector muestra el palacio de Kuroto](../capitulos/51.md) · 01:30:08.440
+
+Tipo: `hecho_confirmado`.
+
+Cuando Citlali cubre la proyección, la película está mostrando a un robot que entra en la habitación de la shogun, en el palacio de Kuroto. Aunque oculta la imagen, la grabación continúa sonando.
+
+La cinta no identifica al robot ni permite ver qué ocurre después en la habitación. Es una imagen dentro de la partida de Xoltacan.
+
+## [51-047 · Ione guarda el proyector y la cinta sigue sonando](../capitulos/51.md) · 01:31:08.159
+
+Tipo: `hecho_confirmado`.
+
+Ione promete a Citlali que meterá el proyector en su mochila para que se deje de ver. Obtiene su permiso y cumple; el aparato sigue reproduciendo el sonido porque no sabe apagarlo. Citlali toca el hombro del caballero para que pueda volverse.
+
+
+
+## [51-051 · El dorso de un mapa ayuda a recordar ocho figuras](../capitulos/51.md) · 01:37:53.360
+
+Tipo: `hecho_confirmado`.
+
+El segundo panel muestra ocho símbolos demasiado rápidos para una sola mirada. Proponen repartirlos y repetir la secuencia; Ione da la vuelta a un mapa viejo y usa la pluma de cartógrafa para dibujarlos. Al introducir los ocho, gira una rueda y el vapor alcanza un ventilador con un panel táctil.
+
+El mapa sirve de papel. No se identifica con ningún mapa concreto del catálogo.
+
+## [51-052 · Doce figuras hacen girar el ventilador](../capitulos/51.md) · 01:41:57.199
+
+Tipo: `hecho_confirmado`.
+
+El tercer panel exige una secuencia de doce figuras. Tras varios intentos en los que unos retienen el principio y otros el final, el grupo consigue introducirla. El ventilador arranca, impulsa aire hacia arriba y enciende la siguiente pantalla.
+
+
+
+## [51-053 · Los cuatro se reparten la secuencia final](../capitulos/51.md) · 01:45:24.320
+
+Tipo: `hecho_confirmado`.
+
+La última secuencia tiene dieciséis posiciones. Ione, Naór, Citlali y Sir Poncelot se responsabilizan en ese orden de cuatro figuras por cabeza. La máquina se ilumina entera, aparece un cartel de felicitación y una grabación repite que de aprendiz a maestro se pasa repitiendo. Se abre la puerta.
+
+
+
+## [51-055 · Los cuadros del pasillo acaban a cuestas](../capitulos/51.md) · 01:49:33.000
+
+Tipo: `hecho_confirmado`.
+
+Tras el taller encuentran un pasillo metálico con retratos de desnudos. En la mesa de juego se reconocen, entre otros, May, Calista, Serafina y Kazuki disfrazado. Hay quien quiere decorar su camarote e Ione ata y recoge cuadros hasta ir sobrecargada. Citlali guía a Poncelot cubriéndole los ojos.
+
+El director precisa que el reconocimiento de las figuras corresponde a los jugadores. La transcripción no permite fijar el nombre del disfraz ni el de uno de los retratos.
+
+## [51-056 · Los servidores del salón se vuelven hacia el grupo](../capitulos/51.md) · 01:52:32.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali abre las puertas de un salón con sofás rosados, alfombra de oso, comida, barra y estantes. Allí trabajan o descansan cuatro figuras mecánicas: dos con apariencia de drow, una con rasgos de conejo y otra con aspecto de tritón. Una de las drow lleva bebidas y presenta un tic en la cara.
+
+La primera figura drow se oye como «palazar» y después «Palacia». Su apariencia y la variante oída en el combate apuntan a Palayer, nombre de grafía provisional. Las cuatro son máquinas.
+
+## [51-061 · La capa de Poncelot no atemoriza a los robots](../capitulos/51.md) · 02:05:28.920
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot protege a Citlali con el escudo y la espada y despliega su capa de sierpe roja con un grito. Los robots son inmunes al miedo y Naór resiste el efecto. El caballero concentra entonces su atención en Danifae y la marca para dificultarle atacar a otras personas.
+
+El nombre «Titania» que usa el caballero en diálogo no introduce a una quinta integrante del grupo.
+
+## [51-065 · La réplica de Serafina combate como una monja](../capitulos/51.md) · 02:15:13.920
+
+Tipo: `hecho_confirmado`.
+
+La réplica de Serafina devuelve los golpes a la rival que tiene delante. Combina sus puñetazos con un efecto de aturdimiento diseñado por Archi y encadena hasta tres ataques. Cuando el turno pasa a Citlali, el combate contra los autómatas sigue abierto.
+
+El modelo se había identificado en la mesa como C008. Citlali inicia una acción adicional de nivel dos; al final de este tramo aún no se distingue su efecto.
+
+## [51-066 · Citlali responde al ataque contra el gnomo](../capitulos/51.md) · 02:17:22.040
+
+Tipo: `hecho_confirmado`.
+
+Citlali apunta a la réplica de Danifae tras verla acuchillar al gnomo. Lanza la alpargata como arma a distancia, acierta el primer golpe y se aproxima.
+
+El parecido de las autómatas con otras personas no traslada el combate a sus modelos.
+
+## [51-067 · La maza derriba a Citlali](../capitulos/51.md) · 02:18:47.679
+
+Tipo: `hecho_confirmado`.
+
+La réplica de Palayer golpea a Citlali con daño radiante. Citlali mantiene la concentración tras el primer ataque, pero el segundo la tira al suelo y se la hace perder.
+
+La identificación de la paladina que empuña la maza se apoya en la presentación anterior, y la grafía Palayer es provisional.
+
+## [51-069 · El megáfono interrumpe el combate con una orden de limpieza](../capitulos/51.md) · 02:23:11.680
+
+Tipo: `hecho_confirmado`.
+
+Archi saca un megáfono. Sir Poncelot, Naór y las réplicas de Serafina y Danifae obedecen la orden de limpiar; Danifae friega el ascensor y Serafina se aparta para ocuparse de una tubería. Citlali queda libre para levantarse.
+
+
+
+## [51-072 · Ione abre espacio alrededor de Citlali](../capitulos/51.md) · 02:32:33.399
+
+Tipo: `hecho_confirmado`.
+
+Al ver a Citlali caída, Ione insiste con una ráfaga de golpes hasta poder empujar a una adversaria. Primero la desplaza cinco pies, después otros diez, y se planta en medio para cubrir a su compañera.
+
+
+
+## [51-077 · La gravedad vuelve de golpe](../capitulos/51.md) · 02:45:57.920
+
+Tipo: `hecho_confirmado`.
+
+Archi deja caer a todos al pulsar el botón y ruega a las piezas de Calista que vuelvan a bailar. Los combatientes hacen tiradas de destreza; la réplica de Danifae evita todo daño y otros reciben parte del impacto.
+
+
+
+## [51-078 · Ione pide que concentren los golpes](../capitulos/51.md) · 02:50:39.920
+
+Tipo: `hecho_confirmado`.
+
+Entre nuevos ataques, Ione pide a los suyos que golpeen al adversario de Naór y promete aguantar. Citlali atiende la llamada y consigue un crítico con el alpargatazo.
+
+El blanco de cada ataque no queda igualmente claro; el resultado del crítico sí se anuncia.
+
+## [51-080 · Archi prolonga el combate con veneno y baile](../capitulos/51.md) · 02:57:23.520
+
+Tipo: `hecho_confirmado`.
+
+Archi se felicita por la perspectiva de tener nuevos robots. Citlali y Naór quedan envenenadas durante un minuto. El baile irresistible que se aplica a continuación impide desplazarse y entorpece los ataques de ambos bandos.
+
+El tramo no explica cómo se fabricaría un robot con un combatiente caído.
+
+## [51-081 · Citlali consigue alcanzar a Serafina sin salir del sitio](../capitulos/51.md) · 03:00:15.120
+
+Tipo: `hecho_confirmado`.
+
+Atrapada en el baile, Citlali dispara contra la réplica de Serafina. Falla el primer intento, gasta otro espacio de conjuro para contrarrestar la desventaja y acierta con el siguiente disparo.
+
+
+
+## [51-083 · Calista queda junto a la barra](../capitulos/51.md) · 03:08:27.640
+
+Tipo: `hecho_confirmado`.
+
+Archi junta piezas de la réplica de Calista y le pide que se quede bailando junto a la barra sin participar. La réplica de Serafina toma una posición defensiva y Citlali vuelve a dispararle a pesar del baile.
+
+La mesa bromea con devolver a Calista al combate; Archi la mantiene apartada.
+
+## [51-087 · La ballena tiene cámaras y reparan el barco](../capitulos/51.md) · 03:15:16.000
+
+Tipo: `declaracion_personaje`.
+
+Citlali explica que necesitan salir de la ballena que los ha tragado. Archi dice que ha visto el incidente por las cámaras y que sus ayudantes ya están reparando el barco. Calcula que tardarán unas veinticuatro horas.
+
+Es el plazo que da Archi, no una reparación terminada.
+
+## [51-090 · Citlali reconoce el Ojo por el dolor que le causa](../capitulos/51.md) · 03:17:51.399
+
+Tipo: `hecho_confirmado`.
+
+En cuanto Archi enseña la esfera, Citlali cae de rodillas, se agarra la cabeza y vuelve a sentir dolor y desesperación. Identifica al maldito Ojo y le piden a Archi que lo oculte. El inventor accede.
+
+Coincide la exposición con el dolor. La causa precisa y el alcance del poder del objeto siguen abiertos.
+
+## [51-093 · Sir Poncelot queda diminuto](../capitulos/51.md) · 03:21:42.840
+
+Tipo: `hecho_confirmado`.
+
+Tras una tirada de Constitución fallida, Sir Poncelot queda diminuto durante diez minutos. El cambio de tamaño lo deja al cuidado de Citlali mientras los demás se ocupan del trato con Archi.
+
+No se ve todavía la recuperación del tamaño normal en la despedida.
+
+## [51-096 · La visitante no reconoce a Citlali](../capitulos/51.md) · 03:24:49.479
+
+Tipo: `hecho_confirmado`.
+
+Citlali cuida al diminuto Poncelot cuando ve a la anciana. Le reclama la hierba que dice que le debe y le enseña una de sus chocolatinas para refrescarle la memoria. La anciana pregunta a quién se la ha robado: recuerda a la mujer que las prepara como alguien mucho más vieja.
+
+La deuda es una reclamación de Citlali. El desacuerdo no explica por sí solo por qué no la reconoce.
+
+## [51-097 · La anciana se lleva la chocolatina](../capitulos/51.md) · 03:26:01.040
+
+Tipo: `hecho_confirmado`.
+
+La visitante sigue la chocolatina con la mirada, empieza a chuparla y dice que le servirá para entretenerse un rato. Vuelve al ascensor, acciona la palanca y se marcha hacia arriba.
+
+
+
+## [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120
+
+Tipo: `hecho_confirmado`.
+
+Archi e Ione se retiran a los camarotes. Citlali se queda acariciando a Sir Poncelot hasta que recobre su tamaño; Naór, intrigada por el oso que no se mueve, termina gruñéndole a la alfombra. Así se cierra la sesión dentro de la ballena.
+
+La sesión termina antes de mostrar la reparación, la salida de la ballena o el destino posterior del Ojo.

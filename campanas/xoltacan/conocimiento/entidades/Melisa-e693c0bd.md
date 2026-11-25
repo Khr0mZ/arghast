@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-004](../capitulos/14.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una mención en los negocios de la posada
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Patata busca vender jade; no logra entender los gestos del herrero y consulta a Liz. Ella compara la pureza, piensa revender por ochenta/noventa y ofrece treinta y cinco, luego cincuenta. Acuerdan cincuenta monedas de oro y un servicio futuro de una noche con Melisa y Juana. Hablan de la granja y de un posible suministro de comida; Liz lo remite a Bonnie.
 
 No encuentro íntimo consumado ni suministro de granja. Cien era valor indicado previo, cincuenta es transacción real; propuesta inicial no sumar.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-015](../capitulos/45.md), [45-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Ayuda respiratoria y una confesión
 
@@ -131,4 +131,3 @@ Tipo: `hecho_confirmado`.
 Triel pregunta si debe golpear a esos seres o si son de Perlasal. Se aclara que la guía sirénida permanece junto al agua porque en tierra tendría que arrastrarse y el grupo le confirma que los atacantes no son sus amigos. Triel los apuñala y el director confirma que uno muere.
 
 La guía aliada y los defensores hostiles son identidades distintas. Preguntar si son de Perlasal no identifica a todos los seres marinos como habitantes del mismo pueblo.
-

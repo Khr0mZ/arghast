@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El gruñido junto al rito
 
@@ -99,4 +99,3 @@ Tipo: `hecho_confirmado`.
 Tortas vuelve a atacar. Tras corregir una primera lectura errónea de crítico, sus brazos astrales se juntan en uno bajo un aura azul y hunden el rostro del enemigo contra el suelo. El director confirma que lo mata. Tortas arranca después un fragmento de la cara y sigue golpeando el cadáver, quejándose por el caparazón.
 
 El trofeo se describe primero como oreja y después como parte de la boca; no fijar una pieza anatómica más precisa. La queja no acredita que haya reparado ya el caparazón.
-

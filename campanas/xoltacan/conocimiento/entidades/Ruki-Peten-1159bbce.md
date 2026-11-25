@@ -12,7 +12,7 @@ Base para revisar equivalencia: [10-009](../capitulos/10.md), [11-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El pantano de la búsqueda de Pix
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 Naór dejó Cuicapalli para intentar llegar a Iktan por su misión diplomática, pero el director la sitúa demasiado al norte, en el pantano. Ella cree ir por el camino correcto, confunde una sombra acuática con un pez, se lanza al agua y lucha contra un cocodrilo. Los otros cuatro viajeros se acercan, también desorientados hacia el norte.
 
 El destino deseado no equivale a una llegada efectiva. Su error no permite situar Iktan en este lugar.
-

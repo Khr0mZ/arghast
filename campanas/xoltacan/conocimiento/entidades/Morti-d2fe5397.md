@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-004](../capitulos/35.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Negociar pociones antes de Aurora
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Nox vende una antitoxina y una poción de salud al alquimista Morti/Mortis por setenta y cinco monedas en total, tras negociar otras ofertas. Compra una armadura de cuero tachonado por treinta en vez de cuarenta y cinco, alegando un falso impuesto de Bonnie. El director confirma Armin como nombre del herrero, frente a Pit usado por los jugadores. Un intento posterior de robo falla y Nox recibe un objeto sin valor.
 
 El engaño de Nox no confirma un impuesto real del diez por ciento.
-

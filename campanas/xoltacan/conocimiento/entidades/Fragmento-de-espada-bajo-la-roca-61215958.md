@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-003](../capitulos/40.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un hallazgo de Cipo
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Con sombrero de explorador, Cipo busca bajo una roca. Ilikar la sostiene parcialmente y el elemental extrae una pieza de espada rota, mientras otro filo queda clavado debajo. Leona aparece, reconoce a Cipo y lo acaricia pese a quemarse ligeramente. Cipo imita la figura del goliat para comunicarse. Al saber que Ilikar está perdido, Leona lo conduce a Iktan y el elemental los acompaña.
 
 No se establece propietario, antigüedad ni función del arma. No identificar el fragmento con otra espada del catálogo.
-

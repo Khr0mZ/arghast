@@ -1,5 +1,9 @@
 # Organizaciones y facciones
 
+## Los autómatas de Archi
+
+En el salón de la ballena, las figuras mecánicas sirven bebidas, limpian y ponen música. Cuando Archi pide la primera canción a R53, cuatro de ellas cambian sus utensilios por armas. La réplica de Calista protege a sus compañeras y deja deliberadamente fuera a la de Danifae. Tras el combate, Ione propone asumir sus labores durante el tiempo que lleve arreglar el Zampaolas. [La última prueba y el trato](capitulos/51.md).
+
 ## La defensa de Iktan y los contactos de los clanes
 
 Walulu explica que ha hecho regresar a guardias del contorno desde el intento de envenenamiento durante el festival. Quiere ayudar a Cuicapalli y consultar a Naór tras la pérdida del árbol. A solas con Tortas enumera a los dirigentes con quienes la enviada ya ha hablado. El relato distingue esa lista de contactos de la asistencia efectiva al concilio. [Capítulo 50](capitulos/50.md).

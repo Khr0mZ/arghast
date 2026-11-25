@@ -12,7 +12,7 @@ Base para revisar equivalencia: [21-007](../capitulos/21.md), [21-012](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Del cuello del niño a la boca del lobo
 
@@ -45,4 +45,3 @@ Tipo: `explicacion_director`.
 Blink limita las opciones del enemigo con magia. El chat cura doce puntos a todos. Zarial se cura y utiliza escudo de fe, aunque después pierde la concentración. Naór introduce el collar de plata en la boca del lobo grande y utiliza Acción súbita. Él tose y sigue combatiendo. Zarial lo mata con un crítico y smite. La carne alrededor del collar aparece ennegrecida. El director explica que la plata aumentaba el daño de las armas, pero es el golpe de treinta y cuatro puntos el que lo mata.
 
 No es el mismo efecto que el del collar serpiente, ni demuestra una eficacia universal de la plata contra los nawals. El collar no lo mata por asfixia.
-

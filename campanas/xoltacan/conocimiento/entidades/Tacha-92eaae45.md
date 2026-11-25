@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-014](../capitulos/16.md), [16-021](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El tabernero que alimenta a Cuicapalli
 
@@ -177,4 +177,3 @@ Tipo: `hecho_confirmado`.
 Leona toma una bebida mientras espera, prueba la carne que prepara Tlachka y pide más picante. Moja su porción en la salsa más fuerte disponible y supera la tirada de constitución para soportar el picor. Dice que está buena y continúa comiendo, aunque pide todavía más salsa.
 
 La tirada se refiere al picante añadido. Su éxito no demuestra inmunidad a venenos ni que el plato sea inocuo a largo plazo.
-

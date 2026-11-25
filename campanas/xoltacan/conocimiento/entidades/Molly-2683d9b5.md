@@ -8,11 +8,11 @@ Molly/Moli es la capitana de Marina. Distinta de la sirena Marina.
 
 Etiquetas agrupadas: Molly (capitana de Marina); Molly (capitana de la Marina); Molly / Moli (capitana de Marina, grafía provisional).
 
-Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md), [48-006](../capitulos/48.md), [48-017](../capitulos/48.md), [49-011](../capitulos/49.md), [49-012](../capitulos/49.md), [49-013](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-016](../capitulos/49.md), [49-017](../capitulos/49.md), [49-018](../capitulos/49.md), [49-020](../capitulos/49.md), [49-024](../capitulos/49.md), [49-025](../capitulos/49.md), [49-044](../capitulos/49.md), [49-051](../capitulos/49.md), [49-058](../capitulos/49.md), [49-064](../capitulos/49.md), [49-079](../capitulos/49.md), [49-080](../capitulos/49.md), [49-088](../capitulos/49.md), [49-089](../capitulos/49.md), [49-091](../capitulos/49.md), [49-095](../capitulos/49.md), [49-099](../capitulos/49.md), [49-103](../capitulos/49.md), [49-113](../capitulos/49.md).
+Base para revisar equivalencia: [05-008](../capitulos/05.md), [05-009](../capitulos/05.md), [23-001](../capitulos/23.md), [42-006](../capitulos/42.md), [42-011](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-015](../capitulos/43.md), [43-016](../capitulos/43.md), [43-020](../capitulos/43.md), [43-023](../capitulos/43.md), [43-026](../capitulos/43.md), [43-028](../capitulos/43.md), [43-029](../capitulos/43.md), [43-035](../capitulos/43.md), [43-041](../capitulos/43.md), [43-048](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-059](../capitulos/43.md), [48-006](../capitulos/48.md), [48-017](../capitulos/48.md), [49-011](../capitulos/49.md), [49-012](../capitulos/49.md), [49-013](../capitulos/49.md), [49-014](../capitulos/49.md), [49-015](../capitulos/49.md), [49-016](../capitulos/49.md), [49-017](../capitulos/49.md), [49-018](../capitulos/49.md), [49-020](../capitulos/49.md), [49-024](../capitulos/49.md), [49-025](../capitulos/49.md), [49-044](../capitulos/49.md), [49-051](../capitulos/49.md), [49-058](../capitulos/49.md), [49-064](../capitulos/49.md), [49-079](../capitulos/49.md), [49-080](../capitulos/49.md), [49-088](../capitulos/49.md), [49-089](../capitulos/49.md), [49-091](../capitulos/49.md), [49-095](../capitulos/49.md), [49-099](../capitulos/49.md), [49-103](../capitulos/49.md), [49-113](../capitulos/49.md), [51-007](../capitulos/51.md), [51-015](../capitulos/51.md), [51-089](../capitulos/51.md), [51-094](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una capitana con vínculos en ambos bandos
 
@@ -91,6 +91,12 @@ Fuentes: [49-079 · Molly recuerda el ojo encontrado con Bonny](../capitulos/49.
 Al terminar, Molly detiene a Eleanor y le recuerda que había insistido en que Erandy no era una niña. Observa que la escudera está menos herida y propone que pueda cuidar de su señora. Después sale con el grupo y con la información que Patata conserva.
 
 Fuentes: [49-103 · Molly cuestiona que Eleanor siga tratando a Erandy como una niña](../capitulos/49.md) · 02:20:27.680 · [49-113 · Los papeles salen del templo en manos de Patata](../capitulos/49.md) · 02:31:18.160.
+
+### Recordar un segundo Ojo
+
+Un recuerdo de Molly permite a la compañía actuar sobre la interpretación de la profecía: Nox le había enseñado otra esfera. De ahí que sus compañeros vuelvan a por el Zampaolas y busquen en los restos de la batalla. El relato conserva por separado el Ojo que ya guardaba Molly y el que llevaba Nox.
+
+Fuentes: [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880 · [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-089 · Entre varias esferas aparece la que lleva un ojo](../capitulos/51.md) · 03:17:08.520 · [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199.
 
 ## Registros y evidencias
 
@@ -854,3 +860,10 @@ Los compañeros discuten todavía sobre la posibilidad de que se levanten más m
 
 Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
 
+## [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880
+
+Tipo: `explicacion_director`.
+
+Al recapitular la investigación del templo, el director recuerda que Poncelot extrajo de la profecía la pista de los dos Ojos. Molly recordaba haber visto uno en manos de Nox. Para seguir esa pista la expedición necesita recuperar el Zampaolas.
+
+El viaje al templo y la interpretación posterior se recapitulan juntos. Poncelot contribuyó a la interpretación; este pasaje no lo sitúa entre los expedicionarios del templo.

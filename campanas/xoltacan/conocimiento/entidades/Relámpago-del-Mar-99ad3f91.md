@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-015](../capitulos/42.md), [42-018](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La nave de Bonnie entre rayos
 
@@ -121,4 +121,3 @@ Tipo: `hecho_confirmado`.
 El Zampaolas abandona el combate. Bonnie permanece con los barcos piratas supervivientes en el Relámpago del Mar, que ha perdido sus destellos eléctricos y su carga mágica. Los cuatro buques recién llegados rodean su nave y tienden pasarelas para que suban sus dirigentes.
 
 Perder el poder ligado a la moneda no vuelve pequeño al barco ni explica su construcción original. No se representa una batalla nueva con los cuatro dirigentes.
-

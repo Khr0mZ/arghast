@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-006](../capitulos/33.md), [33-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Buscar refugio sin desear siempre lo mismo
 
@@ -45,4 +45,3 @@ Tipo: `hecho_confirmado`.
 Axi observa mediante el pájaro, pero lo descubren y lo llevan atado como ofrenda. Nox pide especias para distraer a los caníbales y libera y carga a Poncelot. Un hipopótamo despierta al gnomo con una bofetada. Nox presenta a los aliados como servidores de Ione. La brújula apunta a Shiaru cuando desea ron.
 
 Nox no se convierte en un alma invisible: la voz posterior corresponde a Eleanor. La brújula responde al deseo declarado, no a un norte fijo.
-

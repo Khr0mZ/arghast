@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-004](../capitulos/31.md), [31-005](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una historiadora que quiere conocer la isla
 
@@ -1281,4 +1281,3 @@ Tipo: `declaracion_personaje`.
 Tryel tranquiliza a Oghma asegurándole que el dragón del bosque busca únicamente a su hermano y a ella. Cuando Tortas vuelve y le pregunta de dónde sale la advertencia, responde que se lo dijo Tesara, a quien describe por su pelo azul y por el disparo que hizo a Eldrath.
 
 Información transmitida por Tryel: el dragón no se presenta en este encuentro.
-

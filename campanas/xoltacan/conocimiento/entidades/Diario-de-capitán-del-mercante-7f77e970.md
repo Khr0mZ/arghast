@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-015](../capitulos/14.md), [14-016](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La desesperación escrita antes de la maldición
 
@@ -43,4 +43,3 @@ Tipo: `hecho_confirmado`.
 Blink ve a un espectro llorando en una cama con un relicario, entre huesos y cuerpos cercenados. Al hacer ruido reconoce la cara de la mujer del bote y de la hija del cuadro. Ella guarda el relicario en un cofre y lo cierra, pregunta quién es y dice que no puede salir porque su padre, el capitán, lo prohíbe y teme a los marineros. Pide hablar con él para obtener su permiso y vuelve a peinarse. Blink se reúne con sus compañeros y les comunica la información del diario y los objetos.
 
 Mismo rostro observado no explica cómo mujer del puerto pudo salir o si era otra manifestación. No parentesco, autor de restos o liberación de hija confirmados aquí.
-

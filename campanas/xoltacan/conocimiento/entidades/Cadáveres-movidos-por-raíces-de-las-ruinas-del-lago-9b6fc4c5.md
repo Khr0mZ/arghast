@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-022](../capitulos/47.md), [47-026](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Raíces, salpicaduras y un aura de veneno
 
@@ -257,4 +257,3 @@ Tipo: `hecho_confirmado`.
 Patata golpea primero con el arma espiritual. La criatura supera una salvación y queda a un punto de vida. Su siguiente ofensiva acaba con ella: la masa se dispersa en cuerpos que caen por el suelo. El director confirma que todos esos cadáveres están totalmente inertes y que las raíces se retiran hacia la tierra. La presencia que Tesara sigue permanece oculta; un intento de localizarla a ella no tiene éxito.
 
 La destrucción de la masa y la retirada de las raíces no prueban la muerte del dragón o el final de su influencia. No se certifica visión verdadera: el director rechaza que esa sea la explicación de la búsqueda de Tesara.
-

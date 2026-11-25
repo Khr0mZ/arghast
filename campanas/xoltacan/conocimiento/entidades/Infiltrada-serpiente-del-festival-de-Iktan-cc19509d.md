@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-011](../capitulos/41.md), [41-012](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La falsa celebrante
 
@@ -123,4 +123,3 @@ Tipo: `hecho_confirmado`.
 La prisionera advierte que alguien a quien solo llama «ella» ya viene y que impedirá que descubran lo que buscan. Revela que hay dos sacerdotes serpiente al norte de la roca y comienza a mencionar dos grandes abominaciones. Entonces vomita numerosas serpientes, cae muerta y los reptiles huyen hacia la jungla. Walulu apremia a Tenta a ayudar al grupo. Las amenazas y el número de enemigos son declaraciones de la cautiva; su muerte y la salida de serpientes son observadas.
 
 No identificar a «ella» ni afirmar que la prisionera escape transformada en serpientes. No queda demostrada la causa exacta de la muerte. Su frase se corta en «dos grandes abomina» y el informe posterior transmite ese mismo corte.
-

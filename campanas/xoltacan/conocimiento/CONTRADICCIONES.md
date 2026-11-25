@@ -399,3 +399,5 @@ Discrepancias, correcciones y cautelas editoriales fechadas por episodio. No tod
 - Cap. 50: El director recuerda la invisibilidad del dragón. El regreso sin avistamiento no garantiza que el dragón haya abandonado la zona. ([ficha](capitulos/50.md)).
 - Cap. 50: La regente de Perlasal es Ivet; «Antonia» es la ocurrencia momentánea de la mesa al intentar recordarla. ([ficha](capitulos/50.md)).
 - Cap. 50: Walulu pide a Tortas acompañar a la invitada; el reparto final sitúa a Oghma con Tryel y a Tortas hablando aparte con Walulu. ([ficha](capitulos/50.md)).
+- Cap. 51: La voz de la máquina le resulta familiar a Poncelot. El parecido con la voz de la cinta no demuestra que sean la misma persona. ([ficha](capitulos/51.md)).
+- Cap. 51: Archi pensó que la esfera serviría como fuente de energía. Su suposición y el dolor que sufre Citlali al verla no determinan qué hace el Ojo. ([ficha](capitulos/51.md)).

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [19-014](../capitulos/19.md), [25-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una presencia que cabe dentro de una fruta
 
@@ -137,4 +137,3 @@ Tipo: `hecho_confirmado`.
 Nox entrega una poción de Arwen a Ione y la cura. Blink, invisible, deja en la sala la fruta podrida que contiene el collar y sale. Al soltarlo, el objeto se vuelve visible. El director aclara que Nox no reconoce el collar abandonado: solo podría ver una fruta caer y después está de espaldas. Las pequeñas serpientes devoran los cuerpos y se acumulan para formar una criatura enorme.
 
 Blink abandona el collar, sin destruirlo, purificarlo o entregarlo voluntariamente al anfitrión. Ella y la audiencia conocen su ubicación; no se establece el conocimiento de los demás.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una ciudad bajo el agua que teme a la superficie
 
@@ -255,4 +255,3 @@ Tipo: `declaracion_personaje`.
 Según lo que Naór le ha contado, Walulu enumera a Eromov de Cuicapalli, a Ivet de Perlasal y a los dos soberanos de los hombres lagarto. Para estos últimos el subtítulo da «Rockshak y Erceg».
 
 Los dos nombres son aproximaciones fonéticas sin grafía ni asignación individual seguras. El «Antonia» improvisado al recordar a Ivet no es otra gobernante. Haber hablado no equivale a aceptar el concilio.
-

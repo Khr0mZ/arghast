@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-007](../capitulos/40.md), [40-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El protector abandona la piedra
 
@@ -1217,4 +1217,3 @@ Tipo: `hecho_confirmado`.
 La última escena abandona la mesa de Angelique. En el lago cercano a Iktan, Chopito y Tentacol vuelven a meterse en el agua. En la zona que había destrozado un antiguo dragón, Tortas sube a su roca y medita sobre su próximo entrenamiento. Con esas dos imágenes se despide la sesión.
 
 La imagen no bautiza el lago, no identifica al dragón antiguo ni atribuye un nuevo poder a la roca.
-

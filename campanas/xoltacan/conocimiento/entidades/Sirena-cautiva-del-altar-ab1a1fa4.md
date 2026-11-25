@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Atada sobre el islote
 
@@ -75,4 +75,3 @@ Tipo: `hecho_confirmado`.
 Los compañeros salen de la caverna y se reúnen con la otra sirena que esperaba fuera. Ambas agradecen la ayuda y los guían nadando hasta Perlasal, un valle submarino de corales coloridos y construcciones de coral. Los soldados los paran con recelo, pero un gesto de las sirenas permite el paso.
 
 El rescate concluye con la salida y llegada a la población, pero no se muestra la curación de la cola. La acompañante que espera fuera no recibe nombre en este tramo.
-

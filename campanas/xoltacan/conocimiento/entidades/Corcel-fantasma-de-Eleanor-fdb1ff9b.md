@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-035](../capitulos/49.md), [49-038](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un explorador que recibe el primer ataque
 
@@ -43,4 +43,3 @@ Tipo: `hecho_confirmado`.
 Mientras el grupo examina las vasijas, el corcel relincha. Una criatura extraña de aspecto serpentino y perruno avanza, se yergue sobre dos patas y salta para golpearlo con zarpazos. El director aclara que es una criatura, no una trampa, y pide iniciativa.
 
 Primer ataque observado. Este bloque no resuelve el combate, no determina el número total de enemigos ni identifica una especie de bestiario o la desaparición del corcel.
-

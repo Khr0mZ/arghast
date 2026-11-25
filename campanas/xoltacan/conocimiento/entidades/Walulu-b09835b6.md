@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-023](../capitulos/31.md), [31-024](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La heredera que protege los caminos ocultos
 
@@ -612,3 +612,10 @@ Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón
 
 La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
 
+## [51-006 · Naór hubiera preferido quedarse en tierra](../capitulos/51.md) · 00:03:37.519
+
+Tipo: `declaracion_personaje`.
+
+Naór explica que desconoce a Nox y que intentó obtener de Walulu una excusa para evitar otra salida al agua. Más tarde dirá en cubierta que acompañó a la expedición por Citlali.
+
+Su motivo para embarcar se explicita cuando Naór ve a Citlali subir de vigía.

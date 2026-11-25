@@ -2,17 +2,17 @@
 
 Menciones documentadas por capítulo y minuto. La etiqueta no garantiza grafía oficial; véanse limitaciones y nombres dudosos de cada episodio.
 
-Ojo brillante de la serpiente convertido en objeto de estudio y custodiado en Shiaru.
+Ojo de la serpiente que recuperó Nox, que llevaba en la chaqueta en el Invictus y que Archi entrega después a la tripulación de Ione.
 
 Objeto retirado por Nox, entregado a Bonnie y estudiado después. No fusiona ilusión de ojo ni entidades de las visiones.
 
 Etiquetas agrupadas: Ojo-orbe de serpiente (recuperado28); Ojo / esfera custodiada por Bonnie.
 
-Base para revisar equivalencia: [28-013](../capitulos/28.md), [28-019](../capitulos/28.md), [37-005](../capitulos/37.md), [37-017](../capitulos/37.md), [42-061](../capitulos/42.md).
+Base para revisar equivalencia: [28-013](../capitulos/28.md), [28-019](../capitulos/28.md), [37-005](../capitulos/37.md), [37-017](../capitulos/37.md), [42-061](../capitulos/42.md), [51-003](../capitulos/51.md), [51-007](../capitulos/51.md), [51-015](../capitulos/51.md), [51-022](../capitulos/51.md), [51-088](../capitulos/51.md), [51-089](../capitulos/51.md), [51-090](../capitulos/51.md), [51-091](../capitulos/51.md), [51-094](../capitulos/51.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un ojo arrancado durante la huida
 
@@ -31,6 +31,12 @@ Fuentes: [28-019 · Orbe entregado y visiones enviadas a Bonnie](../capitulos/28
 Cuando va a escapar del Invictus, Nox nota los tatuajes de su espalda y encuentra el orbe con ojo de serpiente en su chaqueta. A continuación abandona el cabo y corre para detener a Tórtola. No se manifiesta una función del objeto ni se acredita una fuga provocada por él.
 
 Fuentes: [42-061 · Los tatuajes y el orbe preceden a la decisión de Nox de quedarse](../capitulos/42.md) · 01:58:47.960.
+
+### El hallazgo de Archi
+
+El recuerdo de Molly y la indicación de Erandy llevan al Zampaolas hacia los pecios donde se perdió Nox. Ione había pensado bajar a buscarlos con cascos de inmersión. En cambio, acaba describiéndole la esfera al dueño de una ballena que recoge objetos de esas aguas. Entre varias piezas que va sacando Archi aparece un orbe con un ojo. Citlali se agarra la cabeza y cae de rodillas al verlo. Archi dice que lo había tomado por una fuente de energía y accede a ocultarlo. Tras pactar con Ione el trabajo que harán mientras reparan la nave, entrega el Ojo a la expedición.
+
+Fuentes: [51-003 · Un proyecto para descender hasta Nox](../capitulos/51.md) · 00:01:34.640 · [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880 · [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-022 · Los restos son de los dos bandos](../capitulos/51.md) · 00:38:47.079 · [51-088 · Archi recorre las aguas en busca de hallazgos](../capitulos/51.md) · 03:16:31.040 · [51-089 · Entre varias esferas aparece la que lleva un ojo](../capitulos/51.md) · 03:17:08.520 · [51-090 · Citlali reconoce el Ojo por el dolor que le causa](../capitulos/51.md) · 03:17:51.399 · [51-091 · Archi pide algo a cambio del Ojo](../capitulos/51.md) · 03:18:39.920 · [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199.
 
 ## Registros y evidencias
 
@@ -98,3 +104,66 @@ Nox mira alternativamente la cuerda, el mar y el Zampaolas. Nota los tatuajes de
 
 La proximidad temporal no prueba que el orbe o los tatuajes lo dominen, lo protejan o le permitan escapar. Su efecto concreto queda sin explicar.
 
+## [51-003 · Un proyecto para descender hasta Nox](../capitulos/51.md) · 00:01:34.640
+
+Tipo: `declaracion_personaje`.
+
+Ione pide a los trillizos que la acompañen. Imagina cascos de barril con un conducto hasta la superficie, para que quienes desciendan puedan respirar, verse y hablar mientras buscan el Ojo que llevaba Nox.
+
+Es el diseño que les encarga; todavía nadie lo ha probado bajo el agua.
+
+## [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880
+
+Tipo: `explicacion_director`.
+
+Al recapitular la investigación del templo, el director recuerda que Poncelot extrajo de la profecía la pista de los dos Ojos. Molly recordaba haber visto uno en manos de Nox. Para seguir esa pista la expedición necesita recuperar el Zampaolas.
+
+El viaje al templo y la interpretación posterior se recapitulan juntos. Poncelot contribuyó a la interpretación; este pasaje no lo sitúa entre los expedicionarios del templo.
+
+## [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080
+
+Tipo: `hecho_confirmado`.
+
+El agua clara permite distinguir barcos hundidos. La sonrisa de Ione desaparece y Citlali se aferra a la barandilla, dividida ante la posibilidad de encontrar a Nox. Cuando llegan al punto señalado por Erandy para buscar el Ojo, Ione manda recoger las velas y detiene la nave.
+
+Las coordenadas y el método de localización no se vuelven a dar en este pasaje.
+
+## [51-022 · Los restos son de los dos bandos](../capitulos/51.md) · 00:38:47.079
+
+Tipo: `explicacion_director`.
+
+Ione pregunta si reconoce los restos que hay en el estómago. El director distingue maderas tanto de la flota pirata como de la Marina. La posibilidad de que la ballena haya ingerido también lo que buscan les da un segundo motivo para entrar más adentro.
+
+La procedencia de los pecios está confirmada; dentro de este tramo no encuentran ahí el Ojo.
+
+## [51-089 · Entre varias esferas aparece la que lleva un ojo](../capitulos/51.md) · 03:17:08.520
+
+Tipo: `hecho_confirmado`.
+
+Ione pregunta por un cuerpo o una esfera y muestra qué tamaño busca. Archi rebusca entre sus cosas, enseña varias esferas descartadas y por fin saca una con un ojo. Ione cree reconocerla y acaba confirmando que era lo que buscaban.
+
+Archi dice que pensó que servía para energía. La conversación no establece que esa sea su función.
+
+## [51-090 · Citlali reconoce el Ojo por el dolor que le causa](../capitulos/51.md) · 03:17:51.399
+
+Tipo: `hecho_confirmado`.
+
+En cuanto Archi enseña la esfera, Citlali cae de rodillas, se agarra la cabeza y vuelve a sentir dolor y desesperación. Identifica al maldito Ojo y le piden a Archi que lo oculte. El inventor accede.
+
+Coincide la exposición con el dolor. La causa precisa y el alcance del poder del objeto siguen abiertos.
+
+## [51-091 · Archi pide algo a cambio del Ojo](../capitulos/51.md) · 03:18:39.920
+
+Tipo: `hecho_confirmado`.
+
+Magullada después de la pelea, Ione confirma que buscaban ese objeto. Cuando Archi pregunta qué le darán a cambio, ella le ofrece hacer entre todos el trabajo de las autómatas durante el día que durará la reparación.
+
+La moneda de cambio ofrecida es trabajo durante la espera.
+
+## [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199
+
+Tipo: `hecho_confirmado`.
+
+Acordadas las condiciones del trabajo y mientras se disponen a marcharse hacia el ascensor, Archi entrega el orbe. La tripulación ha recuperado el objeto que buscaba antes de que el barco esté listo para salir.
+
+La línea enuncia la entrega, pero no precisa dónde lo guardan después. No se recupera un cuerpo en esta escena.

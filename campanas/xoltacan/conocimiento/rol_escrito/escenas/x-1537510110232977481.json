@@ -45,7 +45,7 @@
   "intervalo": {
     "anterior": 51,
     "siguiente": 52,
-    "anterior_catalogado": false,
+    "anterior_catalogado": true,
     "siguiente_catalogado": false,
     "anterior_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304",
     "siguiente_fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1537533079118155877",
@@ -57,10 +57,10 @@
         "capitulo": 51,
         "fecha": "2026-08-09",
         "inicio_referencia_utc": "2026-08-09T19:15:40+00:00",
-        "fin_estimado_utc": null,
-        "duracion_video_segundos": null,
-        "tipo_referencia": "tarjeta_twitch_sin_video",
-        "catalogado": false,
+        "fin_estimado_utc": "2026-08-09T22:43:43+00:00",
+        "duracion_video_segundos": 12483,
+        "tipo_referencia": "tarjeta_twitch",
+        "catalogado": true,
         "fuente": "https://discord.com/channels/946724148628041748/946724149131378707/1536091712404066304"
       },
       {

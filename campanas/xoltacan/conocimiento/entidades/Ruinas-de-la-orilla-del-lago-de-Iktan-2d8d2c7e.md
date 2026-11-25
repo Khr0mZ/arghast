@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-008](../capitulos/47.md), [47-009](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un lugar de estudio que oculta cadáveres
 
@@ -139,4 +139,3 @@ Tipo: `hecho_confirmado`.
 Tesara utiliza la bendición disponible en una nueva percepción y encuentra otro hueco entre los árboles semejante al anterior. Comprende que la presencia está ahora enfrente de ella, pero ya ha gastado su acción en buscarla. Decide retroceder despacio y vuelve a tirar sigilo por haberse movido.
 
 La posición se deduce otra vez por vegetación desplazada; no se obtiene visión directa. Su nueva tirada de sigilo no demuestra por sí sola que el perseguidor haya dejado de poder detectarla.
-

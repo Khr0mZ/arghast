@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-008](../capitulos/42.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una custodia para el final de la batalla
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Jack reconoce que antes pertenecía a la Marina y teme no ser un buen pirata al combatir contra ella. Ione le promete que saldrá vivo mientras permanezca en su barco y participe a su lado. Le entrega su gorro de capitana para que lo guarde y le pide que se lo devuelva al terminar. Sonríe para animarlo aunque también siente miedo.
 
 La promesa no demuestra la supervivencia posterior de Jack. Jacki se vincula al Jack exmarine ya catalogado por el nombre, su pasado y su pertenencia a la misma tripulación.
-

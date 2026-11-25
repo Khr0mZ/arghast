@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-040](../capitulos/49.md), [49-041](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Ataques, protección y curación
 
@@ -371,4 +371,3 @@ Tipo: `hecho_confirmado`.
 Eleanor decide asegurar el golpe mediante Guided Strike. El ataque impacta y el director describe que rompe la cabeza esquelética de la abominación: cae inerte al suelo.
 
 La caída de esta criatura no demuestra la destrucción de todos los no muertos del templo ni la supresión de su fuente de animación.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-036](../capitulos/49.md), [49-037](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Cenizas que no exigen encender una ceremonia
 
@@ -37,4 +37,3 @@ Tipo: `explicacion_director`.
 Los viajeros consideran encender las cenizas, como si fueran velas o antorchas, y hablan de finales y renacimientos. Erandy consulta su conocimiento religioso y el director identifica las vasijas como funerarias: no tiene por qué tratarse de un ritual.
 
 La identificación funeraria está confirmada. El sentido de la ceniza y la idea de encenderla son especulación; no se nombra al difunto ni a una deidad concreta.
-

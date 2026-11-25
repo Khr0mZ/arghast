@@ -12,7 +12,7 @@ Base para revisar equivalencia: [12-009](../capitulos/12.md), [33-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Del mar a un campamento caníbal
 
@@ -29,4 +29,3 @@ Tipo: `declaracion_personaje`.
 Jack dice que Fuerte Aurora estaba casi terminado cuando él llegó, con pocos muros y cosas pendientes, y hacían expediciones más arriba. Nox teme el avance de los marines, cree que Molly dirige el fuerte y busca a Mingo, Mango y a un tercer compañero no identificado. Cree que siguen vivos pero no sabe si están presos, con una tribu o muertos por dinosaurios.
 
 No inspección actual del fuerte ni Molly vista allí; cargo es creencia de Nox. No identificarlos con captores de Blink por pregunta sola.
-

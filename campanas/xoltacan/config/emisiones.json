@@ -5,13 +5,13 @@
   "fuentes": "config/fuentes_anuncios_discord.json",
   "criterio": "Se cruzan campaña, número y título, con variantes editoriales explícitas. Nunca se emparejan por proximidad de fechas.",
   "resumen": {
-    "capitulos": 50,
+    "capitulos": 51,
     "twitch": {
-      "documentada": 46,
+      "documentada": 47,
       "asumida": 4
     },
     "youtube": {
-      "publicacion_documentada": 29,
+      "publicacion_documentada": 30,
       "solo_aviso": 21
     }
   },
@@ -1311,6 +1311,32 @@
         "archivo_metadatos": "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.info.json",
         "sha256_metadatos": "dfd0cab92a953660917bd465c10c2ca830e47372a7b8f7d4ab0806899eed6156",
         "publicacion_reportada_utc": "2026-11-22T10:00:29+00:00"
+      }
+    },
+    "51": {
+      "video_id": "nNsgxNdReFk",
+      "twitch": {
+        "estado": "documentada",
+        "fecha": "2026-08-09",
+        "fuentes": [
+          "1536091712404066304"
+        ],
+        "criterio": "campana_numero_y_titulo",
+        "nota": "La tarjeta conservada identifica campaña, capítulo y título; no fija el comienzo exacto del rol.",
+        "variantes": null,
+        "fechas_candidatas": [
+          "2026-08-09"
+        ]
+      },
+      "youtube": {
+        "estado": "publicacion_documentada",
+        "fecha": "2026-11-24",
+        "fecha_aviso": null,
+        "fuentes": [],
+        "origen_fecha": "metadatos_youtube",
+        "archivo_metadatos": "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.info.json",
+        "sha256_metadatos": "d87259fd3197cd149315c2a572a633bb634dc9e5c4fefffb57592d4dbb758001",
+        "publicacion_reportada_utc": "2026-11-24T10:00:05+00:00"
       }
     }
   },

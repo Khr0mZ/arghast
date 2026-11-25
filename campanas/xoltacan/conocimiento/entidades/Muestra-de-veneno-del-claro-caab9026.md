@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-026](../capitulos/40.md), [40-035](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### De los restos a manos de Walulu
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Los guardias y vecinos de Iktan se apartan y se arrodillan al ver caminar a Tortas. Walulu dice que llevaba siglos inmóvil y que ni su bisabuela la había visto moverse así. Leona entrega una botella con la muestra recogida y atribuye a ese veneno la infección y conversión en no muertos de las criaturas combatidas. Walulu observa que parece potente y advierte que Iktan no podría detener al dragón si lo provocan y ataca la ciudad.
 
 La conversión en no muertos es la explicación que Leona da a Walulu; no aparece un análisis que pruebe mecanismo o autoría. Los siglos de inmovilidad que refiere Walulu se conservan junto a los 77 años declarados por Tortas, sin resolver la diferencia.
-

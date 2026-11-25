@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "entidades": {
     "Cinco reyes piratas": [
       {
@@ -153,6 +153,15 @@
           "43-055",
           "43-057",
           "43-058"
+        ]
+      },
+      {
+        "titulo": "Maderas de los dos bandos",
+        "texto": "Al buscar los restos de la batalla del arrecife, los expedicionarios encuentran maderas piratas y de la Marina dentro de la ballena. Ese hallazgo explica que pregunten a Archi por objetos y cuerpos recogidos en esas aguas. En la sesión no llegan a identificar cada pieza con el navío del que procedía.",
+        "referencias": [
+          "51-011",
+          "51-022",
+          "51-088"
         ]
       }
     ],
@@ -335,6 +344,20 @@
         "referencias": [
           "49-009"
         ]
+      },
+      {
+        "titulo": "Cascos, guardia y una capitana al timón",
+        "texto": "Ione reúne a los trillizos para que preparen cascos de inmersión comunicados con la superficie. Ya en cubierta, Sir Poncelot ayuda con el metal y las tuberías; uno de los hermanos se da cuenta de que también necesitarán lastre. Tras la sacudida de la ballena, el trillizo ciego enciende los faroles. La capitana deja a los tres a cargo del barco mientras ella, Citlali, Naór y el caballero exploran el interior. Más tarde Ione ofrece a Archi el trabajo de la compañía durante el tiempo que dure la reparación.",
+        "referencias": [
+          "51-002",
+          "51-003",
+          "51-011",
+          "51-013",
+          "51-018",
+          "51-019",
+          "51-091",
+          "51-092"
+        ]
       }
     ],
     "Yuan-ti": [
@@ -439,6 +462,34 @@
         "referencias": [
           "50-004",
           "50-013"
+        ]
+      }
+    ],
+    "Autómatas de la ballena de Archi": [
+      {
+        "titulo": "Servir la mesa, tocar el piano y pelear",
+        "texto": "Al entrar los visitantes, una sirvienta limpia una estantería, otra lleva las bebidas, una descansa en un diván y otra trabaja junto a la barra. Cuando aparece Archi, se reúnen para atenderlo. A una indicación suya, R53 interpreta la primera canción y las cuatro réplicas pasan a combatir. Incluso entonces el servicio sigue formando parte de sus órdenes: en mitad de la batalla, el megáfono hace que dos se pongan a fregar el ascensor y las tuberías.",
+        "referencias": [
+          "51-056",
+          "51-057",
+          "51-058",
+          "51-059",
+          "51-063",
+          "51-069"
+        ]
+      },
+      {
+        "titulo": "Las piezas que vuelven a manos del inventor",
+        "texto": "La réplica de Calista protege a las otras salvo a Danifae, y la de Danifae llega a atacar a Calista cuando le falla un sistema. Naór destroza el modelo que fregaba y Archi intenta recomponerlo; acaba junto a la barra en vez de volver a la lucha. Al caer el último rival de la prueba, Archi llama al pianista y junta los restos. Ione querría llevar a una de las combatientes al Zampaolas, pero el inventor se lo impide. Sus ayudantes siguen activos en otras partes de la ballena.",
+        "referencias": [
+          "51-059",
+          "51-064",
+          "51-070",
+          "51-073",
+          "51-083",
+          "51-084",
+          "51-086",
+          "51-087"
         ]
       }
     ]

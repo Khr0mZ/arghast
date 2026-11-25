@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-070](../capitulos/42.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El testimonio que conduce a la isla
 
@@ -29,4 +29,3 @@ Tipo: `declaracion_personaje`.
 Taylor recuerda que Bonnie faltó a las últimas reuniones. Afirma que capturaron un pequeño barco rumbo a Puerto de Espadas y a un joven al que recuerda como Jackie, quien hablaba de una isla con grandes tesoros y grandes piratas. Bonnie responde que leyó su carta y pregunta si ha venido a lo que debía.
 
 Es relato de Taylor, no captura mostrada. No identifica con certeza al cautivo con Jack, el exmarine del Zampaolas; la duda del propio hablante sobre el nombre se conserva.
-

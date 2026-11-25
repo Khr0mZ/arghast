@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-005](../capitulos/03.md), [14-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### Un hada perdida y una libertad recuperada
 
@@ -1891,4 +1891,3 @@ Tipo: `hecho_confirmado`.
 Al olfatear a Blink, Tortas percibe un olor familiar que lleva notando muchos años en el bosque. El director lo vincula a la gran serpiente del bosque y confirma después que es olor de dragón verde. Blink cuenta que, tras derrotar a las criaturas, algo les habló en la cabeza y les ordenó dejar las presas; propone que aún conserva un rastro del aura o de la magia usada.
 
 El reconocimiento del olor sí recibe confirmación. La explicación concreta como rastro de un aura es una propuesta de Blink. Esta percepción olfativa por contacto no transforma la percepción del veneno del capítulo 40 en una capacidad general de localizar dragones.
-

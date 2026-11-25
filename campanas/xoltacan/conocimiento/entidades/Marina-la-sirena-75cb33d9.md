@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-015](../capitulos/06.md), [06-025](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una liberación que conduce a una trampa
 
@@ -93,4 +93,3 @@ Tipo: `hecho_confirmado`.
 Ione ata el tiburón muerto a una columna. Una sirena se le acerca y acaricia la mejilla; tras la salvación fallida, Ione aumenta de tamaño, rompe la ropa, desarrolla pelo y garras y vuelve a forma de lobo. La sirena se asusta.
 
 El personaje explica la transformación por excitación y caricia; se registra la secuencia sin afirmar que el contacto transmitió la licantropía.
-

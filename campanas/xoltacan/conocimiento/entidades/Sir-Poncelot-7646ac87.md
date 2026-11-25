@@ -8,11 +8,11 @@ Mismo gnomo. Sus distintas monturas numeradas se conservan separadas.
 
 Etiquetas agrupadas: Sir Poncelot; Sir Poncelot (grafía confirmada por jugador).
 
-Base para revisar equivalencia: [03-008](../capitulos/03.md), [11-004](../capitulos/11.md), [42-001](../capitulos/42.md), [42-004](../capitulos/42.md), [42-009](../capitulos/42.md), [42-010](../capitulos/42.md), [42-013](../capitulos/42.md), [42-014](../capitulos/42.md), [42-025](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-049](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md).
+Base para revisar equivalencia: [03-008](../capitulos/03.md), [11-004](../capitulos/11.md), [42-001](../capitulos/42.md), [42-004](../capitulos/42.md), [42-009](../capitulos/42.md), [42-010](../capitulos/42.md), [42-013](../capitulos/42.md), [42-014](../capitulos/42.md), [42-025](../capitulos/42.md), [42-029](../capitulos/42.md), [42-036](../capitulos/42.md), [42-044](../capitulos/42.md), [42-045](../capitulos/42.md), [42-049](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [42-067](../capitulos/42.md), [46-053](../capitulos/46.md), [46-057](../capitulos/46.md), [51-001](../capitulos/51.md), [51-013](../capitulos/51.md), [51-020](../capitulos/51.md), [51-026](../capitulos/51.md), [51-028](../capitulos/51.md), [51-033](../capitulos/51.md), [51-035](../capitulos/51.md), [51-042](../capitulos/51.md), [51-043](../capitulos/51.md), [51-061](../capitulos/51.md), [51-064](../capitulos/51.md), [51-069](../capitulos/51.md), [51-071](../capitulos/51.md), [51-075](../capitulos/51.md), [51-079](../capitulos/51.md), [51-085](../capitulos/51.md), [51-092](../capitulos/51.md), [51-093](../capitulos/51.md), [51-098](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### Un caballero y muchas Merlucillas
 
@@ -67,6 +67,18 @@ Fuentes: [42-049 · Sir Poncelot asume las órdenes mientras Ione está indispue
 Sir Poncelot está entre los compañeros que Ione y Eleanor encuentran en la taberna de Iktan. Angelique lo aparta de la barra para sentarse a beber y cortejar a Zoltan.
 
 Fuentes: [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../capitulos/46.md) · 01:56:01.320 · [46-057 · Zoltan toma una cerveza y Angelique lo corteja](../capitulos/46.md) · 02:03:44.679.
+
+### El caballero que usó el coco
+
+Poncelot se presenta a los habitantes del lugar como hiciera en Shiaru. Cuando encuentra de nuevo el Zampaolas trabaja en las piezas de los cascos de inmersión y logra calmar con comida a su tigre tras el naufragio en el estómago de la ballena. Merlucilla IV no cabe por la puerta metálica, así que el caballero sigue a pie. Le cuesta varios golpes encontrar paso entre las losas, pero consigue tender su lanza para las demás. Ante el campeón del ring investiga la boca y palpa el cojín. Solo cuando vuelve al suelo repara en la calavera que puede colocarse sobre él.
+
+Fuentes: [51-001 · El caballero se presenta en un nuevo reino](../capitulos/51.md) · 00:00:19.840 · [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639 · [51-020 · Merlucilla IV se deja convencer con comida](../capitulos/51.md) · 00:35:00.440 · [51-026 · El tigre vuelve al barco](../capitulos/51.md) · 00:45:30.240 · [51-028 · Una caída devuelve al caballero al comienzo](../capitulos/51.md) · 00:54:01.319 · [51-033 · El puño mecánico cede ante el escudo](../capitulos/51.md) · 01:06:49.640 · [51-035 · Una lanza para cruzar las baldosas](../capitulos/51.md) · 01:10:40.640 · [51-042 · La boca abierta contiene un cojín](../capitulos/51.md) · 01:23:10.239 · [51-043 · Sir Poncelot entrega la cabeza correcta](../capitulos/51.md) · 01:24:22.920.
+
+### Del escudo al cuidado de Citlali
+
+Sir Poncelot se pone entre las autómatas y Citlali. Marca a Danifae para dificultarle los ataques contra otros, aunque termina paralizado por una de sus dagas. Bajo la orden de limpiar silba esperando que Merlucilla venga en su ayuda; al recobrar el movimiento, todavía flotando en el salón, busca un ángulo que le permita lanzar la jabalina sin cruzarse con Naór. Acabada la prueba, el bastón de Archi lo alcanza y el gnomo se declara vivo. Más tarde protesta al ver el uniforme que ofrecen a su capitana. Un cambio de tamaño lo deja diminuto y acaba la jornada en manos de Citlali.
+
+Fuentes: [51-061 · La capa de Poncelot no atemoriza a los robots](../capitulos/51.md) · 02:05:28.920 · [51-064 · Danifae falla contra su aliada y paraliza al caballero](../capitulos/51.md) · 02:12:13.679 · [51-069 · El megáfono interrumpe el combate con una orden de limpieza](../capitulos/51.md) · 02:23:11.680 · [51-071 · Poncelot silba mientras friega](../capitulos/51.md) · 02:30:43.840 · [51-075 · Poncelot busca un ángulo para su jabalina](../capitulos/51.md) · 02:40:45.000 · [51-079 · Otra máquina cae y dos expedicionarios quedan en peligro](../capitulos/51.md) · 02:54:12.239 · [51-085 · Archi reconoce la destreza de los visitantes](../capitulos/51.md) · 03:13:40.239 · [51-092 · Ione acepta trabajar con el uniforme de las autómatas](../capitulos/51.md) · 03:20:55.920 · [51-093 · Sir Poncelot queda diminuto](../capitulos/51.md) · 03:21:42.840 · [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120.
 
 ## Registros y evidencias
 
@@ -1982,3 +1994,410 @@ Zoltan pide una cerveza en la taberna. La encargada felina le pregunta por el di
 
 Se vincula la presentación con Angelique de la taberna de Iktan, manteniendo la grafía provisional. Princesa forma parte del coqueteo y no demuestra un título nobiliario. El comentario comparativo con Coyote no significa que este participe en la escena.
 
+## [51-001 · El caballero se presenta en un nuevo reino](../capitulos/51.md) · 00:00:19.840
+
+Tipo: `declaracion_personaje`.
+
+Sir Poncelot dedica los días previos a recorrer la ciudad y presentarse a sus habitantes. Quiere volver a ganarse un nombre, como había hecho en Shiaru.
+
+El caballero habla de lo que aspira a hacer por el reino.
+
+## [51-007 · Molly recordó el Ojo que Nox le había enseñado](../capitulos/51.md) · 00:04:38.880
+
+Tipo: `explicacion_director`.
+
+Al recapitular la investigación del templo, el director recuerda que Poncelot extrajo de la profecía la pista de los dos Ojos. Molly recordaba haber visto uno en manos de Nox. Para seguir esa pista la expedición necesita recuperar el Zampaolas.
+
+El viaje al templo y la interpretación posterior se recapitulan juntos. Poncelot contribuyó a la interpretación; este pasaje no lo sitúa entre los expedicionarios del templo.
+
+## [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800
+
+Tipo: `explicacion_director`.
+
+La expedición prueba primero al sur, corrige al norte y vuelve a perderse. Un rodeo la lleva a Fuerte Aurora; cuando Poncelot confía el rastro a su montura, acaban otra vez en Iktan. Pierden otra semana antes de regresar a la costa.
+
+El director habla de varias semanas en total y precisa una semana adicional por el regreso a Iktan.
+
+## [51-010 · El mástil asoma entre los árboles](../capitulos/51.md) · 00:07:23.199
+
+Tipo: `explicacion_director`.
+
+Un mástil divisado por casualidad pone fin a la búsqueda. El Zampaolas sigue atracado en la costa. La expedición despeja los seres con aspecto de pez que intentan abordarlo y consigue volver a hacerse a la mar.
+
+El director cree recordar que Poncelot divisó el mástil. Las figuras de aspecto de pez quedan sin identificar.
+
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot ayuda con sus conocimientos de herrería, las tuberías y el metal de armas sobrantes; pueden hacer falta piezas y remaches. Un trillizo señala que necesitarán lastre para descender. Poncelot reorienta a quien estaba martillando en dirección equivocada.
+
+Su trabajo continúa cuando se aproxima el barco al arrecife.
+
+## [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320
+
+Tipo: `hecho_confirmado`.
+
+La sombra rebasa la silueta de la nave. Ione se descuelga a cubierta, ordena dar vela y vuelve al timón. Como el barco estaba parado, apenas consigue arrancar antes de que una boca en forma de V se cierre en torno a él. La ballena se hunde llevándose barco y ocupantes.
+
+La alusión de la mesa a un kraken precede a la descripción explícita de la ballena.
+
+## [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880
+
+Tipo: `hecho_confirmado`.
+
+La tripulación rueda entre golpes y crujidos hasta que el Zampaolas se detiene. Sir Poncelot y Naór alcanzan a orientarse en la penumbra. El trillizo ciego enciende los faroles y aparecen a la vista el casco encajado, los maderos flotantes y las paredes de carne; a intervalos les llega un olor ácido.
+
+
+
+## [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840
+
+Tipo: `hecho_confirmado`.
+
+Mientras unos se levantan tras la caída y la capitana ayuda a Poncelot con los cabos de los que cuelga, los trillizos terminan de encender las luces. Naór salta sobre el suelo blando; Ione echa una cuerda para los siguientes y deja a los trillizos al cuidado del barco mientras salen los cuatro a buscar una salida.
+
+
+
+## [51-020 · Merlucilla IV se deja convencer con comida](../capitulos/51.md) · 00:35:00.440
+
+Tipo: `hecho_confirmado`.
+
+Antes de salir, Poncelot baja a buscar a su tigre. Merlucilla IV sigue pegada al techo, asustada tras las sacudidas. La llama y reparte pedacitos de sus raciones para que se calme y lo acompañe.
+
+La mesa bromea sobre la muerte de la cuarta Merlucilla; la escena muestra al tigre vivo.
+
+## [51-024 · Bajo la carne aparece una puerta atornillada](../capitulos/51.md) · 00:41:41.599
+
+Tipo: `hecho_confirmado`.
+
+El camino aparentemente libre acaba en una pared de carne. Poncelot hunde la lanza y la punta golpea algo metálico. A instancias de Ione, Naór salta desde el lomo del tigre y retira carne a hachazos; con cada golpe sienten moverse al animal. Detrás aparecen un muro y una puerta metálicos, con tornillos y una manivela semejante a un tubo.
+
+
+
+## [51-025 · Una habitación iluminada por cristales azules](../capitulos/51.md) · 00:44:16.800
+
+Tipo: `explicacion_director`.
+
+Ione abre la puerta. A diferencia del suelo blando que han dejado atrás, la sala tiene paredes y suelo de metal. Cristales azules atornillados dan luz, las tuberías recorren las paredes y por las rejillas se escapa vapor; oyen maquinaria en marcha. Ione intenta llevarse uno de los cristales y acaba dejándolo en su sitio.
+
+Se desconoce lo que transportan las tuberías. Los acompañantes identifican las luces como cristales lumínicos.
+
+## [51-026 · El tigre vuelve al barco](../capitulos/51.md) · 00:45:30.240
+
+Tipo: `hecho_confirmado`.
+
+Merlucilla IV queda atrapada al intentar franquear la puerta estrecha. Poncelot desiste de empujar, manda al tigre de vuelta a la nave de Ione y entra sin montura. Rechaza por cuestión de honor la oferta de montar sobre Naór.
+
+La dirección de regreso se da en el diálogo; no se representa su llegada a cubierta.
+
+## [51-027 · La palanca da la bienvenida a las grandes pruebas](../capitulos/51.md) · 00:48:42.880
+
+Tipo: `hecho_confirmado`.
+
+La puerta siguiente carece de picaporte. Poncelot pide a la capitana que espere, examina la palanca lateral y se resguarda tras su escudo antes de bajarla. Suenan los engranajes, cede un enorme cierre y del techo bajan confeti y un cartel: la primera de las grandes pruebas se llama «el camino del guardián». La puerta se abre.
+
+El cartel nombra la prueba. Su autor y el propósito de las pruebas no se identifican en ese momento.
+
+## [51-028 · Una caída devuelve al caballero al comienzo](../capitulos/51.md) · 00:54:01.319
+
+Tipo: `hecho_confirmado`.
+
+Poncelot se adelanta con el escudo en alto. Tras sentir cómo algo le roza la cabeza, pisa un mecanismo y rebota por un tubo hasta caer de vuelta en la primera sala. Ione piensa en las ilusiones de Nox al verlo reaparecer detrás de ella; él le explica que lo ha devuelto una trampa.
+
+
+
+## [51-029 · La lanza descubre las losas de presión](../capitulos/51.md) · 00:56:47.119
+
+Tipo: `hecho_confirmado`.
+
+Al segundo intento, Poncelot va tocando el suelo con la lanza y detecta una baldosa que cede. Avisa a las demás, pero al intentar un salto de pértiga se desliza hasta la losa. Esta vez un palo sale de la pared y le golpea la cabeza. Ione salva el paso apoyándose en la pared.
+
+
+
+## [51-030 · Ione desmonta al ratón mecánico](../capitulos/51.md) · 00:59:54.960
+
+Tipo: `hecho_confirmado`.
+
+Una segunda losa del mismo color también se hunde. Poncelot resbala y la activa al caer. La figura con cuerpo de ratón y cola de mono que sale dando una patada pasa por encima del gnomo tendido. Ione detiene el golpe y la estrella contra el suelo: saltan las piezas del autómata.
+
+
+
+## [51-031 · Una nube amarilla cruza el pasillo](../capitulos/51.md) · 01:02:19.520
+
+Tipo: `hecho_confirmado`.
+
+Ya reconocen el rojo de las losas peligrosas. Esta vez el gnomo pide que se agachen y aprieta una con la lanza a distancia. Tras oír un silbido, ven pasar una nube amarilla por encima de sus cabezas. Poncelot se decide a pisar después; Ione continúa apoyándose en la pared.
+
+No se explica qué habría hecho la nube en contacto con alguien.
+
+## [51-033 · El puño mecánico cede ante el escudo](../capitulos/51.md) · 01:06:49.640
+
+Tipo: `hecho_confirmado`.
+
+Poncelot tiende la lanza entre dos losas seguras y avanza sobre ella. A medio camino se comba y presiona la baldosa que pretendía salvar. Sale de la pared un puño que se clava en el escudo; el caballero aguanta el embate y el mecanismo acaba en el suelo entre tornillos.
+
+El bloque termina con Poncelot en el suelo aferrado al escudo; la primera prueba continúa.
+
+## [51-034 · La capitana también responde por su caballero](../capitulos/51.md) · 01:09:49.920
+
+Tipo: `declaracion_personaje`.
+
+Ione le recuerda a Sir Poncelot que forma parte de su tripulación y que ella también tiene el deber de cuidarlo. Aunque sus compañeras le señalan que está activando las trampas, él insiste en que su escudo irá por delante mientras pueda sostenerse en pie.
+
+
+
+## [51-035 · Una lanza para cruzar las baldosas](../capitulos/51.md) · 01:10:40.640
+
+Tipo: `hecho_confirmado`.
+
+Dos trampas ya han saltado. Poncelot recupera su escudo y su lanza y tiende esta última para que las compañeras puedan sujetarse al franquear las baldosas. Repite la maniobra después de salvar otra esquina.
+
+
+
+## [51-036 · Los puños de mono salen hacia un lado](../capitulos/51.md) · 01:12:21.520
+
+Tipo: `hecho_confirmado`.
+
+Ante la siguiente baldosa, Poncelot rechaza el relevo de Ione, se agacha y la golpea. De la pared salen puños de mono en otra dirección, y el grupo puede seguir.
+
+El caballero propone agacharse y activar las baldosas; solo queda comprobado el comportamiento de esta trampa.
+
+## [51-037 · El confeti anuncia el Camino del Dragón](../capitulos/51.md) · 01:13:30.480
+
+Tipo: `hecho_confirmado`.
+
+Al pisar la última baldosa, Sir Poncelot oye un clic y retrocede sobresaltado por la explosión de confeti. Un letrero da por superado el Camino del Dragón. Tras la puerta, entre humo y tuberías, les espera un ring con una estatua en el centro.
+
+
+
+## [51-039 · La salida exige superar la prueba del campeón](../capitulos/51.md) · 01:16:09.199
+
+Tipo: `hecho_confirmado`.
+
+Mientras sus compañeras juegan, Citlali se acerca a Sir Poncelot. El caballero recuerda autómatas peligrosos de sus novelas e intenta encontrar una salida que evite despertarlos. Al tocar la puerta, un aviso anuncia que deben terminar la prueba del campeón.
+
+
+
+## [51-040 · El campeón pide que usen el coco](../capitulos/51.md) · 01:19:05.000
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot examina la estatua de un enorme semiorco con la boca abierta. En el pedestal lee que para ganar hay que usar el coco. Pregunta a sus compañeras si llevan uno entre las provisiones y Citlali mira en su bolsa sin encontrarlo.
+
+
+
+## [51-042 · La boca abierta contiene un cojín](../capitulos/51.md) · 01:23:10.239
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot trepa lo suficiente para explorar con la mano la boca de la estatua. Busca un botón, pero encuentra una cavidad corta y acolchada, con un cojín vacío. Al bajar, ve en el suelo una calavera.
+
+
+
+## [51-043 · Sir Poncelot entrega la cabeza correcta](../capitulos/51.md) · 01:24:22.920
+
+Tipo: `hecho_confirmado`.
+
+Poncelot recoge la calavera y la coloca en el cojín. La estatua cierra la boca, posa como campeona y vuelve a hablar de usar el coco. Un nuevo cartel confirma la victoria y la puerta se abre. El caballero se cae de nuevo del sobresalto.
+
+
+
+## [51-045 · Citlali aparta a Poncelot de la cinta](../capitulos/51.md) · 01:27:09.360
+
+Tipo: `hecho_confirmado`.
+
+Una escena íntima de Serafina y Guxi atrae la atención de Ione y Naór. Citlali tapa los ojos de Poncelot, lo lleva a una esquina y le pide que mire a la pared con los oídos tapados. Para que pueda seguir protegiéndolas, acuerdan que le tocará el hombro cuando lo necesite.
+
+Serafina y Guxi aparecen en una grabación. Poncelot interpreta lo poco que entiende como una tortura.
+
+## [51-047 · Ione guarda el proyector y la cinta sigue sonando](../capitulos/51.md) · 01:31:08.159
+
+Tipo: `hecho_confirmado`.
+
+Ione promete a Citlali que meterá el proyector en su mochila para que se deje de ver. Obtiene su permiso y cumple; el aparato sigue reproduciendo el sonido porque no sabe apagarlo. Citlali toca el hombro del caballero para que pueda volverse.
+
+
+
+## [51-049 · Un botón rojo pone en marcha el primer panel](../capitulos/51.md) · 01:34:59.199
+
+Tipo: `hecho_confirmado`.
+
+Poncelot investiga la maquinaria con la esperanza de que su experiencia le sirva. Descubre el botón rojo que indica «arrancar». Al pulsarlo se enciende la pantalla, que muestra figuras geométricas antes de iluminar los botones. La primera combinación errónea produce un aviso y un soplo que le pasa sobre la cabeza.
+
+El texto automático no aclara qué sale de la máquina; el caballero habla de una corriente de aire.
+
+## [51-050 · Cuatro símbolos llevan el vapor al segundo panel](../capitulos/51.md) · 01:36:35.239
+
+Tipo: `hecho_confirmado`.
+
+Poncelot pide a Naór que pulse el botón mientras él observa la pantalla. Esta vez reproduce círculo, triángulo, rombo y cuadrado. Los engranajes se mueven, sale vapor y la tubería conduce el movimiento hasta otro panel.
+
+
+
+## [51-051 · El dorso de un mapa ayuda a recordar ocho figuras](../capitulos/51.md) · 01:37:53.360
+
+Tipo: `hecho_confirmado`.
+
+El segundo panel muestra ocho símbolos demasiado rápidos para una sola mirada. Proponen repartirlos y repetir la secuencia; Ione da la vuelta a un mapa viejo y usa la pluma de cartógrafa para dibujarlos. Al introducir los ocho, gira una rueda y el vapor alcanza un ventilador con un panel táctil.
+
+El mapa sirve de papel. No se identifica con ningún mapa concreto del catálogo.
+
+## [51-052 · Doce figuras hacen girar el ventilador](../capitulos/51.md) · 01:41:57.199
+
+Tipo: `hecho_confirmado`.
+
+El tercer panel exige una secuencia de doce figuras. Tras varios intentos en los que unos retienen el principio y otros el final, el grupo consigue introducirla. El ventilador arranca, impulsa aire hacia arriba y enciende la siguiente pantalla.
+
+
+
+## [51-053 · Los cuatro se reparten la secuencia final](../capitulos/51.md) · 01:45:24.320
+
+Tipo: `hecho_confirmado`.
+
+La última secuencia tiene dieciséis posiciones. Ione, Naór, Citlali y Sir Poncelot se responsabilizan en ese orden de cuatro figuras por cabeza. La máquina se ilumina entera, aparece un cartel de felicitación y una grabación repite que de aprendiz a maestro se pasa repitiendo. Se abre la puerta.
+
+
+
+## [51-054 · Poncelot cree reconocer una voz](../capitulos/51.md) · 01:48:43.639
+
+Tipo: `declaracion_personaje`.
+
+Poncelot le pregunta a Ione si la voz de la prueba se parece a la del hombre de la cinta. Ione lo considera posible y le ofrece verla luego en el barco. Él sigue pensando en rescatar a alguien que pudiera estar en peligro.
+
+La conversación no permite dar por identificado al locutor de la prueba.
+
+## [51-055 · Los cuadros del pasillo acaban a cuestas](../capitulos/51.md) · 01:49:33.000
+
+Tipo: `hecho_confirmado`.
+
+Tras el taller encuentran un pasillo metálico con retratos de desnudos. En la mesa de juego se reconocen, entre otros, May, Calista, Serafina y Kazuki disfrazado. Hay quien quiere decorar su camarote e Ione ata y recoge cuadros hasta ir sobrecargada. Citlali guía a Poncelot cubriéndole los ojos.
+
+El director precisa que el reconocimiento de las figuras corresponde a los jugadores. La transcripción no permite fijar el nombre del disfraz ni el de uno de los retratos.
+
+## [51-056 · Los servidores del salón se vuelven hacia el grupo](../capitulos/51.md) · 01:52:32.480
+
+Tipo: `hecho_confirmado`.
+
+Citlali abre las puertas de un salón con sofás rosados, alfombra de oso, comida, barra y estantes. Allí trabajan o descansan cuatro figuras mecánicas: dos con apariencia de drow, una con rasgos de conejo y otra con aspecto de tritón. Una de las drow lleva bebidas y presenta un tic en la cara.
+
+La primera figura drow se oye como «palazar» y después «Palacia». Su apariencia y la variante oída en el combate apuntan a Palayer, nombre de grafía provisional. Las cuatro son máquinas.
+
+## [51-061 · La capa de Poncelot no atemoriza a los robots](../capitulos/51.md) · 02:05:28.920
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot protege a Citlali con el escudo y la espada y despliega su capa de sierpe roja con un grito. Los robots son inmunes al miedo y Naór resiste el efecto. El caballero concentra entonces su atención en Danifae y la marca para dificultarle atacar a otras personas.
+
+El nombre «Titania» que usa el caballero en diálogo no introduce a una quinta integrante del grupo.
+
+## [51-063 · Archi acciona las cuchillas de la ballena](../capitulos/51.md) · 02:10:29.880
+
+Tipo: `hecho_confirmado`.
+
+Al ver atacados a sus «ángeles», Archi teclea en el mando. De las rejillas del suelo salen cuchillas que alcanzan al grupo. El gnomo pulsa el ascensor, sube a un balcón y se instala allí con una copa de vino mientras continúa la pelea.
+
+
+
+## [51-064 · Danifae falla contra su aliada y paraliza al caballero](../capitulos/51.md) · 02:12:13.679
+
+Tipo: `hecho_confirmado`.
+
+La réplica de Danifae se levanta junto al ascensor, echa chispas por el ojo y sufre un fallo de sistemas. Intenta atacar a la réplica de Calista, pero la marca de Poncelot y la interposición de Naór estorban el golpe. Recupera el control y alcanza al caballero, que cae y queda paralizado tras fallar la salvación.
+
+El ataque contra una aliada coincide con la avería. El director admite considerar una reacción de Poncelot, pero se descarta por estar incapacitado.
+
+## [51-066 · Citlali responde al ataque contra el gnomo](../capitulos/51.md) · 02:17:22.040
+
+Tipo: `hecho_confirmado`.
+
+Citlali apunta a la réplica de Danifae tras verla acuchillar al gnomo. Lanza la alpargata como arma a distancia, acierta el primer golpe y se aproxima.
+
+El parecido de las autómatas con otras personas no traslada el combate a sus modelos.
+
+## [51-069 · El megáfono interrumpe el combate con una orden de limpieza](../capitulos/51.md) · 02:23:11.680
+
+Tipo: `hecho_confirmado`.
+
+Archi saca un megáfono. Sir Poncelot, Naór y las réplicas de Serafina y Danifae obedecen la orden de limpiar; Danifae friega el ascensor y Serafina se aparta para ocuparse de una tubería. Citlali queda libre para levantarse.
+
+
+
+## [51-071 · Poncelot silba mientras friega](../capitulos/51.md) · 02:30:43.840
+
+Tipo: `hecho_confirmado`.
+
+Naór intenta apartar al gnomo, empeñado en seguir fregando. Cuando le preguntan qué hará durante su turno, Sir Poncelot silba a Merlucilla. Confía en que oiga la llamada y acuda a rescatarlo incluso allí dentro.
+
+El rescate imaginado no sucede en este tramo. El número de la montura no se fija a partir del silbido.
+
+## [51-074 · La réplica de Danifae paraliza a Naór](../capitulos/51.md) · 02:35:36.080
+
+Tipo: `hecho_confirmado`.
+
+Sin apoyar los pies en el ascensor, la réplica de Danifae apuñala a Naór. La daga paraliza a la princesa durante un turno. Sir Poncelot recupera la libertad cuando termina su turno de limpieza.
+
+El turno perdido y la duración se aclaran más adelante, mientras siguen flotando.
+
+## [51-075 · Poncelot busca un ángulo para su jabalina](../capitulos/51.md) · 02:40:45.000
+
+Tipo: `hecho_confirmado`.
+
+La falta de gravedad limita el movimiento de Sir Poncelot. Se aparta un poco para no tener a Naór en la línea de tiro, alcanza a la réplica de Danifae con una jabalina y vuelve a marcarla.
+
+
+
+## [51-079 · Otra máquina cae y dos expedicionarios quedan en peligro](../capitulos/51.md) · 02:54:12.239
+
+Tipo: `hecho_confirmado`.
+
+Un autómata cae entre chispas. Las tiradas de muerte de Sir Poncelot e Ione muestran hasta qué punto se ha deteriorado la situación de los expedicionarios. Los robots son inmunes al miedo.
+
+No se reconoce con seguridad el nombre de la segunda máquina caída. Las tiradas no establecen la muerte de ninguno de los dos.
+
+## [51-085 · Archi reconoce la destreza de los visitantes](../capitulos/51.md) · 03:13:40.239
+
+Tipo: `hecho_confirmado`.
+
+Archi se pone las lentes de aumento, reconoce la destreza de sus visitantes y toca al gnomo con un bastón del que asoma una jeringuilla. Sir Poncelot se declara vivo. El anfitrión les invita a sentarse y les pregunta cómo han llegado.
+
+
+
+## [51-092 · Ione acepta trabajar con el uniforme de las autómatas](../capitulos/51.md) · 03:20:55.920
+
+Tipo: `hecho_confirmado`.
+
+Archi abre un baúl y muestra faldas y cofias; una lleva orejitas de coneja. Sir Poncelot saca la espada ante la idea de que su capitana vista así. Ione toma el uniforme y acepta trabajar hasta que reparen el barco. Archi señala las manchas de sangre de la alfombra como primera tarea.
+
+
+
+## [51-093 · Sir Poncelot queda diminuto](../capitulos/51.md) · 03:21:42.840
+
+Tipo: `hecho_confirmado`.
+
+Tras una tirada de Constitución fallida, Sir Poncelot queda diminuto durante diez minutos. El cambio de tamaño lo deja al cuidado de Citlali mientras los demás se ocupan del trato con Archi.
+
+No se ve todavía la recuperación del tamaño normal en la despedida.
+
+## [51-096 · La visitante no reconoce a Citlali](../capitulos/51.md) · 03:24:49.479
+
+Tipo: `hecho_confirmado`.
+
+Citlali cuida al diminuto Poncelot cuando ve a la anciana. Le reclama la hierba que dice que le debe y le enseña una de sus chocolatinas para refrescarle la memoria. La anciana pregunta a quién se la ha robado: recuerda a la mujer que las prepara como alguien mucho más vieja.
+
+La deuda es una reclamación de Citlali. El desacuerdo no explica por sí solo por qué no la reconoce.
+
+## [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120
+
+Tipo: `hecho_confirmado`.
+
+Archi e Ione se retiran a los camarotes. Citlali se queda acariciando a Sir Poncelot hasta que recobre su tamaño; Naór, intrigada por el oso que no se mueve, termina gruñéndole a la alfombra. Así se cierra la sesión dentro de la ballena.
+
+La sesión termina antes de mostrar la reparación, la salida de la ballena o el destino posterior del Ojo.

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [39-016](../capitulos/39.md), [47-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un trato en el bosque
 
@@ -817,4 +817,3 @@ Tipo: `declaracion_personaje`.
 Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón y de los yuan-ti. Walulu baja la cabeza y admite que no lo sabe. Tortas se pone a su disposición desde su roca. Walulu espera que la paz le permita prescindir de esa ayuda, pero teme que los acontecimientos indiquen lo contrario.
 
 La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
-

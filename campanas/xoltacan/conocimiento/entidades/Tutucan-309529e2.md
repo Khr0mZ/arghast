@@ -8,11 +8,11 @@ Entrada documentada en los registros citados.
 
 Etiquetas agrupadas: Tutucan.
 
-Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-016](../capitulos/16.md), [17-011](../capitulos/17.md), [45-077](../capitulos/45.md).
+Base para revisar equivalencia: [16-003](../capitulos/16.md), [16-016](../capitulos/16.md), [17-011](../capitulos/17.md), [45-077](../capitulos/45.md), [51-038](../capitulos/51.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El destino político de una convocatoria
 
@@ -31,6 +31,12 @@ Fuentes: [19-016 · Informe, collar y eruditos de otras ciudades](../capitulos/1
 Naór anuncia en el templo de Perlasal que se ha cantado la canción del concilio y que los dirigentes deben reunirse en Tutucan ante las amenazas compartidas. Ivet recuerda la ruptura producida tras el consejo anterior y solo promete meditar la asistencia. La reunión no se celebra durante esta sesión.
 
 Fuentes: [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040.
+
+### Luchadores con máscara
+
+Naór le cuenta a Ione cómo se celebran en Tutucan las peleas en las que los luchadores enmascarados disputan un cinturón. La invitación de la princesa nace mientras están jugando en un ring muy lejos de allí, dentro de la ballena.
+
+Fuentes: [51-038 · Naór le promete a Ione una visita a la lucha libre](../capitulos/51.md) · 01:15:09.800.
 
 ## Registros y evidencias
 
@@ -138,3 +144,10 @@ Naór anuncia que se ha cantado la canción del concilio y convoca a los lídere
 
 Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
 
+## [51-038 · Naór le promete a Ione una visita a la lucha libre](../capitulos/51.md) · 01:15:09.800
+
+Tipo: `declaracion_personaje`.
+
+Ione y Naór saltan al ring y prueban llaves de lucha por diversión. Naór le habla a la capitana de los luchadores enmascarados de Tutucan y del enorme cinturón que gana el vencedor. Ione, que no ha visto esos combates, le demuestra después la llave que llama «Ionecina».
+
+La promesa de llevarla a ver un combate no equivale a una visita.

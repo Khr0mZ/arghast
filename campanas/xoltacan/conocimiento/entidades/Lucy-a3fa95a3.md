@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-003](../capitulos/05.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La persona a la que Jack quiere regresar
 
@@ -37,4 +37,3 @@ Tipo: `declaracion_personaje`.
 Nox presenta a Jacki como alguien que podrá reunirse con Lucy y propone conseguir una embarcación a Puerto de Espadas para hacer gestiones cobrando a una lista de nombres, ver a Lucy y regresar con dinero para ser libre. El elfo muestra su anillo y apoya la advertencia de que volver como exmarine al fuerte podría costarle la vida; Jack no reconoce el anillo. Jack quiere instrucciones claras y se marcha dudoso.
 
 Lista no leída, barco no conseguido en escena y viaje no iniciado. Sentencia de traidor es advertencia de Nox/elfo, no ley o condena verificada. No libertad actual de Jack.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-029](../capitulos/11.md).
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un símbolo en la mano de Bonnie
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Nox entra solo en la taberna llevando a Pix visible. Bonnie lo mira a los ojos pese a su invisibilidad; los jugadores aluden a visión verdadera, sin habilidad confirmada por nombre. Bonnie lleva un anillo negro con dos espadas cruzadas, identificado verbalmente como Cuchillas Negras. Desata a Pix y busca la moneda mientras los hombres apuntan sus pistolas. Nox muestra una gema y la moneda, la llama reina pirata entre cinco grandes y pide una conversación; bajo la amenaza de la pistola entrega los objetos y consiguen una cita a las nueve en el muelle.
 
 No cita realizada ni contenido futuro. Capacidad de percibir invisibilidad observada, no ficha de Visión verdadera establecida. Moneda y reacción apoyan condición atribuida a Bonnie, sin historia completa de los cinco ni afiliación formal probada solo por anillo.
-

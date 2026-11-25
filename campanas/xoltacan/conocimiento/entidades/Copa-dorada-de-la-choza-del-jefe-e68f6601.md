@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-027](../capitulos/46.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un tesoro distinto del anterior
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Eleanor entra en la choza grande, que parece corresponder al líder. Encuentra una silla semejante a un trono, pieles, calaveras, cuernos, huesos y cofres. Al pisar el suelo nota pieles humanas de textura gelatinosa. Entre los objetos halla una copa de apariencia dorada con inscripciones y joyas. La compara con otra que ya llevaba y el director aclara que son diferentes: esta es un tesoro para vender.
 
 La denominación inicial de copa ritual en la tirada de tesoro no demuestra un efecto mágico o un rito ejecutado. La distinción explícita impide fusionarla con la copa anterior de Eleanor.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-023](../capitulos/41.md), [41-028](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La operación junto a la piedra
 
@@ -123,4 +123,3 @@ Tipo: `hecho_confirmado`.
 La vegetación empieza a moverse como si una criatura grande la atravesara. Una de las abominaciones sale del bosque y se coloca frente al compañero que se había apartado a vigilar. Su aparición confirma al menos una presencia de ese tipo; el bloque termina antes de que se resuelva su acción.
 
 No se han visto todavía dos abominaciones en este bloque. La relación causal entre los siseos y esta llegada es plausible, pero no se explicita aquí.
-

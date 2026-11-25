@@ -12,7 +12,7 @@ Base para revisar equivalencia: [31-020](../capitulos/31.md), [31-022](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Descansar después del bosque
 
@@ -251,4 +251,3 @@ Tipo: `hecho_confirmado`.
 Oghma promete recomendar a Angelique y propone sellar los gastos. Saca el sello que llama del duque de Condemol y estampa varios papeles. Angelique admira el sello y sigue atendiendo a la visitante mientras impide que Tryel entre en la conversación.
 
 Conde y duque alternan en el diálogo y el subtítulo deforma el nombre. Sellar papeles no prueba un título, deuda exigible o pago posterior. El vídeo no describe un anillo ni una letra grabada.
-

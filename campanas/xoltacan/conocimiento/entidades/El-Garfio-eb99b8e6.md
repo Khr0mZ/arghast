@@ -8,11 +8,11 @@ Topónimo costero recurrente. Sus campamentos, excavaciones y fuerte se mantiene
 
 Etiquetas agrupadas: El Garfio; El Garfio (costa); Garfio; Arrecife del Garfio.
 
-Base para revisar equivalencia: [04-001](../capitulos/04.md), [07-010](../capitulos/07.md), [09-014](../capitulos/09.md), [20-007](../capitulos/20.md), [23-004](../capitulos/23.md), [42-017](../capitulos/42.md), [42-021](../capitulos/42.md), [42-026](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-037](../capitulos/42.md), [42-047](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-018](../capitulos/43.md), [43-020](../capitulos/43.md), [43-022](../capitulos/43.md), [43-024](../capitulos/43.md), [43-025](../capitulos/43.md), [43-027](../capitulos/43.md), [43-030](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-044](../capitulos/43.md), [43-051](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-061](../capitulos/43.md).
+Base para revisar equivalencia: [04-001](../capitulos/04.md), [07-010](../capitulos/07.md), [09-014](../capitulos/09.md), [20-007](../capitulos/20.md), [23-004](../capitulos/23.md), [42-017](../capitulos/42.md), [42-021](../capitulos/42.md), [42-026](../capitulos/42.md), [42-033](../capitulos/42.md), [42-034](../capitulos/42.md), [42-037](../capitulos/42.md), [42-047](../capitulos/42.md), [43-005](../capitulos/43.md), [43-010](../capitulos/43.md), [43-014](../capitulos/43.md), [43-016](../capitulos/43.md), [43-018](../capitulos/43.md), [43-020](../capitulos/43.md), [43-022](../capitulos/43.md), [43-024](../capitulos/43.md), [43-025](../capitulos/43.md), [43-027](../capitulos/43.md), [43-030](../capitulos/43.md), [43-033](../capitulos/43.md), [43-035](../capitulos/43.md), [43-044](../capitulos/43.md), [43-051](../capitulos/43.md), [43-055](../capitulos/43.md), [43-058](../capitulos/43.md), [43-061](../capitulos/43.md), [51-011](../capitulos/51.md), [51-015](../capitulos/51.md), [51-016](../capitulos/51.md), [51-017](../capitulos/51.md), [51-022](../capitulos/51.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La costa que da nombre a una ruta
 
@@ -49,6 +49,12 @@ Fuentes: [43-024 · Citlali y Lunaria ven formarse una tormenta sobre el mar](..
 En paralelo al frente naval de la misma batalla, quienes combaten en la jungla del Garfio ven levantarse una columna de fuego entre los barcos de la costa. El combate terrestre continúa hasta que los marines pierden a sus mandos y huyen hacia las trampas de la vegetación. Tras la victoria, Citlali y sus compañeros distinguen al Zampaolas detenido en la costa oriental por encima de los árboles.
 
 Fuentes: [43-044 · La explosión en el mar interrumpe el combate y hace arder los tatuajes de Citlali](../capitulos/43.md) · 01:23:57.280 · [43-051 · Citlali mata al general mientras los marines huyen hacia las trampas](../capitulos/43.md) · 01:41:50.400 · [43-055 · La caída de los generales rompe la resistencia terrestre](../capitulos/43.md) · 01:51:11.920 · [43-058 · Los piratas celebran la victoria y Molly llega herida](../capitulos/43.md) · 01:55:31.560 · [43-061 · Citlali ve el Zampaolas detenido en la costa y trata de alcanzarlo](../capitulos/43.md) · 02:01:24.800.
+
+### Volver a los pecios
+
+Ione reúne a una expedición para buscar lo que llevaba Nox en la batalla. Al llegar a la zona del arrecife que señaló Erandy, la tripulación recoge velas y mira los cascos hundidos a través del agua. La sombra que Citlali observa subir entre los restos pertenece a la ballena de Archi. La búsqueda continúa en su interior, donde se reconocen maderas de ambos bandos.
+
+Fuentes: [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200 · [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080 · [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039 · [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320 · [51-022 · Los restos son de los dos bandos](../capitulos/51.md) · 00:38:47.079.
 
 ## Registros y evidencias
 
@@ -316,3 +322,18 @@ Ione intenta servirse de un mapa al reconocer el punto de partida, pero el direc
 
 El recuerdo vacilante no identifica el documento con el mapa de Poncelot o con otro ya catalogado. No se muestra su contenido ni se demuestra su falsedad.
 
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080
+
+Tipo: `hecho_confirmado`.
+
+El agua clara permite distinguir barcos hundidos. La sonrisa de Ione desaparece y Citlali se aferra a la barandilla, dividida ante la posibilidad de encontrar a Nox. Cuando llegan al punto señalado por Erandy para buscar el Ojo, Ione manda recoger las velas y detiene la nave.
+
+Las coordenadas y el método de localización no se vuelven a dar en este pasaje.

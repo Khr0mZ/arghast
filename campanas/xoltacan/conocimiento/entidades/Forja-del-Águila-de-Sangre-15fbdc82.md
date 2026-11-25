@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-018](../capitulos/16.md), [30-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Equiparse en el interior de la isla
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Eromov indica dónde está la Forja del Águila de Sangre. Winscore encuentra a un herrero tabaxi musculoso. Busca un escudo normal, pero elige uno más uno que le ofrecen por veinte monedas. Tiene quince; vende una obsidiana por cinco y un hacha de coral por dos, reuniendo veintidós. Paga veinte, recibe el escudo y conserva dos monedas. Deja las cabezas y la glándula para la investigación; puede conservar los dientes para venderlos.
 
 Los precios y sus multiplicadores corresponden a lo adjudicado en la mesa; no establecen un valor universal del equipo.
-

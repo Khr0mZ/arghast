@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-021](../capitulos/03.md), [04-017](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El bate con el que Ione evita las palabras
 
@@ -45,4 +45,3 @@ Tipo: `hecho_confirmado`.
 Nox toma un barril de pólvora y va dejando un reguero hacia la armería mientras suben. Un marine los ve; Nox lo atrae fingiendo ayuda para amarrar polizones, lo amenaza con la pistola e Ione lo golpea con Diálogo para aturdirlo. Otros hombres descubren la escena y comienza el enfrentamiento.
 
 El golpe deja al guardia aturdido, sin muerte confirmada. El reguero se representa como precaución o amenaza de Nox, no como fuego ya encendido.
-

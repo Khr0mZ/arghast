@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-017](../capitulos/49.md), [49-020](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El dibujo que los saca de Iktan
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Los cinco se internan en la jungla siguiendo a Molly, pero la portadora del mapa pide ayuda para orientarse. Patata se guía por el cielo y el dibujo, advierte un pequeño desvío y propone un giro a la derecha. Molly acepta que los guíe. Erandy escucha desde el hombro de Eleanor sin detectar un peligro cercano en ese momento.
 
 La orientación procede de una tirada y no proporciona una ruta georreferenciada; no detectar peligro en ese punto no prueba que toda la jungla sea segura.
-

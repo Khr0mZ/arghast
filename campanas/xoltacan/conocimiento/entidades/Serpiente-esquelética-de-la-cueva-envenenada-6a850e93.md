@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-094](../capitulos/48.md), [48-096](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El abrazo que casi vence a Naór
 
@@ -219,4 +219,3 @@ Tipo: `hecho_confirmado`.
 Coyote también vacía su recipiente de agua, pero elige obtener la muestra de la serpiente en vez de acudir a la poza. Utiliza el colmillo que queda después de la extracción de Naór y guarda el veneno en una botellita.
 
 No se equipara químicamente esta muestra a la de las pozas, al veneno del claro o a los viales de los sacerdotes; tampoco se identifica el procedimiento como suficiente para fabricar un remedio.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-065](../capitulos/42.md), [42-069](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La llegada de los otros reyes
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Suben al barco de Bonnie un gran orangután acompañado de monos, una mujer procedente de una tripulación mayoritariamente femenina, un orco con compañeros pequeños verdes y un humano de barba larga. Bonnie saluda a la mujer como Diente de Oro, al orangután como Banana, al orco como Sonriente y al humano como Taylor. La descripción inicial de una pierna de palo del humano se corrige expresamente.
 
 Los nombres son apodos o grafías provisionales. Banana se vincula con Elger Banana por el título, el pabellón de banana y la descripción simiesca del capítulo 6, manteniendo gorila referido frente a orangután observado. La broma sobre un primo de Bucón no prueba parentesco.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-026](../capitulos/08.md), [12-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Plantas, negocios y chocolate
 
@@ -731,4 +731,3 @@ Tipo: `hecho_confirmado`.
 Ante la mirada de los otros tres reyes, Taylor desenfunda una pistola, la coloca en la frente de Bonnie y dispara. La sesión termina en ese momento. En la despedida, el director pide decir adiós a Bonnie, Nox y Pinky y avisa de que la siguiente partida sucederá antes de estos hechos.
 
 La despedida enmarca estas pérdidas, pero el disparo no va seguido de una comprobación médica o escena del cuerpo y Nox no fue encontrado. El aviso temporal no autoriza incorporar conocimientos posteriores a capítulos anteriores.
-

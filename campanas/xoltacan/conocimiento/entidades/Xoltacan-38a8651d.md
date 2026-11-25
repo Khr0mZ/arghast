@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-014](../capitulos/35.md), [36-019](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una isla de pueblos vivos y ruinas disputadas
 
@@ -107,4 +107,3 @@ Tipo: `explicacion_director`.
 Según la explicación histórica del director, el dragón no se interesaba en atacar las pequeñas ciudades que iban construyéndose. Las dejaba crecer, y quien se perdía en la jungla podía convertirse en alimento para él.
 
 No se identifica a víctimas concretas ni se afirma que nunca hubiera atacado una población en toda su existencia; se describe el comportamiento recogido en la información consultada.
-

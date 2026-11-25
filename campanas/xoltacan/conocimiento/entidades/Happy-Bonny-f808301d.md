@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-011](../capitulos/01.md), [11-029](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Happy Bonnie y el precio de Shiaru
 
@@ -1058,3 +1058,10 @@ Patata llama a Molly para preguntarle de dónde sacó el ojo; al principio dice 
 
 La procedencia es testimonio de Molly. La semejanza de templos no los identifica, y este recuerdo no equipara automáticamente su objeto con el ojo llevado por Nox.
 
+## [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359
+
+Tipo: `declaracion_personaje`.
+
+Tras dejar descansar a su tripulación en la taberna, Ione pasa tiempo junto a las ruinas del lago. Traza círculos con la moneda e intenta reproducir lo que hacía Bonny. Por ahora no consigue hacerla funcionar.
+
+En la retrospectiva se oye una localidad como «Siaru». Las ruinas se describen por el lago; su identificación queda abierta.

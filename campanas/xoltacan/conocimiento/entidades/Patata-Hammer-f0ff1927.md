@@ -12,7 +12,7 @@ Base para revisar equivalencia: [16-001](../capitulos/16.md), [16-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un martillo nacido del cultivo
 
@@ -81,4 +81,3 @@ Tipo: `hecho_confirmado`.
 Patata hace aparecer otra arma, descrita en la broma de la mesa como una patata radiante, y trata de atacar con ella y con su martillo habitual. Ambos intentos de esa ronda fallan.
 
 La forma del efecto no constituye una segunda Patata Hammer física ni un objeto de botín nuevo. Los golpes fallidos no anulan los aciertos anteriores.
-

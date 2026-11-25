@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-006](../capitulos/24.md), [29-002](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una deuda de gratitud en la costa
 
@@ -225,4 +225,3 @@ Tipo: `hecho_confirmado`.
 Naór anuncia que se ha cantado la canción del concilio y convoca a los líderes a una reunión en Tutucan frente a las amenazas que afectan a la isla y al mar. Ivet recuerda que la última reunión terminó en separación y lamenta los ataques y abandonos entre pueblos. Tras mirar a su hija y a los suyos, dice que lo meditará, pero advierte que la respuesta de momento es poco favorable por sus problemas locales. Menciona que ha oído que los yuan-ti han vuelto; Naór lo confirma.
 
 Meditar la propuesta no equivale a aceptar la asistencia, enviar tropas o cerrar una alianza. No se fija aquí una nueva fecha del concilio. La mención de los yuan-ti no prueba que sean la misma organización que los Profundos.
-

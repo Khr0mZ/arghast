@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-005](../capitulos/33.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una expedición breve y peligrosa
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 Nox crea una imagen mayor de fuego que inicialmente altera el comportamiento de las plantas. Nox cura a Poncelot. Axi invoca un pájaro espiritual. Una carta da al gnomo furia durante un turno y él utiliza Acción súbita. Eleanor detiene la retirada de una planta mediante Sentinel. Morris huye. Axi mata a la primera planta con una flecha crítica.
 
 El fuego es ilusorio, no un incendio. La furia de la carta dura un turno.
-

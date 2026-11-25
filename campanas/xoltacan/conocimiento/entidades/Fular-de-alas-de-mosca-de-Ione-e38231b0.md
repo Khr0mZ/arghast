@@ -12,7 +12,7 @@ Base para revisar equivalencia: [42-001](../capitulos/42.md), [42-009](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un agradecimiento de Poncelot
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Poncelot agradece a Ione que lo acogiera y lo tratara como uno de los suyos. Le entrega el paquete: un fular descrito por las vetas de alas de mosca y su transparencia. Ione se lo pone como bufanda, le da las gracias y lo abraza, para incomodidad protocolaria del caballero.
 
 La descripción de los subtítulos es vacilante. No se atribuyen propiedades mágicas al fular ni se confirma que el material proceda de Merlucilla III.
-

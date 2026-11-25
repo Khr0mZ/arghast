@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-084](../capitulos/49.md), [49-086](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un fuego que no da calor
 
@@ -37,4 +37,3 @@ Tipo: `explicacion_director`.
 Erandy intenta comprender la llama y el director le propone examinar su magia. Con la ayuda de su guía, reconoce un efecto empleado por magos para mantener llamas encendidas durante muchos años sin calor. Esa magia se ha utilizado repetidamente en el templo.
 
 La identificación concierne a la iluminación. No revela qué ceremonia requería ese color, quién la instaló o el nombre de un conjuro concreto.
-

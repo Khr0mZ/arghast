@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-002](../capitulos/14.md), [15-006](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El pasado de los hermanos en una hoja
 
@@ -51,4 +51,3 @@ Tipo: `hecho_confirmado`.
 Triel, muy herida, se coloca junto a un zombi aturdido, adopta una postura de luchadora y golpea con su espada de escamas. Después mira a Tortas e imita sus técnicas mediante dos patadas. Otro enemigo falla sus dos golpes contra Ilikar. El goliat responde con varios ataques de lanza y hielo, incluido un golpe con el reverso, pero el zombi vuelve a levantarse.
 
 El color azul del nombre de la ficha procede de la identidad del arma ya catalogada; este bloque vuelve a describir las escamas, sin enunciar ese color.
-

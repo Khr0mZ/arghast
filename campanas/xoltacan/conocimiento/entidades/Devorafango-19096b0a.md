@@ -12,7 +12,7 @@ Base para revisar equivalencia: [44-010](../capitulos/44.md), [44-011](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El animal buscado y el ingrediente extraído
 
@@ -213,4 +213,3 @@ Tipo: `hecho_confirmado`.
 Ayoto vuelve para pedir ayuda con el caparazón que quiere convertir en un segundo escudo. Guayacán explica que sabe tratar cuero y criaturas escamosas por su formación de peletero. El director admite una tirada con sus herramientas. Logra extraer piezas, pero el corte no queda perfecto y el trabajo le lleva un rato.
 
 El caparazón es un exoesqueleto, aclarado después por el director; no se convierte en piel convencional. Extraer piezas no significa haber fabricado el escudo.
-

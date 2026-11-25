@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-005](../capitulos/01.md), [08-007](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### Un explorador con un huevo de dragón
 
@@ -953,4 +953,3 @@ Tipo: `declaracion_personaje`.
 Citlali afirma que el huevo pertenece a un dinosaurio cuya madre mataron al defender a una persona atacada. Dice que lo cría para cumplir una promesa. Según la conversación, Merlucilla IV se llevó el cadáver del elfo. Blink utiliza detectar pensamientos mientras recorre el pueblo. Oye al médico pensar en un trozo de huevo y a unos piratas hablar de un huevo enorme.
 
 El apodo Mamá no establece una maternidad literal de Citlali o Blink. Se refiere la retirada del cadáver, sin una escena de entierro.
-

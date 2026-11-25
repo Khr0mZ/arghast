@@ -12,7 +12,7 @@ Base para revisar equivalencia: [19-003](../capitulos/19.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una intervención en Cuicapalli
 
@@ -27,6 +27,3 @@ Fuentes: [19-003 · Investigar muertes de dinosaurios](../capitulos/19.md) · 00
 Tipo: `declaracion_personaje`.
 
 Eromov informa de que han encontrado dinosaurios muertos, sin heridas, junto a una charca y plantea una posible intoxicación. Solicita una investigación y pide que Mamá y Blink enseñen a Leona a no resolverlo todo a golpes. Ellas aceptan. Chalta, un hombre tigre, expulsa a Pinky del local.
-
-
-

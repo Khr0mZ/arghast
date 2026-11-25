@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-003](../capitulos/43.md), [43-059](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una melodía antes de la carrera
 
@@ -43,4 +43,3 @@ Tipo: `declaracion_personaje`.
 Citlali vuelve la mirada hacia la explosión con su rostro rejuvenecido lleno de lágrimas. Saca una caja musical de la falda y dice que Nox se ha ido. Mientras mueve la caja no puede dejar de llorar. Mira a Molly; el director explica que esta comprende la mirada de quien acaba de perder a su hijo. Molly abre los ojos, deja caer el arma y queda inmóvil.
 
 La escena presenta el duelo y la comprensión de Molly; no muestra el cuerpo de Nox ni explica el origen de la caja. Las réplicas sobre que Nox siempre vuelve no anulan ese duelo.
-

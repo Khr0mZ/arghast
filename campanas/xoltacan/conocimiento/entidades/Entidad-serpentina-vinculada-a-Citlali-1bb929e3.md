@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-045](../capitulos/43.md), [43-046](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La orden de matar y el altar encendido
 
@@ -61,4 +61,3 @@ Tipo: `declaracion_personaje`.
 La jugadora de Citlali recuerda una pelea y describe a su personaje seria y dolida, con un rencor creciente. Los siseos vuelven a seducirla y la dejan emocionalmente inestable.
 
 La descripción de su estado interior se ofrece a la mesa. No implica que todos sus compañeros oigan los siseos o conozcan su contenido, ni revela la identidad o el plan completo del interlocutor serpentino.
-

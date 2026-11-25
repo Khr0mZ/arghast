@@ -12,7 +12,7 @@ Base para revisar equivalencia: [10-009](../capitulos/10.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un nombre en una conversación
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Blink se presenta a Patata y aluden a Chimy, mago zanahoria, sin aparición. El elfo no consigue rastrear la salida del mono desde el agua. Los cinco aventureros y el dragoncito suben a la barca; Ayoto rema. Viajan al norte de Shiaru hacia Ruki Peten, zona pantanosa poco profunda donde se puede caminar o navegar.
 
 Sin coordenadas ni distancia exacta. Ayoto está presente antes de llegada de su jugador; no sexto viajero por conectar jugador.
-

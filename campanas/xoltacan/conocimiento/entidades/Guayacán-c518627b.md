@@ -12,7 +12,7 @@ Base para revisar equivalencia: [22-002](../capitulos/22.md), [27-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Linaje, puños y un festival interrumpido
 
@@ -701,4 +701,3 @@ Tipo: `hecho_confirmado`.
 Guayacán entrega a Ayoto las piezas extraídas. Discuten la diferencia entre escamas y caparazón hasta que el director aclara que se trata de un exoesqueleto como el de una gamba. Ayoto agradece la ayuda, propone cortar dedos de la criatura para decorar el escudo como el que ya lleva y se dispone a trasladar el material al herrero. Guayacán le ofrece el brazo al verlo caminar con tanta dificultad; los dos avanzan apoyándose hacia la tienda.
 
 El nuevo escudo sigue siendo un proyecto. No se muestra un encargo aceptado, pago al herrero, acabado o estadística de armadura. El apoyo mutuo no equivale a una curación.
-

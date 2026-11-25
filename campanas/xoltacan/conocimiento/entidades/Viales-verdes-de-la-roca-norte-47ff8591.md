@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-028](../capitulos/41.md), [41-029](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### De la preparación a la recogida
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Chopito sale del frasco, cae sobre las enemigas y les cubre la cara de tinta. Una de las botellas cae, se rompe y derrama el líquido. Winscore ataca con su bastón; otro compañero se lanza sobre una rival y la sujeta contra el suelo, acción atribuida después por el director a Naór. La tinta queda adherida a sus caras y no constituye una oscuridad que impida ver al resto.
 
 Conservar que buscan al menos una prisionera viva. No atribuir daño venenoso a la tinta de Chopito: la resolución la trata como tinta en los ojos.
-

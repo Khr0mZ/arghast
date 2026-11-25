@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-005](../capitulos/33.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El intento de convertirse en pirata
 
@@ -85,4 +85,3 @@ Tipo: `hecho_confirmado`.
 Patata vende su jade a Liz por cincuenta y tres monedas de oro. Luna embellece el suyo con una ilusión y recibe sesenta por el jade y cinco más por la obsidiana. Liz sabe que murió una trabajadora. Poncelot intenta apagar un incendio, pero un ladrón aprovecha para robar botellas y el comerciante culpa al gnomo.
 
 Las cinco monedas corresponden a la obsidiana. El jade no se vende por sesenta y cinco.
-

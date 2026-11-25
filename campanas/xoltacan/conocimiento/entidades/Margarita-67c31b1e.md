@@ -12,7 +12,7 @@ Base para revisar equivalencia: [33-005](../capitulos/33.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La gemela de la que habla Marga
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Nox revisa el equipo con Poncelot, Axi y Eleanor. Se suma Margaret/Marga, una trabajadora que quiere ganar dinero y ser pirata, junto a un pirata llamado después Morris. Jack recibe la instrucción de no llamar capitán a Nox. Ante una reclamación personal de Nox, Marga afirma tener una hermana gemela llamada Margarita.
 
 La existencia de la gemela y la enfermedad comentada no reciben confirmación del narrador ni un diagnóstico.
-

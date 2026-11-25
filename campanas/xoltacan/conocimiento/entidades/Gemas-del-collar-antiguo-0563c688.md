@@ -12,7 +12,7 @@ Base para revisar equivalencia: [04-020](../capitulos/04.md), [04-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un reparto que deja una deuda detrás
 
@@ -115,4 +115,3 @@ Tipo: `explicacion_director`.
 Nox gasta inspiración en colarse al local y robar una gema de Liz. El director permite la acción y primero dice que tiene tres gemas, luego dos porque otra se entregó en una escena entre sesiones y una ahora a Bonnie, y que queda una. Se mantiene el recuento hablado sin conciliación aritmética definitiva. El director cierra confirmando el rescate de los compañeros y del mono y que han destrozado el poblado de hombres lagarto, con consecuencias futuras pendientes.
 
 No asumir tres gemas simultáneamente retenidas ni deuda saldada. Entrega de rol externo solo referencia explícita, sin incorporar conversaciones ausentes. Destrozo no censo de muertos ni exterminio total demostrado.
-

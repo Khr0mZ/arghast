@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-019](../capitulos/14.md), [14-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una pieza entre los objetos del pacto
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Utilizan la llave robada mediante la mano mágica de Blink para abrir el cofre, que solo contiene el relicario y una gema negra. Blink siente magia corrupta parecida en carácter a la de su antiguo hogar; el director dice que no necesariamente tiene la misma causa. Los objetos reunidos hacen brillar la gema y al juntarlos se detienen la tormenta y las olas. La presencia del capitán aparece tras ellos, exige permiso para entrar en la habitación de su hija y ríe al ver la marca y se dispone a atacar.
 
 No misma entidad o origen que problema feérico de Blink por semejanza. No palabras exactas de ritual leído o sacrificio realizado, solo acercamiento de objetos.
-

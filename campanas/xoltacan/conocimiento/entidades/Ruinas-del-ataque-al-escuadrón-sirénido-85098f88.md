@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-019](../capitulos/45.md), [45-020](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El rastro que parte hacia el norte
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 Naór propone olfatear e identificar lo que no encaja y activa su percepción de la magia. En la zona que Tentacol había examinado, el director describe pequeños restos de magia asociados al uso o transporte de armas mágicas. El rastro forma líneas que se alejan hacia el norte.
 
 La percepción mágica y la búsqueda mediante olfato se distinguen en la mesa. El rastro no se atribuye por nombre a Maris, a una cautiva o a un arma vista, ni prueba aún el destino de los secuestrados.
-

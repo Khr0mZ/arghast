@@ -12,7 +12,7 @@ Base para revisar equivalencia: [03-021](../capitulos/03.md), [05-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un marine que quería volver a casa
 
@@ -351,4 +351,3 @@ Tipo: `hecho_confirmado`.
 Sir Poncelot pasa junto a Jack, situado en un cañón, y le transmite la orden de disparar de la capitana. El gnomo se encarama al mascarón, se sujeta con una cuerda y anima a atacar con la lanza alzada. El disparo de Jack alcanza una nave enemiga y la deja muy dañada.
 
 La idea de lanzar al propio Poncelot se plantea como comentario, pero él aclara que por ahora permanece agarrado al mascarón.
-

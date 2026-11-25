@@ -1,22 +1,26 @@
 {
   "version": 1,
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "preguntas": [
     {
       "id": "P49-001",
       "capitulo": 49,
       "indice": 1,
       "pregunta": "¿Para qué sirve el Ojo-orbe de Molly y Bonny y puede observar a quienes lo transportan?",
-      "revisado_hasta": 50,
-      "estado": "pendiente",
-      "respuesta": "Se conoce el relato de su hallazgo y la pista de Walulu hacia un templo. La capacidad de observar es una conjetura de Kilzer y Molly insiste en que no conocen su función. La continuación escrita presenta dos Ojos: Molly conserva uno y Erandi recibe una pista para localizar el otro junto al lugar del Invictus. Poncelot propone que formen una pareja, sin verificar todavía sus poderes o la hipótesis de vigilancia.",
+      "revisado_hasta": 51,
+      "estado": "parcial",
+      "respuesta": "Molly conserva la esfera hallada con Bonny. La expedición del 51 recupera un Ojo distinto, el que Nox había enseñado a Molly. Citlali sufre al verlo. Archi dirá después que su sonar registró una descarga en la zona del hallazgo; no identifica la fuente de esa descarga. En octubre Ione informa a Khir de que, según la chamana, los Ojos sirven para resucitar al dios serpiente. Nox pide contrastar la predicción con la historia de la isla. Hay ya una función atribuida a los dos Ojos; la posibilidad de que el de Molly espíe a quien lo lleva sigue siendo una sospecha de Kilzer.",
       "referencias": [
         "49-012",
         "49-013",
         "49-016",
-        "49-017"
+        "49-017",
+        "51-007",
+        "51-089",
+        "51-090",
+        "51-094"
       ],
-      "pendiente": "La función y riesgos demostrados del objeto, sin asimilarlo al ojo de Nox.",
+      "pendiente": "Comprobar cómo obran los dos Ojos y si el que lleva Molly puede observar a sus portadores.",
       "fuentes_rol": [
         {
           "escena": "x-1535388630367867000",
@@ -45,6 +49,27 @@
           "descripcion": "La luz de Lathander muestra a Erandi el punto de la explosión del Invictus.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535425167864496178",
           "texto_sha256": "ff5e9f3d9aed1ddb298ebad865169b3eff1944d48d78a8b70416875bed96d2ab"
+        },
+        {
+          "escena": "x-1546203784097562654",
+          "mensaje_id": "1546213633502216302",
+          "descripcion": "Archi acudió al detectar energía con el sonar y no puede precisar el lugar.",
+          "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1546213633502216302",
+          "texto_sha256": "7b4f8439558e94ae685eb10e5451e360beea57fdd85d411fe983de764ff39b42"
+        },
+        {
+          "escena": "x-1565057934667415553",
+          "mensaje_id": "1565068483883176017",
+          "descripcion": "Ione refiere a Khir lo que la chamana les dijo sobre los Ojos, el dios serpiente y la clave de Nox.",
+          "url": "https://discord.com/channels/946724148628041748/1562885651844694024/1565068483883176017",
+          "texto_sha256": "b11116291eff678a18f557174beae2235e871b0301e5ae1e287b4929c730117e"
+        },
+        {
+          "escena": "x-1565057934667415553",
+          "mensaje_id": "1565082580418830347",
+          "descripcion": "Nox pide contrastar la predicción con la historia de la isla.",
+          "url": "https://discord.com/channels/946724148628041748/1562885651844694024/1565082580418830347",
+          "texto_sha256": "36e72676b7f5de998aa3d33f99ee4e17c396e038223de3e5a77d3783cdeb65dd"
         }
       ]
     },
@@ -53,7 +78,7 @@
       "capitulo": 49,
       "indice": 2,
       "pregunta": "¿Qué hará Kilzer después de que su casino de Shiaru haya sido destruido?",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "estado": "pendiente",
       "respuesta": "Llega como refugiado a Iktan y se suma a la investigación de Molly. No se reconstruye el local ni se fija un nuevo negocio.",
       "referencias": [
@@ -70,7 +95,7 @@
       "capitulo": 49,
       "indice": 3,
       "pregunta": "¿Qué buscaban dentro de los cuerpos abiertos del templo y quién realizó aquellas autopsias?",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "estado": "pendiente",
       "respuesta": "Los cadáveres tienen órganos retirados, sobre todo ojos, y el director describe una búsqueda en su interior. Los compañeros plantean hipótesis, entre ellas un cuerpo o un rito, sin verificarlas.",
       "referencias": [
@@ -87,7 +112,7 @@
       "capitulo": 49,
       "indice": 4,
       "pregunta": "¿Qué relación guarda el templo actual con el que Molly y Bonny visitaron al llegar a la isla?",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "estado": "pendiente",
       "respuesta": "Molly los considera muy parecidos y recuerda inscripciones semejantes. La comparación no identifica ambos lugares ni demuestra una cronología completa de sus ocupantes.",
       "referencias": [
@@ -101,7 +126,7 @@
       "capitulo": 49,
       "indice": 5,
       "pregunta": "¿Quién o qué anima a los no muertos del templo y quedan más amenazas después de la salida?",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "estado": "pendiente",
       "respuesta": "Los huesos se convierten en serpientes sin un animador visible. Eleanor destruye la abominación y el grupo abandona el lugar con los papeles.",
       "referencias": [
@@ -117,15 +142,19 @@
       "capitulo": 49,
       "indice": 6,
       "pregunta": "¿A quién y a qué hechos se refieren el fuego divino, el negro velo, los ojos de la serpiente, el amo dormido y la última muda?",
-      "revisado_hasta": 50,
-      "estado": "pendiente",
-      "respuesta": "Patata y Erandy comprenden una inscripción que enlaza esos signos con un sendero olvidado y un gran santuario. La traducción los conserva en su memoria, sin identificar cada alusión. En el rol posterior Poncelot plantea el Sol, un eclipse, dos esferas y la posible llegada de una presencia. Es una interpretación del caballero; la visión de Erandi orienta la búsqueda de un Ojo, sin identificar al Amo Dormido ni localizar el santuario.",
+      "revisado_hasta": 51,
+      "estado": "parcial",
+      "respuesta": "La inscripción habla de un sendero olvidado y un gran santuario. Poncelot relacionó sus imágenes con el Sol, un eclipse, dos esferas y una presencia por venir; la visión escrita de Erandy indicó dónde buscar. El 51 confirma que el grupo encuentra el segundo Ojo. En octubre Ione le cuenta a Khir que la chamana vincula los Ojos con la resurrección del dios serpiente y atribuye a Nox la clave para vencerlo. Nox replica que necesitarán a todos y pide medios para contrastar la predicción; Khir le indica que consulte al Clan Kaan. Sigue abierta la correspondencia exacta entre cada imagen del texto y los hechos.",
       "referencias": [
         "49-110",
         "49-111",
-        "49-112"
+        "49-112",
+        "51-007",
+        "51-015",
+        "51-089",
+        "51-094"
       ],
-      "pendiente": "La interpretación contrastada de la inscripción, la identidad del amo y la localización del gran santuario.",
+      "pendiente": "La interpretación del fuego divino, el negro velo y la última muda, la identidad del amo dormido según el texto y la ubicación del santuario.",
       "fuentes_rol": [
         {
           "escena": "x-1535034920198607038",
@@ -147,6 +176,34 @@
           "descripcion": "La luz de Lathander muestra a Erandi el punto de la explosión del Invictus.",
           "url": "https://discord.com/channels/946724148628041748/1504602363728756846/1535425167864496178",
           "texto_sha256": "ff5e9f3d9aed1ddb298ebad865169b3eff1944d48d78a8b70416875bed96d2ab"
+        },
+        {
+          "escena": "x-1565057934667415553",
+          "mensaje_id": "1565068483883176017",
+          "descripcion": "Ione refiere a Khir lo que la chamana les dijo sobre los Ojos, el dios serpiente y la clave de Nox.",
+          "url": "https://discord.com/channels/946724148628041748/1562885651844694024/1565068483883176017",
+          "texto_sha256": "b11116291eff678a18f557174beae2235e871b0301e5ae1e287b4929c730117e"
+        },
+        {
+          "escena": "x-1565057934667415553",
+          "mensaje_id": "1565078655422570567",
+          "descripcion": "Nox sostiene que necesitarán a todos para acabar con las criaturas.",
+          "url": "https://discord.com/channels/946724148628041748/1562885651844694024/1565078655422570567",
+          "texto_sha256": "9c6f677e159ebaff8a5ac1c276252f2e65ce20f69fe66f967223e9ae02638242"
+        },
+        {
+          "escena": "x-1565057934667415553",
+          "mensaje_id": "1565082580418830347",
+          "descripcion": "Nox pide contrastar la predicción con la historia de la isla.",
+          "url": "https://discord.com/channels/946724148628041748/1562885651844694024/1565082580418830347",
+          "texto_sha256": "36e72676b7f5de998aa3d33f99ee4e17c396e038223de3e5a77d3783cdeb65dd"
+        },
+        {
+          "escena": "x-1565057934667415553",
+          "mensaje_id": "1565089930546258062",
+          "descripcion": "Khir le remite al Clan Kaan para investigar.",
+          "url": "https://discord.com/channels/946724148628041748/1562885651844694024/1565089930546258062",
+          "texto_sha256": "b8c08d23741cf3dddc4d1cbf4b603db99340fe63bcd7b9a35588202d57910e82"
         }
       ]
     },
@@ -155,7 +212,7 @@
       "capitulo": 49,
       "indice": 7,
       "pregunta": "¿Llegarán los papeles y la traducción hasta Walulu y qué podrá aprender de ellos?",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "estado": "pendiente",
       "respuesta": "Patata conserva las hojas frágiles y los lectores recuerdan su contenido. Se marchan hacia Iktan y quieren informar, sin representar aún la audiencia. El rol posterior recuerda el regreso y comunica la profecía a Citlali, sin representar esa audiencia con Walulu.",
       "referencias": [
@@ -187,7 +244,7 @@
       "capitulo": 49,
       "indice": 8,
       "pregunta": "¿Por qué Chauntea y el dios de Erandy intervienen para hacer comprensible esta inscripción?",
-      "revisado_hasta": 50,
+      "revisado_hasta": 51,
       "estado": "pendiente",
       "respuesta": "Ambos reciben ayuda particular para este texto; el director identifica a Chauntea para Patata y Erandy lo interpreta como una señal del Señor del Amanecer. El narrador escrito identifica posteriormente la luz de Lathander en otra visión de Erandi. Ese nombre no explica por sí solo el propósito de la ayuda al texto ni se atribuye a todos los interlocutores del vídeo.",
       "referencias": [

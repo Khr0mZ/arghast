@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-002](../capitulos/45.md), [45-012](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Corrientes entre Iktan y el mar
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 El grupo sigue a la sirénida por un lago extremadamente profundo. Antes de llegar al fondo entran por una gruta lateral y las fuertes corrientes los impulsan durante un trayecto largo hasta un espacio abierto que parece el mar, con ruinas antiguas bajo el agua. La guía advierte que es una zona controlada por los Profundos. Naór recuerda al fin usar su nueva respiración y Chopito trata de abrirle los ojos; Triel disfruta nadando alrededor.
 
 Se narra una conexión física por túneles y corrientes, sin duración precisa o teletransporte. La salida no equivale a haber entrado en Perlasal y las ruinas aún no son el escondite del altar.
-

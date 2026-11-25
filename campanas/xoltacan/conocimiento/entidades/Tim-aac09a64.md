@@ -12,7 +12,7 @@ Base para revisar equivalencia: [34-006](../capitulos/34.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La búsqueda del huevo termina en una muerte
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Blink comprueba que el médico tiene un huevo pequeño y un cadáver, no el huevo que buscan. Citlali increpa a los piratas del muelle. Dicen que la Marina se llevó el huevo durante el ataque y creen que lo llevaron al bosque. Ella golpea a Tim con una chancla; él cae al agua y desaparece. El director confirma su muerte y menciona un kraken previo, sin añadir detalles.
 
 El médico no se comió el huevo de dinosaurio. La suposición del pirata tampoco confirma su destino exacto.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [48-124](../capitulos/48.md), [48-125](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una preparación todavía pendiente
 
@@ -61,4 +61,3 @@ Tipo: `hecho_confirmado`.
 Después de recoger las muestras los compañeros acuerdan marcharse cuanto antes: reconocen que están debilitados y alguno se encuentra mal. Inician el camino de vuelta mientras la narración regresa a Iktan.
 
 Emprender el regreso no demuestra que todo el grupo haya llegado ya a la ciudad, descansado o neutralizado el veneno.
-

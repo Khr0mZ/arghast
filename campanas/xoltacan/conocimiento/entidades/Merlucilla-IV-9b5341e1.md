@@ -8,11 +8,11 @@ Tigre posterior a la mosca, no una transformación de ésta.
 
 Etiquetas agrupadas: Merlucilla IV (tigre); Tigre Merlucilla IV.
 
-Base para revisar equivalencia: [26-009](../capitulos/26.md), [33-002](../capitulos/33.md), [42-013](../capitulos/42.md), [42-014](../capitulos/42.md), [42-024](../capitulos/42.md), [42-025](../capitulos/42.md), [42-027](../capitulos/42.md), [42-037](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md).
+Base para revisar equivalencia: [26-009](../capitulos/26.md), [33-002](../capitulos/33.md), [42-013](../capitulos/42.md), [42-014](../capitulos/42.md), [42-024](../capitulos/42.md), [42-025](../capitulos/42.md), [42-027](../capitulos/42.md), [42-037](../capitulos/42.md), [42-051](../capitulos/42.md), [42-063](../capitulos/42.md), [51-020](../capitulos/51.md), [51-024](../capitulos/51.md), [51-026](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un tigre tras la pérdida de la mosca
 
@@ -43,6 +43,12 @@ Fuentes: [42-024 · La salva coordinada de la Marina alcanza al Zampaolas](../ca
 Sir Poncelot monta a Merlucilla IV para saltar entre barcos y atravesar las cubiertas derribando artilleros y marines. El tigre y su jinete vuelven al Zampaolas antes del hundimiento de las naves abordadas. Poncelot apoya una mano sobre su montura cuando observa la explosión y llora por Nox.
 
 Fuentes: [42-051 · Sir Poncelot y Merlucilla IV despejan cubiertas y regresan](../capitulos/42.md) · 01:37:37.480 · [42-063 · Ione se lanza a buscar a Nox y sus compañeros la siguen](../capitulos/42.md) · 02:02:20.520.
+
+### Una puerta demasiado estrecha
+
+El tigre queda pegado al techo del barco tras las sacudidas. Poncelot le habla y le va ofreciendo trozos de sus raciones hasta que se anima a bajar. Naór aprovecha su lomo para saltar hacia la pared de carne, pero el propio tigre se queda encajado al intentar pasar por la puerta que descubren detrás. Su caballero prefiere enviarlo de vuelta al Zampaolas y continuar andando.
+
+Fuentes: [51-020 · Merlucilla IV se deja convencer con comida](../capitulos/51.md) · 00:35:00.440 · [51-024 · Bajo la carne aparece una puerta atornillada](../capitulos/51.md) · 00:41:41.599 · [51-026 · El tigre vuelve al barco](../capitulos/51.md) · 00:45:30.240.
 
 ## Registros y evidencias
 
@@ -350,3 +356,26 @@ El oleaje acerca el Zampaolas a la costa sin hacerlo encallar. Ione pierde el co
 
 La esperanza de Poncelot no acredita supervivencia. La forma lupina de Ione se confirma al explicar su búsqueda, no como efecto de la explosión.
 
+## [51-020 · Merlucilla IV se deja convencer con comida](../capitulos/51.md) · 00:35:00.440
+
+Tipo: `hecho_confirmado`.
+
+Antes de salir, Poncelot baja a buscar a su tigre. Merlucilla IV sigue pegada al techo, asustada tras las sacudidas. La llama y reparte pedacitos de sus raciones para que se calme y lo acompañe.
+
+La mesa bromea sobre la muerte de la cuarta Merlucilla; la escena muestra al tigre vivo.
+
+## [51-024 · Bajo la carne aparece una puerta atornillada](../capitulos/51.md) · 00:41:41.599
+
+Tipo: `hecho_confirmado`.
+
+El camino aparentemente libre acaba en una pared de carne. Poncelot hunde la lanza y la punta golpea algo metálico. A instancias de Ione, Naór salta desde el lomo del tigre y retira carne a hachazos; con cada golpe sienten moverse al animal. Detrás aparecen un muro y una puerta metálicos, con tornillos y una manivela semejante a un tubo.
+
+
+
+## [51-026 · El tigre vuelve al barco](../capitulos/51.md) · 00:45:30.240
+
+Tipo: `hecho_confirmado`.
+
+Merlucilla IV queda atrapada al intentar franquear la puerta estrecha. Poncelot desiste de empujar, manda al tigre de vuelta a la nave de Ione y entra sin montura. Rechaza por cuestión de honor la oferta de montar sobre Naór.
+
+La dirección de regreso se da en el diálogo; no se representa su llegada a cubierta.

@@ -1,5 +1,9 @@
 # Método de reconstrucción
 
+## Incorporación de Buscando el Ojo
+
+La ficha enlaza 98 evidencias con sus intervalos del subtítulo automático español. La lectura de los 4.844 segmentos se repartió en tres bloques consecutivos. Las figuras de las proyecciones y los modelos de las réplicas se distinguen de los personajes presentes en la ballena. El aviso del directo y la duración del vídeo permiten situar las escenas escritas en torno al 9 de agosto. [Registro de revisión](../revision/fuente_xoltacan_51.json) · [Continuidad](continuidad_51.md).
+
 ## Incorporación de Abastecimiento
 
 Tres lecturas consecutivas cubren los 3.101 segmentos del VTT original español. De ellas proceden las 94 evidencias del capítulo 50. Cada cita conserva su intervalo y la entrada exacta del subtítulo. La ficha distingue las conversaciones que Oghma presencia de la reunión privada entre Tortas y Walulu. [Registro de revisión](../revision/fuente_xoltacan_50.json).

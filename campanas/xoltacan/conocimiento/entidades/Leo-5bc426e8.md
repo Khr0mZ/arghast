@@ -8,11 +8,11 @@ Niño harengon rescatado en el capítulo 21 y protegido por Naór en el 31. La c
 
 Etiquetas agrupadas: Leo (conejo protegido por Naór); Leo (niño harengon).
 
-Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-019](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-031](../capitulos/48.md), [48-118](../capitulos/48.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md), [50-016](../capitulos/50.md).
+Base para revisar equivalencia: [21-007](../capitulos/21.md), [31-001](../capitulos/31.md), [31-006](../capitulos/31.md), [45-003](../capitulos/45.md), [45-004](../capitulos/45.md), [45-010](../capitulos/45.md), [45-018](../capitulos/45.md), [46-054](../capitulos/46.md), [46-055](../capitulos/46.md), [46-056](../capitulos/46.md), [47-004](../capitulos/47.md), [47-005](../capitulos/47.md), [47-006](../capitulos/47.md), [48-019](../capitulos/48.md), [48-022](../capitulos/48.md), [48-023](../capitulos/48.md), [48-031](../capitulos/48.md), [48-118](../capitulos/48.md), [48-120](../capitulos/48.md), [48-129](../capitulos/48.md), [50-016](../capitulos/50.md), [51-005](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un niño que esperaba a sus padres
 
@@ -67,6 +67,12 @@ Fuentes: [48-118 · Naór conserva un colmillo para Leo](../capitulos/48.md) · 
 Tortas sorprende al grupo en el colegio mientras busca a Walulu. Los otros alumnos se inclinan siguiendo el ejemplo de Miausi, pero Leo lo saluda con naturalidad. Tortas le devuelve el saludo.
 
 Fuentes: [50-016 · Leo saluda a Tortas desde el colegio](../capitulos/50.md) · 00:22:13.880.
+
+### Un espadón todavía demasiado pesado
+
+Naór cuenta que ya le ha comprado el espadón a Leo. La primera lección que tiene para él es conseguir levantarlo. Cuando la princesa parte hacia el arrecife, el pequeño todavía está en ese primer paso.
+
+Fuentes: [51-005 · Naór patrulla mientras espera noticias de Atlan](../capitulos/51.md) · 00:03:37.519.
 
 ## Registros y evidencias
 
@@ -510,3 +516,10 @@ De camino al templo, Tortas abre la puerta del colegio. La profesora Miausi le h
 
 La profesora no se identifica aquí como directora. La escena tampoco representa una reunión de madres.
 
+## [51-005 · Naór patrulla mientras espera noticias de Atlan](../capitulos/51.md) · 00:03:37.519
+
+Tipo: `declaracion_personaje`.
+
+Naór sigue patrullando con los soldados y aún espera al emisario de Atlan. Ha comprado a Leo un espadón; su primera lección consiste en levantarlo y el pequeño todavía no puede.
+
+No se explica el motivo de la demora del emisario.

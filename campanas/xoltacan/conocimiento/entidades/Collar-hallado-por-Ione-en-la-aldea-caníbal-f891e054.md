@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-031](../capitulos/46.md), [46-062](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El hallazgo antes de los gritos
 
@@ -51,4 +51,3 @@ Tipo: `hecho_confirmado`.
 Ione se presenta ante un alquimista con aspecto de sapo y le ofrece su collar de oro y joyas para reunir recursos. Él propone veinticinco monedas de oro. Ione pide veintiséis, pero el comerciante baja su oferta a veinticuatro y ella acepta; el director le indica que sume esa cantidad y nombra a Froger.
 
 La venta queda resuelta por veinticuatro, aunque el montaje final aún la describa negociando. El collar no se identifica con el de Blink o el antiguo encargo de Bonnie ni recibe poderes mágicos por tener joyas.
-

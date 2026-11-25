@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-070](../capitulos/45.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El hallazgo de Tentacol
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 Triel felicita el golpe de Tortas y guarda un hueso que encuentra para llevárselo a su hermano. Tentacol registra un cuerpo menos destrozado y encuentra una perla. Examina también al rival con aspecto de pez, pero su investigación solo permite reconocerlo como tal. El director señala que se parece, sin ser idéntico, a los humanoides sirena; no lleva más objetos.
 
 No se atribuyen a la perla propiedades mágicas, precio ni una identidad con la perla de comunicación de Coyote. La investigación no fija una especie de bestiario ni muestra la entrega del hueso a Eldrat.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-009](../capitulos/08.md), [08-020](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La tradición que recuerda Tlachka
 
@@ -43,4 +43,3 @@ Tipo: `explicacion_director`.
 Al examinar símbolos, Tlachka reconoce por adjudicación del director una construcción de una civilización perdida hace menos de mil años. Sus tribus eran dadas a tomar plantas y ascender a un estado animal, con sacrificios y violencia. Ayoto y el elfo poseen solo conocimiento vago de historias; el elfo lo anota para consultar. Tlachka distingue sus propios sacrificios para calmar a los dioses de los que atribuye a trascender por interés personal.
 
 La fecha es aproximación explícita, no fecha de construcción ni prueba de extinción de todos los nawals. Juicio moral de Tlachka no se presenta como descripción neutral del director.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [20-014](../capitulos/20.md), [25-019](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una X que parece prometer una respuesta
 
@@ -107,4 +107,3 @@ Tipo: `declaracion_personaje`.
 Nox explica que los atacantes reclamaban un collar. Ione pregunta si es el que causó su conflicto con Bonnie, sin obtener confirmación. Poncelot aclara que encontró el mapa en un cofre de piedra de un templo que llama de magos oscuros, con una arlequina blanca y negra, no de la Marina. Blink muestra el collar que oculta en un mango podrido. Sisea, le causó un impacto mental y ella quiere devolverlo allí. Nox recuerda que esas criaturas hablan directamente a la mente y recomienda que siga guardándolo.
 
 La pregunta de Ione no identifica el objeto con el collar de cuatro gemas. El poseedor explica el origen del mapa.
-

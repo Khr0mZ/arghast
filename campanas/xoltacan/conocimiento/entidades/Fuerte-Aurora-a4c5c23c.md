@@ -8,11 +8,11 @@ Variación editorial del mismo fuerte; no absorbe la etiqueta genérica Fuerte d
 
 Etiquetas agrupadas: Fuerte Aurora; Fuerte Aurora (grafía provisional).
 
-Base para revisar equivalencia: [07-010](../capitulos/07.md), [12-009](../capitulos/12.md), [23-004](../capitulos/23.md).
+Base para revisar equivalencia: [07-010](../capitulos/07.md), [12-009](../capitulos/12.md), [23-004](../capitulos/23.md), [51-009](../capitulos/51.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La expansión de la Marina toma forma
 
@@ -31,6 +31,12 @@ Fuentes: [23-015 · Reencuentro y documentos sobre una ciudad](../capitulos/23.m
 Molly consigue regresar a Shiaru, pero Pinky vuelve a caer en poder de Tórtola. Las operaciones posteriores interceptan un convoy de cañones y pólvora destinado a Aurora. Después de obtener prestado el ojo-orbe, Nox parte de nuevo en bote hacia el fuerte. No se muestra el resultado de ese viaje ni la caída de la fortaleza.
 
 Fuentes: [35-016 · Pinky recapturada y amenaza a Tórtola](../capitulos/35.md) · 02:17:00.000 · [35-019 · Bonnie y Molly reencuentran; recompensas](../capitulos/35.md) · 02:42:00.000 · [37-004 · Emboscada a los suministros con Tlachka al mando](../capitulos/37.md) · 00:24:00.000 · [37-017 · Bonnie presta el ojo con una condición que Nox planea incumplir](../capitulos/37.md) · 02:09:00.000 · [37-018 · Luna roba pólvora y Nox parte hacia el fuerte](../capitulos/37.md) · 02:14:00.000.
+
+### Un rodeo en la búsqueda
+
+Cuando los compañeros de Ione intentan regresar a la playa donde quedó el barco, se equivocan de rumbo hasta dar con Fuerte Aurora. Es una señal del desvío y no relatan una nueva infiltración en el fuerte.
+
+Fuentes: [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800.
 
 ## Registros y evidencias
 
@@ -162,3 +168,10 @@ Numerosos barcos de guerra de la Marina aparecen desde el sur, en dirección del
 
 No se da un total exacto de barcos de la Marina. La formación táctica no demuestra todavía que haya destruido ningún buque pirata.
 
+## [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800
+
+Tipo: `explicacion_director`.
+
+La expedición prueba primero al sur, corrige al norte y vuelve a perderse. Un rodeo la lleva a Fuerte Aurora; cuando Poncelot confía el rastro a su montura, acaban otra vez en Iktan. Pierden otra semana antes de regresar a la costa.
+
+El director habla de varias semanas en total y precisa una semana adicional por el regreso a Iktan.

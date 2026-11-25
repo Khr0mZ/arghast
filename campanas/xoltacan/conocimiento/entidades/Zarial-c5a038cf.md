@@ -12,7 +12,7 @@ Base para revisar equivalencia: [20-002](../capitulos/20.md), [20-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Buscar maestros y demostrar su fuerza
 
@@ -283,4 +283,3 @@ Tipo: `hecho_confirmado`.
 Gracias a la capacidad de carga triplicada, Blink vuela con el huevo a través del corte de la tienda. Pinky señala a los ladrones y denuncia la mentira de Mamá. Los marines atacan y disparan. Blink utiliza Invisibilidad Mayor, pero el huevo sigue visible según la adjudicación sobre su tamaño o condición de criatura. Winscore y Zarial huyen al norte.
 
 El huevo no se vuelve invisible y los tres no vuelven a ser capturados.
-

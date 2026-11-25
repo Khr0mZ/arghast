@@ -8,11 +8,11 @@ Etiqueta única. No fusionar con Coyote, que la suplanta.
 
 Etiquetas agrupadas: Ione.
 
-Base para revisar equivalencia: [03-027](../capitulos/03.md), [38-005](../capitulos/38.md), [42-003](../capitulos/42.md), [42-008](../capitulos/42.md), [42-009](../capitulos/42.md), [42-013](../capitulos/42.md), [42-017](../capitulos/42.md), [42-027](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-064](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-011](../capitulos/46.md), [46-013](../capitulos/46.md), [46-014](../capitulos/46.md), [46-017](../capitulos/46.md), [46-018](../capitulos/46.md), [46-019](../capitulos/46.md), [46-020](../capitulos/46.md), [46-021](../capitulos/46.md), [46-022](../capitulos/46.md), [46-023](../capitulos/46.md), [46-024](../capitulos/46.md), [46-031](../capitulos/46.md), [46-032](../capitulos/46.md), [46-033](../capitulos/46.md), [46-034](../capitulos/46.md), [46-039](../capitulos/46.md), [46-044](../capitulos/46.md), [46-048](../capitulos/46.md), [46-050](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-061](../capitulos/46.md), [46-062](../capitulos/46.md), [46-063](../capitulos/46.md).
+Base para revisar equivalencia: [03-027](../capitulos/03.md), [38-005](../capitulos/38.md), [42-003](../capitulos/42.md), [42-008](../capitulos/42.md), [42-009](../capitulos/42.md), [42-013](../capitulos/42.md), [42-017](../capitulos/42.md), [42-027](../capitulos/42.md), [42-036](../capitulos/42.md), [42-037](../capitulos/42.md), [42-044](../capitulos/42.md), [42-058](../capitulos/42.md), [42-063](../capitulos/42.md), [42-064](../capitulos/42.md), [42-066](../capitulos/42.md), [42-067](../capitulos/42.md), [46-002](../capitulos/46.md), [46-004](../capitulos/46.md), [46-006](../capitulos/46.md), [46-010](../capitulos/46.md), [46-011](../capitulos/46.md), [46-013](../capitulos/46.md), [46-014](../capitulos/46.md), [46-017](../capitulos/46.md), [46-018](../capitulos/46.md), [46-019](../capitulos/46.md), [46-020](../capitulos/46.md), [46-021](../capitulos/46.md), [46-022](../capitulos/46.md), [46-023](../capitulos/46.md), [46-024](../capitulos/46.md), [46-031](../capitulos/46.md), [46-032](../capitulos/46.md), [46-033](../capitulos/46.md), [46-034](../capitulos/46.md), [46-039](../capitulos/46.md), [46-044](../capitulos/46.md), [46-048](../capitulos/46.md), [46-050](../capitulos/46.md), [46-052](../capitulos/46.md), [46-053](../capitulos/46.md), [46-059](../capitulos/46.md), [46-060](../capitulos/46.md), [46-061](../capitulos/46.md), [46-062](../capitulos/46.md), [46-063](../capitulos/46.md), [51-002](../capitulos/51.md), [51-003](../capitulos/51.md), [51-008](../capitulos/51.md), [51-009](../capitulos/51.md), [51-011](../capitulos/51.md), [51-012](../capitulos/51.md), [51-014](../capitulos/51.md), [51-034](../capitulos/51.md), [51-047](../capitulos/51.md), [51-051](../capitulos/51.md), [51-072](../capitulos/51.md), [51-076](../capitulos/51.md), [51-088](../capitulos/51.md), [51-089](../capitulos/51.md), [51-091](../capitulos/51.md), [51-092](../capitulos/51.md), [51-094](../capitulos/51.md).
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### Una pirata endeudada y un secreto peligroso
 
@@ -85,6 +85,18 @@ Fuentes: [46-031 · Ione encuentra un collar y acude al grito de Citlali](../cap
 Ione discute con Zoltan por la descarga que alcanzó a sus rescatadores. Sigue después a Citlali hasta Iktan y encuentra a su gente en la taberna, donde llevan cuatro días. La alegría queda incompleta al descubrir que falta el novato llamado Jacki. Propone reunir dinero y nuevos apoyos para recuperar Shiaru y buscarlo. Vende un collar a Froger por veinticuatro monedas y habla con Citlali sobre la maldición, sin resolver todavía la visita a Walulu ni organizar la expedición.
 
 Fuentes: [46-048 · Ione reprocha a Zoltan el daño eléctrico y le da libertad de marcharse](../capitulos/46.md) · 01:42:39.239 · [46-050 · Zoltan sostiene a Citlali y Eleanor le proporciona una montura temporal](../capitulos/46.md) · 01:47:03.270 · [46-052 · Citlali reconoce el camino y el grupo llega a Iktan](../capitulos/46.md) · 01:50:32.080 · [46-053 · Ione encuentra a la tripulación en la taberna de Iktan](../capitulos/46.md) · 01:56:01.320 · [46-059 · Ione descubre la ausencia del novato llamado Jacki](../capitulos/46.md) · 02:06:48.360 · [46-060 · Ione propone recaudar recursos y reunir apoyos para recuperar Shiaru](../capitulos/46.md) · 02:09:03.239 · [46-061 · Citlali explica a Ione el drenaje como parte de su maldición](../capitulos/46.md) · 02:13:10.440 · [46-062 · La búsqueda de comprador separa a Ione de Citlali](../capitulos/46.md) · 02:15:37.639 · [46-063 · Froger compra el collar a Ione por veinticuatro monedas](../capitulos/46.md) · 02:17:24.120.
+
+### Otra vez al timón del Zampaolas
+
+En las ruinas junto al lago, Ione practica a solas con la moneda de Bonny. Por mucho que trace círculos, aún no consigue repetir lo que hacía su antigua dueña. Para regresar al arrecife donde perdió a Nox elige un proyecto a su alcance: encarga a los trillizos cascos de barril conectados a la superficie. Tras varios rodeos ve de nuevo el Zampaolas en la costa. El viento vuelve a darle en la cara mientras gobierna la nave, pero esta vez falta Nox. Cede a Citlali el puesto de vigía y se reconcilia con Naór estrechándole el brazo.
+
+Fuentes: [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359 · [51-003 · Un proyecto para descender hasta Nox](../capitulos/51.md) · 00:01:34.640 · [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720 · [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800 · [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200 · [51-012 · Citlali toma el puesto de vigía](../capitulos/51.md) · 00:11:12.160 · [51-014 · Naór e Ione alcanzan un acuerdo a bordo](../capitulos/51.md) · 00:14:32.600.
+
+### Lo que vale una jornada de trabajo
+
+Dentro de la ballena, Ione le recuerda a Poncelot que una capitana también debe proteger a quien lleva el escudo. Ayuda a resolver las máquinas con la pluma de cartógrafa, guarda el proyector en su mochila y, durante la pelea, vuelve junto a Citlali para interponerse entre ella y las autómatas. Cuando pregunta a Archi por los restos de la batalla, el inventor le enseña el Ojo que buscaba. Ione ofrece trabajar durante la reparación del barco. Acepta la cofia y el uniforme, y obtiene el orbe sin averiguar el destino del cuerpo de Nox.
+
+Fuentes: [51-034 · La capitana también responde por su caballero](../capitulos/51.md) · 01:09:49.920 · [51-047 · Ione guarda el proyector y la cinta sigue sonando](../capitulos/51.md) · 01:31:08.159 · [51-051 · El dorso de un mapa ayuda a recordar ocho figuras](../capitulos/51.md) · 01:37:53.360 · [51-072 · Ione abre espacio alrededor de Citlali](../capitulos/51.md) · 02:32:33.399 · [51-076 · Ione pelea rodeada y retrocede a cubrir a los demás](../capitulos/51.md) · 02:43:22.960 · [51-088 · Archi recorre las aguas en busca de hallazgos](../capitulos/51.md) · 03:16:31.040 · [51-089 · Entre varias esferas aparece la que lleva un ojo](../capitulos/51.md) · 03:17:08.520 · [51-091 · Archi pide algo a cambio del Ojo](../capitulos/51.md) · 03:18:39.920 · [51-092 · Ione acepta trabajar con el uniforme de las autómatas](../capitulos/51.md) · 03:20:55.920 · [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199.
 
 ## Registros y evidencias
 
@@ -3016,3 +3028,394 @@ Patata reconoce en la taberna a los piratas que frecuentaban la de Shiaru. Al pr
 
 El motivo de la salida de Shiaru es testimonio de los piratas; no identifica quién gobierna ahora ni una nueva inspección del puerto. La descripción de estar en idéntica posición con las mismas botellas es humor de continuidad, no una duplicación o bucle mágico.
 
+## [51-002 · Ione ensaya a solas con la moneda](../capitulos/51.md) · 00:00:58.359
+
+Tipo: `declaracion_personaje`.
+
+Tras dejar descansar a su tripulación en la taberna, Ione pasa tiempo junto a las ruinas del lago. Traza círculos con la moneda e intenta reproducir lo que hacía Bonny. Por ahora no consigue hacerla funcionar.
+
+En la retrospectiva se oye una localidad como «Siaru». Las ruinas se describen por el lago; su identificación queda abierta.
+
+## [51-003 · Un proyecto para descender hasta Nox](../capitulos/51.md) · 00:01:34.640
+
+Tipo: `declaracion_personaje`.
+
+Ione pide a los trillizos que la acompañen. Imagina cascos de barril con un conducto hasta la superficie, para que quienes desciendan puedan respirar, verse y hablar mientras buscan el Ojo que llevaba Nox.
+
+Es el diseño que les encarga; todavía nadie lo ha probado bajo el agua.
+
+## [51-008 · El Zampaolas había quedado junto a la playa](../capitulos/51.md) · 00:05:35.720
+
+Tipo: `declaracion_personaje`.
+
+Ione recuerda que tras perder a Nox dejaron el barco en la costa, relativamente cerca de Shiaru. Con la tripulación abatida y un navío imposible de ocultar, tuvieron que marcharse; la capitana teme lo que pueda encontrar a su vuelta.
+
+La capitana señala un área aproximada, sin dar una posición precisa.
+
+## [51-009 · La búsqueda del barco pasa por Fuerte Aurora e Iktan](../capitulos/51.md) · 00:06:21.800
+
+Tipo: `explicacion_director`.
+
+La expedición prueba primero al sur, corrige al norte y vuelve a perderse. Un rodeo la lleva a Fuerte Aurora; cuando Poncelot confía el rastro a su montura, acaban otra vez en Iktan. Pierden otra semana antes de regresar a la costa.
+
+El director habla de varias semanas en total y precisa una semana adicional por el regreso a Iktan.
+
+## [51-011 · La capitana vuelve al arrecife de la batalla](../capitulos/51.md) · 00:08:40.200
+
+Tipo: `hecho_confirmado`.
+
+Ione lleva al Zampaolas hacia el arrecife donde combatieron con la Marina. Viajan Naór, Sir Poncelot, Citlali y los trillizos. Ione disfruta del viento al timón, pero el recuerdo de la última vez que navegó con Nox le quita la alegría completa del regreso.
+
+
+
+## [51-012 · Citlali toma el puesto de vigía](../capitulos/51.md) · 00:11:12.160
+
+Tipo: `hecho_confirmado`.
+
+Citlali le cuenta a Ione que acostumbraba a viajar a pie. La capitana le señala el puesto elevado y le encarga dar la voz si ve tierra, otra embarcación o una criatura. Citlali trepa y queda por encima de la cubierta.
+
+
+
+## [51-013 · Poncelot trabaja en los cascos con los trillizos](../capitulos/51.md) · 00:12:41.639
+
+Tipo: `hecho_confirmado`.
+
+Sir Poncelot ayuda con sus conocimientos de herrería, las tuberías y el metal de armas sobrantes; pueden hacer falta piezas y remaches. Un trillizo señala que necesitarán lastre para descender. Poncelot reorienta a quien estaba martillando en dirección equivocada.
+
+Su trabajo continúa cuando se aproxima el barco al arrecife.
+
+## [51-014 · Naór e Ione alcanzan un acuerdo a bordo](../capitulos/51.md) · 00:14:32.600
+
+Tipo: `hecho_confirmado`.
+
+Aunque se agarra a los tablones con las garras, Naór sube a hablar con Ione sobre su mal comienzo. Se ofrecen un entrenamiento, se estrechan el brazo y Naór reconoce la autoridad de la capitana en cubierta. Ione se compromete a tratarla como a su tripulación. Naór empieza por soltar el cabo de la vela mayor.
+
+El acuerdo se formula para el barco; las dos bromean sobre lo que pueda ocurrir en tierra.
+
+## [51-015 · Erandy ha indicado la zona de los pecios](../capitulos/51.md) · 00:18:37.080
+
+Tipo: `hecho_confirmado`.
+
+El agua clara permite distinguir barcos hundidos. La sonrisa de Ione desaparece y Citlali se aferra a la barandilla, dividida ante la posibilidad de encontrar a Nox. Cuando llegan al punto señalado por Erandy para buscar el Ojo, Ione manda recoger las velas y detiene la nave.
+
+Las coordenadas y el método de localización no se vuelven a dar en este pasaje.
+
+## [51-016 · La sombra del tamaño del Invictus asciende](../capitulos/51.md) · 00:21:35.039
+
+Tipo: `hecho_confirmado`.
+
+Citlali busca desde arriba un pecio imponente entre restos rotos contra las rocas. Ve una mancha tan grande como imagina al Invictus, pero asciende hacia ellos. En vez de gritar, emite el silbido de alerta que conocen sus compañeros. Ione sube a reunirse con ella.
+
+Citlali no había visto el navío de la Marina. La comparación de tamaño no identifica la sombra con su pecio.
+
+## [51-017 · Una ballena engulle al Zampaolas](../capitulos/51.md) · 00:24:37.320
+
+Tipo: `hecho_confirmado`.
+
+La sombra rebasa la silueta de la nave. Ione se descuelga a cubierta, ordena dar vela y vuelve al timón. Como el barco estaba parado, apenas consigue arrancar antes de que una boca en forma de V se cierre en torno a él. La ballena se hunde llevándose barco y ocupantes.
+
+La alusión de la mesa a un kraken precede a la descripción explícita de la ballena.
+
+## [51-018 · El barco encalla en el estómago](../capitulos/51.md) · 00:28:01.880
+
+Tipo: `hecho_confirmado`.
+
+La tripulación rueda entre golpes y crujidos hasta que el Zampaolas se detiene. Sir Poncelot y Naór alcanzan a orientarse en la penumbra. El trillizo ciego enciende los faroles y aparecen a la vista el casco encajado, los maderos flotantes y las paredes de carne; a intervalos les llega un olor ácido.
+
+
+
+## [51-019 · Cuatro salen y los trillizos guardan la nave](../capitulos/51.md) · 00:32:03.840
+
+Tipo: `hecho_confirmado`.
+
+Mientras unos se levantan tras la caída y la capitana ayuda a Poncelot con los cabos de los que cuelga, los trillizos terminan de encender las luces. Naór salta sobre el suelo blando; Ione echa una cuerda para los siguientes y deja a los trillizos al cuidado del barco mientras salen los cuatro a buscar una salida.
+
+
+
+## [51-022 · Los restos son de los dos bandos](../capitulos/51.md) · 00:38:47.079
+
+Tipo: `explicacion_director`.
+
+Ione pregunta si reconoce los restos que hay en el estómago. El director distingue maderas tanto de la flota pirata como de la Marina. La posibilidad de que la ballena haya ingerido también lo que buscan les da un segundo motivo para entrar más adentro.
+
+La procedencia de los pecios está confirmada; dentro de este tramo no encuentran ahí el Ojo.
+
+## [51-024 · Bajo la carne aparece una puerta atornillada](../capitulos/51.md) · 00:41:41.599
+
+Tipo: `hecho_confirmado`.
+
+El camino aparentemente libre acaba en una pared de carne. Poncelot hunde la lanza y la punta golpea algo metálico. A instancias de Ione, Naór salta desde el lomo del tigre y retira carne a hachazos; con cada golpe sienten moverse al animal. Detrás aparecen un muro y una puerta metálicos, con tornillos y una manivela semejante a un tubo.
+
+
+
+## [51-025 · Una habitación iluminada por cristales azules](../capitulos/51.md) · 00:44:16.800
+
+Tipo: `explicacion_director`.
+
+Ione abre la puerta. A diferencia del suelo blando que han dejado atrás, la sala tiene paredes y suelo de metal. Cristales azules atornillados dan luz, las tuberías recorren las paredes y por las rejillas se escapa vapor; oyen maquinaria en marcha. Ione intenta llevarse uno de los cristales y acaba dejándolo en su sitio.
+
+Se desconoce lo que transportan las tuberías. Los acompañantes identifican las luces como cristales lumínicos.
+
+## [51-026 · El tigre vuelve al barco](../capitulos/51.md) · 00:45:30.240
+
+Tipo: `hecho_confirmado`.
+
+Merlucilla IV queda atrapada al intentar franquear la puerta estrecha. Poncelot desiste de empujar, manda al tigre de vuelta a la nave de Ione y entra sin montura. Rechaza por cuestión de honor la oferta de montar sobre Naór.
+
+La dirección de regreso se da en el diálogo; no se representa su llegada a cubierta.
+
+## [51-027 · La palanca da la bienvenida a las grandes pruebas](../capitulos/51.md) · 00:48:42.880
+
+Tipo: `hecho_confirmado`.
+
+La puerta siguiente carece de picaporte. Poncelot pide a la capitana que espere, examina la palanca lateral y se resguarda tras su escudo antes de bajarla. Suenan los engranajes, cede un enorme cierre y del techo bajan confeti y un cartel: la primera de las grandes pruebas se llama «el camino del guardián». La puerta se abre.
+
+El cartel nombra la prueba. Su autor y el propósito de las pruebas no se identifican en ese momento.
+
+## [51-028 · Una caída devuelve al caballero al comienzo](../capitulos/51.md) · 00:54:01.319
+
+Tipo: `hecho_confirmado`.
+
+Poncelot se adelanta con el escudo en alto. Tras sentir cómo algo le roza la cabeza, pisa un mecanismo y rebota por un tubo hasta caer de vuelta en la primera sala. Ione piensa en las ilusiones de Nox al verlo reaparecer detrás de ella; él le explica que lo ha devuelto una trampa.
+
+
+
+## [51-029 · La lanza descubre las losas de presión](../capitulos/51.md) · 00:56:47.119
+
+Tipo: `hecho_confirmado`.
+
+Al segundo intento, Poncelot va tocando el suelo con la lanza y detecta una baldosa que cede. Avisa a las demás, pero al intentar un salto de pértiga se desliza hasta la losa. Esta vez un palo sale de la pared y le golpea la cabeza. Ione salva el paso apoyándose en la pared.
+
+
+
+## [51-030 · Ione desmonta al ratón mecánico](../capitulos/51.md) · 00:59:54.960
+
+Tipo: `hecho_confirmado`.
+
+Una segunda losa del mismo color también se hunde. Poncelot resbala y la activa al caer. La figura con cuerpo de ratón y cola de mono que sale dando una patada pasa por encima del gnomo tendido. Ione detiene el golpe y la estrella contra el suelo: saltan las piezas del autómata.
+
+
+
+## [51-031 · Una nube amarilla cruza el pasillo](../capitulos/51.md) · 01:02:19.520
+
+Tipo: `hecho_confirmado`.
+
+Ya reconocen el rojo de las losas peligrosas. Esta vez el gnomo pide que se agachen y aprieta una con la lanza a distancia. Tras oír un silbido, ven pasar una nube amarilla por encima de sus cabezas. Poncelot se decide a pisar después; Ione continúa apoyándose en la pared.
+
+No se explica qué habría hecho la nube en contacto con alguien.
+
+## [51-034 · La capitana también responde por su caballero](../capitulos/51.md) · 01:09:49.920
+
+Tipo: `declaracion_personaje`.
+
+Ione le recuerda a Sir Poncelot que forma parte de su tripulación y que ella también tiene el deber de cuidarlo. Aunque sus compañeras le señalan que está activando las trampas, él insiste en que su escudo irá por delante mientras pueda sostenerse en pie.
+
+
+
+## [51-036 · Los puños de mono salen hacia un lado](../capitulos/51.md) · 01:12:21.520
+
+Tipo: `hecho_confirmado`.
+
+Ante la siguiente baldosa, Poncelot rechaza el relevo de Ione, se agacha y la golpea. De la pared salen puños de mono en otra dirección, y el grupo puede seguir.
+
+El caballero propone agacharse y activar las baldosas; solo queda comprobado el comportamiento de esta trampa.
+
+## [51-038 · Naór le promete a Ione una visita a la lucha libre](../capitulos/51.md) · 01:15:09.800
+
+Tipo: `declaracion_personaje`.
+
+Ione y Naór saltan al ring y prueban llaves de lucha por diversión. Naór le habla a la capitana de los luchadores enmascarados de Tutucan y del enorme cinturón que gana el vencedor. Ione, que no ha visto esos combates, le demuestra después la llave que llama «Ionecina».
+
+La promesa de llevarla a ver un combate no equivale a una visita.
+
+## [51-041 · Los cabezazos despiertan el martillo](../capitulos/51.md) · 01:21:06.040
+
+Tipo: `hecho_confirmado`.
+
+Ione reta a Naór a romper la estatua a cabezazos desde lados opuestos. Ambas golpean a la vez. El campeón se pone en movimiento y las estrella contra las vallas con el martillo antes de volver a su posición, abrir la boca y pedir que usen la cabeza.
+
+El director rectifica enseguida el arma que primero llamó hacha.
+
+## [51-045 · Citlali aparta a Poncelot de la cinta](../capitulos/51.md) · 01:27:09.360
+
+Tipo: `hecho_confirmado`.
+
+Una escena íntima de Serafina y Guxi atrae la atención de Ione y Naór. Citlali tapa los ojos de Poncelot, lo lleva a una esquina y le pide que mire a la pared con los oídos tapados. Para que pueda seguir protegiéndolas, acuerdan que le tocará el hombro cuando lo necesite.
+
+Serafina y Guxi aparecen en una grabación. Poncelot interpreta lo poco que entiende como una tortura.
+
+## [51-047 · Ione guarda el proyector y la cinta sigue sonando](../capitulos/51.md) · 01:31:08.159
+
+Tipo: `hecho_confirmado`.
+
+Ione promete a Citlali que meterá el proyector en su mochila para que se deje de ver. Obtiene su permiso y cumple; el aparato sigue reproduciendo el sonido porque no sabe apagarlo. Citlali toca el hombro del caballero para que pueda volverse.
+
+
+
+## [51-048 · En la prueba del inventor hay que poner en marcha las máquinas](../capitulos/51.md) · 01:32:45.119
+
+Tipo: `hecho_confirmado`.
+
+Junto a cajas de tornillos y componentes hay un cartel que Ione no sabe leer. Con ayuda del grupo entiende la instrucción completa: deben activar las máquinas. El cristal central está apagado y no parece recibir energía.
+
+
+
+## [51-051 · El dorso de un mapa ayuda a recordar ocho figuras](../capitulos/51.md) · 01:37:53.360
+
+Tipo: `hecho_confirmado`.
+
+El segundo panel muestra ocho símbolos demasiado rápidos para una sola mirada. Proponen repartirlos y repetir la secuencia; Ione da la vuelta a un mapa viejo y usa la pluma de cartógrafa para dibujarlos. Al introducir los ocho, gira una rueda y el vapor alcanza un ventilador con un panel táctil.
+
+El mapa sirve de papel. No se identifica con ningún mapa concreto del catálogo.
+
+## [51-052 · Doce figuras hacen girar el ventilador](../capitulos/51.md) · 01:41:57.199
+
+Tipo: `hecho_confirmado`.
+
+El tercer panel exige una secuencia de doce figuras. Tras varios intentos en los que unos retienen el principio y otros el final, el grupo consigue introducirla. El ventilador arranca, impulsa aire hacia arriba y enciende la siguiente pantalla.
+
+
+
+## [51-053 · Los cuatro se reparten la secuencia final](../capitulos/51.md) · 01:45:24.320
+
+Tipo: `hecho_confirmado`.
+
+La última secuencia tiene dieciséis posiciones. Ione, Naór, Citlali y Sir Poncelot se responsabilizan en ese orden de cuatro figuras por cabeza. La máquina se ilumina entera, aparece un cartel de felicitación y una grabación repite que de aprendiz a maestro se pasa repitiendo. Se abre la puerta.
+
+
+
+## [51-054 · Poncelot cree reconocer una voz](../capitulos/51.md) · 01:48:43.639
+
+Tipo: `declaracion_personaje`.
+
+Poncelot le pregunta a Ione si la voz de la prueba se parece a la del hombre de la cinta. Ione lo considera posible y le ofrece verla luego en el barco. Él sigue pensando en rescatar a alguien que pudiera estar en peligro.
+
+La conversación no permite dar por identificado al locutor de la prueba.
+
+## [51-055 · Los cuadros del pasillo acaban a cuestas](../capitulos/51.md) · 01:49:33.000
+
+Tipo: `hecho_confirmado`.
+
+Tras el taller encuentran un pasillo metálico con retratos de desnudos. En la mesa de juego se reconocen, entre otros, May, Calista, Serafina y Kazuki disfrazado. Hay quien quiere decorar su camarote e Ione ata y recoge cuadros hasta ir sobrecargada. Citlali guía a Poncelot cubriéndole los ojos.
+
+El director precisa que el reconocimiento de las figuras corresponde a los jugadores. La transcripción no permite fijar el nombre del disfraz ni el de uno de los retratos.
+
+## [51-057 · Archi recibe a los visitantes en su guarida](../capitulos/51.md) · 01:56:05.840
+
+Tipo: `hecho_confirmado`.
+
+Una voz elogia al grupo por superar las pruebas y anuncia que aún le queda una. Un ascensor entre humo proyecta una silueta gigantesca, pero al despejarse aparece Archi, un gnomo sobre patas mecánicas. Sus robots le sirven una copa y le arreglan la chaqueta y el monóculo. Él da la bienvenida a su guarida y protesta al descubrir el robo de cuadros.
+
+El director lo presenta como el gnomo más buscado de Arghast, sin explicar aquí los cargos.
+
+## [51-062 · Ione empuja a Danifae hasta la puerta del ascensor](../capitulos/51.md) · 02:07:31.280
+
+Tipo: `hecho_confirmado`.
+
+Ione carga a puñetazos contra la réplica de Danifae. No consigue aturdirla, pero la empuja hacia Archi con tal fuerza que choca contra la puerta del ascensor. Después se vuelve hacia el autómata con aspecto de conejo, la réplica de Serafina.
+
+
+
+## [51-065 · La réplica de Serafina combate como una monja](../capitulos/51.md) · 02:15:13.920
+
+Tipo: `hecho_confirmado`.
+
+La réplica de Serafina devuelve los golpes a la rival que tiene delante. Combina sus puñetazos con un efecto de aturdimiento diseñado por Archi y encadena hasta tres ataques. Cuando el turno pasa a Citlali, el combate contra los autómatas sigue abierto.
+
+El modelo se había identificado en la mesa como C008. Citlali inicia una acción adicional de nivel dos; al final de este tramo aún no se distingue su efecto.
+
+## [51-072 · Ione abre espacio alrededor de Citlali](../capitulos/51.md) · 02:32:33.399
+
+Tipo: `hecho_confirmado`.
+
+Al ver a Citlali caída, Ione insiste con una ráfaga de golpes hasta poder empujar a una adversaria. Primero la desplaza cinco pies, después otros diez, y se planta en medio para cubrir a su compañera.
+
+
+
+## [51-076 · Ione pelea rodeada y retrocede a cubrir a los demás](../capitulos/51.md) · 02:43:22.960
+
+Tipo: `hecho_confirmado`.
+
+Ione golpea a la réplica de Serafina y se vuelve contra la segunda atacante. Gasta una carga, recurre a su ráfaga, empuja a una de las dos y retrocede. Dice que se quedará con sus compañeros aunque la tumben a ella.
+
+
+
+## [51-078 · Ione pide que concentren los golpes](../capitulos/51.md) · 02:50:39.920
+
+Tipo: `hecho_confirmado`.
+
+Entre nuevos ataques, Ione pide a los suyos que golpeen al adversario de Naór y promete aguantar. Citlali atiende la llamada y consigue un crítico con el alpargatazo.
+
+El blanco de cada ataque no queda igualmente claro; el resultado del crítico sí se anuncia.
+
+## [51-079 · Otra máquina cae y dos expedicionarios quedan en peligro](../capitulos/51.md) · 02:54:12.239
+
+Tipo: `hecho_confirmado`.
+
+Un autómata cae entre chispas. Las tiradas de muerte de Sir Poncelot e Ione muestran hasta qué punto se ha deteriorado la situación de los expedicionarios. Los robots son inmunes al miedo.
+
+No se reconoce con seguridad el nombre de la segunda máquina caída. Las tiradas no establecen la muerte de ninguno de los dos.
+
+## [51-082 · Una poción para la princesa](../capitulos/51.md) · 03:04:51.080
+
+Tipo: `hecho_confirmado`.
+
+Mientras el baile impide colocarse entre los enemigos y los heridos, Naór recibe una poción que le devuelve dieciséis puntos. La monje utiliza su última ráfaga para apartar a una adversaria fuera de su alcance inmediato.
+
+El turno del auxilio no vuelve a nombrar de manera inequívoca a quien da la poción.
+
+## [51-086 · Ione pide una de las autómatas para la tripulación](../capitulos/51.md) · 03:14:23.760
+
+Tipo: `hecho_confirmado`.
+
+Ione averigua que Archi considera obras de arte a las combatientes y lo abraza para darle las gracias por la pelea. Le pregunta si puede llevarse una para la tripulación, pero el inventor rechaza la petición.
+
+
+
+## [51-088 · Archi recorre las aguas en busca de hallazgos](../capitulos/51.md) · 03:16:31.040
+
+Tipo: `declaracion_personaje`.
+
+Al preguntarle si la ballena ha tragado restos de otros barcos, Archi explica que surca las aguas en busca de objetos interesantes. Ione aprovecha para hablarle de un amigo perdido en la batalla naval que dejó los restos.
+
+Esta conversación no demuestra que Archi haya recogido el cuerpo del amigo.
+
+## [51-089 · Entre varias esferas aparece la que lleva un ojo](../capitulos/51.md) · 03:17:08.520
+
+Tipo: `hecho_confirmado`.
+
+Ione pregunta por un cuerpo o una esfera y muestra qué tamaño busca. Archi rebusca entre sus cosas, enseña varias esferas descartadas y por fin saca una con un ojo. Ione cree reconocerla y acaba confirmando que era lo que buscaban.
+
+Archi dice que pensó que servía para energía. La conversación no establece que esa sea su función.
+
+## [51-091 · Archi pide algo a cambio del Ojo](../capitulos/51.md) · 03:18:39.920
+
+Tipo: `hecho_confirmado`.
+
+Magullada después de la pelea, Ione confirma que buscaban ese objeto. Cuando Archi pregunta qué le darán a cambio, ella le ofrece hacer entre todos el trabajo de las autómatas durante el día que durará la reparación.
+
+La moneda de cambio ofrecida es trabajo durante la espera.
+
+## [51-092 · Ione acepta trabajar con el uniforme de las autómatas](../capitulos/51.md) · 03:20:55.920
+
+Tipo: `hecho_confirmado`.
+
+Archi abre un baúl y muestra faldas y cofias; una lleva orejitas de coneja. Sir Poncelot saca la espada ante la idea de que su capitana vista así. Ione toma el uniforme y acepta trabajar hasta que reparen el barco. Archi señala las manchas de sangre de la alfombra como primera tarea.
+
+
+
+## [51-094 · Archi entrega el orbe](../capitulos/51.md) · 03:22:36.199
+
+Tipo: `hecho_confirmado`.
+
+Acordadas las condiciones del trabajo y mientras se disponen a marcharse hacia el ascensor, Archi entrega el orbe. La tripulación ha recuperado el objeto que buscaba antes de que el barco esté listo para salir.
+
+La línea enuncia la entrega, pero no precisa dónde lo guardan después. No se recupera un cuerpo en esta escena.
+
+## [51-098 · La espera termina en los camarotes y junto a la alfombra](../capitulos/51.md) · 03:26:35.120
+
+Tipo: `hecho_confirmado`.
+
+Archi e Ione se retiran a los camarotes. Citlali se queda acariciando a Sir Poncelot hasta que recobre su tamaño; Naór, intrigada por el oso que no se mueve, termina gruñéndole a la alfombra. Así se cierra la sesión dentro de la ballena.
+
+La sesión termina antes de mostrar la reparación, la salida de la ballena o el destino posterior del Ojo.

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-014](../capitulos/46.md), [46-015](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Pieles humanas y silencio
 
@@ -177,4 +177,3 @@ Tipo: `hecho_confirmado`.
 Mientras Citlali sube al caballo, Zoltan examina las casas de la aldea donde había estado encerrado para ver si encuentra algo que llevarse. La investigación no obtiene un hallazgo. Las chispas que salen de él prenden pequeños fuegos y decide apartarse y seguir a los compañeros.
 
 La narración comienza con una broma sobre quemar toda la aldea y después precisa pequeños fuegos. No declarar una destrucción total ni añadir objetos encontrados.
-

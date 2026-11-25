@@ -12,7 +12,7 @@ Base para revisar equivalencia: [04-020](../capitulos/04.md), [04-021](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El tesoro que vuelve incompleto
 
@@ -53,4 +53,3 @@ Tipo: `declaracion_personaje`.
 Erendriel reconoce en el emblema de Jack una posible relación con marines de una organización mercantil o cofradía de Puerto de Espadas. Jack declara que en las minas encontraron un collar. El visitante niega conocerlo; Nox cree la negación, mientras el elfo detecta dudas.
 
 La declaración vincula el collar a los trabajos de la mina, sin mostrar su extracción ni identificar yacimiento o civilización. No se fija nombre de la organización del emblema.
-

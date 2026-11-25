@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "preguntas": [
     {
       "id": "P41-001",
@@ -8,13 +8,14 @@
       "indice": 1,
       "pregunta": "¿Quién es el emisario de Atlan esperado por Naór y qué explica su retraso? Su ausencia no demuestra captura, muerte o responsabilidad de los hombres serpiente (41-002, 41-004).",
       "estado": "pendiente",
-      "respuesta": "Naór lleva días esperándolo y pregunta por noticias en la taberna. No aparece durante la sesión ni recibe un nombre o una explicación de su ausencia.",
+      "respuesta": "Naór empezó a preguntar por el emisario en la taberna. Al iniciarse el capítulo 51 cuenta que sigue con sus patrullas y que aún no ha llegado el enviado de Atlan. No ha recibido noticias que expliquen la demora.",
       "referencias": [
         "41-002",
-        "41-004"
+        "41-004",
+        "51-005"
       ],
-      "pendiente": "La identidad, el paradero y el motivo del retraso del emisario.",
-      "revisado_hasta": 50
+      "pendiente": "La identidad y el paradero del emisario, y qué lo ha retrasado.",
+      "revisado_hasta": 51
     },
     {
       "id": "P41-002",
@@ -29,7 +30,7 @@
         "41-051"
       ],
       "pendiente": "La identidad y propósito de la presencia anunciada como «ella».",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-003",
@@ -44,7 +45,7 @@
         "41-023"
       ],
       "pendiente": "La causa del dolor, la salida de serpientes y la muerte.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-004",
@@ -61,7 +62,7 @@
         "41-046"
       ],
       "pendiente": "La finalidad de retirar al Anciano, los integrantes restantes y el mando de la operación.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-005",
@@ -77,7 +78,7 @@
         "41-051"
       ],
       "pendiente": "El destino del cautivo vivo y la información que pudiera proporcionar.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-006",
@@ -96,7 +97,7 @@
         "44-056"
       ],
       "pendiente": "La composición de los viales y la relación comprobada entre las distintas muestras de veneno.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-007",
@@ -109,7 +110,7 @@
         "41-047"
       ],
       "pendiente": "El fabricante, proveedor y organización que equipa a los adversarios.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-008",
@@ -123,7 +124,7 @@
         "41-050"
       ],
       "pendiente": "La causa de la excepción de Tentacol a la compulsión.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-009",
@@ -148,7 +149,7 @@
         "48-124"
       ],
       "pendiente": "La propiedad y uso preciso de la cueva, la posición actual del dragón y las demás guaridas.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-010",
@@ -167,7 +168,7 @@
         "45-075"
       ],
       "pendiente": "",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     },
     {
       "id": "P41-011",
@@ -180,7 +181,7 @@
         "41-024"
       ],
       "pendiente": "El origen y la función del brillo mágico detectado en el Anciano.",
-      "revisado_hasta": 50
+      "revisado_hasta": 51
     }
   ]
 }

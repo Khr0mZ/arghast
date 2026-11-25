@@ -1,5 +1,9 @@
 # Misterios y tramas de Xoltacan
 
+## La reacción de Citlali al segundo Ojo
+
+Ione reconoce entre los hallazgos de Archi la esfera que llevaba Nox. Citlali cae de rodillas de dolor cuando la ve. Archi acepta guardarla y después la entrega a cambio del trabajo que ofrece Ione. Su primera idea, que la esfera pudiera suministrar energía, es una suposición del inventor. Una conversación posterior aporta su testimonio sobre el hallazgo, y otra conserva la explicación que Ione atribuye a la chamana. [Capítulo 51](capitulos/51.md) · [Testimonios posteriores](continuidad_51.md).
+
 ## Los muertos del árbol y la defensa de Cuicapalli
 
 Walulu recibe la savia y reconoce ante Tortas que ignora si se enfrentan a otra amenaza. El grupo plantea un ritual. El director distingue el hedor del árbol de los venenos yuan-ti y del dragón, mientras las identidades de los muertos y la causa de la infestación siguen abiertas. [Capítulo 50](capitulos/50.md) · [Seguimiento](SEGUIMIENTO.md).

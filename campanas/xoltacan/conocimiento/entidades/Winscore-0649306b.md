@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-001](../capitulos/24.md), [30-001](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un explorador que acaba colaborando con dos pueblos
 
@@ -605,4 +605,3 @@ Tipo: `hecho_confirmado`.
 Naór va a la taberna y trae a Leo para que vea a Tortas. Durante la conversación se expresa poca disposición a combatir a un dragón y Winscore empieza a apuntar el nombre y los datos que el anciano intenta recordar. Tortas dice conocer el nombre y comienza a deletrearlo con mucha lentitud. La transcripción alterna formas irreconocibles y no completa una grafía segura. Cuando preguntan por la guarida, el director aclara que Tortas no sabe dónde está. Se hace de noche, la gente abandona la fiesta y Leo empieza a dormirse mientras Naór intenta mantenerlo atento. La sesión termina con el anciano todavía pronunciando el nombre.
 
 Los enunciados sobre el roble rojo y subir una montaña no se establecen como ruta; el director corrige expresamente que desconoce la guarida. El deletreo incompleto no autoriza a fijar Colgen o Clodidrax ni a fusionar sus fichas. El comentario de Chopito sobre cuatro horas no confirma una duración literal de esta escena.
-

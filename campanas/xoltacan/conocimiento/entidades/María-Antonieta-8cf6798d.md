@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-020](../capitulos/45.md), [45-024](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un nombre en la búsqueda del escuadrón
 
@@ -37,4 +37,3 @@ Tipo: `hecho_confirmado`.
 Tortas se ilumina de azul y manifiesta su proyección astral. Propone usar la voz espiritual como un megáfono de seiscientos pies para llamar a los compañeros de la sirénida. El director exige activar las dos capacidades indicadas y narra que el grito resuena por el mar. Los acompañantes quedan sorprendidos y le piden que avise antes de repetirlo.
 
 El grito no contiene una respuesta de los desaparecidos ni los localiza. El alcance es el acordado en esta escena y no demuestra detección automática como un sonar.
-

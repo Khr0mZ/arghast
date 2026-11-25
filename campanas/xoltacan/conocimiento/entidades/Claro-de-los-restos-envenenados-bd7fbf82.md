@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-013](../capitulos/40.md), [40-015](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La vegetación anuncia el peligro
 
@@ -45,4 +45,3 @@ Tipo: `hecho_confirmado`.
 Un viajero recoge en una botella una muestra del veneno del combate. El director lo describe como muy denso, de un verde más intenso y aparentemente más agresivo que el de los yuan-ti y criaturas serpiente a las que ya se ha enfrentado. El recolector considera que interesará a la jefa.
 
 El texto del bloque no fija el nombre de quien lo recoge ni de la jefa. La diferencia con el veneno yuan-ti es observable; su composición, origen y relación causal con la animación de cuerpos siguen sin determinarse.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-010](../capitulos/05.md), [12-007](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La señal de una familia de exploradores
 
@@ -51,4 +51,3 @@ Tipo: `hecho_confirmado`.
 Poncelot cuenta la expedición exagerando su victoria sobre los monstruos y ofrece el orbe a Bonnie. Uno de sus hombres lo guarda. Nox describe en privado mediante Mensaje las visiones del portal, la serpiente y la pirámide, incluida su presencia en el altar. Pide información sobre Molly. Bonnie deja de escuchar al gnomo, mira con cautela a Nox y aparta a los acompañantes para conversar. Nox menciona que lleva el anillo del elfo muerto y que podría utilizarlo en Puerto de Espadas.
 
 Bonnie recibe la descripción mediante Mensaje, sin que se muestre una visión propia del orbe. Los acompañantes no oyen el mensaje por estar cerca, ni Nox realiza el viaje propuesto.
-

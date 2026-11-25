@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [18-008](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un santuario antiguo ocupado
 
@@ -49,6 +49,3 @@ Recoger el chocolate no aplica sus efectos. La ruta narrada no ofrece coordenada
 Tipo: `hecho_confirmado`.
 
 Una serpiente escondida muerde y envenena a Patata cuando inspecciona el altar; sus guardianes espirituales la matan. Poncelot identifica huellas de pies y rastros serpenteantes recientes en ambas bifurcaciones. La prueba de Religión de Patata no le permite identificar al dios. Mamá se aparta, inquieta, y los otros la siguen.
-
-
-

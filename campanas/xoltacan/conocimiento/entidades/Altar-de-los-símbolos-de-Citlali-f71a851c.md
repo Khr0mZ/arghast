@@ -12,7 +12,7 @@ Base para revisar equivalencia: [43-062](../capitulos/43.md).
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Los símbolos de Citlali
 
@@ -29,4 +29,3 @@ Tipo: `hecho_confirmado`.
 En un epílogo separado de los personajes, el director vuelve al ser que lleva tiempo hablando con Mamá. Se acerca a una especie de altar y pasa la mano por encima. Se iluminan marcas y símbolos que son exactamente los que Citlali tiene en el cuerpo. La serpiente sisea que ya es la hora, y termina el capítulo.
 
 No se indica dónde está el altar ni qué acontecimiento anuncia la frase. El epílogo es información para los espectadores, sin acceso de los combatientes establecido. No identifica al ser por nombre ni lo equipara automáticamente con otras serpientes.
-

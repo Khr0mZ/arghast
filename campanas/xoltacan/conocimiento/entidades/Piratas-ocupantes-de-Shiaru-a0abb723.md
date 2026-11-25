@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-017](../capitulos/47.md), [49-004](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Los ocupantes vistos a través de la huida de Patata
 
@@ -51,4 +51,3 @@ Tipo: `explicacion_director`.
 Al situar el regreso de Kilzer, el director establece que los nuevos piratas destrozaron su casino y que la granja de Patata también estaba totalmente destruida. Kilzer tuvo que abandonar Shiaru y adentrarse en la jungla.
 
 Destrucción expresamente narrada. No acredita una apertura comercial anterior del casino, beneficios, indemnización o ruina de todos los bienes de Shiaru.
-

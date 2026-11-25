@@ -263,3 +263,7 @@ Historial de objetivos, resultados y consecuencias por episodio; las fichas post
 - Cap. 50: Tryel sale disfrazada y regresa a Iktan con sus compañeros. El dragón no se deja ver durante el trayecto. ([ficha](capitulos/50.md)).
 - Cap. 50: Walulu se propone consultar a los demás líderes y a Naór tras el daño al árbol. Las conversaciones quedan para después. ([ficha](capitulos/50.md)).
 - Cap. 50: Oghma consigue vino y una habitación al prometerle a Angelique una presentación al conde. La cuenta futura depende de esa promesa. ([ficha](capitulos/50.md)).
+- Cap. 51: Recuperar el Zampaolas y volver al arrecife. El grupo localiza su mástil tras varios rodeos y lo pone de nuevo en el mar. ([ficha](capitulos/51.md)).
+- Cap. 51: Descender a los pecios en busca de Nox y del Ojo. Los trillizos y Poncelot preparan cascos con tubos, pero la ballena se traga el barco antes de que puedan usarlos. ([ficha](capitulos/51.md)).
+- Cap. 51: Llegar al dueño de la instalación. Atraviesan el pasillo de trampas, resuelven las pruebas del campeón y del inventor y vencen a las autómatas en el salón de Archi. ([ficha](capitulos/51.md)).
+- Cap. 51: Recuperar el Ojo. Ione reconoce la esfera y ofrece sustituir a las autómatas durante un día. Archi entrega el orbe. Los ayudantes reparan el barco y el grupo sigue dentro de la ballena al acabar la sesión. ([ficha](capitulos/51.md)).

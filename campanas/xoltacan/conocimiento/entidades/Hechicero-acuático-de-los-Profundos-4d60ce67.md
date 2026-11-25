@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-045](../capitulos/45.md), [45-047](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El acompañante de rostro extraño
 
@@ -75,4 +75,3 @@ Tipo: `hecho_confirmado`.
 Chopito sale del frasco y trata de agarrarse a la cara de un enemigo tentacular, pero los tentáculos del adversario lo apartan y lo dejan en el suelo. El hechicero, protegido por imágenes especulares, se mueve para curar a un aliado y vuelve a separarse. El sacerdote replica la orden de Coyote y le dice alto; el director confirma que Coyote no la resiste.
 
 El intento de agarre falla; no dejar al enemigo restringido por Chopito. La protección frente a encantamiento que se discute no anula automáticamente la orden aplicada.
-

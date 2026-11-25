@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-021](../capitulos/08.md), [08-024](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El manuscrito que sale del templo
 
@@ -97,6 +97,3 @@ Tratamiento del glifo expresamente provisional y discutido; no declarar combinac
 Tipo: `hecho_confirmado`.
 
 El guardia revela que el capitán tomó el mando, destituyó a Molly y la envió a la torre. Inmovilizar persona del libro de Nox falla, pero una carta duerme al marine. Nox lo ata y amordaza con tela y lo oculta entre las plantas antes de volver al agua. El director aclara que no lo arroja al mar.
-
-
-

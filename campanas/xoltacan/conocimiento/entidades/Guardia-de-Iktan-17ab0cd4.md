@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-083](../capitulos/47.md), [47-084](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Defensa frente a la hueste y noticias de guaridas
 
@@ -81,4 +81,3 @@ Tipo: `declaracion_personaje`.
 Tras el intento de los yuan-ti de envenenar a la población durante las festividades, Walulu ha reforzado las defensas de Iktan. Para ello ha tenido que hacer volver a muchos guardias que patrullaban los alrededores. Ahora necesita ingredientes de fuera.
 
 Se trata del informe de Walulu; no se atribuye el repliegue a otro ataque ni se establece que todo el contorno esté desguarnecido.
-

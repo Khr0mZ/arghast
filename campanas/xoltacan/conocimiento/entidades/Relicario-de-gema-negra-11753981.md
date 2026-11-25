@@ -12,7 +12,7 @@ Base para revisar equivalencia: [14-015](../capitulos/14.md), [14-016](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La pieza guardada por la hija del capitán
 
@@ -59,4 +59,3 @@ Tipo: `hecho_confirmado`.
 Ayoto combate contra el capitán y resiste una extracción vital. Otro marinero aparece mientras el agua entra por cubierta. Blink vuelve a provocar alejamiento y reacciones y mueve a Patata hacia el rival. Triel ve el relicario que porta Ayoto vibrando y lo golpea sin pedir permiso; lo rompe. Un marinero emite rayos de luz, sonríe y desaparece. El capitán grita por su hija, explota y desaparece con los demás tripulantes. Una niebla verde envuelve al grupo y lo lleva a la orilla original.
 
 Desaparición no resurrección humana mostrada ni destino exacto de almas/entidad. No afirmar qué sucedió con casco tras retirada por niebla.
-

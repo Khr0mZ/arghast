@@ -12,7 +12,7 @@ Base para revisar equivalencia: [08-008](../capitulos/08.md), [08-016](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una expedición tras el relato de un superviviente
 
@@ -75,4 +75,3 @@ Tipo: `explicacion_director`.
 Tras una discusión, cierran las puertas de piedra y descansan ocho horas en el templo sin que cedan. Blink engaña sobre que faltan pocas horas para amanecer. Al abrir es noche: el director recuerda que una carta cambió día por noche y durmieron durante el día. Resume el regreso con ataques de panteras y dinosaurios, llegando maltrechos a Shiaru; aclara que mecánicamente están bien.
 
 La impresión inicial de amanecer es corregida explícitamente. No inventar horas exactas, bajas o botín de encuentros omitidos, ni nuevas heridas mecánicas.
-

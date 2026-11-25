@@ -12,7 +12,7 @@ Base para revisar equivalencia: [41-023](../capitulos/41.md), [41-038](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El refuerzo que atrapa a Naór
 
@@ -53,4 +53,3 @@ Tipo: `hecho_confirmado`.
 Winscore y Naór continúan atacando. Blink intenta otro ataque psíquico y trata de mover a Winscore por telequinesis, sin conseguir desplazarlo en la resolución mostrada. Tentacol vuelve a mover el tentáculo y a disparar. El director confirma que acaban con la abominación que aún combatía.
 
 La derrota de la abominación no supone la muerte del enemigo que habían dejado inconsciente. No se atribuye el golpe final a una persona concreta fuera de la secuencia de turnos que muestra la fuente.
-

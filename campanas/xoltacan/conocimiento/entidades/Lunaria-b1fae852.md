@@ -12,7 +12,7 @@ Base para revisar equivalencia: [05-015](../capitulos/05.md), [05-016](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 49.
+Relato revisado hasta el capítulo 51.
 
 ### De prisionera de la Marina a exploradora
 
@@ -1449,4 +1449,3 @@ Tipo: `hecho_confirmado`.
 Eleanor se concentra en comprobar que Erandy se encuentra bien y se reúne con ella. Cerca están Ilikar jugando con Cipo y Lunaria, a quien el director imagina intentando quemar algún trozo de madera. Eleanor expresa que también quiere coger a Lunaria en brazos; el director advierte que esta no se dejaría.
 
 La llegada y la preocupación de Eleanor no demuestran una curación completa del agotamiento anterior de Erandy. El intento incendiario de Lunaria se expresa de forma conjetural y no acredita otro incendio consumado; tampoco se ejecuta un abrazo forzado a Lunaria.
-

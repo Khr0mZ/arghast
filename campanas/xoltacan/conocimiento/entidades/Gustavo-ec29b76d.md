@@ -12,7 +12,7 @@ Base para revisar equivalencia: [02-004](../capitulos/02.md), [09-009](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un nombre de la vieja tripulación
 
@@ -45,4 +45,3 @@ Tipo: `hecho_confirmado`.
 Ilikar corta un tentáculo para comer y Ione ayuda a subirlo. Gustavo, Mugre, Baps y Jack aparecen disparando al pulpo ya muerto para salvar a su capitana. Ella los ignora bajo el efecto de la calma. Erandy pregunta por la raza de un hombre perro, que responde bulldocus serios. Poncelot alimenta al tiburón con el pulpo.
 
 La narración los presenta como antigua tripulación, sin confirmar que los cuatro sean miembros actuales. La apariencia del hombre perro no lo identifica automáticamente como licántropo.
-

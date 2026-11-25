@@ -12,7 +12,7 @@ Base para revisar equivalencia: [50-038](../capitulos/50.md), [50-039](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Los cuerpos de la bolsa vegetal
 
@@ -125,4 +125,3 @@ Tipo: `hecho_confirmado`.
 Oghma proyecta de nuevo su eco y hace que los ataques partan de él. Encadena los golpes y emplea una acción adicional para seguir atacando. La planta revienta. De su interior caen seis zombis, mientras el olor se extiende por el espacio que rodea al árbol.
 
 Los seis que salen en este momento se añaden al que ya había expulsado en un turno anterior.
-

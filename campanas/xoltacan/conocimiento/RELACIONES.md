@@ -1,5 +1,9 @@
 # Relaciones documentadas
 
+## Ione vuelve a ponerse al timón
+
+Naór e Ione se dan el brazo y acuerdan cómo tratarse en cubierta. Naór reconoce a Ione como capitana y esta la recibe como parte de la tripulación. Cuando Sir Poncelot insiste en arriesgarse el primero, Ione le recuerda que él también es de los suyos y merece protección. Citlali, que comparte con la capitana el duelo por Nox, avista desde la cofa la sombra que sube entre los pecios. [Capítulo 51](capitulos/51.md) · [La conversación antes de embarcar](rol_escrito/escenas/x-1535461403065057411.md).
+
 ## Tryel presenta a Oghma
 
 Tryel acompaña a la recién llegada por Iktan, le muestra su tatuaje y la presenta al grupo de Tortas. Oghma la ayuda a disfrazarse para salir de la ciudad y trata de cubrirla cuando cae en el combate del árbol. Después la elfa la lleva a la taberna. Angelique ofrece cama y vino a cambio de que Oghma la recomiende al conde. Más tarde la viajera confía a Coyote cómo preparaba esas apariciones. [Capítulo 50](capitulos/50.md) · [La propuesta a Coyote](rol_escrito/escenas/x-1537587717364387901.md).

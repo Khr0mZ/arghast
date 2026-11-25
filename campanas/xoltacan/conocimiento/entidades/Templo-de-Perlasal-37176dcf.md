@@ -12,7 +12,7 @@ Base para revisar equivalencia: [29-020](../capitulos/29.md), [29-021](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La visita anterior y el acceso restringido
 
@@ -59,4 +59,3 @@ Tipo: `hecho_confirmado`.
 Ivet vuelve al altar del templo para recitar salmos en Aquan ante su pueblo y permite a los visitantes permanecer. Tortas sigue buscando una piedra que le guste. Triel se aparta hacia dos sirenos que llevan una criatura parecida a un caballo con cola marina y pregunta si puede probarla. El capítulo termina antes de que la monte o reciba una respuesta.
 
 Los comentarios sobre plegarias a Chopito son bromas del personaje, no la identificación del culto de Ivet. El animal no recibe nombre ni se convierte en una montura adquirida por Triel.
-

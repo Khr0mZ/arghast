@@ -50,6 +50,10 @@
     "xoltacan50": {
       "archivo": "campanas/xoltacan/fuentes/50 - QkUmNIOuyQI.info.json",
       "sha256": "dfd0cab92a953660917bd465c10c2ca830e47372a7b8f7d4ab0806899eed6156"
+    },
+    "xoltacan51": {
+      "archivo": "campanas/xoltacan/fuentes/51 - nNsgxNdReFk.info.json",
+      "sha256": "d87259fd3197cd149315c2a572a633bb634dc9e5c4fefffb57592d4dbb758001"
     }
   },
   "campanas": {
@@ -303,6 +307,11 @@
         "video_id": "QkUmNIOuyQI",
         "segundos": 8729,
         "fuente": "xoltacan50"
+      },
+      "51": {
+        "video_id": "nNsgxNdReFk",
+        "segundos": 12483,
+        "fuente": "xoltacan51"
       }
     }
   }

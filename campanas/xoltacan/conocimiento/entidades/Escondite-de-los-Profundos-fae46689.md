@@ -12,7 +12,7 @@ Base para revisar equivalencia: [45-028](../capitulos/45.md), [45-029](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una cámara de aire entre túneles y estanques
 
@@ -123,4 +123,3 @@ Tipo: `hecho_confirmado`.
 Antes de abandonar la cueva, Naór busca objetos o efectos mágicos relacionados con el ritual. Percibe una concentración intensa en el altar, como una consagración por alguna criatura extraña, y ve también el agua iluminada como si fuera mágica. Lo comunica al grupo y pregunta a Tentacol a quién dedicaban los sacrificios.
 
 El director no identifica una maldición concreta, el origen de la magia del agua ni una deidad confirmada. El grupo no desactiva ni destruye el altar en la escena.
-

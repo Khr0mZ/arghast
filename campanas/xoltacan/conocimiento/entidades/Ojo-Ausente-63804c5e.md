@@ -12,7 +12,7 @@ Base para revisar equivalencia: [13-008](../capitulos/13.md), [24-003](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Mapas defectuosos y tensiones en la tripulación
 
@@ -81,4 +81,3 @@ Tipo: `hecho_confirmado`.
 Ione ve un cartel de cerveza y se dirige rápidamente a la taberna buscando a sus compañeros. Encuentran a Baps, Mugre, Ojo Ausente y los trillizos jugando a cartas y bebiendo, además de Sir Poncelot, Ilikar, Erandy y Lunaria en la barra. Ione pregunta si están bien y le responden que llevan cuatro días allí. Aliviada, se sienta y bebe una cerveza.
 
 Los cuatro días son la duración referida por los presentes, no un calendario completo de la campaña. La localización de estos compañeros no demuestra que hayan regresado todos los tripulantes ni permite representar conversaciones extensas de jugadores ausentes.
-

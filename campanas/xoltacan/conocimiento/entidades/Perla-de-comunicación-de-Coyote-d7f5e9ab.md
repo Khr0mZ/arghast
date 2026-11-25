@@ -12,7 +12,7 @@ Base para revisar equivalencia: [24-012](../capitulos/24.md), [24-014](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un regalo que mantiene abierto el contacto
 
@@ -73,4 +73,3 @@ Tipo: `hecho_confirmado`.
 Coyote se acerca al agua y sumerge la perla. En su interior aparece un remolino como un mar y después el rostro de Maris. Le pide ayuda para que él y sus compañeros puedan llegar a Perlasal y solicita que vengan sirénidos capaces de facilitarles la respiración.
 
 La perla sirve para esta comunicación, sin abrir un portal de transporte. La ruta posterior se recorre nadando con una guía.
-

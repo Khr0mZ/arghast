@@ -12,7 +12,7 @@ Base para revisar equivalencia: [47-082](../capitulos/47.md), [47-085](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La consulta sobre el ritual protector
 
@@ -37,4 +37,3 @@ Tipo: `declaracion_personaje`.
 Tesara se ofrece a ocuparse del rastreo y pide a Walulu una manera de matar al dragón, una debilidad o una estrategia. Walulu promete estudiar los libros antiguos y acepta hablar con los elfos si los ve. Al final de la audiencia vuelve a los estantes y empieza a buscar pergaminos de antiguas historias.
 
 Se inicia una búsqueda documental, sin resultado, debilidad revelada o expedición de caza consumada. La invitación a avisar a los elfos no demuestra que Walulu llegue a encontrarlos.
-

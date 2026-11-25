@@ -68,7 +68,7 @@ def render_views():
             lines += [f'## {reference(n, fact, "../")}', '',
                       f'Tipo: `{fact["tipo"]}`.', '',
                       fact['afirmacion'], '', fact.get('limitacion', ''), '']
-        write(KB / 'entidades' / filename, '\n'.join(lines) + '\n')
+        write(KB / 'entidades' / filename, '\n'.join(lines).rstrip('\n') + '\n')
     write(KB / 'FICHAS.md', '\n'.join(index) + '\n')
     folder = (KB / 'entidades').resolve()
     manifest_path = BUILD / 'entidades_generadas.json'

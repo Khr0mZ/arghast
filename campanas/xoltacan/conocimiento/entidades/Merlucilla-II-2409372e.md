@@ -12,7 +12,7 @@ Base para revisar equivalencia: [06-020](../capitulos/06.md), [11-004](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un hipocampo rescatado entre tiburones
 
@@ -101,4 +101,3 @@ Tipo: `declaracion_personaje`.
 Poncelot relata la pérdida de su segundo corcel y sigue buscando a la primera Merlucilla porque cree que escapó, y aún espera una audiencia con la reina, que cree que debe conceder quien él llama la jueza Liz. Una tirada le quita una moneda.
 
 No conoce muerte de Merlucilla I por Ione. Segundo corcel no se nombra aquí: continuidad con hipocampo contextual, no reconstrucción audiovisual del pulpo.
-

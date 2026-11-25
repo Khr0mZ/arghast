@@ -12,7 +12,7 @@ Base para revisar equivalencia: [46-059](../capitulos/46.md), [46-060](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El tripulante que no llega a Iktan
 
@@ -37,4 +37,3 @@ Tipo: `declaracion_personaje`.
 Ione anuncia a la tripulación que intentará vender una joya para obtener dinero y después hablar con la gente nueva para sumar apoyos a su causa, recuperar Shiaru y averiguar si el novato ha regresado por allí. Sus hombres describen con extrañeza las costumbres de Iktan. Al recordar a Bonnie, Ione admite que ya no está y trata de tranquilizarlos prometiendo que ella seguirá protegiéndolos.
 
 Son planes de financiación y reclutamiento, sin una operación ejecutada para recuperar Shiaru. Las noticias de los tripulantes sobre una elfa pálida y una estatua móvil no identifican por sí solas cada persona ni resuelven todos los riesgos de Iktan.
-

@@ -273,14 +273,14 @@ try {
   await evaluate('document.querySelector("[data-tab=hechos]").click()');
   await check('Las 113 evidencias del 49 están disponibles',`document.querySelectorAll(".event").length===${chapter49.afirmaciones.length}&&${chapter49.afirmaciones.length}===113`);
   await evaluate('document.querySelector("[data-tab=preguntas]").click()');
-  await check('El 49 conserva ocho preguntas sin cierres por hipótesis','document.querySelectorAll(".question-card").length===8&&[...document.querySelectorAll(".question-card")].every(c=>c.dataset.status==="pendiente")');
+  await check('Las dos pistas posteriores del 49 constan como respuestas parciales','document.querySelectorAll(".question-card").length===8&&document.querySelectorAll(".question-card[data-status=parcial]").length===2&&document.querySelectorAll(".question-card[data-status=pendiente]").length===6');
   await check('Los dos Ojos mantienen fichas distintas','(()=>{const e=JSON.parse(document.getElementById("xoltacan-data").textContent).entities;return e.some(e=>e.name==="Ojo-orbe recuperado por Nox")&&e.some(e=>e.name==="Ojo-orbe de Molly y Bonny")})()');
   await route('#registro/'+chapter49.afirmaciones.at(-1).id);
   await check('El final del 49 abre la cita y el vídeo nuevo','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("2ouV6qjHGD0")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await check('La Luna de Fuego conserva sus dos mensajes entre el 48 y el 49','(()=>{const s=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole.scenes.find(s=>s.id==="x-1534940909018546227");return s.intervalo.anterior===48&&s.intervalo.siguiente===49&&s.mensajes===2})()');
   await check('La investigación de Erandi conserva sus 88 mensajes a ambos lados del capítulo 50','(()=>{const [a,b]=JSON.parse(document.getElementById("xoltacan-data").textContent).writtenRole.scenes.filter(s=>s.unidad_revision==="x-1535034920198607038");return a.intervalo.anterior===49&&a.intervalo.siguiente===50&&a.mensajes===15&&b.intervalo.anterior===50&&b.intervalo.siguiente===51&&b.mensajes===73})()');
   await route('#pregunta/P42-002');
-  await check('La visión añade una pista del Ojo sin declarar su recuperación','document.querySelector(".question-card").dataset.status==="parcial"&&[...document.querySelectorAll(".question-card a")].some(a=>a.hash==="#rol/x-1535388630367867000/1535425167864496178")');
+  await check('La pregunta de Nox enlaza la visión escrita y la entrega posterior del Ojo','document.querySelector(".question-card").dataset.status==="parcial"&&[...document.querySelectorAll(".question-card a")].some(a=>a.hash==="#rol/x-1535388630367867000/1535425167864496178")&&[...document.querySelectorAll("#content a")].some(a=>a.hash==="#registro/51-094")');
   await route('#rol/x-1535034920198607038/1535425167864496178');
   await ready('!!document.getElementById("mensaje-1535425167864496178")');
   await check('El seguimiento abre la visión escrita original','document.getElementById("mensaje-1535425167864496178").innerText.includes("Lathander")&&document.getElementById("mensaje-1535425167864496178").innerText.includes("Invictus")');
@@ -290,6 +290,11 @@ try {
   await check('Los 94 acontecimientos de Abastecimiento se pueden consultar','document.querySelectorAll(".event").length===94');
   await route('#registro/50-076');
   await check('La recogida de savia enlaza con su cita y el vídeo de Lichpol','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("QkUmNIOuyQI")&&document.querySelectorAll(".context-details .transcript-row").length>0');
+  await route('#capitulo/51');
+  await check('Buscando el Ojo muestra el relato entero y las fechas del directo y del vídeo','document.querySelector("#content h1").textContent==="Buscando el Ojo"&&document.querySelectorAll(".story-stage").length===24&&document.querySelector(".chapter-dates").innerText.includes("09/08/2026")&&document.querySelector(".chapter-dates").innerText.includes("24/11/2026")');
+  await check('El capítulo 51 queda entre las cuatro escenas de su intervalo','(()=>{const r=globalThis.arghastCampaigns.xoltacan.writtenRole.scenes; const escenas=(a,b)=>r.filter(s=>s.intervalo.anterior===a&&s.intervalo.siguiente===b).map(s=>s.mensajes);return JSON.stringify(escenas(50,51))==="[73,27]"&&JSON.stringify(escenas(51,52))==="[49,12]"})()');
+  await route('#registro/51-094');
+  await check('La entrega del orbe enlaza el vídeo y su transcripción','document.querySelector(".evidence a").href.includes("nNsgxNdReFk")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#registro/41-023');
   await check('La muerte de la infiltrada enlaza la nueva fuente y su contexto','document.querySelector(".quote").textContent.length>0&&document.querySelector(".evidence a").href.includes("vB6Y1LQ2IaM")&&document.querySelectorAll(".context-details .transcript-row").length>0');
   await route('#entidad/Tentacol');

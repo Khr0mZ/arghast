@@ -12,7 +12,7 @@ Base para revisar equivalencia: [11-031](../capitulos/11.md), [13-011](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Un proyecto que necesita permiso pirata
 
@@ -121,4 +121,3 @@ Tipo: `declaracion_personaje`.
 Oghma describe a sus presuntos familiares como gente con mucho dinero que lo pierde fácilmente. Surgen la reina de Perlasal y el tiefling que tenía un casino. Oghma dice que prepara la estancia de un duque, se corrige a conde y encamina al grupo hacia la taberna.
 
 El antiguo propietario se reconoce por el casino. Nadie comprueba su fortuna ni la de la reina.
-

@@ -1,5 +1,5 @@
 {
-  "revisado_hasta": 50,
+  "revisado_hasta": 51,
   "entidades": {
     "Atlan": [
       {
@@ -37,6 +37,14 @@
           "45-075",
           "45-076",
           "45-077"
+        ]
+      },
+      {
+        "titulo": "Un emisario que no llega",
+        "texto": "Naór continúa haciendo patrullas mientras espera noticias del emisario de Atlan. Se embarca con Citlali sin haber recibido la visita y sin aventurar una razón para la demora.",
+        "referencias": [
+          "51-005",
+          "51-006"
         ]
       }
     ],
@@ -266,6 +274,17 @@
           "43-058",
           "43-061"
         ]
+      },
+      {
+        "titulo": "Volver a los pecios",
+        "texto": "Ione reúne a una expedición para buscar lo que llevaba Nox en la batalla. Al llegar a la zona del arrecife que señaló Erandy, la tripulación recoge velas y mira los cascos hundidos a través del agua. La sombra que Citlali observa subir entre los restos pertenece a la ballena de Archi. La búsqueda continúa en su interior, donde se reconocen maderas de ambos bandos.",
+        "referencias": [
+          "51-011",
+          "51-015",
+          "51-016",
+          "51-017",
+          "51-022"
+        ]
       }
     ],
     "El Huevo Emplumado": [
@@ -383,6 +402,13 @@
           "37-004",
           "37-017",
           "37-018"
+        ]
+      },
+      {
+        "titulo": "Un rodeo en la búsqueda",
+        "texto": "Cuando los compañeros de Ione intentan regresar a la playa donde quedó el barco, se equivocan de rumbo hasta dar con Fuerte Aurora. Es una señal del desvío y no relatan una nueva infiltración en el fuerte.",
+        "referencias": [
+          "51-009"
         ]
       }
     ],
@@ -658,6 +684,14 @@
           "50-084",
           "50-092"
         ]
+      },
+      {
+        "titulo": "Una vuelta imprevista",
+        "texto": "La partida que pretende recuperar el Zampaolas confía el rastro a la montura de Sir Poncelot. En vez de salir a la costa, acaban de nuevo en Iktan. Ese desvío les cuesta otra semana antes de que logren encontrar el barco.",
+        "referencias": [
+          "51-009",
+          "51-010"
+        ]
       }
     ],
     "La Madriguera": [
@@ -913,6 +947,15 @@
           "49-006",
           "49-010"
         ]
+      },
+      {
+        "titulo": "La costa donde quedó el Zampaolas",
+        "texto": "Ione sitúa el lugar donde tuvieron que dejar el Zampaolas en la costa relativamente próxima a Shiaru. Al volver, el único punto de referencia que permite reconocer la nave es su mástil; el rodeo por Fuerte Aurora e Iktan demuestra hasta qué punto era impreciso el recuerdo del fondeadero.",
+        "referencias": [
+          "51-008",
+          "51-009",
+          "51-010"
+        ]
       }
     ],
     "Templo de Lares": [
@@ -986,6 +1029,13 @@
         "texto": "Naór anuncia en el templo de Perlasal que se ha cantado la canción del concilio y que los dirigentes deben reunirse en Tutucan ante las amenazas compartidas. Ivet recuerda la ruptura producida tras el consejo anterior y solo promete meditar la asistencia. La reunión no se celebra durante esta sesión.",
         "referencias": [
           "45-077"
+        ]
+      },
+      {
+        "titulo": "Luchadores con máscara",
+        "texto": "Naór le cuenta a Ione cómo se celebran en Tutucan las peleas en las que los luchadores enmascarados disputan un cinturón. La invitación de la princesa nace mientras están jugando en un ring muy lejos de allí, dentro de la ballena.",
+        "referencias": [
+          "51-038"
         ]
       }
     ],
@@ -1455,6 +1505,72 @@
           "50-074",
           "50-075",
           "50-076"
+        ]
+      }
+    ],
+    "Ballena de Archi": [
+      {
+        "titulo": "Lo que se encuentra tras la pared de carne",
+        "texto": "La vigía del Zampaolas ve ascender una sombra inmensa. Cuando el animal cierra la boca en torno a la nave, esta rueda hasta encajar entre maderas de los dos bandos de la batalla del arrecife. La lanza de Poncelot golpea metal debajo de la carne; ahí empieza una serie de salas con cristales atornillados, rejillas y tuberías. El estómago conserva su olor ácido y el animal se mueve al recibir los hachazos de Naór.",
+        "referencias": [
+          "51-016",
+          "51-017",
+          "51-018",
+          "51-021",
+          "51-022",
+          "51-024",
+          "51-025"
+        ]
+      },
+      {
+        "titulo": "Una vivienda que recorre los pecios",
+        "texto": "En las entrañas del animal hay un corredor de trampas, un ring y un taller. Más adentro, tras una galería de retratos, se abre el salón de Archi, con ascensor, camarotes y servicio mecánico. El gnomo puede hacer brotar cuchillas del suelo y suspender la gravedad desde un mando. Cuenta que recorre esas aguas buscando hallazgos, que las cámaras le han permitido ver cómo entró el Zampaolas y que sus ayudantes ya lo están reparando. Los visitantes siguen dentro al cierre de la sesión.",
+        "referencias": [
+          "51-037",
+          "51-043",
+          "51-053",
+          "51-055",
+          "51-057",
+          "51-063",
+          "51-073",
+          "51-077",
+          "51-087",
+          "51-088",
+          "51-098"
+        ]
+      }
+    ],
+    "Camino del guardián": [
+      {
+        "titulo": "Un pasillo que devuelve al comienzo",
+        "texto": "Una palanca abre la puerta y presenta la primera de las grandes pruebas. Poncelot aprende su trazado a golpes: un tubo lo devuelve al principio, unas placas se hunden y de las paredes salen un palo, un ratón mecánico y un puño que se queda en su escudo. Naór impulsa a Citlali, Ione frena al ratón y la lanza del gnomo termina sirviendo de apoyo para las demás. Después de la última baldosa, el cartel entre el confeti celebra que han pasado el «Camino del Dragón». Los dos rótulos enmarcan el recorrido de un solo pasillo.",
+        "referencias": [
+          "51-027",
+          "51-028",
+          "51-029",
+          "51-030",
+          "51-031",
+          "51-032",
+          "51-033",
+          "51-035",
+          "51-036",
+          "51-037"
+        ]
+      }
+    ],
+    "Prueba del inventor": [
+      {
+        "titulo": "Cuatro paneles para una tripulación",
+        "texto": "Junto a los tornillos, las piezas y un cristal sin luz, un letrero pide que se activen las máquinas. El botón rojo enciende un panel con figuras geométricas. Cada serie que logran repetir hace girar otra pieza o impulsa vapor al siguiente tramo. Las cuatro figuras iniciales se convierten en ocho, doce y dieciséis. Los viajeros recurren al dorso de un mapa para dibujar los signos y, en el último panel, cada uno se aprende cuatro. Solo entonces reciben la felicitación del taller y pueden salir a la galería de retratos.",
+        "referencias": [
+          "51-044",
+          "51-048",
+          "51-049",
+          "51-050",
+          "51-051",
+          "51-052",
+          "51-053",
+          "51-055"
         ]
       }
     ]

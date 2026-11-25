@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-024](../capitulos/01.md), [04-030](../capitu
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El punto de encuentro de los recién llegados
 
@@ -91,4 +91,3 @@ Tipo: `hecho_confirmado`.
 En la Sirena Borracha, Ione vende obsidiana por seis monedas de oro tras regatear sobre un valor indicado de diez y una oferta inicial de cinco. Nox vende el collar del altar por 27. Liz sigue llevando la gema entregada por Patata y dice que la devolverá si Bonnie hace una oferta importante. Ione compra ropa del catálogo de veinte monedas para Nox como compensación por problemas y gesto de amistad.
 
 Obsidiana vendida no es gema del collar de Bonnie. Posesión de Liz confirma que esta gema aún no está recuperada; no compra de vuelta ni confiscación mostradas. Valor de venta no es precio universal.
-

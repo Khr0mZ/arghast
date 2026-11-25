@@ -12,7 +12,7 @@ Base para revisar equivalencia: [40-008](../capitulos/40.md), [40-013](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El soporte del protector
 
@@ -83,4 +83,3 @@ Tipo: `hecho_confirmado`.
 La elfa atraviesa con su acompañante una zona donde el suelo parece muerto y algunas construcciones parecen derretidas. Al fondo está Tortas sobre su gran roca. Lo acompañan Tentacol y el pequeño pulpo que lleva en su frasco.
 
 La descripción del barrio no establece la causa de los daños.
-

@@ -12,7 +12,7 @@ Base para revisar equivalencia: [49-084](../capitulos/49.md), [49-085](../capitu
 
 ## Origen y recorrido
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Salvar lo que el tiempo deshace
 
@@ -123,4 +123,3 @@ Tipo: `hecho_confirmado`.
 Los compañeros discuten todavía sobre la posibilidad de que se levanten más muertos, pero finalmente abandonan el templo yuan-ti perdido entre la jungla. La inscripción queda en manos de Patata y se dirigen hacia Iktan para descansar.
 
 Se narra la salida y el rumbo a Iktan, no una llegada, una hora de descanso completada o una entrega a Walulu. No se destruye el templo ni se garantiza que no haya más criaturas.
-

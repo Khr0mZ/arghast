@@ -12,7 +12,7 @@ Base para revisar equivalencia: [18-007](../capitulos/18.md), [22-012](../capitu
 
 ## Intereses y evolución
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### Una amenaza antigua que vuelve a salir
 
@@ -317,4 +317,3 @@ Tipo: `declaracion_personaje`.
 Tortas pregunta si el estado del árbol anuncia otro enemigo además del dragón y de los yuan-ti. Walulu baja la cabeza y admite que no lo sabe. Tortas se pone a su disposición desde su roca. Walulu espera que la paz le permita prescindir de esa ayuda, pero teme que los acontecimientos indiquen lo contrario.
 
 La duda de Walulu no convierte las tres amenazas en aliadas ni demuestra que haya una tercera.
-

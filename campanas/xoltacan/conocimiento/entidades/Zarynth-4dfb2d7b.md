@@ -12,7 +12,7 @@ Base para revisar equivalencia: [01-006](../capitulos/01.md), [01-010](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### La cría que acompañaba al explorador
 
@@ -307,4 +307,3 @@ Tipo: `declaracion_personaje`.
 Luna se entera de la muerte del elfo y busca a la lagartija; pierde cinco monedas. Triel también vio la muerte y conversa con Mamá y Luna sobre la diosa de la muerte para ayudar a la señora. Luna ofrece un mapa y ambas parten para buscar un templo. Triel encuentra tres monedas, pero esa coincidencia no prueba que haya robado a Luna.
 
 Muerte referida, no escena de ejecución presenciada aquí; cuerpo después corrobora. Ninguna resurrección lograda ni ubicación cierta de templo por creencia del mapa.
-

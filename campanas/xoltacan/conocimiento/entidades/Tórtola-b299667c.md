@@ -12,7 +12,7 @@ Base para revisar equivalencia: [35-010](../capitulos/35.md), [42-019](../capitu
 
 ## Su historia en Xoltacan
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El mando que endurece Aurora
 
@@ -197,4 +197,3 @@ Tipo: `hecho_confirmado`.
 Nox mira alternativamente la cuerda, el mar y el Zampaolas. Nota los tatuajes de su espalda y encuentra en su chaqueta el orbe con ojo de serpiente. Suelta el cabo, echa una última mirada al Zampaolas y corre para sujetar a Tórtola e impedir que llegue al timón y desvíe el barco.
 
 La proximidad temporal no prueba que el orbe o los tatuajes lo dominen, lo protejan o le permitan escapar. Su efecto concreto queda sin explicar.
-

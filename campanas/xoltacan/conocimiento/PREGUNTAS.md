@@ -315,3 +315,8 @@ Historial de preguntas planteadas en cada episodio. Algunas reciben respuesta de
 - Cap. 50: ¿Bastará la resina que recogió Tortas para ayudar a Cuicapalli y podrá obtenerse más? ([ficha](capitulos/50.md)).
 - Cap. 50: ¿Qué respuesta recibirá Walulu cuando comunique la pérdida del árbol a Naór y a los otros líderes? ([ficha](capitulos/50.md)).
 - Cap. 50: ¿Cómo cumplirá Oghma lo que prometió a Angelique en nombre del conde? ([ficha](capitulos/50.md)).
+- Cap. 51: ¿Por qué la cercanía del Ojo provoca dolor a Citlali y qué relación tiene con el Ojo que guarda Molly? ([ficha](capitulos/51.md)).
+- Cap. 51: ¿Acabará la reparación del Zampaolas y cómo saldrán el barco y su tripulación de la ballena? ([ficha](capitulos/51.md)).
+- Cap. 51: ¿Qué buscaba el robot filmado en el palacio de Kuroto y de dónde obtuvo Archi esa grabación? ([ficha](capitulos/51.md)).
+- Cap. 51: ¿Quién es la anciana del mechero y qué historia comparte con Citlali? ([ficha](capitulos/51.md)).
+- Cap. 51: ¿Quién construyó las máquinas de la ballena y qué relación tiene la voz grabada con su inventor? ([ficha](capitulos/51.md)).

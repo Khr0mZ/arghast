@@ -8,11 +8,11 @@ Naór se presenta hija del mismo Camar y princesa de Atlan; Atlat es variante. N
 
 Etiquetas agrupadas: Atlan (reino leonino); Atlan (reino leonino, grafía provisional); Atlan / Atlat (reino leonino, grafía provisional).
 
-Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitulos/17.md), [20-004](../capitulos/20.md), [31-024](../capitulos/31.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [50-085](../capitulos/50.md), [50-087](../capitulos/50.md).
+Base para revisar equivalencia: [16-003](../capitulos/16.md), [17-006](../capitulos/17.md), [20-004](../capitulos/20.md), [31-024](../capitulos/31.md), [45-074](../capitulos/45.md), [45-075](../capitulos/45.md), [45-076](../capitulos/45.md), [45-077](../capitulos/45.md), [50-085](../capitulos/50.md), [50-087](../capitulos/50.md), [51-005](../capitulos/51.md), [51-006](../capitulos/51.md).
 
 ## Historia y acontecimientos
 
-Relato revisado hasta el capítulo 50.
+Relato revisado hasta el capítulo 51.
 
 ### El reino del que parte la convocatoria
 
@@ -37,6 +37,12 @@ Fuentes: [41-002 · Naór consigue plaza para Leo y espera a un emisario de Atla
 Naór se presenta en Perlasal como princesa de Atlan y ofrece una respuesta común a las amenazas de la isla y el mar. Ivet reprocha al padre de la princesa la promesa incumplida de mantener unidas a las tribus. Naór defiende que el reino ha ayudado a otros pueblos y sostenido la frontera sur pese al aislamiento. Son posiciones de las interlocutoras, sin un relato completo de cada pacto o ayuda. Perlasal no queda comprometida a enviar tropas o asistir al concilio.
 
 Fuentes: [45-074 · Maris recibe a Coyote y ofrece presentar a Naór ante su madre](../capitulos/45.md) · 03:05:34.319 · [45-075 · Ivet admite a la princesa de Atlan en el templo de coral](../capitulos/45.md) · 03:08:31.120 · [45-076 · Ivet reprocha la promesa de unión incumplida y Naór defiende a Atlan](../capitulos/45.md) · 03:10:25.239 · [45-077 · La invitación al concilio queda pendiente de decisión](../capitulos/45.md) · 03:11:50.040.
+
+### Un emisario que no llega
+
+Naór continúa haciendo patrullas mientras espera noticias del emisario de Atlan. Se embarca con Citlali sin haber recibido la visita y sin aventurar una razón para la demora.
+
+Fuentes: [51-005 · Naór patrulla mientras espera noticias de Atlan](../capitulos/51.md) · 00:03:37.519 · [51-006 · Naór hubiera preferido quedarse en tierra](../capitulos/51.md) · 00:03:37.519.
 
 ## Registros y evidencias
 
@@ -176,3 +182,10 @@ Tentacol busca la orilla porque lleva demasiado tiempo fuera del agua. Tortas se
 
 La leona nombrada al principio y la leonina Naór tienen papeles distintos. La alarma es de Walulu, no la demostración de una operación contra cada aldea.
 
+## [51-005 · Naór patrulla mientras espera noticias de Atlan](../capitulos/51.md) · 00:03:37.519
+
+Tipo: `declaracion_personaje`.
+
+Naór sigue patrullando con los soldados y aún espera al emisario de Atlan. Ha comprado a Leo un espadón; su primera lección consiste en levantarlo y el pequeño todavía no puede.
+
+No se explica el motivo de la demora del emisario.
